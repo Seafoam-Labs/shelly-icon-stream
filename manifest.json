@@ -6,5 +6,15 @@
   ],
   "discord": [
     "src/64x64/discord.png"
+  ],
+  "python2": [
+    "src/48x48/python.png",
+    "src/128x128/python.png",
+    "src/64x64/python.png"
+  ],
+  "python311": [
+    "src/48x48/python.png",
+    "src/128x128/python.png",
+    "src/64x64/python.png"
   ]
 }
