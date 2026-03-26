@@ -3210,5 +3210,245 @@
     "src/48x48/cachyos.png",
     "src/128x128/cachyos.png",
     "src/64x64/cachyos.png"
+  ],
+  "lib32-acl": [
+    "./128x128/lib32-acl.png",
+    "./64x64/lib32-acl.png",
+    "./48x48/lib32-acl.png"
+  ],
+  "lib32-bzip2": [
+    "./128x128/lib32-bzip2.png",
+    "./64x64/lib32-bzip2.png",
+    "./48x48/lib32-bzip2.png"
+  ],
+  "lib32-cmocka": [
+    "./128x128/lib32-cmocka.png",
+    "./64x64/lib32-cmocka.png",
+    "./48x48/lib32-cmocka.png"
+  ],
+  "lib32-curl": [
+    "./128x128/lib32-curl.png",
+    "./64x64/lib32-curl.png",
+    "./48x48/lib32-curl.png"
+  ],
+  "lib32-duktape": [
+    "./128x128/lib32-duktape.png",
+    "./64x64/lib32-duktape.png",
+    "./48x48/lib32-duktape.png"
+  ],
+  "lib32-flac": [
+    "./128x128/lib32-flac.png",
+    "./64x64/lib32-flac.png",
+    "./48x48/lib32-flac.png"
+  ],
+  "lib32-fluidsynth": [
+    "./128x128/lib32-fluidsynth.png",
+    "./64x64/lib32-fluidsynth.png",
+    "./48x48/lib32-fluidsynth.png"
+  ],
+  "lib32-giflib": [
+    "./128x128/lib32-giflib.png",
+    "./64x64/lib32-giflib.png",
+    "./48x48/lib32-giflib.png"
+  ],
+  "lib32-gmp": [
+    "./128x128/lib32-gmp.png",
+    "./64x64/lib32-gmp.png",
+    "./48x48/lib32-gmp.png"
+  ],
+  "lib32-gnutls": [
+    "./128x128/lib32-gnutls.png",
+    "./64x64/lib32-gnutls.png",
+    "./48x48/lib32-gnutls.png"
+  ],
+  "lib32-gst-plugins-base-libs": [
+    "./128x128/lib32-gst-plugins-base-libs.png",
+    "./64x64/lib32-gst-plugins-base-libs.png",
+    "./48x48/lib32-gst-plugins-base-libs.png"
+  ],
+  "lib32-gst-plugins-base": [
+    "./128x128/lib32-gst-plugins-base.png",
+    "./64x64/lib32-gst-plugins-base.png",
+    "./48x48/lib32-gst-plugins-base.png"
+  ],
+  "lib32-gst-plugins-good": [
+    "./128x128/lib32-gst-plugins-good.png",
+    "./64x64/lib32-gst-plugins-good.png",
+    "./48x48/lib32-gst-plugins-good.png"
+  ],
+  "lib32-gstreamer": [
+    "./128x128/lib32-gstreamer.png",
+    "./64x64/lib32-gstreamer.png",
+    "./48x48/lib32-gstreamer.png"
+  ],
+  "lib32-icu": [
+    "./128x128/lib32-icu.png",
+    "./64x64/lib32-icu.png",
+    "./48x48/lib32-icu.png"
+  ],
+  "lib32-libcaca": [
+    "./128x128/lib32-libcaca.png",
+    "./64x64/lib32-libcaca.png",
+    "./48x48/lib32-libcaca.png"
+  ],
+  "lib32-libcap": [
+    "./128x128/lib32-libcap.png",
+    "./64x64/lib32-libcap.png",
+    "./48x48/lib32-libcap.png"
+  ],
+  "lib32-libcups": [
+    "./128x128/lib32-libcups.png",
+    "./64x64/lib32-libcups.png",
+    "./48x48/lib32-libcups.png"
+  ],
+  "lib32-libcurl-compat": [
+    "./128x128/lib32-libcurl-compat.png",
+    "./64x64/lib32-libcurl-compat.png",
+    "./48x48/lib32-libcurl-compat.png"
+  ],
+  "lib32-libcurl-gnutls": [
+    "./128x128/lib32-libcurl-gnutls.png",
+    "./64x64/lib32-libcurl-gnutls.png",
+    "./48x48/lib32-libcurl-gnutls.png"
+  ],
+  "lib32-libelf": [
+    "./128x128/lib32-libelf.png",
+    "./64x64/lib32-libelf.png",
+    "./48x48/lib32-libelf.png"
+  ],
+  "lib32-libgcrypt": [
+    "./128x128/lib32-libgcrypt.png",
+    "./64x64/lib32-libgcrypt.png",
+    "./48x48/lib32-libgcrypt.png"
+  ],
+  "lib32-libgpg-error": [
+    "./128x128/lib32-libgpg-error.png",
+    "./64x64/lib32-libgpg-error.png",
+    "./48x48/lib32-libgpg-error.png"
+  ],
+  "lib32-libldap": [
+    "./128x128/lib32-libldap.png",
+    "./64x64/lib32-libldap.png",
+    "./48x48/lib32-libldap.png"
+  ],
+  "lib32-libmikmod": [
+    "./128x128/lib32-libmikmod.png",
+    "./64x64/lib32-libmikmod.png",
+    "./48x48/lib32-libmikmod.png"
+  ],
+  "lib32-libnghttp2": [
+    "./128x128/lib32-libnghttp2.png",
+    "./64x64/lib32-libnghttp2.png",
+    "./48x48/lib32-libnghttp2.png"
+  ],
+  "lib32-libnm": [
+    "./128x128/lib32-libnm.png",
+    "./64x64/lib32-libnm.png",
+    "./48x48/lib32-libnm.png"
+  ],
+  "lib32-libssh2": [
+    "./128x128/lib32-libssh2.png",
+    "./64x64/lib32-libssh2.png",
+    "./48x48/lib32-libssh2.png"
+  ],
+  "lib32-libtirpc": [
+    "./128x128/lib32-libtirpc.png",
+    "./64x64/lib32-libtirpc.png",
+    "./48x48/lib32-libtirpc.png"
+  ],
+  "lib32-libvpx": [
+    "./128x128/lib32-libvpx.png",
+    "./64x64/lib32-libvpx.png",
+    "./48x48/lib32-libvpx.png"
+  ],
+  "lib32-libwebp": [
+    "./128x128/lib32-libwebp.png",
+    "./64x64/lib32-libwebp.png",
+    "./48x48/lib32-libwebp.png"
+  ],
+  "lib32-libxcb": [
+    "./128x128/lib32-libxcb.png",
+    "./64x64/lib32-libxcb.png",
+    "./48x48/lib32-libxcb.png"
+  ],
+  "lib32-mpg123": [
+    "./128x128/lib32-mpg123.png",
+    "./64x64/lib32-mpg123.png",
+    "./48x48/lib32-mpg123.png"
+  ],
+  "lib32-ncurses": [
+    "./128x128/lib32-ncurses.png",
+    "./64x64/lib32-ncurses.png",
+    "./48x48/lib32-ncurses.png"
+  ],
+  "lib32-nvidia-cg-toolkit": [
+    "./128x128/lib32-nvidia-cg-toolkit.png",
+    "./64x64/lib32-nvidia-cg-toolkit.png",
+    "./48x48/lib32-nvidia-cg-toolkit.png"
+  ],
+  "lib32-openssl": [
+    "./128x128/lib32-openssl.png",
+    "./64x64/lib32-openssl.png",
+    "./48x48/lib32-openssl.png"
+  ],
+  "lib32-opus": [
+    "./128x128/lib32-opus.png",
+    "./64x64/lib32-opus.png",
+    "./48x48/lib32-opus.png"
+  ],
+  "lib32-pcre": [
+    "./128x128/lib32-pcre.png",
+    "./64x64/lib32-pcre.png",
+    "./48x48/lib32-pcre.png"
+  ],
+  "lib32-pipewire": [
+    "./128x128/lib32-pipewire.png",
+    "./64x64/lib32-pipewire.png",
+    "./48x48/lib32-pipewire.png"
+  ],
+  "lib32-sdl12-compat": [
+    "./128x128/lib32-sdl12-compat.png",
+    "./64x64/lib32-sdl12-compat.png",
+    "./48x48/lib32-sdl12-compat.png"
+  ],
+  "lib32-sdl3": [
+    "./128x128/lib32-sdl3.png",
+    "./64x64/lib32-sdl3.png",
+    "./48x48/lib32-sdl3.png"
+  ],
+  "lib32-sqlite": [
+    "./128x128/lib32-sqlite.png",
+    "./64x64/lib32-sqlite.png",
+    "./48x48/lib32-sqlite.png"
+  ],
+  "lib32-tcl": [
+    "./128x128/lib32-tcl.png",
+    "./64x64/lib32-tcl.png",
+    "./48x48/lib32-tcl.png"
+  ],
+  "lib32-wavpack": [
+    "./128x128/lib32-wavpack.png",
+    "./64x64/lib32-wavpack.png",
+    "./48x48/lib32-wavpack.png"
+  ],
+  "lib32-wayland": [
+    "./128x128/lib32-wayland.png",
+    "./64x64/lib32-wayland.png",
+    "./48x48/lib32-wayland.png"
+  ],
+  "lib32-xcb-util-keysyms": [
+    "./128x128/lib32-xcb-util-keysyms.png",
+    "./64x64/lib32-xcb-util-keysyms.png",
+    "./48x48/lib32-xcb-util-keysyms.png"
+  ],
+  "lib32-xcb-util": [
+    "./128x128/lib32-xcb-util.png",
+    "./64x64/lib32-xcb-util.png",
+    "./48x48/lib32-xcb-util.png"
+  ],
+  "lib32-xz": [
+    "./128x128/lib32-xz.png",
+    "./64x64/lib32-xz.png",
+    "./48x48/lib32-xz.png"
   ]
 }
