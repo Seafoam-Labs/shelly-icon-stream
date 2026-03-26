@@ -1,6 +1,6 @@
 # shelly-icon-appstream
 
-### 1. Add a name to the manifest.json with correspodning entries we require at least 1 entry per item ex:
+### 1. Add a name to the manifest.json with corresponding entries we require at least 1 entry per item ex:
 ```
  "gimp":[
     "src/48x48/gimp.png",
@@ -15,7 +15,7 @@ These entires can duplicated an existing entry. So lets say the VLC image alread
     "src/128x128/vlc.png",
   ],
 ```
-This will link it the vlc icon.
+This will link it to the vlc icon.
 
 ### 2. Add the image to the src folder corresponding to its size, we prefer all 3 if possible but at least one must be added.
    ```
