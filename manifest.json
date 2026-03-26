@@ -1,5 +1,7 @@
 {
   "gimp":[
+    "src/48x48/gimp.png",
+    "src/128x128/gimp.png",
     "src/64x64/gimp.png"
   ],
   "discord": [
