@@ -20870,5 +20870,3280 @@
     "src/48x48/lib32-xz.png",
     "src/64x64/lib32-xz.png",
     "src/128x128/lib32-xz.png"
+  ],
+  "perl-async-interrupt": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-autovivification": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-b-cow": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-berkeleydb": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-bit-vector": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-cairo-gobject": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-class-data-inheritable": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-class-load-xs": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-class-methodmaker": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-class-xsaccessor": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-clone": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-compress-bzip2": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-convert-uulib": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-cpanel-json-xs": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-crypt-blowfish": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-crypt-des": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-crypt-openssl-bignum": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-crypt-openssl-dsa": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-crypt-openssl-random": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-crypt-openssl-rsa": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-crypt-ssleay": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-cryptx": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-curses": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-data-structure-util": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-data-uuid": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-datetime": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-datetime-format-builder": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-datetime-format-mail": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-dbd-mysql": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-dbd-odbc": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-dbd-pg": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-dbd-sqlite": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-dbd-sqlite2": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-dbd-sybase": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-dbi": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-devel-cover": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-devel-leak": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-device-serialport": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-digest-nilsimsa": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-digest-sha1": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-email-address-xs": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-ev": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-fcgi": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-fcntllock": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-libmagic": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-rsyncp": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-filesys-df": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-fuse": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-gd": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-geoip": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-glib-object-introspection": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-goocanvas2-cairotypes": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-graphics-tiff": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-graphics-toolkit-color": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-gssapi": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-guard": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-html-parser": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-html-strip": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-image-sane": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-inline-java": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-io-compress-brotli": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-io-dirent": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-io-string": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-io-tty": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-json-parse": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-json-xs": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-lchown": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-libintl-perl": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-linux-pid": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-list-moreutils-xs": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-locale-gettext": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-mail-box-parser-c": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-mail-transport-dbx": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-marisa": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-mouse": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-net-dbus": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-net-dns-sec": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-net-dropbox-api": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-net-libidn": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-net-libidn2": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-net-ssleay": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-netaddr-ip": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-package-stash-xs": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-padwalker": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-par-packer": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-params-classify": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-params-util": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-params-validate": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-perlio-utf8-strict": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-pkgconfig-libpkgconf": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-proc-processtable": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-ref-util-xs": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-scalar-list-utils": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-search-xapian": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-socket6": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-sort-key": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-string-crc32": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-sub-identify": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-sub-name": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-sub-prototype": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-syntax-keyword-try": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-sys-meminfo": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-sys-virt": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-template-toolkit": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-term-readkey": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-term-readline-gnu": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-leaktrace": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-text-bibtex": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-text-charwidth": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-text-iconv": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-text-kakasi": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-text-soundex": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-text-unidecode": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-tie-hash-indexed": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-tk-tablematrix": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-unicode-linebreak": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-unicode-string": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-unix-syslog": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-variable-magic": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-xml-libxml": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-xml-libxslt": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-xml-parser": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-xs-parse-keyword": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-yaml-libyaml": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-yaml-syck": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-boolean": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-linux-desktopfiles": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-acme-alien-dontpanic": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-algorithm-annotate": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-algorithm-diff": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-alien-base-modulebuild": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-alien-build": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-alien-build-plugin-download-gitlab": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-alien-cmake3": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-alien-libxml2": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-anyevent": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-anyevent-i3": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-anyevent-xmpp": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-app-cli": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-app-docmake": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-appconfig": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-archive-cpio": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-archive-extract": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-archive-zip": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-array-compare": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-authen-radius": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-authen-sasl": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-b-debug-cpan": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-b-hooks-endofscope": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-b-keywords": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-business-isbn": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-business-isbn-data": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-business-ismn": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-business-issn": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-bytes-random-secure": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-cache-memcached": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-canary-stability": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-capture-tiny": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-carp-always": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-carp-clan": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-cgi": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-cgi-fast": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-cgi-formbuilder": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-cgi-session": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-chart": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-class-accessor": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-class-accessor-chained": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-class-autouse": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-class-factory-util": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-class-inspector": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-class-load": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-class-method-modifiers": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-class-singleton": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-class-tiny": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-clone-choose": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-color-calc": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-common-sense": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-config-autoconf": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-config-general": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-config-grammar": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-config-simple": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-config-tiny": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-convert-asn1": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-convert-binhex": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-convert-tnef": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-cpan-changes": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-cpan-meta-check": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-cpan-perl-releases": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-cpan-requirements-dynamic": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-cpanplus": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-crypt-cbc": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-crypt-openssl-guess": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-crypt-passwdmd5": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-crypt-random-seed": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-crypt-simple": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-crypt-smbhash": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-curses-ui": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-curses-ui-poe": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-cwd-guard": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-danga-socket": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-data-compare": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-data-dump": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-data-hexdump": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-data-hierarchy": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-data-munge": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-data-optlist": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-data-perl": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-data-random": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-data-uniqid": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-date-calc": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-date-manip": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-datetime-calendar-julian": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-datetime-cron-simple": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-datetime-event-ical": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-datetime-event-recurrence": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-datetime-format-ical": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-datetime-format-iso8601": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-datetime-format-strptime": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-datetime-format-w3cdtf": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-datetime-locale": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-datetime-set": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-datetime-timezone": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-dbd-mariadb": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-dbi-shell": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-devel-checkcompiler": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-devel-checklib": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-devel-cycle": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-devel-globaldestruction": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-devel-patchperl": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-devel-stacktrace": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-devel-symdump": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-device-gsm": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-device-modem": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-digest-bubblebabble": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-digest-hmac": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-dir-self": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-dist-checkconflicts": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-djabberd": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-djabberd-rosterstorage-sqlite": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-email-abstract": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-email-address": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-email-date-format": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-email-messageid": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-email-mime": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-email-mime-attachment-stripper": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-email-mime-contenttype": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-email-mime-encodings": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-email-reply": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-email-send": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-email-sender": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-email-simple": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-encode-imaputf7": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-encode-locale": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-env-shellwords": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-error": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-eval-closure": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-exception-class": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-exporter-tiny": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-extutils-cchecker": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-extutils-config": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-extutils-cppguess": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-extutils-depends": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-extutils-helpers": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-extutils-installpaths": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-extutils-libbuilder": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-extutils-pkgconfig": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-extutils-xsbuilder": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-fcgi-client": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-ffi-checklib": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-basedir": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-chdir": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-copy-recursive": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-copy-recursive-reduced": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-desktopentry": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-find-rule": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-find-rule-perl": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-finder": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-homedir": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-listing": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-mimeinfo": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-mmagic": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-nfslock": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-path-expand": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-path-tiny": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-pushd": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-readbackwards": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-remove": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-sharedir": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-sharedir-install": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-sharedir-projectdistdir": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-shouldupdate": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-slurp": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-slurp-tiny": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-slurper": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-tail": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-type": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-which": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-font-afm": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-font-ttf": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-freezethaw": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-gdgraph": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-gdtextutil": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-getopt-argvfile": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-gnupg-interface": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-goocanvas2": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-graphics-colornames": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-graphics-colornames-www": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-graphviz": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-gtk3": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-gtk3-imageview": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-gtk3-simplelist": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-hash-case": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-hash-merge": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-hash-ordered": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-hook-lexwrap": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-html-element-extended": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-html-form": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-html-formatter": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-html-highlight": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-html-scrubber": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-html-tableextract": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-html-tagfilter": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-html-tagset": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-html-template": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-html-template-expr": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-html-tree": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-http-cache-transparent": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-http-cookiejar": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-http-cookies": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-http-daemon": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-http-daemon-ssl": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-http-date": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-http-lite": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-http-message": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-http-negotiate": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-http-response-encoding": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-http-server-simple": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-ical-parser": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-image-info": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-image-size": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-import-into": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-importer": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-inc-latest": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-inline": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-inline-c": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-inline-cpp": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-inline-filters": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-io-all": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-io-captureoutput": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-io-digest": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-io-html": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-io-multiplex": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-io-pager": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-io-pipely": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-io-sessiondata": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-io-socket-inet6": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-io-socket-ssl": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-io-stringy": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-io-tee": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-ipc-run": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-ipc-run3": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-ipc-shareable": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-ipc-system-simple": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-json": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-json-maybexs": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-json-webtoken": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-ldap": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-libwww": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-lingua-en-inflect": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-lingua-en-numbers": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-lingua-en-numbers-ordinate": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-lingua-preferred": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-lingua-translit": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-list-allutils": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-list-compare": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-list-moreutils": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-list-someutils": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-list-utilsby": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-local-lib": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-locale-codes": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-locale-maketext-lexicon": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-locale-po": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-log-log4perl": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-log-message": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-log-message-simple": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-log-report": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-log-report-optional": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-lwp-mediatypes": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-lwp-protocol-https": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-mail-authenticationresults": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-mail-box": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-mail-dkim": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-mail-domainkeys": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-mail-imapclient": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-mail-message": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-mail-sendmail": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-mail-spf": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-mail-spf-query": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-mailtools": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-math-base85": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-math-random-isaac": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-math-round": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-mediawiki-api": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-memory-process": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-memory-usage": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-mime-base32": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-mime-charset": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-mime-lite": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-mime-tools": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-mime-types": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-module-build": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-module-build-tiny": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-module-build-xsutil": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-module-find": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-module-implementation": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-module-install": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-module-manifest": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-module-pluggable": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-module-runtime": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-module-scandeps": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-moo": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-moox-handlesvia": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-moox-late": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-moox-types-mooselike": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-mozilla-ca": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-mp3-info": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-mro-compat": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-namespace-autoclean": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-namespace-clean": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-net-cidr-lite": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-net-dns": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-net-dns-resolver-mock": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-net-dns-resolver-programmable": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-net-http": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-net-idn-encode": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-net-imap-simple": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-net-ip": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-net-ip-minimal": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-net-ipv4addr": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-net-ipv6addr": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-net-jabber": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-net-ldap-server": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-net-oauth": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-net-openssh": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-net-server": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-net-smtp-ssl": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-net-snmp": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-net-telnet": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-net-xmpp": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-ntlm": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-number-bytes-human": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-number-compare": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-number-misc": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-object-accessor": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-object-event": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-object-multitype": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-object-realize-later": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-package-constants": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-package-deprecationmanager": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-package-stash": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-par": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-par-dist": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-parallel-forkmanager": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-params-validationcompiler": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-parse-recdescent": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-parse-yapp": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-patchreader": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-path-class": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-path-finddev": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-path-isdev": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-path-tiny": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-pdf-api2": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-pdf-builder": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-pegex": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-perl-critic": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-perl-minimumversion": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-pkgconfig": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-pod-coverage": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-pod-parser": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-pod-pom": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-pod-pom-view-restructured": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-pod-spell": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-pod2pdf": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-poe": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-poe-component-client-dns": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-poe-component-client-http": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-poe-component-client-keepalive": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-poe-component-ikc": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-poe-component-resolver": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-ppi": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-ppix-quotelike": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-ppix-regexp": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-ppix-utilities": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-ppix-utils": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-probe-perl": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-proc-simple": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-publicinbox": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-readonly": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-ref-util": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-regexp-common": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-regexp-shellish": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-rename": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-return-multilevel": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-return-value": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-role-hooks": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-role-tiny": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-safe-isa": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-scope-guard": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-set-infinite": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-set-intspan": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-sgmls": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-shell-command": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-shell-config-generate": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-shell-guess": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-soap-lite": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-sort-naturally": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-sort-versions": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-specio": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-spiffy": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-strictures": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-string-format": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-string-print": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-string-shellquote": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-string-util": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-sub-exporter": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-sub-exporter-progressive": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-sub-handlesvia": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-sub-info": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-sub-install": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-sub-override": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-sub-quote": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-sub-uplevel": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-super": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-svn-simple-edit": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-switch": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-sys-hostname-long": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-sys-syscall": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-task-weaken": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-template-gd": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-term-animation": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-term-extendedcolor": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-term-progressbar": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-term-read-password": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-term-ui": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-base": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-deep": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-differences": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-distmanifest": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-exception": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-exit": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-failwarnings": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-fatal": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-file": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-inter": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-manifest": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-memory-cycle": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-minimumversion": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-mock-guard": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-mockmodule": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-mockobject": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-mocktime": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-more-utf8": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-most": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-needs": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-nowarnings": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-number-delta": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-object": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-output": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-perltidy": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-pod": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-pod-coverage": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-requires": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-requiresinternet": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-script": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-spec": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-subcalls": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-trap": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-utf8": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-warn": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-warnings": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-without-module": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test-yaml": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-test2-tools-process": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-text-csv": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-text-diff": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-text-glob": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-text-markdown": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-text-patch": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-text-query": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-text-reform": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-text-roman": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-text-tabs-wrap": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-text-template": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-text-vfile-asdata": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-text-wrapi18n": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-throwable": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-tidy": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-tie-cphash": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-tie-cycle": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-tie-ixhash": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-tie-simple": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-time-duration": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-time-format": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-time-human": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-time-modules": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-timedate": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-tk": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-tree-dag-node": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-try-tiny": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-type-tiny": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-types-serialiser": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-unicode-stringprep": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-unicode-utf8simple": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-universal-can": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-universal-isa": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-uri": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-user-identity": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-www-mechanize": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-www-robotrules": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-www-sms": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-x11-protocol": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-x11-protocol-other": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-xml-atom": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-xml-filter-buffertext": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-xml-libxml-prettyprint": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-xml-libxml-simple": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-xml-namespacesupport": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-xml-parser-lite": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-xml-regexp": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-xml-rss": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-xml-rsslite": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-xml-sax": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-xml-sax-base": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-xml-sax-expat": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-xml-sax-writer": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-xml-simple": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-xml-smart": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-xml-stream": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-xml-twig": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-xml-writer": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-xml-xpath": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-yaml": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-yaml-pp": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-yaml-tiny": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perlbrew": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perlio-via-dynamic": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perlio-via-symlink": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-authen-pam": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-crypt-rijndael": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-encode-detect": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-expect": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-file-rename": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-io-stty": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-net-arp": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
+  ],
+  "perl-x11-guitest": [
+    "src/48x48/perl.png",
+    "src/64x64/perl.png",
+    "src/128x128/perl.png"
   ]
 }
