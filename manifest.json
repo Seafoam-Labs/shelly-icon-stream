@@ -1,8 +1,8 @@
 {
   "gimp": [
-    "src/128x128/gimp.png",
+    "src/48x48/gimp.png",
     "src/64x64/gimp.png",
-    "src/48x48/gimp.png"
+    "src/128x128/gimp.png"
   ],
   "discord": [
     "src/64x64/discord.png",
@@ -19,6 +19,7 @@
     "src/64x64/python.png"
   ],
   "abiword": [
+    "src/48x48/abiword.png",
     "src/64x64/abiword.png",
     "src/128x128/abiword.png"
   ],
@@ -27,28 +28,32 @@
     "src/128x128/adriconf.png"
   ],
   "aegisub": [
-    "src/128x128/aegisub.png",
+    "src/48x48/aegisub.png",
     "src/64x64/aegisub.png",
-    "src/48x48/aegisub.png"
+    "src/128x128/aegisub.png"
   ],
   "akregator": [
+    "src/48x48/akregator.png",
     "src/64x64/akregator.png",
     "src/128x128/akregator.png"
   ],
   "alligator": [
-    "src/128x128/alligator.png",
+    "src/48x48/alligator.png",
     "src/64x64/alligator.png",
-    "src/48x48/alligator.png"
+    "src/128x128/alligator.png"
   ],
   "amarok": [
+    "src/48x48/amarok.png",
     "src/64x64/amarok.png",
     "src/128x128/amarok.png"
   ],
   "amberol": [
+    "src/48x48/amberol.png",
     "src/64x64/amberol.png",
     "src/128x128/amberol.png"
   ],
   "angelfish": [
+    "src/48x48/angelfish.png",
     "src/64x64/angelfish.png",
     "src/128x128/angelfish.png"
   ],
@@ -58,177 +63,207 @@
     "src/48x48/anki.png"
   ],
   "antimicrox": [
+    "src/48x48/antimicrox.png",
     "src/64x64/antimicrox.png",
     "src/128x128/antimicrox.png"
   ],
   "ardour": [
+    "src/48x48/ardour.png",
     "src/64x64/ardour.png",
     "src/128x128/ardour.png"
   ],
   "arianna": [
+    "src/48x48/arianna.png",
     "src/64x64/arianna.png",
     "src/128x128/arianna.png"
   ],
   "astromenace": [
-    "src/64x64/astromenace.png",
-    "src/128x128/astromenace.png"
+    "src/64x64/astromenace.png"
   ],
   "atomix": [
+    "src/48x48/atomix.png",
     "src/64x64/atomix.png",
     "src/128x128/atomix.png"
   ],
   "audacious": [
+    "src/48x48/audacious.png",
     "src/64x64/audacious.png",
     "src/128x128/audacious.png"
   ],
   "audiotube": [
+    "src/48x48/audiotube.png",
     "src/64x64/audiotube.png",
     "src/128x128/audiotube.png"
   ],
   "augustus": [
+    "src/48x48/augustus.png",
     "src/64x64/augustus.png",
     "src/128x128/augustus.png"
   ],
   "authenticator": [
+    "src/48x48/authenticator.png",
     "src/64x64/authenticator.png",
     "src/128x128/authenticator.png"
   ],
   "bazaar": [
+    "src/48x48/bazaar.png",
     "src/64x64/bazaar.png",
     "src/128x128/bazaar.png"
   ],
   "bibletime": [
+    "src/48x48/bibletime.png",
     "src/64x64/bibletime.png",
     "src/128x128/bibletime.png"
   ],
   "bitwarden": [
+    "src/48x48/bitwarden.png",
     "src/64x64/bitwarden.png",
     "src/128x128/bitwarden.png"
   ],
   "bluefish": [
+    "src/48x48/bluefish.png",
     "src/64x64/bluefish.png",
     "src/128x128/bluefish.png"
   ],
   "blurble": [
+    "src/48x48/blurble.png",
     "src/64x64/blurble.png",
     "src/128x128/blurble.png"
   ],
   "bomber": [
-    "src/128x128/bomber.png",
+    "src/48x48/bomber.png",
     "src/64x64/bomber.png",
-    "src/48x48/bomber.png"
+    "src/128x128/bomber.png"
   ],
   "bookworm": [
+    "src/48x48/bookworm.png",
     "src/64x64/bookworm.png",
     "src/128x128/bookworm.png"
   ],
   "bovo": [
+    "src/48x48/bovo.png",
     "src/64x64/bovo.png",
     "src/128x128/bovo.png"
   ],
   "brasero": [
+    "src/48x48/brasero.png",
     "src/64x64/brasero.png",
     "src/128x128/brasero.png"
   ],
   "calibre": [
-    "src/128x128/calibre.png",
+    "src/48x48/calibre.png",
     "src/64x64/calibre.png",
-    "src/48x48/calibre.png"
+    "src/128x128/calibre.png"
   ],
   "calligra": [
+    "src/48x48/calligra.png",
     "src/64x64/calligra.png",
     "src/128x128/calligra.png"
   ],
   "carla": [
+    "src/48x48/carla.png",
     "src/64x64/carla.png",
     "src/128x128/carla.png"
   ],
   "celluloid": [
+    "src/48x48/celluloid.png",
     "src/64x64/celluloid.png",
     "src/128x128/celluloid.png"
   ],
   "ciano": [
-    "src/128x128/ciano.png",
+    "src/48x48/ciano.png",
     "src/64x64/ciano.png",
-    "src/48x48/ciano.png"
+    "src/128x128/ciano.png"
   ],
   "citations": [
+    "src/48x48/citations.png",
     "src/64x64/citations.png",
     "src/128x128/citations.png"
   ],
   "clairvoyant": [
+    "src/48x48/clairvoyant.png",
     "src/64x64/clairvoyant.png",
     "src/128x128/clairvoyant.png"
   ],
   "clapper": [
+    "src/48x48/clapper.png",
     "src/64x64/clapper.png",
     "src/128x128/clapper.png"
   ],
   "claws-mail": [
+    "src/48x48/claws-mail.png",
     "src/64x64/claws-mail.png",
     "src/128x128/claws-mail.png"
   ],
   "cockatrice": [
-    "src/128x128/cockatrice.png",
+    "src/48x48/cockatrice.png",
     "src/64x64/cockatrice.png",
-    "src/48x48/cockatrice.png"
+    "src/128x128/cockatrice.png"
   ],
   "collision": [
+    "src/48x48/collision.png",
     "src/64x64/collision.png",
     "src/128x128/collision.png"
   ],
   "contrast": [
+    "src/48x48/contrast.png",
     "src/64x64/contrast.png",
     "src/128x128/contrast.png"
   ],
   "converseen": [
+    "src/48x48/converseen.png",
     "src/64x64/converseen.png",
     "src/128x128/converseen.png"
   ],
   "cpu-x": [
+    "src/48x48/cpu-x.png",
     "src/64x64/cpu-x.png",
     "src/128x128/cpu-x.png"
   ],
   "d-spy": [
+    "src/48x48/d-spy.png",
     "src/64x64/d-spy.png",
     "src/128x128/d-spy.png"
   ],
   "darktable": [
-    "src/128x128/darktable.png",
+    "src/48x48/darktable.png",
     "src/64x64/darktable.png",
-    "src/48x48/darktable.png"
+    "src/128x128/darktable.png"
   ],
   "datovka": [
+    "src/48x48/datovka.png",
     "src/64x64/datovka.png",
     "src/128x128/datovka.png"
   ],
   "decoder": [
+    "src/48x48/decoder.png",
     "src/64x64/decoder.png",
     "src/128x128/decoder.png"
   ],
   "delfin": [
-    "src/128x128/delfin.png",
+    "src/48x48/delfin.png",
     "src/64x64/delfin.png",
-    "src/48x48/delfin.png"
+    "src/128x128/delfin.png"
   ],
   "deskflow": [
     "src/64x64/deskflow.png",
     "src/128x128/deskflow.png"
   ],
   "desmume": [
+    "src/48x48/desmume.png",
     "src/64x64/desmume.png",
     "src/128x128/desmume.png"
   ],
   "dino": [
-    "src/128x128/dino.png",
+    "src/48x48/dino.png",
     "src/64x64/dino.png",
-    "src/48x48/dino.png"
+    "src/128x128/dino.png"
   ],
   "dosbox": [
-    "src/64x64/dosbox.png",
-    "src/128x128/dosbox.png"
+    "src/64x64/dosbox.png"
   ],
   "easytag": [
+    "src/48x48/easytag.png",
     "src/64x64/easytag.png",
     "src/128x128/easytag.png"
   ],
@@ -238,10 +273,12 @@
     "src/48x48/eigen.png"
   ],
   "elastic": [
+    "src/48x48/elastic.png",
     "src/64x64/elastic.png",
     "src/128x128/elastic.png"
   ],
   "emblem": [
+    "src/48x48/emblem.png",
     "src/64x64/emblem.png",
     "src/128x128/emblem.png"
   ],
@@ -254,65 +291,77 @@
     "src/128x128/enigma.png"
   ],
   "eyedropper": [
+    "src/48x48/eyedropper.png",
     "src/64x64/eyedropper.png",
     "src/128x128/eyedropper.png"
   ],
   "f3d": [
+    "src/48x48/f3d.png",
     "src/64x64/f3d.png",
     "src/128x128/f3d.png"
   ],
   "filezilla": [
+    "src/48x48/filezilla.png",
     "src/64x64/filezilla.png",
     "src/128x128/filezilla.png"
   ],
   "flameshot": [
+    "src/48x48/flameshot.png",
     "src/64x64/flameshot.png",
     "src/128x128/flameshot.png"
   ],
   "flips": [
+    "src/48x48/flips.png",
     "src/64x64/flips.png",
     "src/128x128/flips.png"
   ],
   "focuswriter": [
-    "src/128x128/focuswriter.png",
+    "src/48x48/focuswriter.png",
     "src/64x64/focuswriter.png",
-    "src/48x48/focuswriter.png"
+    "src/128x128/focuswriter.png"
   ],
   "fontforge": [
+    "src/48x48/fontforge.png",
     "src/64x64/fontforge.png",
     "src/128x128/fontforge.png"
   ],
   "foot": [
-    "src/128x128/foot.png",
+    "src/48x48/foot.png",
     "src/64x64/foot.png",
-    "src/48x48/foot.png"
+    "src/128x128/foot.png"
   ],
   "four-in-a-row": [
+    "src/48x48/four-in-a-row.png",
     "src/64x64/four-in-a-row.png",
     "src/128x128/four-in-a-row.png"
   ],
   "fractal": [
-    "src/128x128/fractal.png",
+    "src/48x48/fractal.png",
     "src/64x64/fractal.png",
-    "src/48x48/fractal.png"
+    "src/128x128/fractal.png"
   ],
   "fragments": [
+    "src/48x48/fragments.png",
     "src/64x64/fragments.png",
     "src/128x128/fragments.png"
   ],
   "francis": [
+    "src/48x48/francis.png",
     "src/64x64/francis.png",
     "src/128x128/francis.png"
   ],
   "freeorion": [
+    "src/48x48/freeorion.png",
     "src/64x64/freeorion.png",
     "src/128x128/freeorion.png"
   ],
   "fretboard": [
+    "src/48x48/fretboard.png",
     "src/64x64/fretboard.png",
     "src/128x128/fretboard.png"
   ],
   "frogr": [
+    "src/48x48/frogr.png",
     "src/64x64/frogr.png",
     "src/128x128/frogr.png"
   ],
@@ -321,13 +370,14 @@
     "src/128x128/fs-uae.png"
   ],
   "furnace": [
+    "src/48x48/furnace.png",
     "src/64x64/furnace.png",
     "src/128x128/furnace.png"
   ],
   "geany": [
-    "src/128x128/geany.png",
+    "src/48x48/geany.png",
     "src/64x64/geany.png",
-    "src/48x48/geany.png"
+    "src/128x128/geany.png"
   ],
   "gephi": [
     "src/128x128/gephi.png",
@@ -335,6 +385,7 @@
     "src/48x48/gephi.png"
   ],
   "ghex": [
+    "src/48x48/ghex.png",
     "src/64x64/ghex.png",
     "src/128x128/ghex.png"
   ],
@@ -344,6 +395,7 @@
     "src/48x48/ghidra.png"
   ],
   "glabels": [
+    "src/48x48/glabels.png",
     "src/64x64/glabels.png",
     "src/128x128/glabels.png"
   ],
@@ -353,84 +405,92 @@
     "src/48x48/glaxnimate.png"
   ],
   "glide": [
+    "src/48x48/glide.png",
     "src/64x64/glide.png",
     "src/128x128/glide.png"
   ],
   "gnote": [
+    "src/48x48/gnote.png",
     "src/64x64/gnote.png",
     "src/128x128/gnote.png"
   ],
   "gnucash": [
-    "src/128x128/gnucash.png",
+    "src/48x48/gnucash.png",
     "src/64x64/gnucash.png",
-    "src/48x48/gnucash.png"
+    "src/128x128/gnucash.png"
   ],
   "gobby": [
+    "src/48x48/gobby.png",
     "src/64x64/gobby.png",
     "src/128x128/gobby.png"
   ],
   "goverlay": [
+    "src/48x48/goverlay.png",
     "src/64x64/goverlay.png",
     "src/128x128/goverlay.png"
   ],
   "goxel": [
-    "src/128x128/goxel.png",
+    "src/48x48/goxel.png",
     "src/64x64/goxel.png",
-    "src/48x48/goxel.png"
+    "src/128x128/goxel.png"
   ],
   "gqrx": [
+    "src/48x48/gqrx.png",
     "src/64x64/gqrx.png",
     "src/128x128/gqrx.png"
   ],
   "grafx2": [
-    "src/128x128/grafx2.png",
+    "src/48x48/grafx2.png",
     "src/64x64/grafx2.png",
-    "src/48x48/grafx2.png"
+    "src/128x128/grafx2.png"
   ],
   "granatier": [
+    "src/48x48/granatier.png",
     "src/64x64/granatier.png",
     "src/128x128/granatier.png"
   ],
   "graphs": [
+    "src/48x48/graphs.png",
     "src/64x64/graphs.png",
     "src/128x128/graphs.png"
   ],
   "gtkwave": [
+    "src/48x48/gtkwave.png",
     "src/64x64/gtkwave.png",
     "src/128x128/gtkwave.png"
   ],
   "guitarix": [
-    "src/128x128/guitarix.png",
-    "src/64x64/guitarix.png",
-    "src/48x48/guitarix.png"
+    "src/64x64/guitarix.png"
   ],
   "gummi": [
-    "src/64x64/gummi.png",
-    "src/128x128/gummi.png"
+    "src/64x64/gummi.png"
   ],
   "halloy": [
-    "src/128x128/halloy.png",
+    "src/48x48/halloy.png",
     "src/64x64/halloy.png",
-    "src/48x48/halloy.png"
+    "src/128x128/halloy.png"
   ],
   "hana": [
     "src/64x64/hana.png",
     "src/128x128/hana.png"
   ],
   "handbrake": [
-    "src/128x128/handbrake.png",
+    "src/48x48/handbrake.png",
     "src/64x64/handbrake.png",
-    "src/48x48/handbrake.png"
+    "src/128x128/handbrake.png"
   ],
   "haruna": [
+    "src/48x48/haruna.png",
     "src/64x64/haruna.png",
     "src/128x128/haruna.png"
   ],
   "hatari": [
+    "src/48x48/hatari.png",
     "src/64x64/hatari.png",
     "src/128x128/hatari.png"
   ],
   "health": [
+    "src/48x48/health.png",
     "src/64x64/health.png",
     "src/128x128/health.png"
   ],
@@ -439,26 +499,32 @@
     "src/128x128/helix.png"
   ],
   "hieroglyphic": [
+    "src/48x48/hieroglyphic.png",
     "src/64x64/hieroglyphic.png",
     "src/128x128/hieroglyphic.png"
   ],
   "hitori": [
+    "src/48x48/hitori.png",
     "src/64x64/hitori.png",
     "src/128x128/hitori.png"
   ],
   "homebank": [
+    "src/48x48/homebank.png",
     "src/64x64/homebank.png",
     "src/128x128/homebank.png"
   ],
   "htmldoc": [
+    "src/48x48/htmldoc.png",
     "src/64x64/htmldoc.png",
     "src/128x128/htmldoc.png"
   ],
   "hugin": [
+    "src/48x48/hugin.png",
     "src/64x64/hugin.png",
     "src/128x128/hugin.png"
   ],
   "hydrogen": [
+    "src/48x48/hydrogen.png",
     "src/64x64/hydrogen.png",
     "src/128x128/hydrogen.png"
   ],
@@ -467,146 +533,179 @@
     "src/128x128/i2pd.png"
   ],
   "iaito": [
+    "src/48x48/iaito.png",
     "src/64x64/iaito.png",
     "src/128x128/iaito.png"
   ],
   "identity": [
+    "src/48x48/identity.png",
     "src/64x64/identity.png",
     "src/128x128/identity.png"
   ],
   "impression": [
+    "src/48x48/impression.png",
     "src/64x64/impression.png",
     "src/128x128/impression.png"
   ],
   "inkscape": [
+    "src/48x48/inkscape.png",
     "src/64x64/inkscape.png",
     "src/128x128/inkscape.png"
   ],
   "iptux": [
-    "src/64x64/iptux.png",
-    "src/128x128/iptux.png"
+    "src/48x48/iptux.png",
+    "src/64x64/iptux.png"
   ],
   "jacktrip": [
+    "src/48x48/jacktrip.png",
     "src/64x64/jacktrip.png",
     "src/128x128/jacktrip.png"
   ],
   "julius": [
+    "src/48x48/julius.png",
     "src/64x64/julius.png",
     "src/128x128/julius.png"
   ],
   "kaidan": [
+    "src/48x48/kaidan.png",
     "src/64x64/kaidan.png",
     "src/128x128/kaidan.png"
   ],
   "kalgebra": [
+    "src/48x48/kalgebra.png",
     "src/64x64/kalgebra.png",
     "src/128x128/kalgebra.png"
   ],
   "kalm": [
+    "src/48x48/kalm.png",
     "src/64x64/kalm.png",
     "src/128x128/kalm.png"
   ],
   "kapman": [
+    "src/48x48/kapman.png",
     "src/64x64/kapman.png",
     "src/128x128/kapman.png"
   ],
   "kasts": [
+    "src/48x48/kasts.png",
     "src/64x64/kasts.png",
     "src/128x128/kasts.png"
   ],
   "katomic": [
+    "src/48x48/katomic.png",
     "src/64x64/katomic.png",
     "src/128x128/katomic.png"
   ],
   "kblackbox": [
+    "src/48x48/kblackbox.png",
     "src/64x64/kblackbox.png",
     "src/128x128/kblackbox.png"
   ],
   "kblocks": [
+    "src/48x48/kblocks.png",
     "src/64x64/kblocks.png",
     "src/128x128/kblocks.png"
   ],
   "kbounce": [
+    "src/48x48/kbounce.png",
     "src/64x64/kbounce.png",
     "src/128x128/kbounce.png"
   ],
   "kbreakout": [
+    "src/48x48/kbreakout.png",
     "src/64x64/kbreakout.png",
     "src/128x128/kbreakout.png"
   ],
   "kcharselect": [
+    "src/48x48/kcharselect.png",
     "src/64x64/kcharselect.png",
     "src/128x128/kcharselect.png"
   ],
   "kdiamond": [
+    "src/48x48/kdiamond.png",
     "src/64x64/kdiamond.png",
     "src/128x128/kdiamond.png"
   ],
   "kdiskmark": [
+    "src/48x48/kdiskmark.png",
     "src/64x64/kdiskmark.png",
     "src/128x128/kdiskmark.png"
   ],
   "keysmith": [
+    "src/48x48/keysmith.png",
     "src/64x64/keysmith.png",
     "src/128x128/keysmith.png"
   ],
   "kfind": [
+    "src/48x48/kfind.png",
     "src/64x64/kfind.png",
     "src/128x128/kfind.png"
   ],
   "kfourinline": [
+    "src/48x48/kfourinline.png",
     "src/64x64/kfourinline.png",
     "src/128x128/kfourinline.png"
   ],
   "kgeotag": [
+    "src/48x48/kgeotag.png",
     "src/64x64/kgeotag.png",
     "src/128x128/kgeotag.png"
   ],
   "kget": [
+    "src/48x48/kget.png",
     "src/64x64/kget.png",
     "src/128x128/kget.png"
   ],
   "kgoldrunner": [
+    "src/48x48/kgoldrunner.png",
     "src/64x64/kgoldrunner.png",
     "src/128x128/kgoldrunner.png"
   ],
   "kicad": [
+    "src/48x48/kicad.png",
     "src/64x64/kicad.png",
     "src/128x128/kicad.png"
   ],
   "kid3": [
+    "src/48x48/kid3.png",
     "src/64x64/kid3.png",
     "src/128x128/kid3.png"
   ],
   "kigo": [
+    "src/48x48/kigo.png",
     "src/64x64/kigo.png",
     "src/128x128/kigo.png"
   ],
   "kile": [
+    "src/48x48/kile.png",
     "src/64x64/kile.png",
     "src/128x128/kile.png"
   ],
   "killbots": [
+    "src/48x48/killbots.png",
     "src/64x64/killbots.png",
     "src/128x128/killbots.png"
   ],
   "kiriki": [
+    "src/48x48/kiriki.png",
     "src/64x64/kiriki.png",
     "src/128x128/kiriki.png"
   ],
   "kjumpingcube": [
+    "src/48x48/kjumpingcube.png",
     "src/64x64/kjumpingcube.png",
     "src/128x128/kjumpingcube.png"
   ],
   "klavaro": [
-    "src/64x64/klavaro.png",
-    "src/128x128/klavaro.png"
+    "src/48x48/klavaro.png",
+    "src/64x64/klavaro.png"
   ],
   "klayout": [
     "src/64x64/klayout.png",
     "src/128x128/klayout.png"
   ],
   "kleopatra": [
+    "src/48x48/kleopatra.png",
     "src/64x64/kleopatra.png",
     "src/128x128/kleopatra.png"
   ],
@@ -615,170 +714,211 @@
     "src/128x128/klevernotes.png"
   ],
   "klickety": [
+    "src/48x48/klickety.png",
     "src/64x64/klickety.png",
     "src/128x128/klickety.png"
   ],
   "kmahjongg": [
+    "src/48x48/kmahjongg.png",
     "src/64x64/kmahjongg.png",
     "src/128x128/kmahjongg.png"
   ],
   "kmines": [
+    "src/48x48/kmines.png",
     "src/64x64/kmines.png",
     "src/128x128/kmines.png"
   ],
   "knetwalk": [
+    "src/48x48/knetwalk.png",
     "src/64x64/knetwalk.png",
     "src/128x128/knetwalk.png"
   ],
   "knights": [
-    "src/64x64/knights.png",
-    "src/128x128/knights.png"
+    "src/48x48/knights.png",
+    "src/64x64/knights.png"
   ],
   "kolf": [
+    "src/48x48/kolf.png",
     "src/64x64/kolf.png",
     "src/128x128/kolf.png"
   ],
   "kollision": [
+    "src/48x48/kollision.png",
     "src/64x64/kollision.png",
     "src/128x128/kollision.png"
   ],
   "komodo": [
+    "src/48x48/komodo.png",
     "src/64x64/komodo.png",
     "src/128x128/komodo.png"
   ],
   "konquest": [
+    "src/48x48/konquest.png",
     "src/64x64/konquest.png",
     "src/128x128/konquest.png"
   ],
   "kontact": [
+    "src/48x48/kontact.png",
     "src/64x64/kontact.png",
     "src/128x128/kontact.png"
   ],
   "kontrast": [
+    "src/48x48/kontrast.png",
     "src/64x64/kontrast.png",
     "src/128x128/kontrast.png"
   ],
   "kooha": [
+    "src/48x48/kooha.png",
     "src/64x64/kooha.png",
     "src/128x128/kooha.png"
   ],
   "kphotoalbum": [
+    "src/48x48/kphotoalbum.png",
     "src/64x64/kphotoalbum.png",
     "src/128x128/kphotoalbum.png"
   ],
   "kreversi": [
+    "src/48x48/kreversi.png",
     "src/64x64/kreversi.png",
     "src/128x128/kreversi.png"
   ],
   "krita": [
+    "src/48x48/krita.png",
     "src/64x64/krita.png",
     "src/128x128/krita.png"
   ],
   "kronometer": [
+    "src/48x48/kronometer.png",
     "src/64x64/kronometer.png",
     "src/128x128/kronometer.png"
   ],
   "kshisen": [
+    "src/48x48/kshisen.png",
     "src/64x64/kshisen.png",
     "src/128x128/kshisen.png"
   ],
   "ksirk": [
+    "src/48x48/ksirk.png",
     "src/64x64/ksirk.png",
     "src/128x128/ksirk.png"
   ],
   "ksnakeduel": [
+    "src/48x48/ksnakeduel.png",
     "src/64x64/ksnakeduel.png",
     "src/128x128/ksnakeduel.png"
   ],
   "ksnip": [
+    "src/48x48/ksnip.png",
     "src/64x64/ksnip.png",
     "src/128x128/ksnip.png"
   ],
   "ksquares": [
+    "src/48x48/ksquares.png",
     "src/64x64/ksquares.png",
     "src/128x128/ksquares.png"
   ],
   "ksudoku": [
+    "src/48x48/ksudoku.png",
     "src/64x64/ksudoku.png",
     "src/128x128/ksudoku.png"
   ],
   "ktrip": [
+    "src/48x48/ktrip.png",
     "src/64x64/ktrip.png",
     "src/128x128/ktrip.png"
   ],
   "ktuberling": [
+    "src/48x48/ktuberling.png",
     "src/64x64/ktuberling.png",
     "src/128x128/ktuberling.png"
   ],
   "kubrick": [
+    "src/48x48/kubrick.png",
     "src/64x64/kubrick.png",
     "src/128x128/kubrick.png"
   ],
   "kvirc": [
+    "src/48x48/kvirc.png",
     "src/64x64/kvirc.png",
     "src/128x128/kvirc.png"
   ],
   "kwalletmanager": [
+    "src/48x48/kwalletmanager.png",
     "src/64x64/kwalletmanager.png",
     "src/128x128/kwalletmanager.png"
   ],
   "kwave": [
+    "src/48x48/kwave.png",
     "src/64x64/kwave.png",
     "src/128x128/kwave.png"
   ],
   "labplot": [
+    "src/48x48/labplot.png",
     "src/64x64/labplot.png",
     "src/128x128/labplot.png"
   ],
   "lact": [
+    "src/48x48/lact.png",
     "src/64x64/lact.png",
     "src/128x128/lact.png"
   ],
   "leocad": [
+    "src/48x48/leocad.png",
     "src/64x64/leocad.png",
     "src/128x128/leocad.png"
   ],
   "librecad": [
+    "src/48x48/librecad.png",
     "src/64x64/librecad.png",
     "src/128x128/librecad.png"
   ],
   "libresprite": [
+    "src/48x48/libresprite.png",
     "src/64x64/libresprite.png",
     "src/128x128/libresprite.png"
   ],
   "lifeograph": [
+    "src/48x48/lifeograph.png",
     "src/64x64/lifeograph.png",
     "src/128x128/lifeograph.png"
   ],
   "liferea": [
+    "src/48x48/liferea.png",
     "src/64x64/liferea.png",
     "src/128x128/liferea.png"
   ],
   "lokalize": [
+    "src/48x48/lokalize.png",
     "src/64x64/lokalize.png",
     "src/128x128/lokalize.png"
   ],
   "lorem": [
+    "src/48x48/lorem.png",
     "src/64x64/lorem.png",
     "src/128x128/lorem.png"
   ],
   "lskat": [
+    "src/48x48/lskat.png",
     "src/64x64/lskat.png",
     "src/128x128/lskat.png"
   ],
   "luanti": [
+    "src/48x48/luanti.png",
     "src/64x64/luanti.png",
     "src/128x128/luanti.png"
   ],
   "manuals": [
+    "src/48x48/manuals.png",
     "src/64x64/manuals.png",
     "src/128x128/manuals.png"
   ],
   "marknote": [
+    "src/48x48/marknote.png",
     "src/64x64/marknote.png",
     "src/128x128/marknote.png"
   ],
   "massif-visualizer": [
+    "src/48x48/massif-visualizer.png",
     "src/64x64/massif-visualizer.png",
     "src/128x128/massif-visualizer.png"
   ],
@@ -795,54 +935,65 @@
     "src/128x128/megaglest.png"
   ],
   "merkuro": [
+    "src/48x48/merkuro.png",
     "src/64x64/merkuro.png",
     "src/128x128/merkuro.png"
   ],
   "metronome": [
+    "src/48x48/metronome.png",
     "src/64x64/metronome.png",
     "src/128x128/metronome.png"
   ],
   "milkytracker": [
-    "src/64x64/milkytracker.png",
-    "src/128x128/milkytracker.png"
+    "src/64x64/milkytracker.png"
   ],
   "minder": [
+    "src/48x48/minder.png",
     "src/64x64/minder.png",
     "src/128x128/minder.png"
   ],
   "moserial": [
+    "src/48x48/moserial.png",
     "src/64x64/moserial.png",
     "src/128x128/moserial.png"
   ],
   "mousai": [
+    "src/48x48/mousai.png",
     "src/64x64/mousai.png",
     "src/128x128/mousai.png"
   ],
   "mousepad": [
+    "src/48x48/mousepad.png",
     "src/64x64/mousepad.png",
     "src/128x128/mousepad.png"
   ],
   "mpv": [
+    "src/48x48/mpv.png",
     "src/64x64/mpv.png",
     "src/128x128/mpv.png"
   ],
   "mumble": [
+    "src/48x48/mumble.png",
     "src/64x64/mumble.png",
     "src/128x128/mumble.png"
   ],
   "muse": [
+    "src/48x48/muse.png",
     "src/64x64/muse.png",
     "src/128x128/muse.png"
   ],
   "musescore": [
+    "src/48x48/musescore.png",
     "src/64x64/musescore.png",
     "src/128x128/musescore.png"
   ],
   "mypaint": [
+    "src/48x48/mypaint.png",
     "src/64x64/mypaint.png",
     "src/128x128/mypaint.png"
   ],
   "naev": [
+    "src/48x48/naev.png",
     "src/64x64/naev.png",
     "src/128x128/naev.png"
   ],
@@ -851,46 +1002,55 @@
     "src/128x128/ncspot.png"
   ],
   "neochat": [
+    "src/48x48/neochat.png",
     "src/64x64/neochat.png",
     "src/128x128/neochat.png"
   ],
   "neovide": [
+    "src/48x48/neovide.png",
     "src/64x64/neovide.png",
     "src/128x128/neovide.png"
   ],
   "neovim": [
+    "src/48x48/neovim.png",
     "src/64x64/neovim.png",
     "src/128x128/neovim.png"
   ],
   "newsflash": [
+    "src/48x48/newsflash.png",
     "src/64x64/newsflash.png",
     "src/128x128/newsflash.png"
   ],
   "nheko": [
+    "src/48x48/nheko.png",
     "src/64x64/nheko.png",
     "src/128x128/nheko.png"
   ],
   "nyxt": [
+    "src/48x48/nyxt.png",
     "src/64x64/nyxt.png",
     "src/128x128/nyxt.png"
   ],
   "obfuscate": [
+    "src/48x48/obfuscate.png",
     "src/64x64/obfuscate.png",
     "src/128x128/obfuscate.png"
   ],
   "oculante": [
+    "src/48x48/oculante.png",
     "src/64x64/oculante.png",
     "src/128x128/oculante.png"
   ],
   "openmw": [
-    "src/64x64/openmw.png",
-    "src/128x128/openmw.png"
+    "src/64x64/openmw.png"
   ],
   "openrgb": [
+    "src/48x48/openrgb.png",
     "src/64x64/openrgb.png",
     "src/128x128/openrgb.png"
   ],
   "openscad": [
+    "src/48x48/openscad.png",
     "src/64x64/openscad.png",
     "src/128x128/openscad.png"
   ],
@@ -899,42 +1059,51 @@
     "src/128x128/opentoonz.png"
   ],
   "openttd": [
+    "src/48x48/openttd.png",
     "src/64x64/openttd.png",
     "src/128x128/openttd.png"
   ],
   "optiimage": [
+    "src/48x48/optiimage.png",
     "src/64x64/optiimage.png",
     "src/128x128/optiimage.png"
   ],
   "palapeli": [
+    "src/48x48/palapeli.png",
     "src/64x64/palapeli.png",
     "src/128x128/palapeli.png"
   ],
   "paraview": [
-    "src/64x64/paraview.png",
-    "src/128x128/paraview.png"
+    "src/48x48/paraview.png",
+    "src/64x64/paraview.png"
   ],
   "photoflare": [
+    "src/48x48/photoflare.png",
     "src/64x64/photoflare.png",
     "src/128x128/photoflare.png"
   ],
   "picmi": [
+    "src/48x48/picmi.png",
     "src/64x64/picmi.png",
     "src/128x128/picmi.png"
   ],
   "pioneer": [
+    "src/48x48/pioneer.png",
     "src/64x64/pioneer.png",
     "src/128x128/pioneer.png"
   ],
   "pitivi": [
+    "src/48x48/pitivi.png",
     "src/64x64/pitivi.png",
     "src/128x128/pitivi.png"
   ],
   "plasmatube": [
+    "src/48x48/plasmatube.png",
     "src/64x64/plasmatube.png",
     "src/128x128/plasmatube.png"
   ],
   "poedit": [
+    "src/48x48/poedit.png",
     "src/64x64/poedit.png",
     "src/128x128/poedit.png"
   ],
@@ -943,6 +1112,7 @@
     "src/128x128/polyphone.png"
   ],
   "ppsspp": [
+    "src/48x48/ppsspp.png",
     "src/64x64/ppsspp.png",
     "src/128x128/ppsspp.png"
   ],
@@ -955,90 +1125,106 @@
     "src/128x128/projectm.png"
   ],
   "ptyxis": [
+    "src/48x48/ptyxis.png",
     "src/64x64/ptyxis.png",
     "src/128x128/ptyxis.png"
   ],
   "putty": [
-    "src/64x64/putty.png",
-    "src/128x128/putty.png"
+    "src/64x64/putty.png"
   ],
   "qflipper": [
     "src/64x64/qflipper.png",
     "src/128x128/qflipper.png"
   ],
   "qgit": [
+    "src/48x48/qgit.png",
     "src/64x64/qgit.png",
     "src/128x128/qgit.png"
   ],
   "qmlkonsole": [
+    "src/48x48/qmlkonsole.png",
     "src/64x64/qmlkonsole.png",
     "src/128x128/qmlkonsole.png"
   ],
   "qmmp": [
+    "src/48x48/qmmp.png",
     "src/64x64/qmmp.png",
     "src/128x128/qmmp.png"
   ],
   "qnapi": [
+    "src/48x48/qnapi.png",
     "src/64x64/qnapi.png",
     "src/128x128/qnapi.png"
   ],
   "qpwgraph": [
+    "src/48x48/qpwgraph.png",
     "src/64x64/qpwgraph.png",
     "src/128x128/qpwgraph.png"
   ],
   "qsynth": [
+    "src/48x48/qsynth.png",
     "src/64x64/qsynth.png",
     "src/128x128/qsynth.png"
   ],
   "qtractor": [
+    "src/48x48/qtractor.png",
     "src/64x64/qtractor.png",
     "src/128x128/qtractor.png"
   ],
   "quadrapassel": [
+    "src/48x48/quadrapassel.png",
     "src/64x64/quadrapassel.png",
     "src/128x128/quadrapassel.png"
   ],
   "racket": [
+    "src/48x48/racket.png",
     "src/64x64/racket.png",
     "src/128x128/racket.png"
   ],
   "railway": [
+    "src/48x48/railway.png",
     "src/64x64/railway.png",
     "src/128x128/railway.png"
   ],
   "readest": [
+    "src/48x48/readest.png",
     "src/64x64/readest.png",
     "src/128x128/readest.png"
   ],
   "recoll": [
+    "src/48x48/recoll.png",
     "src/64x64/recoll.png",
     "src/128x128/recoll.png"
   ],
   "remmina": [
+    "src/48x48/remmina.png",
     "src/64x64/remmina.png",
     "src/128x128/remmina.png"
   ],
   "resources": [
+    "src/48x48/resources.png",
     "src/64x64/resources.png",
     "src/128x128/resources.png"
   ],
   "retroarch": [
-    "src/64x64/retroarch.png",
-    "src/128x128/retroarch.png"
+    "src/64x64/retroarch.png"
   ],
   "riff": [
     "src/64x64/riff.png",
     "src/128x128/riff.png"
   ],
   "rio": [
+    "src/48x48/rio.png",
     "src/64x64/rio.png",
     "src/128x128/rio.png"
   ],
   "ristretto": [
+    "src/48x48/ristretto.png",
     "src/64x64/ristretto.png",
     "src/128x128/ristretto.png"
   ],
   "rnote": [
+    "src/48x48/rnote.png",
     "src/64x64/rnote.png",
     "src/128x128/rnote.png"
   ],
@@ -1047,18 +1233,21 @@
     "src/128x128/root.png"
   ],
   "rosegarden": [
+    "src/48x48/rosegarden.png",
     "src/64x64/rosegarden.png",
     "src/128x128/rosegarden.png"
   ],
   "scite": [
-    "src/64x64/scite.png",
-    "src/128x128/scite.png"
+    "src/48x48/scite.png",
+    "src/64x64/scite.png"
   ],
   "scribus": [
+    "src/48x48/scribus.png",
     "src/64x64/scribus.png",
     "src/128x128/scribus.png"
   ],
   "scummvm": [
+    "src/48x48/scummvm.png",
     "src/64x64/scummvm.png",
     "src/128x128/scummvm.png"
   ],
@@ -1067,26 +1256,32 @@
     "src/128x128/selene.png"
   ],
   "shortwave": [
+    "src/48x48/shortwave.png",
     "src/64x64/shortwave.png",
     "src/128x128/shortwave.png"
   ],
   "shotcut": [
+    "src/48x48/shotcut.png",
     "src/64x64/shotcut.png",
     "src/128x128/shotcut.png"
   ],
   "sigil": [
+    "src/48x48/sigil.png",
     "src/64x64/sigil.png",
     "src/128x128/sigil.png"
   ],
   "simutrans": [
+    "src/48x48/simutrans.png",
     "src/64x64/simutrans.png",
     "src/128x128/simutrans.png"
   ],
   "skrooge": [
+    "src/48x48/skrooge.png",
     "src/64x64/skrooge.png",
     "src/128x128/skrooge.png"
   ],
   "smplayer": [
+    "src/48x48/smplayer.png",
     "src/64x64/smplayer.png",
     "src/128x128/smplayer.png"
   ],
@@ -1099,30 +1294,35 @@
     "src/128x128/snowball.png"
   ],
   "solanum": [
+    "src/48x48/solanum.png",
     "src/64x64/solanum.png",
     "src/128x128/solanum.png"
   ],
   "songrec": [
+    "src/48x48/songrec.png",
     "src/64x64/songrec.png",
     "src/128x128/songrec.png"
   ],
   "speedcrunch": [
-    "src/64x64/speedcrunch.png",
-    "src/128x128/speedcrunch.png"
+    "src/64x64/speedcrunch.png"
   ],
   "spice-up": [
+    "src/48x48/spice-up.png",
     "src/64x64/spice-up.png",
     "src/128x128/spice-up.png"
   ],
   "stella": [
+    "src/48x48/stella.png",
     "src/64x64/stella.png",
     "src/128x128/stella.png"
   ],
   "stellarium": [
+    "src/48x48/stellarium.png",
     "src/64x64/stellarium.png",
     "src/128x128/stellarium.png"
   ],
   "supertuxkart": [
+    "src/48x48/supertuxkart.png",
     "src/64x64/supertuxkart.png",
     "src/128x128/supertuxkart.png"
   ],
@@ -1131,22 +1331,24 @@
     "src/128x128/swi-prolog.png"
   ],
   "switcheroo": [
+    "src/48x48/switcheroo.png",
     "src/64x64/switcheroo.png",
     "src/128x128/switcheroo.png"
   ],
   "tali": [
+    "src/48x48/tali.png",
     "src/64x64/tali.png",
     "src/128x128/tali.png"
   ],
   "teeworlds": [
-    "src/64x64/teeworlds.png",
-    "src/128x128/teeworlds.png"
+    "src/64x64/teeworlds.png"
   ],
   "tempo": [
     "src/64x64/tempo.png",
     "src/128x128/tempo.png"
   ],
   "tenacity": [
+    "src/48x48/tenacity.png",
     "src/64x64/tenacity.png",
     "src/128x128/tenacity.png"
   ],
@@ -1155,74 +1357,86 @@
     "src/128x128/tesseract.png"
   ],
   "texmaker": [
-    "src/64x64/texmaker.png",
-    "src/128x128/texmaker.png"
+    "src/64x64/texmaker.png"
   ],
   "texstudio": [
+    "src/48x48/texstudio.png",
     "src/64x64/texstudio.png",
     "src/128x128/texstudio.png"
   ],
   "tipp10": [
+    "src/48x48/tipp10.png",
     "src/64x64/tipp10.png",
     "src/128x128/tipp10.png"
   ],
   "tokodon": [
+    "src/48x48/tokodon.png",
     "src/64x64/tokodon.png",
     "src/128x128/tokodon.png"
   ],
   "tuba": [
+    "src/48x48/tuba.png",
     "src/64x64/tuba.png",
     "src/128x128/tuba.png"
   ],
   "typography": [
+    "src/48x48/typography.png",
     "src/64x64/typography.png",
     "src/128x128/typography.png"
   ],
   "uget": [
+    "src/48x48/uget.png",
     "src/64x64/uget.png",
     "src/128x128/uget.png"
   ],
   "unison": [
+    "src/48x48/unison.png",
     "src/64x64/unison.png",
     "src/128x128/unison.png"
   ],
   "viking": [
-    "src/64x64/viking.png",
-    "src/128x128/viking.png"
+    "src/48x48/viking.png",
+    "src/64x64/viking.png"
   ],
   "vivaldi": [
+    "src/48x48/vivaldi.png",
     "src/64x64/vivaldi.png",
     "src/128x128/vivaldi.png"
   ],
   "vlc": [
+    "src/48x48/vlc.png",
     "src/64x64/vlc.png",
     "src/128x128/vlc.png"
   ],
   "vmpk": [
+    "src/48x48/vmpk.png",
     "src/64x64/vmpk.png",
     "src/128x128/vmpk.png"
   ],
   "vym": [
-    "src/64x64/vym.png",
-    "src/128x128/vym.png"
+    "src/48x48/vym.png",
+    "src/64x64/vym.png"
   ],
   "warp": [
+    "src/48x48/warp.png",
     "src/64x64/warp.png",
     "src/128x128/warp.png"
   ],
   "warsow": [
-    "src/64x64/warsow.png",
-    "src/128x128/warsow.png"
+    "src/64x64/warsow.png"
   ],
   "waycheck": [
+    "src/48x48/waycheck.png",
     "src/64x64/waycheck.png",
     "src/128x128/waycheck.png"
   ],
   "widelands": [
+    "src/48x48/widelands.png",
     "src/64x64/widelands.png",
     "src/128x128/widelands.png"
   ],
   "wildcard": [
+    "src/48x48/wildcard.png",
     "src/64x64/wildcard.png",
     "src/128x128/wildcard.png"
   ],
@@ -1231,18 +1445,20 @@
     "src/128x128/wine.png"
   ],
   "xaos": [
-    "src/64x64/xaos.png",
-    "src/128x128/xaos.png"
+    "src/64x64/xaos.png"
   ],
   "xca": [
+    "src/48x48/xca.png",
     "src/64x64/xca.png",
     "src/128x128/xca.png"
   ],
   "xiphos": [
+    "src/48x48/xiphos.png",
     "src/64x64/xiphos.png",
     "src/128x128/xiphos.png"
   ],
   "xonotic": [
+    "src/48x48/xonotic.png",
     "src/64x64/xonotic.png",
     "src/128x128/xonotic.png"
   ],
@@ -1251,18 +1467,18 @@
     "src/128x128/yass.png"
   ],
   "zaz": [
-    "src/64x64/zaz.png",
-    "src/128x128/zaz.png"
+    "src/64x64/zaz.png"
   ],
   "zeal": [
+    "src/48x48/zeal.png",
     "src/64x64/zeal.png",
     "src/128x128/zeal.png"
   ],
   "zed": [
-    "src/64x64/zed.png",
-    "src/128x128/zed.png"
+    "src/64x64/zed.png"
   ],
   "zettlr": [
+    "src/48x48/zettlr.png",
     "src/64x64/zettlr.png",
     "src/128x128/zettlr.png"
   ],
@@ -1343,62 +1559,69 @@
     "src/128x128/zotero.png"
   ],
   "apostrophe": [
+    "src/48x48/apostrophe.png",
     "src/64x64/apostrophe.png",
     "src/128x128/apostrophe.png"
   ],
   "audacity": [
-    "src/128x128/audacity.png",
+    "src/48x48/audacity.png",
     "src/64x64/audacity.png",
-    "src/48x48/audacity.png"
+    "src/128x128/audacity.png"
   ],
   "bespokesynth": [
-    "src/128x128/bespokesynth.png",
     "src/64x64/bespokesynth.png",
-    "src/48x48/bespokesynth.png"
+    "src/128x128/bespokesynth.png"
   ],
   "biblioteca": [
+    "src/48x48/biblioteca.png",
     "src/64x64/biblioteca.png",
     "src/128x128/biblioteca.png"
   ],
   "binary": [
-    "src/128x128/binary.png",
+    "src/48x48/binary.png",
     "src/64x64/binary.png",
-    "src/48x48/binary.png"
+    "src/128x128/binary.png"
   ],
   "blanket": [
-    "src/128x128/blanket.png",
+    "src/48x48/blanket.png",
     "src/64x64/blanket.png",
-    "src/48x48/blanket.png"
+    "src/128x128/blanket.png"
   ],
   "bleachbit": [
-    "src/64x64/bleachbit.png",
-    "src/128x128/bleachbit.png"
+    "src/64x64/bleachbit.png"
   ],
   "blender": [
+    "src/48x48/blender.png",
     "src/64x64/blender.png",
     "src/128x128/blender.png"
   ],
   "bustle": [
+    "src/48x48/bustle.png",
     "src/64x64/bustle.png",
     "src/128x128/bustle.png"
   ],
   "cameractrls": [
+    "src/48x48/cameractrls.png",
     "src/64x64/cameractrls.png",
     "src/128x128/cameractrls.png"
   ],
   "cartridges": [
+    "src/48x48/cartridges.png",
     "src/64x64/cartridges.png",
     "src/128x128/cartridges.png"
   ],
   "cherrytree": [
+    "src/48x48/cherrytree.png",
     "src/64x64/cherrytree.png",
     "src/128x128/cherrytree.png"
   ],
   "commit": [
+    "src/48x48/commit.png",
     "src/64x64/commit.png",
     "src/128x128/commit.png"
   ],
   "curtail": [
+    "src/48x48/curtail.png",
     "src/64x64/curtail.png",
     "src/128x128/curtail.png"
   ],
@@ -1411,36 +1634,42 @@
     "src/128x128/deluge.png"
   ],
   "dialect": [
+    "src/48x48/dialect.png",
     "src/64x64/dialect.png",
     "src/128x128/dialect.png"
   ],
   "diffuse": [
+    "src/48x48/diffuse.png",
     "src/64x64/diffuse.png",
     "src/128x128/diffuse.png"
   ],
   "displaycal": [
+    "src/48x48/displaycal.png",
     "src/64x64/displaycal.png",
     "src/128x128/displaycal.png"
   ],
   "drawing": [
+    "src/48x48/drawing.png",
     "src/64x64/drawing.png",
     "src/128x128/drawing.png"
   ],
   "electrum": [
-    "src/128x128/electrum.png",
+    "src/48x48/electrum.png",
     "src/64x64/electrum.png",
-    "src/48x48/electrum.png"
+    "src/128x128/electrum.png"
   ],
   "element": [
+    "src/48x48/element.png",
     "src/64x64/element.png",
     "src/128x128/element.png"
   ],
   "endeavour": [
-    "src/128x128/endeavour.png",
+    "src/48x48/endeavour.png",
     "src/64x64/endeavour.png",
-    "src/48x48/endeavour.png"
+    "src/128x128/endeavour.png"
   ],
   "errands": [
+    "src/48x48/errands.png",
     "src/64x64/errands.png",
     "src/128x128/errands.png"
   ],
@@ -1449,73 +1678,79 @@
     "src/128x128/flatseal.png"
   ],
   "flowblade": [
-    "src/128x128/flowblade.png",
+    "src/48x48/flowblade.png",
     "src/64x64/flowblade.png",
-    "src/48x48/flowblade.png"
+    "src/128x128/flowblade.png"
   ],
   "foliate": [
-    "src/128x128/foliate.png",
+    "src/48x48/foliate.png",
     "src/64x64/foliate.png",
-    "src/48x48/foliate.png"
+    "src/128x128/foliate.png"
   ],
   "freecad": [
-    "src/128x128/freecad.png",
+    "src/48x48/freecad.png",
     "src/64x64/freecad.png",
-    "src/48x48/freecad.png"
+    "src/128x128/freecad.png"
   ],
   "freecol": [
     "src/64x64/freecol.png",
     "src/128x128/freecol.png"
   ],
   "freeplane": [
-    "src/64x64/freeplane.png",
-    "src/128x128/freeplane.png"
+    "src/64x64/freeplane.png"
   ],
   "frescobaldi": [
+    "src/48x48/frescobaldi.png",
     "src/64x64/frescobaldi.png",
     "src/128x128/frescobaldi.png"
   ],
   "gajim": [
+    "src/48x48/gajim.png",
     "src/64x64/gajim.png",
     "src/128x128/gajim.png"
   ],
   "gaphor": [
+    "src/48x48/gaphor.png",
     "src/64x64/gaphor.png",
     "src/128x128/gaphor.png"
   ],
   "geeqie": [
-    "src/128x128/geeqie.png",
+    "src/48x48/geeqie.png",
     "src/64x64/geeqie.png",
-    "src/48x48/geeqie.png"
+    "src/128x128/geeqie.png"
   ],
   "genius": [
-    "src/128x128/genius.png",
+    "src/48x48/genius.png",
     "src/64x64/genius.png",
-    "src/48x48/genius.png"
+    "src/128x128/genius.png"
   ],
   "geogebra": [
-    "src/128x128/geogebra.png",
+    "src/48x48/geogebra.png",
     "src/64x64/geogebra.png",
-    "src/48x48/geogebra.png"
+    "src/128x128/geogebra.png"
   ],
   "gitg": [
+    "src/48x48/gitg.png",
     "src/64x64/gitg.png",
     "src/128x128/gitg.png"
   ],
   "gpodder": [
-    "src/128x128/gpodder.png",
+    "src/48x48/gpodder.png",
     "src/64x64/gpodder.png",
-    "src/48x48/gpodder.png"
+    "src/128x128/gpodder.png"
   ],
   "gramps": [
+    "src/48x48/gramps.png",
     "src/64x64/gramps.png",
     "src/128x128/gramps.png"
   ],
   "hedgewars": [
+    "src/48x48/hedgewars.png",
     "src/64x64/hedgewars.png",
     "src/128x128/hedgewars.png"
   ],
   "helvum": [
+    "src/48x48/helvum.png",
     "src/64x64/helvum.png",
     "src/128x128/helvum.png"
   ],
@@ -1524,6 +1759,7 @@
     "src/128x128/httpie.png"
   ],
   "iotas": [
+    "src/48x48/iotas.png",
     "src/64x64/iotas.png",
     "src/128x128/iotas.png"
   ],
@@ -1532,54 +1768,64 @@
     "src/128x128/jadx.png"
   ],
   "josm": [
+    "src/48x48/josm.png",
     "src/64x64/josm.png",
     "src/128x128/josm.png"
   ],
   "junction": [
+    "src/48x48/junction.png",
     "src/64x64/junction.png",
     "src/128x128/junction.png"
   ],
   "kodi": [
+    "src/48x48/kodi.png",
     "src/64x64/kodi.png",
     "src/128x128/kodi.png"
   ],
   "komikku": [
+    "src/48x48/komikku.png",
     "src/64x64/komikku.png",
     "src/128x128/komikku.png"
   ],
   "ktimetracker": [
-    "src/64x64/ktimetracker.png",
-    "src/128x128/ktimetracker.png"
+    "src/48x48/ktimetracker.png",
+    "src/64x64/ktimetracker.png"
   ],
   "lapce": [
-    "src/64x64/lapce.png",
-    "src/128x128/lapce.png"
+    "src/64x64/lapce.png"
   ],
   "lincity-ng": [
+    "src/48x48/lincity-ng.png",
     "src/64x64/lincity-ng.png",
     "src/128x128/lincity-ng.png"
   ],
   "lmms": [
+    "src/48x48/lmms.png",
     "src/64x64/lmms.png",
     "src/128x128/lmms.png"
   ],
   "lollypop": [
+    "src/48x48/lollypop.png",
     "src/64x64/lollypop.png",
     "src/128x128/lollypop.png"
   ],
   "lutris": [
+    "src/48x48/lutris.png",
     "src/64x64/lutris.png",
     "src/128x128/lutris.png"
   ],
   "mame": [
+    "src/48x48/mame.png",
     "src/64x64/mame.png",
     "src/128x128/mame.png"
   ],
   "manuskript": [
+    "src/48x48/manuskript.png",
     "src/64x64/manuskript.png",
     "src/128x128/manuskript.png"
   ],
   "mediathekview": [
+    "src/48x48/mediathekview.png",
     "src/64x64/mediathekview.png",
     "src/128x128/mediathekview.png"
   ],
@@ -1588,38 +1834,45 @@
     "src/128x128/mitmproxy.png"
   ],
   "mixxx": [
+    "src/48x48/mixxx.png",
     "src/64x64/mixxx.png",
     "src/128x128/mixxx.png"
   ],
   "morphosis": [
+    "src/48x48/morphosis.png",
     "src/64x64/morphosis.png",
     "src/128x128/morphosis.png"
   ],
   "nicotine\u002B": [
+    "src/48x48/nicotine\u002B.png",
     "src/64x64/nicotine\u002B.png",
     "src/128x128/nicotine\u002B.png"
   ],
   "obsidian": [
-    "src/64x64/obsidian.png",
-    "src/128x128/obsidian.png"
+    "src/64x64/obsidian.png"
   ],
   "ocrfeeder": [
+    "src/48x48/ocrfeeder.png",
     "src/64x64/ocrfeeder.png",
     "src/128x128/ocrfeeder.png"
   ],
   "onionshare": [
+    "src/48x48/onionshare.png",
     "src/64x64/onionshare.png",
     "src/128x128/onionshare.png"
   ],
   "openra": [
+    "src/48x48/openra.png",
     "src/64x64/openra.png",
     "src/128x128/openra.png"
   ],
   "openrct2": [
+    "src/48x48/openrct2.png",
     "src/64x64/openrct2.png",
     "src/128x128/openrct2.png"
   ],
   "osmo": [
+    "src/48x48/osmo.png",
     "src/64x64/osmo.png",
     "src/128x128/osmo.png"
   ],
@@ -1628,6 +1881,7 @@
     "src/128x128/pencil2d.png"
   ],
   "piper": [
+    "src/48x48/piper.png",
     "src/64x64/piper.png",
     "src/128x128/piper.png"
   ],
@@ -1640,18 +1894,22 @@
     "src/128x128/protontricks.png"
   ],
   "pysolfc": [
+    "src/48x48/pysolfc.png",
     "src/64x64/pysolfc.png",
     "src/128x128/pysolfc.png"
   ],
   "pyzo": [
+    "src/48x48/pyzo.png",
     "src/64x64/pyzo.png",
     "src/128x128/pyzo.png"
   ],
   "qbittorrent": [
+    "src/48x48/qbittorrent.png",
     "src/64x64/qbittorrent.png",
     "src/128x128/qbittorrent.png"
   ],
   "rawtherapee": [
+    "src/48x48/rawtherapee.png",
     "src/64x64/rawtherapee.png",
     "src/128x128/rawtherapee.png"
   ],
@@ -1660,34 +1918,40 @@
     "src/128x128/reaper.png"
   ],
   "rednotebook": [
+    "src/48x48/rednotebook.png",
     "src/64x64/rednotebook.png",
     "src/128x128/rednotebook.png"
   ],
   "retext": [
+    "src/48x48/retext.png",
     "src/64x64/retext.png",
     "src/128x128/retext.png"
   ],
   "sauerbraten": [
-    "src/64x64/sauerbraten.png",
-    "src/128x128/sauerbraten.png"
+    "src/64x64/sauerbraten.png"
   ],
   "secrets": [
+    "src/48x48/secrets.png",
     "src/64x64/secrets.png",
     "src/128x128/secrets.png"
   ],
   "setzer": [
+    "src/48x48/setzer.png",
     "src/64x64/setzer.png",
     "src/128x128/setzer.png"
   ],
   "solaar": [
+    "src/48x48/solaar.png",
     "src/64x64/solaar.png",
     "src/128x128/solaar.png"
   ],
   "soundconverter": [
+    "src/48x48/soundconverter.png",
     "src/64x64/soundconverter.png",
     "src/128x128/soundconverter.png"
   ],
   "spyder": [
+    "src/48x48/spyder.png",
     "src/64x64/spyder.png",
     "src/128x128/spyder.png"
   ],
@@ -1696,14 +1960,17 @@
     "src/128x128/stochas.png"
   ],
   "supertux": [
+    "src/48x48/supertux.png",
     "src/64x64/supertux.png",
     "src/128x128/supertux.png"
   ],
   "tangram": [
+    "src/48x48/tangram.png",
     "src/64x64/tangram.png",
     "src/128x128/tangram.png"
   ],
   "texworks": [
+    "src/48x48/texworks.png",
     "src/64x64/texworks.png",
     "src/128x128/texworks.png"
   ],
@@ -1712,6 +1979,7 @@
     "src/128x128/twine.png"
   ],
   "valuta": [
+    "src/48x48/valuta.png",
     "src/64x64/valuta.png",
     "src/128x128/valuta.png"
   ],
@@ -1720,14 +1988,17 @@
     "src/128x128/vice.png"
   ],
   "vorta": [
+    "src/48x48/vorta.png",
     "src/64x64/vorta.png",
     "src/128x128/vorta.png"
   ],
   "warpinator": [
+    "src/48x48/warpinator.png",
     "src/64x64/warpinator.png",
     "src/128x128/warpinator.png"
   ],
   "wike": [
+    "src/48x48/wike.png",
     "src/64x64/wike.png",
     "src/128x128/wike.png"
   ],
@@ -1736,10 +2007,10 @@
     "src/128x128/words.png"
   ],
   "zenmap": [
-    "src/64x64/zenmap.png",
-    "src/128x128/zenmap.png"
+    "src/64x64/zenmap.png"
   ],
   "zim": [
+    "src/48x48/zim.png",
     "src/64x64/zim.png",
     "src/128x128/zim.png"
   ],
@@ -3525,9 +3796,9 @@
     "src/48x48/abuild.png"
   ],
   "accerciser": [
-    "src/128x128/accerciser.png",
+    "src/48x48/accerciser.png",
     "src/64x64/accerciser.png",
-    "src/48x48/accerciser.png"
+    "src/128x128/accerciser.png"
   ],
   "aeolus": [
     "src/128x128/aeolus.png",
@@ -3570,9 +3841,9 @@
     "src/48x48/allegro.png"
   ],
   "almanah": [
-    "src/128x128/almanah.png",
+    "src/48x48/almanah.png",
     "src/64x64/almanah.png",
-    "src/48x48/almanah.png"
+    "src/128x128/almanah.png"
   ],
   "alpine-keyring": [
     "src/128x128/alpine-keyring.png",
@@ -3610,9 +3881,9 @@
     "src/48x48/analitza.png"
   ],
   "angband": [
-    "src/128x128/angband.png",
+    "src/48x48/angband.png",
     "src/64x64/angband.png",
-    "src/48x48/angband.png"
+    "src/128x128/angband.png"
   ],
   "ansible": [
     "src/128x128/ansible.png",
@@ -3645,9 +3916,9 @@
     "src/48x48/apr.png"
   ],
   "arca": [
-    "src/128x128/arca.png",
+    "src/48x48/arca.png",
     "src/64x64/arca.png",
-    "src/48x48/arca.png"
+    "src/128x128/arca.png"
   ],
   "arch-rebuild-order": [
     "src/128x128/arch-rebuild-order.png",
@@ -3715,9 +3986,9 @@
     "src/48x48/aspell-el.png"
   ],
   "atril": [
-    "src/128x128/atril.png",
+    "src/48x48/atril.png",
     "src/64x64/atril.png",
-    "src/48x48/atril.png"
+    "src/128x128/atril.png"
   ],
   "attica": [
     "src/128x128/attica.png",
@@ -3730,9 +4001,9 @@
     "src/48x48/audaspace.png"
   ],
   "audio-sharing": [
-    "src/128x128/audio-sharing.png",
+    "src/48x48/audio-sharing.png",
     "src/64x64/audio-sharing.png",
-    "src/48x48/audio-sharing.png"
+    "src/128x128/audio-sharing.png"
   ],
   "audiobookshelf": [
     "src/128x128/audiobookshelf.png",
@@ -3745,9 +4016,9 @@
     "src/48x48/augeas.png"
   ],
   "auto-multiple-choice": [
-    "src/128x128/auto-multiple-choice.png",
+    "src/48x48/auto-multiple-choice.png",
     "src/64x64/auto-multiple-choice.png",
-    "src/48x48/auto-multiple-choice.png"
+    "src/128x128/auto-multiple-choice.png"
   ],
   "avogadrolibs": [
     "src/128x128/avogadrolibs.png",
@@ -3775,9 +4046,9 @@
     "src/48x48/bacon.png"
   ],
   "baka-mplayer": [
-    "src/128x128/baka-mplayer.png",
+    "src/48x48/baka-mplayer.png",
     "src/64x64/baka-mplayer.png",
-    "src/48x48/baka-mplayer.png"
+    "src/128x128/baka-mplayer.png"
   ],
   "bazel": [
     "src/128x128/bazel.png",
@@ -3795,9 +4066,7 @@
     "src/48x48/bearssl.png"
   ],
   "beebeep": [
-    "src/128x128/beebeep.png",
-    "src/64x64/beebeep.png",
-    "src/48x48/beebeep.png"
+    "src/64x64/beebeep.png"
   ],
   "benzene": [
     "src/128x128/benzene.png",
@@ -3855,9 +4124,9 @@
     "src/48x48/bluetooth-support.png"
   ],
   "boinc": [
-    "src/128x128/boinc.png",
+    "src/48x48/boinc.png",
     "src/64x64/boinc.png",
-    "src/48x48/boinc.png"
+    "src/128x128/boinc.png"
   ],
   "boost": [
     "src/128x128/boost.png",
@@ -3880,9 +4149,7 @@
     "src/48x48/box2d.png"
   ],
   "bpython": [
-    "src/128x128/bpython.png",
-    "src/64x64/bpython.png",
-    "src/48x48/bpython.png"
+    "src/64x64/bpython.png"
   ],
   "browserify": [
     "src/128x128/browserify.png",
@@ -3895,9 +4162,7 @@
     "src/48x48/bullet.png"
   ],
   "byobu": [
-    "src/128x128/byobu.png",
-    "src/64x64/byobu.png",
-    "src/48x48/byobu.png"
+    "src/64x64/byobu.png"
   ],
   "bzip2": [
     "src/128x128/bzip2.png",
@@ -3940,9 +4205,9 @@
     "src/48x48/calf.png"
   ],
   "cantarell-fonts": [
-    "src/128x128/cantarell-fonts.png",
+    "src/48x48/cantarell-fonts.png",
     "src/64x64/cantarell-fonts.png",
-    "src/48x48/cantarell-fonts.png"
+    "src/128x128/cantarell-fonts.png"
   ],
   "cartridge-cli": [
     "src/128x128/cartridge-cli.png",
@@ -3950,9 +4215,9 @@
     "src/48x48/cartridge-cli.png"
   ],
   "catfish": [
-    "src/128x128/catfish.png",
+    "src/48x48/catfish.png",
     "src/64x64/catfish.png",
-    "src/48x48/catfish.png"
+    "src/128x128/catfish.png"
   ],
   "ccfits": [
     "src/128x128/ccfits.png",
@@ -3985,9 +4250,9 @@
     "src/48x48/checkbashisms.png"
   ],
   "chess-clock": [
-    "src/128x128/chess-clock.png",
+    "src/48x48/chess-clock.png",
     "src/64x64/chess-clock.png",
-    "src/48x48/chess-clock.png"
+    "src/128x128/chess-clock.png"
   ],
   "chezmoi": [
     "src/128x128/chezmoi.png",
@@ -4080,9 +4345,9 @@
     "src/48x48/couchdb.png"
   ],
   "cozy-desktop": [
-    "src/128x128/cozy-desktop.png",
+    "src/48x48/cozy-desktop.png",
     "src/64x64/cozy-desktop.png",
-    "src/48x48/cozy-desktop.png"
+    "src/128x128/cozy-desktop.png"
   ],
   "cozy-stack": [
     "src/128x128/cozy-stack.png",
@@ -4215,19 +4480,19 @@
     "src/48x48/diffoscope.png"
   ],
   "digikam": [
-    "src/128x128/digikam.png",
+    "src/48x48/digikam.png",
     "src/64x64/digikam.png",
-    "src/48x48/digikam.png"
+    "src/128x128/digikam.png"
   ],
   "dillo": [
-    "src/128x128/dillo.png",
+    "src/48x48/dillo.png",
     "src/64x64/dillo.png",
-    "src/48x48/dillo.png"
+    "src/128x128/dillo.png"
   ],
   "din": [
-    "src/128x128/din.png",
+    "src/48x48/din.png",
     "src/64x64/din.png",
-    "src/48x48/din.png"
+    "src/128x128/din.png"
   ],
   "disorderfs": [
     "src/128x128/disorderfs.png",
@@ -4290,14 +4555,14 @@
     "src/48x48/docbook-xsl.png"
   ],
   "dolphin": [
-    "src/128x128/dolphin.png",
+    "src/48x48/dolphin.png",
     "src/64x64/dolphin.png",
-    "src/48x48/dolphin.png"
+    "src/128x128/dolphin.png"
   ],
   "dolphin-emu": [
-    "src/128x128/dolphin-emu.png",
+    "src/48x48/dolphin-emu.png",
     "src/64x64/dolphin-emu.png",
-    "src/48x48/dolphin-emu.png"
+    "src/128x128/dolphin-emu.png"
   ],
   "dovecot": [
     "src/128x128/dovecot.png",
@@ -4335,9 +4600,7 @@
     "src/48x48/dumb.png"
   ],
   "dwarffortress": [
-    "src/128x128/dwarffortress.png",
-    "src/64x64/dwarffortress.png",
-    "src/48x48/dwarffortress.png"
+    "src/64x64/dwarffortress.png"
   ],
   "e16": [
     "src/128x128/e16.png",
@@ -4445,9 +4708,9 @@
     "src/48x48/exploitdb.png"
   ],
   "extension-manager": [
-    "src/128x128/extension-manager.png",
+    "src/48x48/extension-manager.png",
     "src/64x64/extension-manager.png",
-    "src/48x48/extension-manager.png"
+    "src/128x128/extension-manager.png"
   ],
   "fabric": [
     "src/128x128/fabric.png",
@@ -4485,9 +4748,7 @@
     "src/48x48/fftw.png"
   ],
   "fillets-ng": [
-    "src/128x128/fillets-ng.png",
-    "src/64x64/fillets-ng.png",
-    "src/48x48/fillets-ng.png"
+    "src/64x64/fillets-ng.png"
   ],
   "finch": [
     "src/128x128/finch.png",
@@ -4595,9 +4856,9 @@
     "src/48x48/gap.png"
   ],
   "gaupol": [
-    "src/128x128/gaupol.png",
+    "src/48x48/gaupol.png",
     "src/64x64/gaupol.png",
-    "src/48x48/gaupol.png"
+    "src/128x128/gaupol.png"
   ],
   "gd": [
     "src/128x128/gd.png",
@@ -4615,9 +4876,9 @@
     "src/48x48/geany-plugins.png"
   ],
   "gedit": [
-    "src/128x128/gedit.png",
+    "src/48x48/gedit.png",
     "src/64x64/gedit.png",
-    "src/48x48/gedit.png"
+    "src/128x128/gedit.png"
   ],
   "gegl": [
     "src/128x128/gegl.png",
@@ -4645,9 +4906,9 @@
     "src/48x48/gi-docgen.png"
   ],
   "giac": [
-    "src/128x128/giac.png",
+    "src/48x48/giac.png",
     "src/64x64/giac.png",
-    "src/48x48/giac.png"
+    "src/128x128/giac.png"
   ],
   "gif2png": [
     "src/128x128/gif2png.png",
@@ -4685,9 +4946,9 @@
     "src/48x48/git.png"
   ],
   "git-annex": [
-    "src/128x128/git-annex.png",
+    "src/48x48/git-annex.png",
     "src/64x64/git-annex.png",
-    "src/48x48/git-annex.png"
+    "src/128x128/git-annex.png"
   ],
   "git-crypt": [
     "src/128x128/git-crypt.png",
@@ -4700,9 +4961,9 @@
     "src/48x48/gitea.png"
   ],
   "glade": [
-    "src/128x128/glade.png",
+    "src/48x48/glade.png",
     "src/64x64/glade.png",
-    "src/48x48/glade.png"
+    "src/128x128/glade.png"
   ],
   "glances": [
     "src/128x128/glances.png",
@@ -4720,9 +4981,8 @@
     "src/48x48/glfw.png"
   ],
   "glob2": [
-    "src/128x128/glob2.png",
-    "src/64x64/glob2.png",
-    "src/48x48/glob2.png"
+    "src/48x48/glob2.png",
+    "src/64x64/glob2.png"
   ],
   "gmm": [
     "src/128x128/gmm.png",
@@ -4745,9 +5005,9 @@
     "src/48x48/gmt.png"
   ],
   "gnome-multi-writer": [
-    "src/128x128/gnome-multi-writer.png",
+    "src/48x48/gnome-multi-writer.png",
     "src/64x64/gnome-multi-writer.png",
-    "src/48x48/gnome-multi-writer.png"
+    "src/128x128/gnome-multi-writer.png"
   ],
   "gnome-online-accounts": [
     "src/128x128/gnome-online-accounts.png",
@@ -4755,9 +5015,9 @@
     "src/48x48/gnome-online-accounts.png"
   ],
   "gnome-photos": [
-    "src/128x128/gnome-photos.png",
+    "src/48x48/gnome-photos.png",
     "src/64x64/gnome-photos.png",
-    "src/48x48/gnome-photos.png"
+    "src/128x128/gnome-photos.png"
   ],
   "gnome-shell-extension-desktop-icons-ng": [
     "src/128x128/gnome-shell-extension-desktop-icons-ng.png",
@@ -4765,19 +5025,19 @@
     "src/48x48/gnome-shell-extension-desktop-icons-ng.png"
   ],
   "gnome-tweaks": [
-    "src/128x128/gnome-tweaks.png",
+    "src/48x48/gnome-tweaks.png",
     "src/64x64/gnome-tweaks.png",
-    "src/48x48/gnome-tweaks.png"
+    "src/128x128/gnome-tweaks.png"
   ],
   "gnome-usage": [
-    "src/128x128/gnome-usage.png",
+    "src/48x48/gnome-usage.png",
     "src/64x64/gnome-usage.png",
-    "src/48x48/gnome-usage.png"
+    "src/128x128/gnome-usage.png"
   ],
   "gnome-weather": [
-    "src/128x128/gnome-weather.png",
+    "src/48x48/gnome-weather.png",
     "src/64x64/gnome-weather.png",
-    "src/48x48/gnome-weather.png"
+    "src/128x128/gnome-weather.png"
   ],
   "gnucash-docs": [
     "src/128x128/gnucash-docs.png",
@@ -4785,9 +5045,9 @@
     "src/48x48/gnucash-docs.png"
   ],
   "gnumeric": [
-    "src/128x128/gnumeric.png",
+    "src/48x48/gnumeric.png",
     "src/64x64/gnumeric.png",
-    "src/48x48/gnumeric.png"
+    "src/128x128/gnumeric.png"
   ],
   "gnupg": [
     "src/128x128/gnupg.png",
@@ -4820,14 +5080,14 @@
     "src/48x48/gource.png"
   ],
   "gpac": [
-    "src/128x128/gpac.png",
+    "src/48x48/gpac.png",
     "src/64x64/gpac.png",
-    "src/48x48/gpac.png"
+    "src/128x128/gpac.png"
   ],
   "gparted": [
-    "src/128x128/gparted.png",
+    "src/48x48/gparted.png",
     "src/64x64/gparted.png",
-    "src/48x48/gparted.png"
+    "src/128x128/gparted.png"
   ],
   "gphoto2": [
     "src/128x128/gphoto2.png",
@@ -4835,24 +5095,22 @@
     "src/48x48/gphoto2.png"
   ],
   "gpick": [
-    "src/128x128/gpick.png",
+    "src/48x48/gpick.png",
     "src/64x64/gpick.png",
-    "src/48x48/gpick.png"
+    "src/128x128/gpick.png"
   ],
   "gpsbabel": [
-    "src/128x128/gpsbabel.png",
+    "src/48x48/gpsbabel.png",
     "src/64x64/gpsbabel.png",
-    "src/48x48/gpsbabel.png"
+    "src/128x128/gpsbabel.png"
   ],
   "gpscorrelate": [
-    "src/128x128/gpscorrelate.png",
+    "src/48x48/gpscorrelate.png",
     "src/64x64/gpscorrelate.png",
-    "src/48x48/gpscorrelate.png"
+    "src/128x128/gpscorrelate.png"
   ],
   "gpsd": [
-    "src/128x128/gpsd.png",
-    "src/64x64/gpsd.png",
-    "src/48x48/gpsd.png"
+    "src/64x64/gpsd.png"
   ],
   "gpu-screen-recorder": [
     "src/128x128/gpu-screen-recorder.png",
@@ -4885,9 +5143,9 @@
     "src/48x48/grpc.png"
   ],
   "grsync": [
-    "src/128x128/grsync.png",
+    "src/48x48/grsync.png",
     "src/64x64/grsync.png",
-    "src/48x48/grsync.png"
+    "src/128x128/grsync.png"
   ],
   "grub-hook": [
     "src/128x128/grub-hook.png",
@@ -4910,9 +5168,9 @@
     "src/48x48/gssdp.png"
   ],
   "gst-devtools": [
-    "src/128x128/gst-devtools.png",
+    "src/48x48/gst-devtools.png",
     "src/64x64/gst-devtools.png",
-    "src/48x48/gst-devtools.png"
+    "src/128x128/gst-devtools.png"
   ],
   "gst-plugin-libcamera": [
     "src/128x128/gst-plugin-libcamera.png",
@@ -4930,9 +5188,9 @@
     "src/48x48/guestfs-tools.png"
   ],
   "gufw": [
-    "src/128x128/gufw.png",
+    "src/48x48/gufw.png",
     "src/64x64/gufw.png",
-    "src/48x48/gufw.png"
+    "src/128x128/gufw.png"
   ],
   "gunicorn": [
     "src/128x128/gunicorn.png",
@@ -4940,14 +5198,13 @@
     "src/48x48/gunicorn.png"
   ],
   "gvim": [
-    "src/128x128/gvim.png",
-    "src/64x64/gvim.png",
-    "src/48x48/gvim.png"
+    "src/48x48/gvim.png",
+    "src/64x64/gvim.png"
   ],
   "gwakeonlan": [
-    "src/128x128/gwakeonlan.png",
+    "src/48x48/gwakeonlan.png",
     "src/64x64/gwakeonlan.png",
-    "src/48x48/gwakeonlan.png"
+    "src/128x128/gwakeonlan.png"
   ],
   "gwenhywfar": [
     "src/128x128/gwenhywfar.png",
@@ -5020,9 +5277,9 @@
     "src/48x48/alsalogo.png"
   ],
   "alsa-tools": [
-    "src/128x128/alsalogo.png",
-    "src/64x64/alsalogo.png",
-    "src/48x48/alsalogo.png"
+    "src/48x48/alsa-tools.png",
+    "src/64x64/alsa-tools.png",
+    "src/128x128/alsa-tools.png"
   ],
   "alsa-plugins": [
     "src/128x128/alsalogo.png",
@@ -5550,9 +5807,9 @@
     "src/48x48/libreoffice-extension-texmaths.png"
   ],
   "libreoffice-fresh": [
-    "src/128x128/libreoffice-fresh.png",
+    "src/48x48/libreoffice-fresh.png",
     "src/64x64/libreoffice-fresh.png",
-    "src/48x48/libreoffice-fresh.png"
+    "src/128x128/libreoffice-fresh.png"
   ],
   "libreoffice-fresh-af": [
     "src/128x128/libreoffice-fresh-af.png",
@@ -7115,9 +7372,9 @@
     "src/48x48/jetring.png"
   ],
   "lite-xl": [
-    "src/128x128/lite-xl.png",
+    "src/48x48/lite-xl.png",
     "src/64x64/lite-xl.png",
-    "src/48x48/lite-xl.png"
+    "src/128x128/lite-xl.png"
   ],
   "llvm": [
     "src/128x128/llvm.png",
@@ -7205,9 +7462,9 @@
     "src/48x48/log4cxx.png"
   ],
   "loupe": [
-    "src/128x128/loupe.png",
+    "src/48x48/loupe.png",
     "src/64x64/loupe.png",
-    "src/48x48/loupe.png"
+    "src/128x128/loupe.png"
   ],
   "love": [
     "src/128x128/love.png",
@@ -7380,9 +7637,7 @@
     "src/48x48/lua-lux.png"
   ],
   "luakit": [
-    "src/128x128/luakit.png",
-    "src/64x64/luakit.png",
-    "src/48x48/luakit.png"
+    "src/64x64/luakit.png"
   ],
   "luanti-common": [
     "src/128x128/luanti-common.png",
@@ -7535,9 +7790,9 @@
     "src/48x48/maplibre-native-qt.png"
   ],
   "marble": [
-    "src/128x128/marble.png",
+    "src/48x48/marble.png",
     "src/64x64/marble.png",
-    "src/48x48/marble.png"
+    "src/128x128/marble.png"
   ],
   "marco": [
     "src/128x128/marco.png",
@@ -7565,14 +7820,14 @@
     "src/48x48/marco.png"
   ],
   "mate-calc": [
-    "src/128x128/marco.png",
-    "src/64x64/marco.png",
-    "src/48x48/marco.png"
+    "src/48x48/mate-calc.png",
+    "src/64x64/mate-calc.png",
+    "src/128x128/mate-calc.png"
   ],
   "mate-control-center": [
-    "src/128x128/marco.png",
-    "src/64x64/marco.png",
-    "src/48x48/marco.png"
+    "src/48x48/mate-control-center.png",
+    "src/64x64/mate-control-center.png",
+    "src/128x128/mate-control-center.png"
   ],
   "mate-desktop": [
     "src/128x128/marco.png",
@@ -7645,14 +7900,14 @@
     "src/48x48/marco.png"
   ],
   "mate-system-monitor": [
-    "src/128x128/marco.png",
-    "src/64x64/marco.png",
-    "src/48x48/marco.png"
+    "src/48x48/mate-system-monitor.png",
+    "src/64x64/mate-system-monitor.png",
+    "src/128x128/mate-system-monitor.png"
   ],
   "mate-terminal": [
-    "src/128x128/marco.png",
-    "src/64x64/marco.png",
-    "src/48x48/marco.png"
+    "src/48x48/mate-terminal.png",
+    "src/64x64/mate-terminal.png",
+    "src/128x128/mate-terminal.png"
   ],
   "mate-themes": [
     "src/128x128/marco.png",
@@ -7670,9 +7925,9 @@
     "src/48x48/marco.png"
   ],
   "mate-utils": [
-    "src/128x128/marco.png",
-    "src/64x64/marco.png",
-    "src/48x48/marco.png"
+    "src/48x48/mate-utils.png",
+    "src/64x64/mate-utils.png",
+    "src/128x128/mate-utils.png"
   ],
   "mathjax": [
     "src/128x128/mathjax.png",
@@ -7705,9 +7960,7 @@
     "src/48x48/lib32-colord.png"
   ],
   "mediaelch": [
-    "src/128x128/mediaelch.png",
-    "src/64x64/mediaelch.png",
-    "src/48x48/mediaelch.png"
+    "src/64x64/mediaelch.png"
   ],
   "mednafen": [
     "src/128x128/mednafen.png",
@@ -7715,9 +7968,7 @@
     "src/48x48/mednafen.png"
   ],
   "megaglest-data": [
-    "src/128x128/megaglest-data.png",
-    "src/64x64/megaglest-data.png",
-    "src/48x48/megaglest-data.png"
+    "src/64x64/megaglest-data.png"
   ],
   "meilisearch": [
     "src/128x128/meilisearch.png",
@@ -7725,9 +7976,9 @@
     "src/48x48/meilisearch.png"
   ],
   "meld": [
-    "src/128x128/meld.png",
+    "src/48x48/meld.png",
     "src/64x64/meld.png",
-    "src/48x48/meld.png"
+    "src/128x128/meld.png"
   ],
   "memtest86\u002B": [
     "src/128x128/memtest86\u002B.png",
@@ -7805,9 +8056,7 @@
     "src/48x48/metasploit.png"
   ],
   "mgba-qt": [
-    "src/128x128/libmgba.png",
-    "src/64x64/libmgba.png",
-    "src/48x48/libmgba.png"
+    "src/64x64/mgba-qt.png"
   ],
   "mgba-sdl": [
     "src/128x128/libmgba.png",
@@ -7815,9 +8064,9 @@
     "src/48x48/libmgba.png"
   ],
   "micro": [
-    "src/128x128/micro.png",
+    "src/48x48/micro.png",
     "src/64x64/micro.png",
-    "src/48x48/micro.png"
+    "src/128x128/micro.png"
   ],
   "migraphx": [
     "src/128x128/migraphx.png",
@@ -7855,9 +8104,9 @@
     "src/48x48/lib32-zlib.png"
   ],
   "minuet": [
-    "src/128x128/minuet.png",
+    "src/48x48/minuet.png",
     "src/64x64/minuet.png",
-    "src/48x48/minuet.png"
+    "src/128x128/minuet.png"
   ],
   "miopen-hip": [
     "src/128x128/migraphx.png",
@@ -7865,9 +8114,9 @@
     "src/48x48/hip-runtime-amd.png"
   ],
   "mission-center": [
-    "src/128x128/mission-center.png",
+    "src/48x48/mission-center.png",
     "src/64x64/mission-center.png",
-    "src/48x48/mission-center.png"
+    "src/128x128/mission-center.png"
   ],
   "mivisionx": [
     "src/128x128/migraphx.png",
@@ -7915,9 +8164,9 @@
     "src/48x48/monero.png"
   ],
   "monero-gui": [
-    "src/128x128/monero-gui.png",
+    "src/48x48/monero-gui.png",
     "src/64x64/monero-gui.png",
-    "src/48x48/monero-gui.png"
+    "src/128x128/monero-gui.png"
   ],
   "monit": [
     "src/128x128/monit.png",
@@ -7935,9 +8184,9 @@
     "src/48x48/mono.png"
   ],
   "moonlight-qt": [
-    "src/128x128/moonlight-qt.png",
+    "src/48x48/moonlight-qt.png",
     "src/64x64/moonlight-qt.png",
-    "src/48x48/moonlight-qt.png"
+    "src/128x128/moonlight-qt.png"
   ],
   "moosefs": [
     "src/128x128/moosefs.png",
@@ -8105,9 +8354,9 @@
     "src/48x48/mutt.png"
   ],
   "mysql-workbench": [
-    "src/128x128/mysql-workbench.png",
+    "src/48x48/mysql-workbench.png",
     "src/64x64/mysql-workbench.png",
-    "src/48x48/mysql-workbench.png"
+    "src/128x128/mysql-workbench.png"
   ],
   "mythes-de": [
     "src/128x128/mythes-de.png",
@@ -8130,9 +8379,9 @@
     "src/48x48/nanomsg.png"
   ],
   "nautilus": [
-    "src/128x128/libnautilus-extension.png",
-    "src/64x64/libnautilus-extension.png",
-    "src/48x48/libnautilus-extension.png"
+    "src/48x48/nautilus.png",
+    "src/64x64/nautilus.png",
+    "src/128x128/nautilus.png"
   ],
   "nautilus-python": [
     "src/128x128/libgdata.png",
@@ -8195,9 +8444,7 @@
     "src/48x48/memtester.png"
   ],
   "netbeans": [
-    "src/128x128/netbeans.png",
-    "src/64x64/netbeans.png",
-    "src/48x48/netbeans.png"
+    "src/64x64/netbeans.png"
   ],
   "netcdf": [
     "src/128x128/netcdf.png",
@@ -8225,9 +8472,7 @@
     "src/48x48/netstandard-targeting-pack-bin.png"
   ],
   "netsurf": [
-    "src/128x128/netsurf.png",
-    "src/64x64/netsurf.png",
-    "src/48x48/netsurf.png"
+    "src/64x64/netsurf.png"
   ],
   "network-manager-sstp": [
     "src/128x128/libnm.png",
@@ -8305,9 +8550,9 @@
     "src/48x48/ipset.png"
   ],
   "nfoview": [
-    "src/128x128/nfoview.png",
+    "src/48x48/nfoview.png",
     "src/64x64/nfoview.png",
-    "src/48x48/nfoview.png"
+    "src/128x128/nfoview.png"
   ],
   "nftables": [
     "src/128x128/libmnl.png",
@@ -8425,9 +8670,9 @@
     "src/48x48/nim.png"
   ],
   "nitroshare": [
-    "src/128x128/nitroshare.png",
+    "src/48x48/nitroshare.png",
     "src/64x64/nitroshare.png",
-    "src/48x48/nitroshare.png"
+    "src/128x128/nitroshare.png"
   ],
   "nix": [
     "src/128x128/nix.png",
@@ -8520,9 +8765,8 @@
     "src/48x48/notion.png"
   ],
   "notmuch": [
-    "src/128x128/notmuch.png",
-    "src/64x64/notmuch.png",
-    "src/48x48/notmuch.png"
+    "src/48x48/notmuch.png",
+    "src/64x64/notmuch.png"
   ],
   "noto-fonts": [
     "src/128x128/noto-fonts.png",
@@ -8725,9 +8969,7 @@
     "src/48x48/nvshmem.png"
   ],
   "nwg-shell": [
-    "src/128x128/nwg-shell.png",
-    "src/64x64/nwg-shell.png",
-    "src/48x48/nwg-shell.png"
+    "src/64x64/nwg-shell.png"
   ],
   "nyancat": [
     "src/128x128/nyancat.png",
@@ -8755,9 +8997,9 @@
     "src/48x48/obs-gstreamer.png"
   ],
   "obs-studio": [
-    "src/128x128/obs-studio.png",
+    "src/48x48/obs-studio.png",
     "src/64x64/obs-studio.png",
-    "src/48x48/obs-studio.png"
+    "src/128x128/obs-studio.png"
   ],
   "ocaml": [
     "src/128x128/ocaml.png",
@@ -8775,9 +9017,9 @@
     "src/48x48/ocaml-findlib.png"
   ],
   "occt": [
-    "src/128x128/occt.png",
+    "src/48x48/occt.png",
     "src/64x64/occt.png",
-    "src/48x48/occt.png"
+    "src/128x128/occt.png"
   ],
   "ode": [
     "src/128x128/libnu.png",
@@ -8810,19 +9052,19 @@
     "src/48x48/oidentd.png"
   ],
   "okteta": [
-    "src/128x128/okteta.png",
+    "src/48x48/okteta.png",
     "src/64x64/okteta.png",
-    "src/48x48/okteta.png"
+    "src/128x128/okteta.png"
   ],
   "okular": [
-    "src/128x128/okular.png",
+    "src/48x48/okular.png",
     "src/64x64/okular.png",
-    "src/48x48/okular.png"
+    "src/128x128/okular.png"
   ],
   "onboard": [
-    "src/128x128/libnih.png",
-    "src/64x64/libnih.png",
-    "src/48x48/libnih.png"
+    "src/48x48/onboard.png",
+    "src/64x64/onboard.png",
+    "src/128x128/onboard.png"
   ],
   "onlyoffice-bin": [
     "src/128x128/onlyoffice-bin.png",
@@ -9250,9 +9492,9 @@
     "src/48x48/lm32-elf-newlib.png"
   ],
   "orage": [
-    "src/128x128/orage.png",
+    "src/48x48/orage.png",
     "src/64x64/orage.png",
-    "src/48x48/orage.png"
+    "src/128x128/orage.png"
   ],
   "orca": [
     "src/128x128/orca.png",
@@ -9445,9 +9687,9 @@
     "src/48x48/padthv1.png"
   ],
   "padthv1-standalone": [
-    "src/128x128/padthv1.png",
-    "src/64x64/padthv1.png",
-    "src/48x48/padthv1.png"
+    "src/48x48/padthv1-standalone.png",
+    "src/64x64/padthv1-standalone.png",
+    "src/128x128/padthv1-standalone.png"
   ],
   "pam-u2f": [
     "src/128x128/pam-u2f.png",
@@ -9475,9 +9717,9 @@
     "src/48x48/pango.png"
   ],
   "papers": [
-    "src/128x128/papers.png",
+    "src/48x48/papers.png",
     "src/64x64/papers.png",
-    "src/48x48/papers.png"
+    "src/128x128/papers.png"
   ],
   "papers-lib-docs": [
     "src/128x128/papers.png",
@@ -9485,9 +9727,9 @@
     "src/48x48/papers.png"
   ],
   "paperwork": [
-    "src/128x128/paperwork.png",
+    "src/48x48/paperwork.png",
     "src/64x64/paperwork.png",
-    "src/48x48/paperwork.png"
+    "src/128x128/paperwork.png"
   ],
   "papilo": [
     "src/128x128/papilo.png",
@@ -9530,9 +9772,9 @@
     "src/48x48/pari.png"
   ],
   "parley": [
-    "src/128x128/parley.png",
+    "src/48x48/parley.png",
     "src/64x64/parley.png",
-    "src/48x48/parley.png"
+    "src/128x128/parley.png"
   ],
   "parsec-bin": [
     "src/128x128/parsec-bin.png",
@@ -9550,9 +9792,9 @@
     "src/48x48/partimage.png"
   ],
   "partitionmanager": [
-    "src/128x128/partitionmanager.png",
+    "src/48x48/partitionmanager.png",
     "src/64x64/partitionmanager.png",
-    "src/48x48/partitionmanager.png"
+    "src/128x128/partitionmanager.png"
   ],
   "passenger": [
     "src/128x128/mod_passenger.png",
@@ -9560,9 +9802,9 @@
     "src/48x48/mod_passenger.png"
   ],
   "pavucontrol": [
-    "src/128x128/libmbim.png",
-    "src/64x64/lib32-colord.png",
-    "src/48x48/lib32-colord.png"
+    "src/48x48/pavucontrol.png",
+    "src/64x64/pavucontrol.png",
+    "src/128x128/pavucontrol.png"
   ],
   "pax-utils": [
     "src/128x128/pax-utils.png",
@@ -9650,9 +9892,7 @@
     "src/48x48/pcp.png"
   ],
   "pcsc-tools": [
-    "src/128x128/liblockfile.png",
-    "src/64x64/jetring.png",
-    "src/48x48/jetring.png"
+    "src/64x64/pcsc-tools.png"
   ],
   "pcsclite": [
     "src/128x128/pcsclite.png",
@@ -9710,9 +9950,9 @@
     "src/48x48/hyperv.png"
   ],
   "performous": [
-    "src/128x128/performous.png",
+    "src/48x48/performous.png",
     "src/64x64/performous.png",
-    "src/48x48/performous.png"
+    "src/128x128/performous.png"
   ],
   "performous-freesongs": [
     "src/128x128/performous-freesongs.png",
@@ -9740,9 +9980,9 @@
     "src/48x48/perl-nix.png"
   ],
   "persepolis": [
-    "src/128x128/persepolis.png",
+    "src/48x48/persepolis.png",
     "src/64x64/persepolis.png",
-    "src/48x48/persepolis.png"
+    "src/128x128/persepolis.png"
   ],
   "pflogsumm": [
     "src/128x128/pflogsumm.png",
@@ -9955,14 +10195,14 @@
     "src/48x48/pigeonhole.png"
   ],
   "pika-backup": [
-    "src/128x128/pika-backup.png",
+    "src/48x48/pika-backup.png",
     "src/64x64/pika-backup.png",
-    "src/48x48/pika-backup.png"
+    "src/128x128/pika-backup.png"
   ],
   "pim-data-exporter": [
-    "src/128x128/pim-data-exporter.png",
-    "src/64x64/kommit.png",
-    "src/48x48/kommit.png"
+    "src/48x48/pim-data-exporter.png",
+    "src/64x64/pim-data-exporter.png",
+    "src/128x128/pim-data-exporter.png"
   ],
   "pinentry": [
     "src/128x128/libgcrypt.png",
@@ -9985,24 +10225,22 @@
     "src/48x48/pkgstats.png"
   ],
   "plan9port": [
-    "src/128x128/plan9port.png",
-    "src/64x64/plan9port.png",
-    "src/48x48/plan9port.png"
+    "src/64x64/plan9port.png"
   ],
   "plank": [
-    "src/128x128/libnih.png",
-    "src/64x64/libnih.png",
-    "src/48x48/libnih.png"
+    "src/48x48/plank.png",
+    "src/64x64/plank.png",
+    "src/128x128/plank.png"
   ],
   "planner": [
-    "src/128x128/planner.png",
+    "src/48x48/planner.png",
     "src/64x64/planner.png",
-    "src/48x48/planner.png"
+    "src/128x128/planner.png"
   ],
   "plasma-systemmonitor": [
-    "src/128x128/plasma-systemmonitor.png",
+    "src/48x48/plasma-systemmonitor.png",
     "src/64x64/plasma-systemmonitor.png",
-    "src/48x48/plasma-systemmonitor.png"
+    "src/128x128/plasma-systemmonitor.png"
   ],
   "platformio-core": [
     "src/128x128/platformio-core.png",
@@ -10015,9 +10253,9 @@
     "src/48x48/platformio-core.png"
   ],
   "pluma": [
-    "src/128x128/pluma.png",
+    "src/48x48/pluma.png",
     "src/64x64/pluma.png",
-    "src/48x48/pluma.png"
+    "src/128x128/pluma.png"
   ],
   "plymouth": [
     "src/128x128/libmbim.png",
@@ -10060,9 +10298,9 @@
     "src/48x48/podman-desktop.png"
   ],
   "polari": [
-    "src/128x128/polari.png",
+    "src/48x48/polari.png",
     "src/64x64/polari.png",
-    "src/48x48/polari.png"
+    "src/128x128/polari.png"
   ],
   "polly": [
     "src/128x128/polly.png",
@@ -10125,14 +10363,14 @@
     "src/48x48/ppsspp-assets.png"
   ],
   "praat": [
-    "src/128x128/praat.png",
+    "src/48x48/praat.png",
     "src/64x64/praat.png",
-    "src/48x48/praat.png"
+    "src/128x128/praat.png"
   ],
   "pragha": [
-    "src/128x128/pragha.png",
+    "src/48x48/pragha.png",
     "src/64x64/pragha.png",
-    "src/48x48/pragha.png"
+    "src/128x128/pragha.png"
   ],
   "premake": [
     "src/128x128/premake.png",
@@ -10140,9 +10378,9 @@
     "src/48x48/premake.png"
   ],
   "prismlauncher": [
-    "src/128x128/prismlauncher.png",
+    "src/48x48/prismlauncher.png",
     "src/64x64/prismlauncher.png",
-    "src/48x48/prismlauncher.png"
+    "src/128x128/prismlauncher.png"
   ],
   "privoxy": [
     "src/128x128/privoxy.png",
@@ -10195,9 +10433,7 @@
     "src/48x48/proton-mail-bin.png"
   ],
   "psi": [
-    "src/128x128/psi.png",
-    "src/64x64/psi.png",
-    "src/48x48/psi.png"
+    "src/64x64/psi.png"
   ],
   "psi-l10n": [
     "src/128x128/psi.png",
@@ -10255,9 +10491,9 @@
     "src/48x48/puppet.png"
   ],
   "puzzles": [
-    "src/128x128/puzzles.png",
+    "src/48x48/puzzles.png",
     "src/64x64/puzzles.png",
-    "src/48x48/puzzles.png"
+    "src/128x128/puzzles.png"
   ],
   "pybind11": [
     "src/128x128/pybind11.png",
@@ -10265,14 +10501,12 @@
     "src/48x48/pybind11.png"
   ],
   "pycharm-community-edition": [
-    "src/128x128/pycharm-community-edition.png",
-    "src/64x64/intellij-idea-community-edition.png",
-    "src/48x48/intellij-idea-community-edition.png"
+    "src/64x64/pycharm-community-edition.png"
   ],
   "pychess": [
-    "src/128x128/pychess.png",
+    "src/48x48/pychess.png",
     "src/64x64/pychess.png",
-    "src/48x48/pychess.png"
+    "src/128x128/pychess.png"
   ],
   "pypy": [
     "src/128x128/pypy.png",
@@ -11645,14 +11879,14 @@
     "src/48x48/python-ziamath.png"
   ],
   "qalculate-gtk": [
-    "src/128x128/libqalculate.png",
-    "src/64x64/libqalculate.png",
-    "src/48x48/libqalculate.png"
+    "src/48x48/qalculate-gtk.png",
+    "src/64x64/qalculate-gtk.png",
+    "src/128x128/qalculate-gtk.png"
   ],
   "qalculate-qt": [
-    "src/128x128/libqalculate.png",
-    "src/64x64/libqalculate.png",
-    "src/48x48/libqalculate.png"
+    "src/48x48/qalculate-qt.png",
+    "src/64x64/qalculate-qt.png",
+    "src/128x128/qalculate-qt.png"
   ],
   "qbe": [
     "src/128x128/qbe.png",
@@ -11680,14 +11914,14 @@
     "src/48x48/qca-qt5.png"
   ],
   "qcachegrind": [
-    "src/128x128/pim-data-exporter.png",
-    "src/64x64/kommit.png",
-    "src/48x48/kommit.png"
+    "src/48x48/qcachegrind.png",
+    "src/64x64/qcachegrind.png",
+    "src/128x128/qcachegrind.png"
   ],
   "qcad": [
-    "src/128x128/qcad.png",
+    "src/48x48/qcad.png",
     "src/64x64/qcad.png",
-    "src/48x48/qcad.png"
+    "src/128x128/qcad.png"
   ],
   "qcustomplot": [
     "src/128x128/qcustomplot.png",
@@ -12125,9 +12359,9 @@
     "src/48x48/qemu-audio-alsa.png"
   ],
   "qgis": [
-    "src/128x128/qgis.png",
+    "src/48x48/qgis.png",
     "src/64x64/qgis.png",
-    "src/48x48/qgis.png"
+    "src/128x128/qgis.png"
   ],
   "qgpgme": [
     "src/128x128/libgcrypt.png",
@@ -12135,9 +12369,9 @@
     "src/48x48/libassuan.png"
   ],
   "qjackctl": [
-    "src/128x128/qjackctl.png",
+    "src/48x48/qjackctl.png",
     "src/64x64/qjackctl.png",
-    "src/48x48/qjackctl.png"
+    "src/128x128/qjackctl.png"
   ],
   "qlcplus": [
     "src/128x128/qlcplus.png",
@@ -12145,14 +12379,14 @@
     "src/48x48/qlcplus.png"
   ],
   "qmidictl": [
-    "src/128x128/qmidictl.png",
+    "src/48x48/qmidictl.png",
     "src/64x64/qmidictl.png",
-    "src/48x48/qmidictl.png"
+    "src/128x128/qmidictl.png"
   ],
   "qmidinet": [
-    "src/128x128/qmidinet.png",
+    "src/48x48/qmidinet.png",
     "src/64x64/qmidinet.png",
-    "src/48x48/qmidinet.png"
+    "src/128x128/qmidinet.png"
   ],
   "qogir-icon-theme": [
     "src/128x128/qogir-icon-theme.png",
@@ -12185,9 +12419,9 @@
     "src/48x48/qqwing.png"
   ],
   "qrca": [
-    "src/128x128/qrca.png",
+    "src/48x48/qrca.png",
     "src/64x64/qrca.png",
-    "src/48x48/qrca.png"
+    "src/128x128/qrca.png"
   ],
   "qrencode": [
     "src/128x128/qrencode.png",
@@ -12195,14 +12429,12 @@
     "src/48x48/qrencode.png"
   ],
   "qsampler": [
-    "src/128x128/qsampler.png",
+    "src/48x48/qsampler.png",
     "src/64x64/qsampler.png",
-    "src/48x48/qsampler.png"
+    "src/128x128/qsampler.png"
   ],
   "qstardict": [
-    "src/128x128/qstardict.png",
-    "src/64x64/qstardict.png",
-    "src/48x48/qstardict.png"
+    "src/64x64/qstardict.png"
   ],
   "qtile": [
     "src/128x128/qtile.png",
@@ -12210,9 +12442,7 @@
     "src/48x48/qtile.png"
   ],
   "qtpass": [
-    "src/128x128/qtpass.png",
-    "src/64x64/qtpass.png",
-    "src/48x48/qtpass.png"
+    "src/64x64/qtpass.png"
   ],
   "quazip-qt5": [
     "src/128x128/quazip-qt5.png",
@@ -12235,14 +12465,14 @@
     "src/48x48/quickshell.png"
   ],
   "qutebrowser": [
-    "src/128x128/qutebrowser.png",
+    "src/48x48/qutebrowser.png",
     "src/64x64/qutebrowser.png",
-    "src/48x48/qutebrowser.png"
+    "src/128x128/qutebrowser.png"
   ],
   "qxgedit": [
-    "src/128x128/qxgedit.png",
+    "src/48x48/qxgedit.png",
     "src/64x64/qxgedit.png",
-    "src/48x48/qxgedit.png"
+    "src/128x128/qxgedit.png"
   ],
   "qxmpp": [
     "src/128x128/qxmpp.png",
@@ -12250,9 +12480,7 @@
     "src/48x48/qxmpp.png"
   ],
   "r": [
-    "src/128x128/r.png",
-    "src/64x64/r.png",
-    "src/48x48/r.png"
+    "src/64x64/r.png"
   ],
   "r8168-lts": [
     "src/128x128/r8168-lts.png",
@@ -12280,9 +12508,9 @@
     "src/48x48/radicale.png"
   ],
   "rage": [
-    "src/128x128/rage.png",
+    "src/48x48/rage.png",
     "src/64x64/rage.png",
-    "src/48x48/rage.png"
+    "src/128x128/rage.png"
   ],
   "rainlendar-lite": [
     "src/128x128/rainlendar-lite.png",
@@ -12290,9 +12518,9 @@
     "src/48x48/rainlendar-lite.png"
   ],
   "rapid-photo-downloader": [
-    "src/128x128/rapid-photo-downloader.png",
+    "src/48x48/rapid-photo-downloader.png",
     "src/64x64/rapid-photo-downloader.png",
-    "src/48x48/rapid-photo-downloader.png"
+    "src/128x128/rapid-photo-downloader.png"
   ],
   "raptor": [
     "src/128x128/raptor.png",
@@ -12390,19 +12618,17 @@
     "src/48x48/redmine.png"
   ],
   "redshift": [
-    "src/128x128/redshift.png",
+    "src/48x48/redshift.png",
     "src/64x64/redshift.png",
-    "src/48x48/redshift.png"
+    "src/128x128/redshift.png"
   ],
   "regina": [
-    "src/128x128/regina.png",
+    "src/48x48/regina.png",
     "src/64x64/regina.png",
-    "src/48x48/regina.png"
+    "src/128x128/regina.png"
   ],
   "remind": [
-    "src/128x128/remind.png",
-    "src/64x64/remind.png",
-    "src/48x48/remind.png"
+    "src/64x64/remind.png"
   ],
   "repod": [
     "src/128x128/repod.png",
@@ -12445,9 +12671,7 @@
     "src/48x48/rfc.png"
   ],
   "rfdump": [
-    "src/128x128/rfdump.png",
-    "src/64x64/rfdump.png",
-    "src/48x48/rfdump.png"
+    "src/64x64/rfdump.png"
   ],
   "rink": [
     "src/128x128/rink.png",
@@ -12615,9 +12839,7 @@
     "src/48x48/rocq.png"
   ],
   "rocqide": [
-    "src/128x128/rocq.png",
-    "src/64x64/rocq.png",
-    "src/48x48/rocq.png"
+    "src/64x64/rocqide.png"
   ],
   "rocr-debug-agent": [
     "src/128x128/migraphx.png",
@@ -12630,9 +12852,9 @@
     "src/48x48/hip-runtime-amd.png"
   ],
   "rocs": [
-    "src/128x128/rocs.png",
+    "src/48x48/rocs.png",
     "src/64x64/rocs.png",
-    "src/48x48/rocs.png"
+    "src/128x128/rocs.png"
   ],
   "rocsolver": [
     "src/128x128/migraphx.png",
@@ -12670,9 +12892,8 @@
     "src/48x48/rog-control-center.png"
   ],
   "root-cuda": [
-    "src/128x128/root-cuda.png",
-    "src/64x64/root-cuda.png",
-    "src/48x48/root-cuda.png"
+    "src/48x48/root-cuda.png",
+    "src/64x64/root-cuda.png"
   ],
   "roundcubemail": [
     "src/128x128/roundcubemail.png",
@@ -12685,9 +12906,9 @@
     "src/48x48/hip-runtime-amd.png"
   ],
   "rsibreak": [
-    "src/128x128/rsibreak.png",
+    "src/48x48/rsibreak.png",
     "src/64x64/rsibreak.png",
-    "src/48x48/rsibreak.png"
+    "src/128x128/rsibreak.png"
   ],
   "rspamd": [
     "src/128x128/rspamd.png",
@@ -12945,9 +13166,9 @@
     "src/48x48/samplv1.png"
   ],
   "samplv1-standalone": [
-    "src/128x128/samplv1.png",
-    "src/64x64/samplv1.png",
-    "src/48x48/samplv1.png"
+    "src/48x48/samplv1-standalone.png",
+    "src/64x64/samplv1-standalone.png",
+    "src/128x128/samplv1-standalone.png"
   ],
   "sane-gt68xx-firmware": [
     "src/128x128/sane-gt68xx-firmware.png",
@@ -12990,9 +13211,9 @@
     "src/48x48/schemacrawler.png"
   ],
   "schismtracker": [
-    "src/128x128/schismtracker.png",
+    "src/48x48/schismtracker.png",
     "src/64x64/schismtracker.png",
-    "src/48x48/schismtracker.png"
+    "src/128x128/schismtracker.png"
   ],
   "scip": [
     "src/128x128/papilo.png",
@@ -13005,9 +13226,9 @@
     "src/48x48/python-queuelib.png"
   ],
   "scratch": [
-    "src/128x128/scratch.png",
+    "src/48x48/scratch.png",
     "src/64x64/scratch.png",
-    "src/48x48/scratch.png"
+    "src/128x128/scratch.png"
   ],
   "scrypt": [
     "src/128x128/scrypt.png",
@@ -13030,9 +13251,9 @@
     "src/48x48/sea-orm-cli.png"
   ],
   "seahorse": [
-    "src/128x128/seahorse.png",
+    "src/48x48/seahorse.png",
     "src/64x64/seahorse.png",
-    "src/48x48/seahorse.png"
+    "src/128x128/seahorse.png"
   ],
   "seatd": [
     "src/128x128/python-aiohttp-oauthlib.png",
@@ -13085,9 +13306,7 @@
     "src/48x48/setbfree.png"
   ],
   "setbfree-standalone": [
-    "src/128x128/setbfree.png",
-    "src/64x64/setbfree.png",
-    "src/48x48/setbfree.png"
+    "src/64x64/setbfree-standalone.png"
   ],
   "setconf": [
     "src/128x128/setconf.png",
@@ -13110,9 +13329,9 @@
     "src/48x48/shake.png"
   ],
   "share-preview": [
-    "src/128x128/share-preview.png",
+    "src/48x48/share-preview.png",
     "src/64x64/share-preview.png",
-    "src/48x48/share-preview.png"
+    "src/128x128/share-preview.png"
   ],
   "shared-mime-info": [
     "src/128x128/libmbim.png",
@@ -13120,9 +13339,9 @@
     "src/48x48/lib32-colord.png"
   ],
   "shattered-pixel-dungeon": [
-    "src/128x128/shattered-pixel-dungeon.png",
+    "src/48x48/shattered-pixel-dungeon.png",
     "src/64x64/shattered-pixel-dungeon.png",
-    "src/48x48/shattered-pixel-dungeon.png"
+    "src/128x128/shattered-pixel-dungeon.png"
   ],
   "sheldon": [
     "src/128x128/oidentd.png",
@@ -13140,24 +13359,24 @@
     "src/48x48/shellcheck.png"
   ],
   "shotwell": [
-    "src/128x128/libgdata.png",
-    "src/64x64/lib32-gdk-pixbuf2.png",
-    "src/48x48/lib32-gdk-pixbuf2.png"
+    "src/48x48/shotwell.png",
+    "src/64x64/shotwell.png",
+    "src/128x128/shotwell.png"
   ],
   "showtime": [
-    "src/128x128/showtime.png",
+    "src/48x48/showtime.png",
     "src/64x64/showtime.png",
-    "src/48x48/showtime.png"
+    "src/128x128/showtime.png"
   ],
   "shutter": [
-    "src/128x128/shutter.png",
+    "src/48x48/shutter.png",
     "src/64x64/shutter.png",
-    "src/48x48/shutter.png"
+    "src/128x128/shutter.png"
   ],
   "signal-desktop": [
-    "src/128x128/signal-desktop.png",
+    "src/48x48/signal-desktop.png",
     "src/64x64/signal-desktop.png",
-    "src/48x48/signal-desktop.png"
+    "src/128x128/signal-desktop.png"
   ],
   "sigrok-firmware-fx2lafw": [
     "src/128x128/libsigrokdecode.png",
@@ -13170,9 +13389,9 @@
     "src/48x48/sile.png"
   ],
   "simple-scan": [
-    "src/128x128/simple-scan.png",
+    "src/48x48/simple-scan.png",
     "src/64x64/simple-scan.png",
-    "src/48x48/simple-scan.png"
+    "src/128x128/simple-scan.png"
   ],
   "simutrans-pak64": [
     "src/128x128/simutrans-pak64.png",
@@ -13185,19 +13404,19 @@
     "src/48x48/singular.png"
   ],
   "skanlite": [
-    "src/128x128/skanlite.png",
+    "src/48x48/skanlite.png",
     "src/64x64/skanlite.png",
-    "src/48x48/skanlite.png"
+    "src/128x128/skanlite.png"
   ],
   "skanpage": [
-    "src/128x128/skanpage.png",
+    "src/48x48/skanpage.png",
     "src/64x64/skanpage.png",
-    "src/48x48/skanpage.png"
+    "src/128x128/skanpage.png"
   ],
   "skladnik": [
-    "src/128x128/skladnik.png",
+    "src/48x48/skladnik.png",
     "src/64x64/skladnik.png",
-    "src/48x48/skladnik.png"
+    "src/128x128/skladnik.png"
   ],
   "slock": [
     "src/128x128/lsw.png",
@@ -13235,14 +13454,14 @@
     "src/48x48/snapper.png"
   ],
   "snapshot": [
-    "src/128x128/snapshot.png",
+    "src/48x48/snapshot.png",
     "src/64x64/snapshot.png",
-    "src/48x48/snapshot.png"
+    "src/128x128/snapshot.png"
   ],
   "snes9x-gtk": [
-    "src/128x128/snes9x-gtk.png",
+    "src/48x48/snes9x-gtk.png",
     "src/64x64/snes9x-gtk.png",
-    "src/48x48/snes9x-gtk.png"
+    "src/128x128/snes9x-gtk.png"
   ],
   "snixembed": [
     "src/128x128/python-aiohttp-oauthlib.png",
@@ -13270,9 +13489,9 @@
     "src/48x48/solr.png"
   ],
   "sonic-visualiser": [
-    "src/128x128/sonic-visualiser.png",
+    "src/48x48/sonic-visualiser.png",
     "src/64x64/sonic-visualiser.png",
-    "src/48x48/sonic-visualiser.png"
+    "src/128x128/sonic-visualiser.png"
   ],
   "soplex": [
     "src/128x128/papilo.png",
@@ -13280,9 +13499,9 @@
     "src/48x48/papilo.png"
   ],
   "sound-juicer": [
-    "src/128x128/libgdata.png",
-    "src/64x64/lib32-gdk-pixbuf2.png",
-    "src/48x48/lib32-gdk-pixbuf2.png"
+    "src/48x48/sound-juicer.png",
+    "src/64x64/sound-juicer.png",
+    "src/128x128/sound-juicer.png"
   ],
   "sound-theme-freedesktop": [
     "src/128x128/libmbim.png",
@@ -13340,9 +13559,9 @@
     "src/48x48/spring.png"
   ],
   "springlobby": [
-    "src/128x128/springlobby.png",
+    "src/48x48/springlobby.png",
     "src/64x64/springlobby.png",
-    "src/48x48/springlobby.png"
+    "src/128x128/springlobby.png"
   ],
   "sqlcipher": [
     "src/128x128/sqlcipher.png",
@@ -13370,9 +13589,9 @@
     "src/48x48/lemon.png"
   ],
   "sqlitebrowser": [
-    "src/128x128/sqlitebrowser.png",
+    "src/48x48/sqlitebrowser.png",
     "src/64x64/sqlitebrowser.png",
-    "src/48x48/sqlitebrowser.png"
+    "src/128x128/sqlitebrowser.png"
   ],
   "srt": [
     "src/128x128/srt.png",
@@ -13405,9 +13624,8 @@
     "src/48x48/sslsplit.png"
   ],
   "ssr": [
-    "src/128x128/ssr.png",
-    "src/64x64/ssr.png",
-    "src/48x48/ssr.png"
+    "src/48x48/ssr.png",
+    "src/64x64/ssr.png"
   ],
   "starship": [
     "src/128x128/starship.png",
@@ -13435,9 +13653,9 @@
     "src/48x48/steam-devices.png"
   ],
   "step": [
-    "src/128x128/step.png",
+    "src/48x48/step.png",
     "src/64x64/step.png",
-    "src/48x48/step.png"
+    "src/128x128/step.png"
   ],
   "stp": [
     "src/128x128/stp.png",
@@ -13450,9 +13668,9 @@
     "src/48x48/strace.png"
   ],
   "strawberry": [
-    "src/128x128/strawberry.png",
+    "src/48x48/strawberry.png",
     "src/64x64/strawberry.png",
-    "src/48x48/strawberry.png"
+    "src/128x128/strawberry.png"
   ],
   "streamlink": [
     "src/128x128/streamlink.png",
@@ -13500,9 +13718,9 @@
     "src/48x48/sudo.png"
   ],
   "supercollider": [
-    "src/128x128/supercollider.png",
+    "src/48x48/supercollider.png",
     "src/64x64/supercollider.png",
-    "src/48x48/supercollider.png"
+    "src/128x128/supercollider.png"
   ],
   "superfile": [
     "src/128x128/superfile.png",
@@ -13525,9 +13743,9 @@
     "src/48x48/surge-xt.png"
   ],
   "surge-xt-standalone": [
-    "src/128x128/surge-xt.png",
-    "src/64x64/surge-xt.png",
-    "src/48x48/surge-xt.png"
+    "src/48x48/surge-xt-standalone.png",
+    "src/64x64/surge-xt-standalone.png",
+    "src/128x128/surge-xt-standalone.png"
   ],
   "surge-xt-vst3": [
     "src/128x128/surge-xt.png",
@@ -13545,14 +13763,12 @@
     "src/48x48/sway.png"
   ],
   "sweeper": [
-    "src/128x128/sweeper.png",
+    "src/48x48/sweeper.png",
     "src/64x64/sweeper.png",
-    "src/48x48/sweeper.png"
+    "src/128x128/sweeper.png"
   ],
   "sweethome3d": [
-    "src/128x128/sweethome3d.png",
-    "src/64x64/sweethome3d.png",
-    "src/48x48/sweethome3d.png"
+    "src/64x64/sweethome3d.png"
   ],
   "sws": [
     "src/128x128/sws.png",
@@ -13595,9 +13811,9 @@
     "src/48x48/synthv1.png"
   ],
   "synthv1-standalone": [
-    "src/128x128/synthv1.png",
-    "src/64x64/synthv1.png",
-    "src/48x48/synthv1.png"
+    "src/48x48/synthv1-standalone.png",
+    "src/64x64/synthv1-standalone.png",
+    "src/128x128/synthv1-standalone.png"
   ],
   "sysdig": [
     "src/128x128/sysdig.png",
@@ -13610,9 +13826,9 @@
     "src/48x48/syslinux.png"
   ],
   "sysprof": [
-    "src/128x128/libsysprof-capture.png",
-    "src/64x64/libsysprof-capture.png",
-    "src/48x48/libsysprof-capture.png"
+    "src/48x48/sysprof.png",
+    "src/64x64/sysprof.png",
+    "src/128x128/sysprof.png"
   ],
   "systemc": [
     "src/128x128/systemc.png",
@@ -13620,9 +13836,9 @@
     "src/48x48/systemc.png"
   ],
   "systemd-ui": [
-    "src/128x128/libmbim.png",
-    "src/64x64/lib32-colord.png",
-    "src/48x48/lib32-colord.png"
+    "src/48x48/systemd-ui.png",
+    "src/64x64/systemd-ui.png",
+    "src/128x128/systemd-ui.png"
   ],
   "systemtap": [
     "src/128x128/systemtap.png",
@@ -13690,24 +13906,24 @@
     "src/48x48/lib32-tdb.png"
   ],
   "telegram-desktop": [
-    "src/128x128/telegram-desktop.png",
+    "src/48x48/telegram-desktop.png",
     "src/64x64/telegram-desktop.png",
-    "src/48x48/telegram-desktop.png"
+    "src/128x128/telegram-desktop.png"
   ],
   "tellico": [
-    "src/128x128/tellico.png",
+    "src/48x48/tellico.png",
     "src/64x64/tellico.png",
-    "src/48x48/tellico.png"
+    "src/128x128/tellico.png"
   ],
   "telly-skout": [
-    "src/128x128/telly-skout.png",
+    "src/48x48/telly-skout.png",
     "src/64x64/telly-skout.png",
-    "src/48x48/telly-skout.png"
+    "src/128x128/telly-skout.png"
   ],
   "terminology": [
-    "src/128x128/terminology.png",
+    "src/48x48/terminology.png",
     "src/64x64/terminology.png",
-    "src/48x48/terminology.png"
+    "src/128x128/terminology.png"
   ],
   "testdisk": [
     "src/128x128/testdisk.png",
@@ -13740,9 +13956,9 @@
     "src/48x48/python-thrift.png"
   ],
   "thunderbird": [
-    "src/128x128/thunderbird.png",
+    "src/48x48/thunderbird.png",
     "src/64x64/thunderbird.png",
-    "src/48x48/thunderbird.png"
+    "src/128x128/thunderbird.png"
   ],
   "thunderbird-i18n-af": [
     "src/128x128/thunderbird.png",
@@ -14065,14 +14281,14 @@
     "src/48x48/tig.png"
   ],
   "tigervnc": [
-    "src/128x128/tigervnc.png",
+    "src/48x48/tigervnc.png",
     "src/64x64/tigervnc.png",
-    "src/48x48/tigervnc.png"
+    "src/128x128/tigervnc.png"
   ],
   "tiled": [
-    "src/128x128/tiled.png",
+    "src/48x48/tiled.png",
     "src/64x64/tiled.png",
-    "src/48x48/tiled.png"
+    "src/128x128/tiled.png"
   ],
   "timescaledb": [
     "src/128x128/timescaledb.png",
@@ -14370,9 +14586,9 @@
     "src/48x48/ipset.png"
   ],
   "umbrello": [
-    "src/128x128/umbrello.png",
+    "src/48x48/umbrello.png",
     "src/64x64/umbrello.png",
-    "src/48x48/umbrello.png"
+    "src/128x128/umbrello.png"
   ],
   "unace": [
     "src/128x128/unace.png",
@@ -14485,9 +14701,7 @@
     "src/48x48/ventoy-bin.png"
   ],
   "veracrypt": [
-    "src/128x128/veracrypt.png",
-    "src/64x64/veracrypt.png",
-    "src/48x48/veracrypt.png"
+    "src/64x64/veracrypt.png"
   ],
   "verilator": [
     "src/128x128/verilator.png",
@@ -14500,14 +14714,14 @@
     "src/48x48/vice-sdl2.png"
   ],
   "video-trimmer": [
-    "src/128x128/video-trimmer.png",
+    "src/48x48/video-trimmer.png",
     "src/64x64/video-trimmer.png",
-    "src/48x48/video-trimmer.png"
+    "src/128x128/video-trimmer.png"
   ],
   "viewnior": [
-    "src/128x128/viewnior.png",
+    "src/48x48/viewnior.png",
     "src/64x64/viewnior.png",
-    "src/48x48/viewnior.png"
+    "src/128x128/viewnior.png"
   ],
   "vifm": [
     "src/128x128/vifm.png",
@@ -14525,9 +14739,9 @@
     "src/48x48/virt-install.png"
   ],
   "virt-manager": [
-    "src/128x128/virt-install.png",
-    "src/64x64/virt-install.png",
-    "src/48x48/virt-install.png"
+    "src/48x48/virt-manager.png",
+    "src/64x64/virt-manager.png",
+    "src/128x128/virt-manager.png"
   ],
   "virtualbox-guest-iso": [
     "src/128x128/virtualbox-guest-iso.png",
@@ -14975,9 +15189,8 @@
     "src/48x48/void.png"
   ],
   "vokoscreen": [
-    "src/128x128/vokoscreen.png",
     "src/64x64/vokoscreen.png",
-    "src/48x48/vokoscreen.png"
+    "src/128x128/vokoscreen.png"
   ],
   "vorbis-tools": [
     "src/128x128/libogg.png",
@@ -15010,9 +15223,9 @@
     "src/48x48/lib32-gdk-pixbuf2.png"
   ],
   "vte3-utils": [
-    "src/128x128/libgdata.png",
-    "src/64x64/lib32-gdk-pixbuf2.png",
-    "src/48x48/lib32-gdk-pixbuf2.png"
+    "src/48x48/vte3-utils.png",
+    "src/64x64/vte3-utils.png",
+    "src/128x128/vte3-utils.png"
   ],
   "vte4": [
     "src/128x128/libgdata.png",
@@ -15020,9 +15233,9 @@
     "src/48x48/lib32-gdk-pixbuf2.png"
   ],
   "vte4-utils": [
-    "src/128x128/libgdata.png",
-    "src/64x64/lib32-gdk-pixbuf2.png",
-    "src/48x48/lib32-gdk-pixbuf2.png"
+    "src/48x48/vte4-utils.png",
+    "src/64x64/vte4-utils.png",
+    "src/128x128/vte4-utils.png"
   ],
   "vtr": [
     "src/128x128/vtr.png",
@@ -15160,9 +15373,7 @@
     "src/48x48/wallabag.png"
   ],
   "warzone2100": [
-    "src/128x128/warzone2100.png",
-    "src/64x64/warzone2100.png",
-    "src/48x48/warzone2100.png"
+    "src/64x64/warzone2100.png"
   ],
   "waterfox-bin": [
     "src/128x128/waterfox-bin.png",
@@ -15185,9 +15396,8 @@
     "src/48x48/libburn.png"
   ],
   "waydroid": [
-    "src/128x128/waydroid.png",
     "src/64x64/waydroid.png",
-    "src/48x48/waydroid.png"
+    "src/128x128/waydroid.png"
   ],
   "waydroid-image": [
     "src/128x128/waydroid.png",
@@ -15240,9 +15450,9 @@
     "src/48x48/wcslib.png"
   ],
   "webfont-kit-generator": [
-    "src/128x128/webfont-kit-generator.png",
+    "src/48x48/webfont-kit-generator.png",
     "src/64x64/webfont-kit-generator.png",
-    "src/48x48/webfont-kit-generator.png"
+    "src/128x128/webfont-kit-generator.png"
   ],
   "webrtc-audio-processing": [
     "src/128x128/libmbim.png",
@@ -15365,9 +15575,9 @@
     "src/48x48/wordpress.png"
   ],
   "workrave": [
-    "src/128x128/workrave.png",
+    "src/48x48/workrave.png",
     "src/64x64/workrave.png",
-    "src/48x48/workrave.png"
+    "src/128x128/workrave.png"
   ],
   "wp-cli": [
     "src/128x128/wp-cli.png",
@@ -15570,9 +15780,9 @@
     "src/48x48/hyphen.png"
   ],
   "xine-ui": [
-    "src/128x128/xine-lib.png",
-    "src/64x64/hyphen.png",
-    "src/48x48/hyphen.png"
+    "src/48x48/xine-ui.png",
+    "src/64x64/xine-ui.png",
+    "src/128x128/xine-ui.png"
   ],
   "xmlsec": [
     "src/128x128/xmlsec.png",
@@ -15615,14 +15825,12 @@
     "src/48x48/hunspell-ru.png"
   ],
   "xpad": [
-    "src/128x128/libnih.png",
-    "src/64x64/libnih.png",
-    "src/48x48/libnih.png"
+    "src/48x48/xpad.png",
+    "src/64x64/xpad.png",
+    "src/128x128/xpad.png"
   ],
   "xpdf": [
-    "src/128x128/xpdf.png",
-    "src/64x64/xpdf.png",
-    "src/48x48/xpdf.png"
+    "src/64x64/xpdf.png"
   ],
   "xsd": [
     "src/128x128/xsd.png",
@@ -15665,9 +15873,9 @@
     "src/48x48/xz.png"
   ],
   "yakuake": [
-    "src/128x128/yakuake.png",
+    "src/48x48/yakuake.png",
     "src/64x64/yakuake.png",
-    "src/48x48/yakuake.png"
+    "src/128x128/yakuake.png"
   ],
   "yarn": [
     "src/128x128/yarn.png",
@@ -15680,9 +15888,9 @@
     "src/48x48/yate.png"
   ],
   "yelp": [
-    "src/128x128/yelp.png",
+    "src/48x48/yelp.png",
     "src/64x64/yelp.png",
-    "src/48x48/yelp.png"
+    "src/128x128/yelp.png"
   ],
   "yubico-piv-tool": [
     "src/128x128/pam-u2f.png",
@@ -15695,9 +15903,9 @@
     "src/48x48/libfido2.png"
   ],
   "zanshin": [
-    "src/128x128/zanshin.png",
+    "src/48x48/zanshin.png",
     "src/64x64/zanshin.png",
-    "src/48x48/zanshin.png"
+    "src/128x128/zanshin.png"
   ],
   "zaproxy": [
     "src/128x128/zaproxy.png",
@@ -15755,9 +15963,8 @@
     "src/48x48/zint.png"
   ],
   "zint-qt": [
-    "src/128x128/zint-qt.png",
-    "src/64x64/zint-qt.png",
-    "src/48x48/zint-qt.png"
+    "src/48x48/zint-qt.png",
+    "src/64x64/zint-qt.png"
   ],
   "zip": [
     "src/128x128/zip.png",
@@ -15860,9 +16067,9 @@
     "src/48x48/openbox.png"
   ],
   "synfigstudio": [
-    "src/128x128/synfig.png",
-    "src/64x64/synfig.png",
-    "src/48x48/synfig.png"
+    "src/48x48/synfigstudio.png",
+    "src/64x64/synfigstudio.png",
+    "src/128x128/synfigstudio.png"
   ],
   "libgcobol": [
     "src/128x128/libgfortran.png",
@@ -15910,9 +16117,8 @@
     "src/48x48/libfido2.png"
   ],
   "libffado": [
-    "src/128x128/libffado.png",
-    "src/64x64/libffado.png",
-    "src/48x48/libffado.png"
+    "src/48x48/libffado.png",
+    "src/64x64/libffado.png"
   ],
   "libfbclient": [
     "src/128x128/libfbclient.png",
@@ -16580,9 +16786,7 @@
     "src/48x48/lazarus.png"
   ],
   "lazarus-qt5": [
-    "src/128x128/lazarus-qt6.png",
-    "src/64x64/lazarus.png",
-    "src/48x48/lazarus.png"
+    "src/64x64/lazarus-qt5.png"
   ],
   "lazarus": [
     "src/128x128/lazarus-qt6.png",
@@ -16590,9 +16794,7 @@
     "src/48x48/lazarus.png"
   ],
   "launchy": [
-    "src/128x128/launchy.png",
-    "src/64x64/launchy.png",
-    "src/48x48/launchy.png"
+    "src/64x64/launchy.png"
   ],
   "latte-integrale": [
     "src/128x128/lidia.png",
@@ -16615,19 +16817,19 @@
     "src/48x48/laszip.png"
   ],
   "kwordquiz": [
-    "src/128x128/kwordquiz.png",
+    "src/48x48/kwordquiz.png",
     "src/64x64/kwordquiz.png",
-    "src/48x48/kwordquiz.png"
+    "src/128x128/kwordquiz.png"
   ],
   "kweather": [
-    "src/128x128/kweather.png",
+    "src/48x48/kweather.png",
     "src/64x64/kweather.png",
-    "src/48x48/kweather.png"
+    "src/128x128/kweather.png"
   ],
   "kup": [
-    "src/128x128/kup.png",
+    "src/48x48/kup.png",
     "src/64x64/kup.png",
-    "src/48x48/kup.png"
+    "src/128x128/kup.png"
   ],
   "kubernetes-control-plane-common": [
     "src/128x128/kubernetes-control-plane-common.png",
@@ -16670,44 +16872,44 @@
     "src/48x48/kube-apiserver.png"
   ],
   "kturtle": [
-    "src/128x128/kturtle.png",
+    "src/48x48/kturtle.png",
     "src/64x64/kturtle.png",
-    "src/48x48/kturtle.png"
+    "src/128x128/kturtle.png"
   ],
   "ktouch": [
-    "src/128x128/ktouch.png",
+    "src/48x48/ktouch.png",
     "src/64x64/ktouch.png",
-    "src/48x48/ktouch.png"
+    "src/128x128/ktouch.png"
   ],
   "ktorrent": [
-    "src/128x128/ktorrent.png",
+    "src/48x48/ktorrent.png",
     "src/64x64/ktorrent.png",
-    "src/48x48/ktorrent.png"
+    "src/128x128/ktorrent.png"
   ],
   "ktimer": [
-    "src/128x128/ktimer.png",
+    "src/48x48/ktimer.png",
     "src/64x64/ktimer.png",
-    "src/48x48/ktimer.png"
+    "src/128x128/ktimer.png"
   ],
   "kteatime": [
-    "src/128x128/kteatime.png",
+    "src/48x48/kteatime.png",
     "src/64x64/kteatime.png",
-    "src/48x48/kteatime.png"
+    "src/128x128/kteatime.png"
   ],
   "ksystemlog": [
-    "src/128x128/ksystemlog.png",
-    "src/64x64/kjournald.png",
-    "src/48x48/kjournald.png"
+    "src/48x48/ksystemlog.png",
+    "src/64x64/ksystemlog.png",
+    "src/128x128/ksystemlog.png"
   ],
   "kstars": [
-    "src/128x128/kstars.png",
+    "src/48x48/kstars.png",
     "src/64x64/kstars.png",
-    "src/48x48/kstars.png"
+    "src/128x128/kstars.png"
   ],
   "kspaceduel": [
-    "src/128x128/kspaceduel.png",
+    "src/48x48/kspaceduel.png",
     "src/64x64/kspaceduel.png",
-    "src/48x48/kspaceduel.png"
+    "src/128x128/kspaceduel.png"
   ],
   "ksmtp": [
     "src/128x128/libgravatar.png",
@@ -16715,9 +16917,9 @@
     "src/48x48/incidenceeditor.png"
   ],
   "kshutdown": [
-    "src/128x128/kshutdown.png",
+    "src/48x48/kshutdown.png",
     "src/64x64/kshutdown.png",
-    "src/48x48/kshutdown.png"
+    "src/128x128/kshutdown.png"
   ],
   "krusader-git": [
     "src/128x128/krusader-git.png",
@@ -16725,19 +16927,19 @@
     "src/48x48/krusader.png"
   ],
   "krusader": [
-    "src/128x128/krusader-git.png",
+    "src/48x48/krusader.png",
     "src/64x64/krusader.png",
-    "src/48x48/krusader.png"
+    "src/128x128/krusader.png"
   ],
   "kruler": [
-    "src/128x128/kruler.png",
+    "src/48x48/kruler.png",
     "src/64x64/kruler.png",
-    "src/48x48/kruler.png"
+    "src/128x128/kruler.png"
   ],
   "krfb": [
-    "src/128x128/krfb.png",
+    "src/48x48/krfb.png",
     "src/64x64/krfb.png",
-    "src/48x48/krfb.png"
+    "src/128x128/krfb.png"
   ],
   "kresus": [
     "src/128x128/kresus.png",
@@ -16745,19 +16947,19 @@
     "src/48x48/kresus.png"
   ],
   "krecorder": [
-    "src/128x128/krecorder.png",
+    "src/48x48/krecorder.png",
     "src/64x64/krecorder.png",
-    "src/48x48/krecorder.png"
+    "src/128x128/krecorder.png"
   ],
   "krdc": [
-    "src/128x128/krdc.png",
+    "src/48x48/krdc.png",
     "src/64x64/krdc.png",
-    "src/48x48/krdc.png"
+    "src/128x128/krdc.png"
   ],
   "kpat": [
-    "src/128x128/kpat.png",
+    "src/48x48/kpat.png",
     "src/64x64/kpat.png",
-    "src/48x48/kpat.png"
+    "src/128x128/kpat.png"
   ],
   "kotlin": [
     "src/128x128/kotlin.png",
@@ -16770,39 +16972,39 @@
     "src/48x48/konsole-dracula-git.png"
   ],
   "konsole": [
-    "src/128x128/konsole.png",
+    "src/48x48/konsole.png",
     "src/64x64/konsole.png",
-    "src/48x48/konsole.png"
+    "src/128x128/konsole.png"
   ],
   "konqueror": [
-    "src/128x128/konqueror.png",
+    "src/48x48/konqueror.png",
     "src/64x64/konqueror.png",
-    "src/48x48/konqueror.png"
+    "src/128x128/konqueror.png"
   ],
   "kongress": [
-    "src/128x128/kongress.png",
+    "src/48x48/kongress.png",
     "src/64x64/kongress.png",
-    "src/48x48/kongress.png"
+    "src/128x128/kongress.png"
   ],
   "kompare": [
-    "src/128x128/kompare.png",
-    "src/64x64/kdiff3.png",
-    "src/48x48/kdiff3.png"
+    "src/48x48/kompare.png",
+    "src/64x64/kompare.png",
+    "src/128x128/kompare.png"
   ],
   "kommit": [
-    "src/128x128/pim-data-exporter.png",
+    "src/48x48/kommit.png",
     "src/64x64/kommit.png",
-    "src/48x48/kommit.png"
+    "src/128x128/kommit.png"
   ],
   "kolourpaint": [
-    "src/128x128/kolourpaint.png",
+    "src/48x48/kolourpaint.png",
     "src/64x64/kolourpaint.png",
-    "src/48x48/kolourpaint.png"
+    "src/128x128/kolourpaint.png"
   ],
   "koko": [
-    "src/128x128/koko.png",
+    "src/48x48/koko.png",
     "src/64x64/koko.png",
-    "src/48x48/koko.png"
+    "src/128x128/koko.png"
   ],
   "kodi-tools-texturepacker": [
     "src/128x128/kodi-tools-texturepacker.png",
@@ -16835,39 +17037,39 @@
     "src/48x48/knot.png"
   ],
   "knavalbattle": [
-    "src/128x128/knavalbattle.png",
+    "src/48x48/knavalbattle.png",
     "src/64x64/knavalbattle.png",
-    "src/48x48/knavalbattle.png"
+    "src/128x128/knavalbattle.png"
   ],
   "kmplot": [
-    "src/128x128/kmplot.png",
+    "src/48x48/kmplot.png",
     "src/64x64/kmplot.png",
-    "src/48x48/kmplot.png"
+    "src/128x128/kmplot.png"
   ],
   "kmouth": [
-    "src/128x128/kmouth.png",
+    "src/48x48/kmouth.png",
     "src/64x64/kmouth.png",
-    "src/48x48/kmouth.png"
+    "src/128x128/kmouth.png"
   ],
   "kmousetool": [
-    "src/128x128/kmousetool.png",
+    "src/48x48/kmousetool.png",
     "src/64x64/kmousetool.png",
-    "src/48x48/kmousetool.png"
+    "src/128x128/kmousetool.png"
   ],
   "kmix": [
-    "src/128x128/kmix.png",
+    "src/48x48/kmix.png",
     "src/64x64/kmix.png",
-    "src/48x48/kmix.png"
+    "src/128x128/kmix.png"
   ],
   "kmail": [
-    "src/128x128/kmail.png",
+    "src/48x48/kmail.png",
     "src/64x64/kmail.png",
-    "src/48x48/kmail.png"
+    "src/128x128/kmail.png"
   ],
   "kmag": [
-    "src/128x128/kmag.png",
+    "src/48x48/kmag.png",
     "src/64x64/kmag.png",
-    "src/48x48/kmag.png"
+    "src/128x128/kmag.png"
   ],
   "klipper": [
     "src/128x128/klipper.png",
@@ -16875,14 +17077,14 @@
     "src/48x48/klipper.png"
   ],
   "klines": [
-    "src/128x128/klines.png",
+    "src/48x48/klines.png",
     "src/64x64/klines.png",
-    "src/48x48/klines.png"
+    "src/128x128/klines.png"
   ],
   "klettres": [
-    "src/128x128/klettres.png",
+    "src/48x48/klettres.png",
     "src/64x64/klettres.png",
-    "src/48x48/klettres.png"
+    "src/128x128/klettres.png"
   ],
   "kldap": [
     "src/128x128/libgravatar.png",
@@ -16890,14 +17092,14 @@
     "src/48x48/incidenceeditor.png"
   ],
   "kjournald": [
-    "src/128x128/ksystemlog.png",
+    "src/48x48/kjournald.png",
     "src/64x64/kjournald.png",
-    "src/48x48/kjournald.png"
+    "src/128x128/kjournald.png"
   ],
   "kiten": [
-    "src/128x128/kiten.png",
+    "src/48x48/kiten.png",
     "src/64x64/kiten.png",
-    "src/48x48/kiten.png"
+    "src/128x128/kiten.png"
   ],
   "kismet": [
     "src/128x128/kismet.png",
@@ -16905,14 +17107,14 @@
     "src/48x48/kismet.png"
   ],
   "kimagemapeditor": [
-    "src/128x128/kimagemapeditor.png",
+    "src/48x48/kimagemapeditor.png",
     "src/64x64/kimagemapeditor.png",
-    "src/48x48/kimagemapeditor.png"
+    "src/128x128/kimagemapeditor.png"
   ],
   "kig": [
-    "src/128x128/kig.png",
+    "src/48x48/kig.png",
     "src/64x64/kig.png",
-    "src/48x48/kig.png"
+    "src/128x128/kig.png"
   ],
   "kicad-library-3d": [
     "src/128x128/kicad-library-3d.png",
@@ -16925,19 +17127,19 @@
     "src/48x48/kicad-library.png"
   ],
   "khelpcenter": [
-    "src/128x128/khelpcenter.png",
+    "src/48x48/khelpcenter.png",
     "src/64x64/khelpcenter.png",
-    "src/48x48/khelpcenter.png"
+    "src/128x128/khelpcenter.png"
   ],
   "khangman": [
-    "src/128x128/khangman.png",
+    "src/48x48/khangman.png",
     "src/64x64/khangman.png",
-    "src/48x48/khangman.png"
+    "src/128x128/khangman.png"
   ],
   "kgeography": [
-    "src/128x128/kgeography.png",
+    "src/48x48/kgeography.png",
     "src/64x64/kgeography.png",
-    "src/48x48/kgeography.png"
+    "src/128x128/kgeography.png"
   ],
   "keycloak": [
     "src/128x128/keycloak.png",
@@ -16955,14 +17157,14 @@
     "src/48x48/kernelshark.png"
   ],
   "keepsecret": [
-    "src/128x128/keepsecret.png",
+    "src/48x48/keepsecret.png",
     "src/64x64/keepsecret.png",
-    "src/48x48/keepsecret.png"
+    "src/128x128/keepsecret.png"
   ],
   "keepassxc": [
-    "src/128x128/keepassxc.png",
+    "src/48x48/keepassxc.png",
     "src/64x64/keepassxc.png",
-    "src/48x48/keepassxc.png"
+    "src/128x128/keepassxc.png"
   ],
   "keepass-plugin-keeagent": [
     "src/128x128/keepass-plugin-keeagent.png",
@@ -16985,19 +17187,19 @@
     "src/48x48/kdsoap-ws-discovery-client.png"
   ],
   "kdiff3": [
-    "src/128x128/kompare.png",
+    "src/48x48/kdiff3.png",
     "src/64x64/kdiff3.png",
-    "src/48x48/kdiff3.png"
+    "src/128x128/kdiff3.png"
   ],
   "kdevelop-python": [
-    "src/128x128/kdevelop-python.png",
-    "src/64x64/kdevelop-pg-qt.png",
-    "src/48x48/kdevelop-pg-qt.png"
+    "src/48x48/kdevelop-python.png",
+    "src/64x64/kdevelop-python.png",
+    "src/128x128/kdevelop-python.png"
   ],
   "kdevelop-php": [
-    "src/128x128/kdevelop-python.png",
-    "src/64x64/kdevelop-pg-qt.png",
-    "src/48x48/kdevelop-pg-qt.png"
+    "src/48x48/kdevelop-php.png",
+    "src/64x64/kdevelop-php.png",
+    "src/128x128/kdevelop-php.png"
   ],
   "kdevelop-pg-qt": [
     "src/128x128/kdevelop-python.png",
@@ -17005,14 +17207,14 @@
     "src/48x48/kdevelop-pg-qt.png"
   ],
   "kdevelop": [
-    "src/128x128/kdevelop.png",
+    "src/48x48/kdevelop.png",
     "src/64x64/kdevelop.png",
-    "src/48x48/kdevelop.png"
+    "src/128x128/kdevelop.png"
   ],
   "kdesvn": [
-    "src/128x128/kdesvn.png",
+    "src/48x48/kdesvn.png",
     "src/64x64/kdesvn.png",
-    "src/48x48/kdesvn.png"
+    "src/128x128/kdesvn.png"
   ],
   "kdepim-runtime": [
     "src/128x128/libgravatar.png",
@@ -17025,29 +17227,29 @@
     "src/48x48/incidenceeditor.png"
   ],
   "kdenlive": [
-    "src/128x128/kdenlive.png",
+    "src/48x48/kdenlive.png",
     "src/64x64/kdenlive.png",
-    "src/48x48/kdenlive.png"
+    "src/128x128/kdenlive.png"
   ],
   "kdbg": [
-    "src/128x128/kdbg.png",
+    "src/48x48/kdbg.png",
     "src/64x64/kdbg.png",
-    "src/48x48/kdbg.png"
+    "src/128x128/kdbg.png"
   ],
   "kcron": [
-    "src/128x128/kcron.png",
+    "src/48x48/kcron.png",
     "src/64x64/kcron.png",
-    "src/48x48/kcron.png"
+    "src/128x128/kcron.png"
   ],
   "kcolorchooser": [
-    "src/128x128/kcolorchooser.png",
+    "src/48x48/kcolorchooser.png",
     "src/64x64/kcolorchooser.png",
-    "src/48x48/kcolorchooser.png"
+    "src/128x128/kcolorchooser.png"
   ],
   "kclock": [
-    "src/128x128/kclock.png",
+    "src/48x48/kclock.png",
     "src/64x64/kclock.png",
-    "src/48x48/kclock.png"
+    "src/128x128/kclock.png"
   ],
   "kcalutils": [
     "src/128x128/libgravatar.png",
@@ -17055,64 +17257,64 @@
     "src/48x48/incidenceeditor.png"
   ],
   "kcalc": [
-    "src/128x128/kcalc.png",
+    "src/48x48/kcalc.png",
     "src/64x64/kcalc.png",
-    "src/48x48/kcalc.png"
+    "src/128x128/kcalc.png"
   ],
   "kcachegrind": [
-    "src/128x128/kcachegrind.png",
+    "src/48x48/kcachegrind.png",
     "src/64x64/kcachegrind.png",
-    "src/48x48/kcachegrind.png"
+    "src/128x128/kcachegrind.png"
   ],
   "kbruch": [
-    "src/128x128/kbruch.png",
+    "src/48x48/kbruch.png",
     "src/64x64/kbruch.png",
-    "src/48x48/kbruch.png"
+    "src/128x128/kbruch.png"
   ],
   "kbibtex": [
-    "src/128x128/kbibtex.png",
+    "src/48x48/kbibtex.png",
     "src/64x64/kbibtex.png",
-    "src/48x48/kbibtex.png"
+    "src/128x128/kbibtex.png"
   ],
   "kbackup": [
-    "src/128x128/kbackup.png",
+    "src/48x48/kbackup.png",
     "src/64x64/kbackup.png",
-    "src/48x48/kbackup.png"
+    "src/128x128/kbackup.png"
   ],
   "kate": [
-    "src/128x128/kate.png",
+    "src/48x48/kate.png",
     "src/64x64/kate.png",
-    "src/48x48/kate.png"
+    "src/128x128/kate.png"
   ],
   "kapptemplate": [
-    "src/128x128/kapptemplate.png",
+    "src/48x48/kapptemplate.png",
     "src/64x64/kapptemplate.png",
-    "src/48x48/kapptemplate.png"
+    "src/128x128/kapptemplate.png"
   ],
   "kanagram": [
-    "src/128x128/kanagram.png",
+    "src/48x48/kanagram.png",
     "src/64x64/kanagram.png",
-    "src/48x48/kanagram.png"
+    "src/128x128/kanagram.png"
   ],
   "kamoso": [
-    "src/128x128/kamoso.png",
+    "src/48x48/kamoso.png",
     "src/64x64/kamoso.png",
-    "src/48x48/kamoso.png"
+    "src/128x128/kamoso.png"
   ],
   "kamera": [
-    "src/128x128/kamera.png",
+    "src/48x48/kamera.png",
     "src/64x64/kamera.png",
-    "src/48x48/kamera.png"
+    "src/128x128/kamera.png"
   ],
   "kalzium": [
-    "src/128x128/kalzium.png",
+    "src/48x48/kalzium.png",
     "src/64x64/kalzium.png",
-    "src/48x48/kalzium.png"
+    "src/128x128/kalzium.png"
   ],
   "kalk": [
-    "src/128x128/kalk.png",
+    "src/48x48/kalk.png",
     "src/64x64/kalk.png",
-    "src/48x48/kalk.png"
+    "src/128x128/kalk.png"
   ],
   "kakoune": [
     "src/128x128/kakoune.png",
@@ -17120,9 +17322,9 @@
     "src/48x48/kakoune.png"
   ],
   "kajongg": [
-    "src/128x128/kajongg.png",
+    "src/48x48/kajongg.png",
     "src/64x64/kajongg.png",
-    "src/48x48/kajongg.png"
+    "src/128x128/kajongg.png"
   ],
   "kafka": [
     "src/128x128/kafka.png",
@@ -17130,19 +17332,19 @@
     "src/48x48/kafka.png"
   ],
   "kaffeine": [
-    "src/128x128/kaffeine.png",
+    "src/48x48/kaffeine.png",
     "src/64x64/kaffeine.png",
-    "src/48x48/kaffeine.png"
+    "src/128x128/kaffeine.png"
   ],
   "kaddressbook": [
-    "src/128x128/kaddressbook.png",
+    "src/48x48/kaddressbook.png",
     "src/64x64/kaddressbook.png",
-    "src/48x48/kaddressbook.png"
+    "src/128x128/kaddressbook.png"
   ],
   "k3b": [
-    "src/128x128/k3b.png",
+    "src/48x48/k3b.png",
     "src/64x64/k3b.png",
-    "src/48x48/k3b.png"
+    "src/128x128/k3b.png"
   ],
   "jython": [
     "src/128x128/jython.png",
@@ -17190,9 +17392,9 @@
     "src/48x48/jupyter-jsmol.png"
   ],
   "jupyter-nbclassic": [
-    "src/128x128/python-hatch-jupyter-builder.png",
+    "src/48x48/jupyter-nbclassic.png",
     "src/64x64/jupyter-nbclassic.png",
-    "src/48x48/jupyter-nbclassic.png"
+    "src/128x128/jupyter-nbclassic.png"
   ],
   "jupyter-jsmol": [
     "src/128x128/libvirt-python.png",
@@ -17215,14 +17417,12 @@
     "src/48x48/jumpy.png"
   ],
   "julia": [
-    "src/128x128/llvm-julia.png",
-    "src/64x64/julia.png",
-    "src/48x48/julia.png"
+    "src/64x64/julia.png"
   ],
   "juk": [
-    "src/128x128/juk.png",
+    "src/48x48/juk.png",
     "src/64x64/juk.png",
-    "src/48x48/juk.png"
+    "src/128x128/juk.png"
   ],
   "js140": [
     "src/128x128/js140.png",
@@ -17365,19 +17565,16 @@
     "src/48x48/java-openjdk-debug.png"
   ],
   "jdk21-openjdk": [
-    "src/128x128/openjdk-doc.png",
-    "src/64x64/java-openjdk-debug.png",
-    "src/48x48/java-openjdk-debug.png"
+    "src/48x48/jdk21-openjdk.png",
+    "src/64x64/jdk21-openjdk.png"
   ],
   "jdk17-openjdk": [
-    "src/128x128/openjdk-doc.png",
-    "src/64x64/java-openjdk-debug.png",
-    "src/48x48/java-openjdk-debug.png"
+    "src/48x48/jdk17-openjdk.png",
+    "src/64x64/jdk17-openjdk.png"
   ],
   "jdk11-openjdk": [
-    "src/128x128/openjdk-doc.png",
-    "src/64x64/java-openjdk-debug.png",
-    "src/48x48/java-openjdk-debug.png"
+    "src/48x48/jdk11-openjdk.png",
+    "src/64x64/jdk11-openjdk.png"
   ],
   "jdk8-openjdk": [
     "src/128x128/openjdk-doc.png",
@@ -17385,9 +17582,8 @@
     "src/48x48/java-openjdk-debug.png"
   ],
   "jdk-openjdk": [
-    "src/128x128/openjdk-doc.png",
-    "src/64x64/java-openjdk-debug.png",
-    "src/48x48/java-openjdk-debug.png"
+    "src/48x48/jdk-openjdk.png",
+    "src/64x64/jdk-openjdk.png"
   ],
   "jconvolver": [
     "src/128x128/zita-ajbridge.png",
@@ -17510,9 +17706,9 @@
     "src/48x48/itstool.png"
   ],
   "itinerary": [
-    "src/128x128/itinerary.png",
+    "src/48x48/itinerary.png",
     "src/64x64/itinerary.png",
-    "src/48x48/itinerary.png"
+    "src/128x128/itinerary.png"
   ],
   "ispc": [
     "src/128x128/ispc.png",
@@ -17520,9 +17716,9 @@
     "src/48x48/ispc.png"
   ],
   "isoimagewriter": [
-    "src/128x128/isoimagewriter.png",
+    "src/48x48/isoimagewriter.png",
     "src/64x64/isoimagewriter.png",
-    "src/48x48/isoimagewriter.png"
+    "src/128x128/isoimagewriter.png"
   ],
   "isd": [
     "src/128x128/isd.png",
@@ -17535,9 +17731,7 @@
     "src/48x48/irssi.png"
   ],
   "ipython": [
-    "src/128x128/ipython.png",
-    "src/64x64/ipython.png",
-    "src/48x48/ipython.png"
+    "src/64x64/ipython.png"
   ],
   "iptables-nft": [
     "src/128x128/libmnl.png",
@@ -17565,9 +17759,9 @@
     "src/48x48/intltool.png"
   ],
   "intellij-idea-community-edition": [
-    "src/128x128/pycharm-community-edition.png",
+    "src/48x48/intellij-idea-community-edition.png",
     "src/64x64/intellij-idea-community-edition.png",
-    "src/48x48/intellij-idea-community-edition.png"
+    "src/128x128/intellij-idea-community-edition.png"
   ],
   "intel-speed-select": [
     "src/128x128/perf.png",
@@ -17745,9 +17939,9 @@
     "src/48x48/icu.png"
   ],
   "ibus-typing-booster": [
-    "src/128x128/ibus-typing-booster.png",
+    "src/48x48/ibus-typing-booster.png",
     "src/64x64/ibus-typing-booster.png",
-    "src/48x48/ibus-typing-booster.png"
+    "src/128x128/ibus-typing-booster.png"
   ],
   "ibus-rime": [
     "src/128x128/ibus-rime.png",
@@ -17755,9 +17949,9 @@
     "src/48x48/ibus-rime.png"
   ],
   "iagno": [
-    "src/128x128/iagno.png",
+    "src/48x48/iagno.png",
     "src/64x64/iagno.png",
-    "src/48x48/iagno.png"
+    "src/128x128/iagno.png"
   ],
   "i3lock": [
     "src/128x128/i3lock.png",
@@ -17835,9 +18029,8 @@
     "src/48x48/hugo.png"
   ],
   "httrack": [
-    "src/128x128/httrack.png",
-    "src/64x64/httrack.png",
-    "src/48x48/httrack.png"
+    "src/48x48/httrack.png",
+    "src/64x64/httrack.png"
   ],
   "htop": [
     "src/128x128/htop.png",
@@ -17945,14 +18138,14 @@
     "src/48x48/herbstluftwm.png"
   ],
   "heimdall": [
-    "src/128x128/python-aiohttp-oauthlib.png",
+    "src/48x48/heimdall.png",
     "src/64x64/heimdall.png",
-    "src/48x48/heimdall.png"
+    "src/128x128/heimdall.png"
   ],
   "heaptrack": [
-    "src/128x128/heaptrack.png",
+    "src/48x48/heaptrack.png",
     "src/64x64/heaptrack.png",
-    "src/48x48/heaptrack.png"
+    "src/128x128/heaptrack.png"
   ],
   "hdf5-openmpi": [
     "src/128x128/hdf5-openmpi.png",
@@ -17970,8 +18163,2625 @@
     "src/48x48/haxe.png"
   ],
   "konversation": [
-    "src/128x128/konversation.png",
+    "src/48x48/konversation.png",
     "src/64x64/konversation.png",
-    "src/48x48/konversation.png"
+    "src/128x128/konversation.png"
+  ],
+  "accessibility-inspector": [
+    "src/48x48/accessibility-inspector.png",
+    "src/64x64/accessibility-inspector.png",
+    "src/128x128/accessibility-inspector.png"
+  ],
+  "activity-log-manager": [
+    "src/48x48/activity-log-manager.png",
+    "src/64x64/activity-log-manager.png"
+  ],
+  "adlplug-standalone": [
+    "src/48x48/adlplug-standalone.png",
+    "src/64x64/adlplug-standalone.png"
+  ],
+  "aisleriot": [
+    "src/48x48/aisleriot.png",
+    "src/64x64/aisleriot.png",
+    "src/128x128/aisleriot.png"
+  ],
+  "akonadi-import-wizard": [
+    "src/48x48/akonadi-import-wizard.png",
+    "src/64x64/akonadi-import-wizard.png",
+    "src/128x128/akonadi-import-wizard.png"
+  ],
+  "amsynth-standalone": [
+    "src/48x48/amsynth-standalone.png",
+    "src/64x64/amsynth-standalone.png",
+    "src/128x128/amsynth-standalone.png"
+  ],
+  "app-icon-preview": [
+    "src/48x48/app-icon-preview.png",
+    "src/64x64/app-icon-preview.png",
+    "src/128x128/app-icon-preview.png"
+  ],
+  "ario": [
+    "src/48x48/ario.png",
+    "src/64x64/ario.png",
+    "src/128x128/ario.png"
+  ],
+  "ark": [
+    "src/48x48/ark.png",
+    "src/64x64/ark.png",
+    "src/128x128/ark.png"
+  ],
+  "armagetronad": [
+    "src/48x48/armagetronad.png",
+    "src/64x64/armagetronad.png"
+  ],
+  "artikulate": [
+    "src/48x48/artikulate.png",
+    "src/64x64/artikulate.png",
+    "src/128x128/artikulate.png"
+  ],
+  "astroid": [
+    "src/48x48/astroid.png",
+    "src/64x64/astroid.png",
+    "src/128x128/astroid.png"
+  ],
+  "audex": [
+    "src/48x48/audex.png",
+    "src/64x64/audex.png",
+    "src/128x128/audex.png"
+  ],
+  "audiocd-kio": [
+    "src/48x48/audiocd-kio.png",
+    "src/64x64/audiocd-kio.png",
+    "src/128x128/audiocd-kio.png"
+  ],
+  "avahi": [
+    "src/48x48/avahi.png",
+    "src/64x64/avahi.png"
+  ],
+  "baobab": [
+    "src/48x48/baobab.png",
+    "src/64x64/baobab.png",
+    "src/128x128/baobab.png"
+  ],
+  "birdfont": [
+    "src/48x48/birdfont.png",
+    "src/64x64/birdfont.png",
+    "src/128x128/birdfont.png"
+  ],
+  "blinken": [
+    "src/48x48/blinken.png",
+    "src/64x64/blinken.png",
+    "src/128x128/blinken.png"
+  ],
+  "blobby2": [
+    "src/48x48/blobby2.png",
+    "src/64x64/blobby2.png",
+    "src/128x128/blobby2.png"
+  ],
+  "blobwars": [
+    "src/48x48/blobwars.png",
+    "src/64x64/blobwars.png"
+  ],
+  "btrfs-assistant": [
+    "src/48x48/btrfs-assistant.png",
+    "src/64x64/btrfs-assistant.png",
+    "src/128x128/btrfs-assistant.png"
+  ],
+  "budgie-control-center": [
+    "src/48x48/budgie-control-center.png",
+    "src/64x64/budgie-control-center.png",
+    "src/128x128/budgie-control-center.png"
+  ],
+  "budgie-extras": [
+    "src/48x48/budgie-extras.png",
+    "src/64x64/budgie-extras.png",
+    "src/128x128/budgie-extras.png"
+  ],
+  "buho": [
+    "src/48x48/buho.png",
+    "src/64x64/buho.png",
+    "src/128x128/buho.png"
+  ],
+  "calindori": [
+    "src/48x48/calindori.png",
+    "src/64x64/calindori.png",
+    "src/128x128/calindori.png"
+  ],
+  "calligra-plan": [
+    "src/48x48/calligra-plan.png",
+    "src/64x64/calligra-plan.png",
+    "src/128x128/calligra-plan.png"
+  ],
+  "cantor": [
+    "src/48x48/cantor.png",
+    "src/64x64/cantor.png",
+    "src/128x128/cantor.png"
+  ],
+  "capnet-assist": [
+    "src/48x48/capnet-assist.png",
+    "src/64x64/capnet-assist.png",
+    "src/128x128/capnet-assist.png"
+  ],
+  "chatty": [
+    "src/48x48/chatty.png",
+    "src/64x64/chatty.png",
+    "src/128x128/chatty.png"
+  ],
+  "chewing-editor": [
+    "src/48x48/chewing-editor.png",
+    "src/64x64/chewing-editor.png",
+    "src/128x128/chewing-editor.png"
+  ],
+  "chromium": [
+    "src/48x48/chromium.png",
+    "src/64x64/chromium.png",
+    "src/128x128/chromium.png"
+  ],
+  "clazy": [
+    "src/48x48/clazy.png",
+    "src/64x64/clazy.png",
+    "src/128x128/clazy.png"
+  ],
+  "cmake": [
+    "src/48x48/cmake.png",
+    "src/64x64/cmake.png",
+    "src/128x128/cmake.png"
+  ],
+  "cockpit": [
+    "src/48x48/cockpit.png",
+    "src/64x64/cockpit.png",
+    "src/128x128/cockpit.png"
+  ],
+  "codeblocks": [
+    "src/48x48/codeblocks.png",
+    "src/64x64/codeblocks.png"
+  ],
+  "communicator": [
+    "src/48x48/communicator.png",
+    "src/64x64/communicator.png",
+    "src/128x128/communicator.png"
+  ],
+  "contour": [
+    "src/48x48/contour.png",
+    "src/64x64/contour.png",
+    "src/128x128/contour.png"
+  ],
+  "cool-retro-term": [
+    "src/48x48/cool-retro-term.png",
+    "src/64x64/cool-retro-term.png",
+    "src/128x128/cool-retro-term.png"
+  ],
+  "coolreader": [
+    "src/48x48/coolreader.png",
+    "src/64x64/coolreader.png"
+  ],
+  "copyq": [
+    "src/48x48/copyq.png",
+    "src/64x64/copyq.png",
+    "src/128x128/copyq.png"
+  ],
+  "corectrl": [
+    "src/48x48/corectrl.png",
+    "src/64x64/corectrl.png",
+    "src/128x128/corectrl.png"
+  ],
+  "cosmic-app-library": [
+    "src/48x48/cosmic-app-library.png",
+    "src/64x64/cosmic-app-library.png",
+    "src/128x128/cosmic-app-library.png"
+  ],
+  "cosmic-files": [
+    "src/48x48/cosmic-files.png",
+    "src/64x64/cosmic-files.png",
+    "src/128x128/cosmic-files.png"
+  ],
+  "cosmic-launcher": [
+    "src/48x48/cosmic-launcher.png",
+    "src/64x64/cosmic-launcher.png",
+    "src/128x128/cosmic-launcher.png"
+  ],
+  "cosmic-player": [
+    "src/48x48/cosmic-player.png",
+    "src/64x64/cosmic-player.png",
+    "src/128x128/cosmic-player.png"
+  ],
+  "cosmic-settings": [
+    "src/48x48/cosmic-settings.png",
+    "src/64x64/cosmic-settings.png",
+    "src/128x128/cosmic-settings.png"
+  ],
+  "cosmic-store": [
+    "src/48x48/cosmic-store.png",
+    "src/64x64/cosmic-store.png",
+    "src/128x128/cosmic-store.png"
+  ],
+  "cosmic-terminal": [
+    "src/48x48/cosmic-terminal.png",
+    "src/64x64/cosmic-terminal.png",
+    "src/128x128/cosmic-terminal.png"
+  ],
+  "cosmic-text-editor": [
+    "src/48x48/cosmic-text-editor.png",
+    "src/64x64/cosmic-text-editor.png",
+    "src/128x128/cosmic-text-editor.png"
+  ],
+  "cppcheck": [
+    "src/48x48/cppcheck.png",
+    "src/64x64/cppcheck.png",
+    "src/128x128/cppcheck.png"
+  ],
+  "csoundqt": [
+    "src/48x48/csoundqt.png",
+    "src/64x64/csoundqt.png",
+    "src/128x128/csoundqt.png"
+  ],
+  "cutefish-filemanager": [
+    "src/48x48/cutefish-filemanager.png",
+    "src/64x64/cutefish-filemanager.png",
+    "src/128x128/cutefish-filemanager.png"
+  ],
+  "cuyo": [
+    "src/48x48/cuyo.png",
+    "src/64x64/cuyo.png"
+  ],
+  "danmaq": [
+    "src/48x48/danmaq.png",
+    "src/64x64/danmaq.png",
+    "src/128x128/danmaq.png"
+  ],
+  "dconf-editor": [
+    "src/48x48/dconf-editor.png",
+    "src/64x64/dconf-editor.png",
+    "src/128x128/dconf-editor.png"
+  ],
+  "deepin-boot-maker": [
+    "src/48x48/deepin-boot-maker.png",
+    "src/64x64/deepin-boot-maker.png",
+    "src/128x128/deepin-boot-maker.png"
+  ],
+  "deepin-calculator": [
+    "src/48x48/deepin-calculator.png",
+    "src/64x64/deepin-calculator.png",
+    "src/128x128/deepin-calculator.png"
+  ],
+  "deepin-camera": [
+    "src/48x48/deepin-camera.png",
+    "src/64x64/deepin-camera.png",
+    "src/128x128/deepin-camera.png"
+  ],
+  "deepin-compressor": [
+    "src/48x48/deepin-compressor.png",
+    "src/64x64/deepin-compressor.png",
+    "src/128x128/deepin-compressor.png"
+  ],
+  "deepin-control-center": [
+    "src/48x48/deepin-control-center.png",
+    "src/64x64/deepin-control-center.png",
+    "src/128x128/deepin-control-center.png"
+  ],
+  "deepin-draw": [
+    "src/48x48/deepin-draw.png",
+    "src/64x64/deepin-draw.png",
+    "src/128x128/deepin-draw.png"
+  ],
+  "deepin-editor": [
+    "src/48x48/deepin-editor.png",
+    "src/64x64/deepin-editor.png",
+    "src/128x128/deepin-editor.png"
+  ],
+  "deepin-image-viewer": [
+    "src/48x48/deepin-image-viewer.png",
+    "src/64x64/deepin-image-viewer.png",
+    "src/128x128/deepin-image-viewer.png"
+  ],
+  "deepin-movie": [
+    "src/48x48/deepin-movie.png",
+    "src/64x64/deepin-movie.png",
+    "src/128x128/deepin-movie.png"
+  ],
+  "deepin-screen-recorder": [
+    "src/48x48/deepin-screen-recorder.png",
+    "src/64x64/deepin-screen-recorder.png",
+    "src/128x128/deepin-screen-recorder.png"
+  ],
+  "deepin-terminal": [
+    "src/48x48/deepin-terminal.png",
+    "src/64x64/deepin-terminal.png",
+    "src/128x128/deepin-terminal.png"
+  ],
+  "deepin-terminal-gtk": [
+    "src/48x48/deepin-terminal-gtk.png",
+    "src/64x64/deepin-terminal-gtk.png",
+    "src/128x128/deepin-terminal-gtk.png"
+  ],
+  "deepin-voice-note": [
+    "src/48x48/deepin-voice-note.png",
+    "src/64x64/deepin-voice-note.png",
+    "src/128x128/deepin-voice-note.png"
+  ],
+  "deja-dup": [
+    "src/48x48/deja-dup.png",
+    "src/64x64/deja-dup.png",
+    "src/128x128/deja-dup.png"
+  ],
+  "devhelp": [
+    "src/48x48/devhelp.png",
+    "src/64x64/devhelp.png",
+    "src/128x128/devhelp.png"
+  ],
+  "diffpdf": [
+    "src/48x48/diffpdf.png",
+    "src/64x64/diffpdf.png"
+  ],
+  "discover": [
+    "src/48x48/discover.png",
+    "src/64x64/discover.png",
+    "src/128x128/discover.png"
+  ],
+  "djview": [
+    "src/48x48/djview.png",
+    "src/64x64/djview.png",
+    "src/128x128/djview.png"
+  ],
+  "dolphin-plugins": [
+    "src/48x48/dolphin-plugins.png",
+    "src/64x64/dolphin-plugins.png",
+    "src/128x128/dolphin-plugins.png"
+  ],
+  "dragon": [
+    "src/48x48/dragon.png",
+    "src/64x64/dragon.png",
+    "src/128x128/dragon.png"
+  ],
+  "drumkv1-standalone": [
+    "src/48x48/drumkv1-standalone.png",
+    "src/64x64/drumkv1-standalone.png",
+    "src/128x128/drumkv1-standalone.png"
+  ],
+  "drumstick": [
+    "src/48x48/drumstick.png",
+    "src/64x64/drumstick.png",
+    "src/128x128/drumstick.png"
+  ],
+  "dvdstyler": [
+    "src/48x48/dvdstyler.png",
+    "src/64x64/dvdstyler.png"
+  ],
+  "easyeffects": [
+    "src/48x48/easyeffects.png",
+    "src/64x64/easyeffects.png",
+    "src/128x128/easyeffects.png"
+  ],
+  "ecrire": [
+    "src/48x48/ecrire.png",
+    "src/64x64/ecrire.png",
+    "src/128x128/ecrire.png"
+  ],
+  "efl": [
+    "src/48x48/efl.png",
+    "src/64x64/efl.png",
+    "src/128x128/efl.png"
+  ],
+  "elisa": [
+    "src/48x48/elisa.png",
+    "src/64x64/elisa.png",
+    "src/128x128/elisa.png"
+  ],
+  "endless-sky": [
+    "src/48x48/endless-sky.png",
+    "src/64x64/endless-sky.png",
+    "src/128x128/endless-sky.png"
+  ],
+  "engrampa": [
+    "src/48x48/engrampa.png",
+    "src/64x64/engrampa.png",
+    "src/128x128/engrampa.png"
+  ],
+  "enter-tex": [
+    "src/48x48/enter-tex.png",
+    "src/64x64/enter-tex.png",
+    "src/128x128/enter-tex.png"
+  ],
+  "eog": [
+    "src/48x48/eog.png",
+    "src/64x64/eog.png",
+    "src/128x128/eog.png"
+  ],
+  "eom": [
+    "src/48x48/eom.png",
+    "src/64x64/eom.png",
+    "src/128x128/eom.png"
+  ],
+  "epiphany": [
+    "src/48x48/epiphany.png",
+    "src/64x64/epiphany.png",
+    "src/128x128/epiphany.png"
+  ],
+  "evince": [
+    "src/48x48/evince.png",
+    "src/64x64/evince.png",
+    "src/128x128/evince.png"
+  ],
+  "evolution": [
+    "src/48x48/evolution.png",
+    "src/64x64/evolution.png",
+    "src/128x128/evolution.png"
+  ],
+  "falkon": [
+    "src/48x48/falkon.png",
+    "src/64x64/falkon.png",
+    "src/128x128/falkon.png"
+  ],
+  "fcitx5": [
+    "src/48x48/fcitx5.png",
+    "src/64x64/fcitx5.png",
+    "src/128x128/fcitx5.png"
+  ],
+  "fcitx5-configtool": [
+    "src/48x48/fcitx5-configtool.png",
+    "src/64x64/fcitx5-configtool.png",
+    "src/128x128/fcitx5-configtool.png"
+  ],
+  "feathernotes": [
+    "src/48x48/feathernotes.png",
+    "src/64x64/feathernotes.png",
+    "src/128x128/feathernotes.png"
+  ],
+  "featherpad": [
+    "src/48x48/featherpad.png",
+    "src/64x64/featherpad.png",
+    "src/128x128/featherpad.png"
+  ],
+  "ffmpegthumbs": [
+    "src/48x48/ffmpegthumbs.png",
+    "src/64x64/ffmpegthumbs.png",
+    "src/128x128/ffmpegthumbs.png"
+  ],
+  "fiery": [
+    "src/48x48/fiery.png",
+    "src/64x64/fiery.png",
+    "src/128x128/fiery.png"
+  ],
+  "file-roller": [
+    "src/48x48/file-roller.png",
+    "src/64x64/file-roller.png",
+    "src/128x128/file-roller.png"
+  ],
+  "filelight": [
+    "src/48x48/filelight.png",
+    "src/64x64/filelight.png",
+    "src/128x128/filelight.png"
+  ],
+  "firefox": [
+    "src/48x48/firefox.png",
+    "src/64x64/firefox.png",
+    "src/128x128/firefox.png"
+  ],
+  "firefoxpwa": [
+    "src/48x48/firefoxpwa.png",
+    "src/64x64/firefoxpwa.png",
+    "src/128x128/firefoxpwa.png"
+  ],
+  "five-or-more": [
+    "src/48x48/five-or-more.png",
+    "src/64x64/five-or-more.png",
+    "src/128x128/five-or-more.png"
+  ],
+  "fltk": [
+    "src/48x48/fltk.png",
+    "src/64x64/fltk.png",
+    "src/128x128/fltk.png"
+  ],
+  "fltk1.3": [
+    "src/48x48/fltk1.3.png",
+    "src/64x64/fltk1.3.png",
+    "src/128x128/fltk1.3.png"
+  ],
+  "freedroidrpg": [
+    "src/48x48/freedroidrpg.png",
+    "src/64x64/freedroidrpg.png",
+    "src/128x128/freedroidrpg.png"
+  ],
+  "galculator": [
+    "src/48x48/galculator.png",
+    "src/64x64/galculator.png",
+    "src/128x128/galculator.png"
+  ],
+  "gammaray": [
+    "src/48x48/gammaray.png",
+    "src/64x64/gammaray.png",
+    "src/128x128/gammaray.png"
+  ],
+  "gammastep": [
+    "src/48x48/gammastep.png",
+    "src/64x64/gammastep.png",
+    "src/128x128/gammastep.png"
+  ],
+  "gcompris-qt": [
+    "src/48x48/gcompris-qt.png",
+    "src/64x64/gcompris-qt.png",
+    "src/128x128/gcompris-qt.png"
+  ],
+  "geary": [
+    "src/48x48/geary.png",
+    "src/64x64/geary.png",
+    "src/128x128/geary.png"
+  ],
+  "geonkick-standalone": [
+    "src/48x48/geonkick-standalone.png",
+    "src/64x64/geonkick-standalone.png",
+    "src/128x128/geonkick-standalone.png"
+  ],
+  "ghostty": [
+    "src/48x48/ghostty.png",
+    "src/64x64/ghostty.png",
+    "src/128x128/ghostty.png"
+  ],
+  "ghostwriter": [
+    "src/48x48/ghostwriter.png",
+    "src/64x64/ghostwriter.png",
+    "src/128x128/ghostwriter.png"
+  ],
+  "giggle": [
+    "src/48x48/giggle.png",
+    "src/64x64/giggle.png",
+    "src/128x128/giggle.png"
+  ],
+  "gigolo": [
+    "src/48x48/gigolo.png",
+    "src/64x64/gigolo.png",
+    "src/128x128/gigolo.png"
+  ],
+  "globalprotect-openconnect": [
+    "src/48x48/globalprotect-openconnect.png",
+    "src/64x64/globalprotect-openconnect.png",
+    "src/128x128/globalprotect-openconnect.png"
+  ],
+  "gmic": [
+    "src/48x48/gmic.png",
+    "src/64x64/gmic.png",
+    "src/128x128/gmic.png"
+  ],
+  "gnac": [
+    "src/48x48/gnac.png",
+    "src/64x64/gnac.png",
+    "src/128x128/gnac.png"
+  ],
+  "gnome-2048": [
+    "src/48x48/gnome-2048.png",
+    "src/64x64/gnome-2048.png",
+    "src/128x128/gnome-2048.png"
+  ],
+  "gnome-boxes": [
+    "src/48x48/gnome-boxes.png",
+    "src/64x64/gnome-boxes.png",
+    "src/128x128/gnome-boxes.png"
+  ],
+  "gnome-break-timer": [
+    "src/48x48/gnome-break-timer.png",
+    "src/64x64/gnome-break-timer.png",
+    "src/128x128/gnome-break-timer.png"
+  ],
+  "gnome-builder": [
+    "src/48x48/gnome-builder.png",
+    "src/64x64/gnome-builder.png",
+    "src/128x128/gnome-builder.png"
+  ],
+  "gnome-calculator": [
+    "src/48x48/gnome-calculator.png",
+    "src/64x64/gnome-calculator.png",
+    "src/128x128/gnome-calculator.png"
+  ],
+  "gnome-calendar": [
+    "src/48x48/gnome-calendar.png",
+    "src/64x64/gnome-calendar.png",
+    "src/128x128/gnome-calendar.png"
+  ],
+  "gnome-calls": [
+    "src/48x48/gnome-calls.png",
+    "src/64x64/gnome-calls.png",
+    "src/128x128/gnome-calls.png"
+  ],
+  "gnome-characters": [
+    "src/48x48/gnome-characters.png",
+    "src/64x64/gnome-characters.png",
+    "src/128x128/gnome-characters.png"
+  ],
+  "gnome-chess": [
+    "src/48x48/gnome-chess.png",
+    "src/64x64/gnome-chess.png",
+    "src/128x128/gnome-chess.png"
+  ],
+  "gnome-clocks": [
+    "src/48x48/gnome-clocks.png",
+    "src/64x64/gnome-clocks.png",
+    "src/128x128/gnome-clocks.png"
+  ],
+  "gnome-color-manager": [
+    "src/48x48/gnome-color-manager.png",
+    "src/64x64/gnome-color-manager.png",
+    "src/128x128/gnome-color-manager.png"
+  ],
+  "gnome-commander": [
+    "src/48x48/gnome-commander.png",
+    "src/64x64/gnome-commander.png",
+    "src/128x128/gnome-commander.png"
+  ],
+  "gnome-connections": [
+    "src/48x48/gnome-connections.png",
+    "src/64x64/gnome-connections.png",
+    "src/128x128/gnome-connections.png"
+  ],
+  "gnome-console": [
+    "src/48x48/gnome-console.png",
+    "src/64x64/gnome-console.png",
+    "src/128x128/gnome-console.png"
+  ],
+  "gnome-contacts": [
+    "src/48x48/gnome-contacts.png",
+    "src/64x64/gnome-contacts.png",
+    "src/128x128/gnome-contacts.png"
+  ],
+  "gnome-control-center": [
+    "src/48x48/gnome-control-center.png",
+    "src/64x64/gnome-control-center.png",
+    "src/128x128/gnome-control-center.png"
+  ],
+  "gnome-dictionary": [
+    "src/48x48/gnome-dictionary.png",
+    "src/64x64/gnome-dictionary.png",
+    "src/128x128/gnome-dictionary.png"
+  ],
+  "gnome-disk-utility": [
+    "src/48x48/gnome-disk-utility.png",
+    "src/64x64/gnome-disk-utility.png",
+    "src/128x128/gnome-disk-utility.png"
+  ],
+  "gnome-firmware": [
+    "src/48x48/gnome-firmware.png",
+    "src/64x64/gnome-firmware.png",
+    "src/128x128/gnome-firmware.png"
+  ],
+  "gnome-font-viewer": [
+    "src/48x48/gnome-font-viewer.png",
+    "src/64x64/gnome-font-viewer.png",
+    "src/128x128/gnome-font-viewer.png"
+  ],
+  "gnome-games": [
+    "src/48x48/gnome-games.png",
+    "src/64x64/gnome-games.png",
+    "src/128x128/gnome-games.png"
+  ],
+  "gnome-klotski": [
+    "src/48x48/gnome-klotski.png",
+    "src/64x64/gnome-klotski.png",
+    "src/128x128/gnome-klotski.png"
+  ],
+  "gnome-logs": [
+    "src/48x48/gnome-logs.png",
+    "src/64x64/gnome-logs.png",
+    "src/128x128/gnome-logs.png"
+  ],
+  "gnome-mahjongg": [
+    "src/48x48/gnome-mahjongg.png",
+    "src/64x64/gnome-mahjongg.png",
+    "src/128x128/gnome-mahjongg.png"
+  ],
+  "gnome-maps": [
+    "src/48x48/gnome-maps.png",
+    "src/64x64/gnome-maps.png",
+    "src/128x128/gnome-maps.png"
+  ],
+  "gnome-mines": [
+    "src/48x48/gnome-mines.png",
+    "src/64x64/gnome-mines.png",
+    "src/128x128/gnome-mines.png"
+  ],
+  "gnome-mplayer": [
+    "src/48x48/gnome-mplayer.png",
+    "src/64x64/gnome-mplayer.png",
+    "src/128x128/gnome-mplayer.png"
+  ],
+  "gnome-nettool": [
+    "src/48x48/gnome-nettool.png",
+    "src/64x64/gnome-nettool.png",
+    "src/128x128/gnome-nettool.png"
+  ],
+  "gnome-nibbles": [
+    "src/48x48/gnome-nibbles.png",
+    "src/64x64/gnome-nibbles.png",
+    "src/128x128/gnome-nibbles.png"
+  ],
+  "gnome-notes": [
+    "src/48x48/gnome-notes.png",
+    "src/64x64/gnome-notes.png",
+    "src/128x128/gnome-notes.png"
+  ],
+  "gnome-packagekit": [
+    "src/48x48/gnome-packagekit.png",
+    "src/64x64/gnome-packagekit.png",
+    "src/128x128/gnome-packagekit.png"
+  ],
+  "gnome-pie": [
+    "src/48x48/gnome-pie.png",
+    "src/64x64/gnome-pie.png",
+    "src/128x128/gnome-pie.png"
+  ],
+  "gnome-podcasts": [
+    "src/48x48/gnome-podcasts.png",
+    "src/64x64/gnome-podcasts.png",
+    "src/128x128/gnome-podcasts.png"
+  ],
+  "gnome-power-manager": [
+    "src/48x48/gnome-power-manager.png",
+    "src/64x64/gnome-power-manager.png",
+    "src/128x128/gnome-power-manager.png"
+  ],
+  "gnome-robots": [
+    "src/48x48/gnome-robots.png",
+    "src/64x64/gnome-robots.png",
+    "src/128x128/gnome-robots.png"
+  ],
+  "gnome-screenshot": [
+    "src/48x48/gnome-screenshot.png",
+    "src/64x64/gnome-screenshot.png",
+    "src/128x128/gnome-screenshot.png"
+  ],
+  "gnome-shell": [
+    "src/48x48/gnome-shell.png",
+    "src/64x64/gnome-shell.png",
+    "src/128x128/gnome-shell.png"
+  ],
+  "gnome-software": [
+    "src/48x48/gnome-software.png",
+    "src/64x64/gnome-software.png",
+    "src/128x128/gnome-software.png"
+  ],
+  "gnome-sudoku": [
+    "src/48x48/gnome-sudoku.png",
+    "src/64x64/gnome-sudoku.png",
+    "src/128x128/gnome-sudoku.png"
+  ],
+  "gnome-system-monitor": [
+    "src/48x48/gnome-system-monitor.png",
+    "src/64x64/gnome-system-monitor.png",
+    "src/128x128/gnome-system-monitor.png"
+  ],
+  "gnome-taquin": [
+    "src/48x48/gnome-taquin.png",
+    "src/64x64/gnome-taquin.png",
+    "src/128x128/gnome-taquin.png"
+  ],
+  "gnome-terminal": [
+    "src/48x48/gnome-terminal.png",
+    "src/64x64/gnome-terminal.png",
+    "src/128x128/gnome-terminal.png"
+  ],
+  "gnome-tetravex": [
+    "src/48x48/gnome-tetravex.png",
+    "src/64x64/gnome-tetravex.png",
+    "src/128x128/gnome-tetravex.png"
+  ],
+  "gnome-text-editor": [
+    "src/48x48/gnome-text-editor.png",
+    "src/64x64/gnome-text-editor.png",
+    "src/128x128/gnome-text-editor.png"
+  ],
+  "gnome-tour": [
+    "src/48x48/gnome-tour.png",
+    "src/64x64/gnome-tour.png",
+    "src/128x128/gnome-tour.png"
+  ],
+  "gnubiff": [
+    "src/48x48/gnubiff.png",
+    "src/64x64/gnubiff.png"
+  ],
+  "gogglesmm": [
+    "src/48x48/gogglesmm.png",
+    "src/64x64/gogglesmm.png",
+    "src/128x128/gogglesmm.png"
+  ],
+  "goobox": [
+    "src/48x48/goobox.png",
+    "src/64x64/goobox.png",
+    "src/128x128/goobox.png"
+  ],
+  "gpaste": [
+    "src/48x48/gpaste.png",
+    "src/64x64/gpaste.png"
+  ],
+  "gpicview": [
+    "src/48x48/gpicview.png",
+    "src/64x64/gpicview.png"
+  ],
+  "gpxsee": [
+    "src/48x48/gpxsee.png",
+    "src/64x64/gpxsee.png",
+    "src/128x128/gpxsee.png"
+  ],
+  "granite7": [
+    "src/48x48/granite7.png",
+    "src/64x64/granite7.png"
+  ],
+  "gthumb": [
+    "src/48x48/gthumb.png",
+    "src/64x64/gthumb.png",
+    "src/128x128/gthumb.png"
+  ],
+  "gtk4-demos": [
+    "src/48x48/gtk4-demos.png",
+    "src/64x64/gtk4-demos.png",
+    "src/128x128/gtk4-demos.png"
+  ],
+  "gtranslator": [
+    "src/48x48/gtranslator.png",
+    "src/64x64/gtranslator.png",
+    "src/128x128/gtranslator.png"
+  ],
+  "gucharmap": [
+    "src/48x48/gucharmap.png",
+    "src/64x64/gucharmap.png",
+    "src/128x128/gucharmap.png"
+  ],
+  "gupnp-tools": [
+    "src/48x48/gupnp-tools.png",
+    "src/64x64/gupnp-tools.png",
+    "src/128x128/gupnp-tools.png"
+  ],
+  "gwenview": [
+    "src/48x48/gwenview.png",
+    "src/64x64/gwenview.png",
+    "src/128x128/gwenview.png"
+  ],
+  "gxmessage": [
+    "src/48x48/gxmessage.png",
+    "src/64x64/gxmessage.png"
+  ],
+  "icon-library": [
+    "src/48x48/icon-library.png",
+    "src/64x64/icon-library.png",
+    "src/128x128/icon-library.png"
+  ],
+  "index-fm": [
+    "src/48x48/index-fm.png",
+    "src/64x64/index-fm.png",
+    "src/128x128/index-fm.png"
+  ],
+  "input-leap": [
+    "src/48x48/input-leap.png",
+    "src/64x64/input-leap.png",
+    "src/128x128/input-leap.png"
+  ],
+  "jack_mixer": [
+    "src/48x48/jack_mixer.png",
+    "src/64x64/jack_mixer.png",
+    "src/128x128/jack_mixer.png"
+  ],
+  "jami-qt": [
+    "src/48x48/jami-qt.png",
+    "src/64x64/jami-qt.png",
+    "src/128x128/jami-qt.png"
+  ],
+  "jgmenu": [
+    "src/48x48/jgmenu.png",
+    "src/64x64/jgmenu.png",
+    "src/128x128/jgmenu.png"
+  ],
+  "kalarm": [
+    "src/48x48/kalarm.png",
+    "src/64x64/kalarm.png",
+    "src/128x128/kalarm.png"
+  ],
+  "kde-dev-utils": [
+    "src/48x48/kde-dev-utils.png",
+    "src/64x64/kde-dev-utils.png",
+    "src/128x128/kde-dev-utils.png"
+  ],
+  "kdeconnect": [
+    "src/48x48/kdeconnect.png",
+    "src/64x64/kdeconnect.png",
+    "src/128x128/kdeconnect.png"
+  ],
+  "kdenetwork-filesharing": [
+    "src/48x48/kdenetwork-filesharing.png",
+    "src/64x64/kdenetwork-filesharing.png",
+    "src/128x128/kdenetwork-filesharing.png"
+  ],
+  "kdf": [
+    "src/48x48/kdf.png",
+    "src/64x64/kdf.png",
+    "src/128x128/kdf.png"
+  ],
+  "kdialog": [
+    "src/48x48/kdialog.png",
+    "src/64x64/kdialog.png",
+    "src/128x128/kdialog.png"
+  ],
+  "kexi": [
+    "src/48x48/kexi.png",
+    "src/64x64/kexi.png",
+    "src/128x128/kexi.png"
+  ],
+  "key-rack": [
+    "src/48x48/key-rack.png",
+    "src/64x64/key-rack.png",
+    "src/128x128/key-rack.png"
+  ],
+  "kgpg": [
+    "src/48x48/kgpg.png",
+    "src/64x64/kgpg.png",
+    "src/128x128/kgpg.png"
+  ],
+  "kid3-qt": [
+    "src/48x48/kid3-qt.png",
+    "src/64x64/kid3-qt.png",
+    "src/128x128/kid3-qt.png"
+  ],
+  "kinfocenter": [
+    "src/48x48/kinfocenter.png",
+    "src/64x64/kinfocenter.png",
+    "src/128x128/kinfocenter.png"
+  ],
+  "kio-gdrive": [
+    "src/48x48/kio-gdrive.png",
+    "src/64x64/kio-gdrive.png",
+    "src/128x128/kio-gdrive.png"
+  ],
+  "kio-zeroconf": [
+    "src/48x48/kio-zeroconf.png",
+    "src/64x64/kio-zeroconf.png",
+    "src/128x128/kio-zeroconf.png"
+  ],
+  "kirigami-gallery": [
+    "src/48x48/kirigami-gallery.png",
+    "src/64x64/kirigami-gallery.png",
+    "src/128x128/kirigami-gallery.png"
+  ],
+  "kitty": [
+    "src/48x48/kitty.png",
+    "src/64x64/kitty.png",
+    "src/128x128/kitty.png"
+  ],
+  "kiwix-desktop": [
+    "src/48x48/kiwix-desktop.png",
+    "src/64x64/kiwix-desktop.png",
+    "src/128x128/kiwix-desktop.png"
+  ],
+  "kmail-account-wizard": [
+    "src/48x48/kmail-account-wizard.png",
+    "src/64x64/kmail-account-wizard.png",
+    "src/128x128/kmail-account-wizard.png"
+  ],
+  "kmenuedit": [
+    "src/48x48/kmenuedit.png",
+    "src/64x64/kmenuedit.png"
+  ],
+  "kmidimon": [
+    "src/48x48/kmidimon.png",
+    "src/64x64/kmidimon.png",
+    "src/128x128/kmidimon.png"
+  ],
+  "kmymoney": [
+    "src/48x48/kmymoney.png",
+    "src/64x64/kmymoney.png",
+    "src/128x128/kmymoney.png"
+  ],
+  "korganizer": [
+    "src/48x48/korganizer.png",
+    "src/64x64/korganizer.png",
+    "src/128x128/korganizer.png"
+  ],
+  "kosmindoormap": [
+    "src/48x48/kosmindoormap.png",
+    "src/64x64/kosmindoormap.png",
+    "src/128x128/kosmindoormap.png"
+  ],
+  "krename": [
+    "src/48x48/krename.png",
+    "src/64x64/krename.png"
+  ],
+  "ktikz": [
+    "src/48x48/ktikz.png",
+    "src/64x64/ktikz.png",
+    "src/128x128/ktikz.png"
+  ],
+  "l3afpad": [
+    "src/48x48/l3afpad.png",
+    "src/64x64/l3afpad.png",
+    "src/128x128/l3afpad.png"
+  ],
+  "lan-mouse": [
+    "src/48x48/lan-mouse.png",
+    "src/64x64/lan-mouse.png",
+    "src/128x128/lan-mouse.png"
+  ],
+  "libadwaita-demos": [
+    "src/48x48/libadwaita-demos.png",
+    "src/64x64/libadwaita-demos.png",
+    "src/128x128/libadwaita-demos.png"
+  ],
+  "libalkimia": [
+    "src/48x48/libalkimia.png",
+    "src/64x64/libalkimia.png",
+    "src/128x128/libalkimia.png"
+  ],
+  "lightsoff": [
+    "src/48x48/lightsoff.png",
+    "src/64x64/lightsoff.png",
+    "src/128x128/lightsoff.png"
+  ],
+  "luminancehdr": [
+    "src/48x48/luminancehdr.png",
+    "src/64x64/luminancehdr.png"
+  ],
+  "lximage-qt": [
+    "src/48x48/lximage-qt.png",
+    "src/64x64/lximage-qt.png"
+  ],
+  "lxmusic": [
+    "src/48x48/lxmusic.png",
+    "src/64x64/lxmusic.png",
+    "src/128x128/lxmusic.png"
+  ],
+  "lxqt-archiver": [
+    "src/48x48/lxqt-archiver.png",
+    "src/64x64/lxqt-archiver.png",
+    "src/128x128/lxqt-archiver.png"
+  ],
+  "lxtask": [
+    "src/48x48/lxtask.png",
+    "src/64x64/lxtask.png",
+    "src/128x128/lxtask.png"
+  ],
+  "lxterminal": [
+    "src/48x48/lxterminal.png",
+    "src/64x64/lxterminal.png",
+    "src/128x128/lxterminal.png"
+  ],
+  "malcontent": [
+    "src/48x48/malcontent.png",
+    "src/64x64/malcontent.png",
+    "src/128x128/malcontent.png"
+  ],
+  "mangohud": [
+    "src/48x48/mangohud.png",
+    "src/64x64/mangohud.png",
+    "src/128x128/mangohud.png"
+  ],
+  "marble-behaim": [
+    "src/48x48/marble-behaim.png",
+    "src/64x64/marble-behaim.png",
+    "src/128x128/marble-behaim.png"
+  ],
+  "marble-maps": [
+    "src/48x48/marble-maps.png",
+    "src/64x64/marble-maps.png",
+    "src/128x128/marble-maps.png"
+  ],
+  "marble-qt": [
+    "src/48x48/marble-qt.png",
+    "src/64x64/marble-qt.png",
+    "src/128x128/marble-qt.png"
+  ],
+  "maui-agenda": [
+    "src/48x48/maui-agenda.png",
+    "src/64x64/maui-agenda.png",
+    "src/128x128/maui-agenda.png"
+  ],
+  "maui-clip": [
+    "src/48x48/maui-clip.png",
+    "src/64x64/maui-clip.png",
+    "src/128x128/maui-clip.png"
+  ],
+  "maui-nota": [
+    "src/48x48/maui-nota.png",
+    "src/64x64/maui-nota.png",
+    "src/128x128/maui-nota.png"
+  ],
+  "maui-pix": [
+    "src/48x48/maui-pix.png",
+    "src/64x64/maui-pix.png",
+    "src/128x128/maui-pix.png"
+  ],
+  "maui-shelf": [
+    "src/48x48/maui-shelf.png",
+    "src/64x64/maui-shelf.png",
+    "src/128x128/maui-shelf.png"
+  ],
+  "maui-station": [
+    "src/48x48/maui-station.png",
+    "src/64x64/maui-station.png",
+    "src/128x128/maui-station.png"
+  ],
+  "mediainfo-gui": [
+    "src/48x48/mediainfo-gui.png",
+    "src/64x64/mediainfo-gui.png",
+    "src/128x128/mediainfo-gui.png"
+  ],
+  "merkaartor": [
+    "src/48x48/merkaartor.png",
+    "src/64x64/merkaartor.png",
+    "src/128x128/merkaartor.png"
+  ],
+  "modem-manager-gui": [
+    "src/48x48/modem-manager-gui.png",
+    "src/64x64/modem-manager-gui.png",
+    "src/128x128/modem-manager-gui.png"
+  ],
+  "nemo": [
+    "src/48x48/nemo.png",
+    "src/64x64/nemo.png",
+    "src/128x128/nemo.png"
+  ],
+  "neovim-qt": [
+    "src/48x48/neovim-qt.png",
+    "src/64x64/neovim-qt.png",
+    "src/128x128/neovim-qt.png"
+  ],
+  "new-session-manager": [
+    "src/48x48/new-session-manager.png",
+    "src/64x64/new-session-manager.png",
+    "src/128x128/new-session-manager.png"
+  ],
+  "nitrokey-app": [
+    "src/48x48/nitrokey-app.png",
+    "src/64x64/nitrokey-app.png",
+    "src/128x128/nitrokey-app.png"
+  ],
+  "notes-up": [
+    "src/48x48/notes-up.png",
+    "src/64x64/notes-up.png"
+  ],
+  "octave": [
+    "src/48x48/octave.png",
+    "src/64x64/octave.png",
+    "src/128x128/octave.png"
+  ],
+  "office-runner": [
+    "src/48x48/office-runner.png",
+    "src/64x64/office-runner.png",
+    "src/128x128/office-runner.png"
+  ],
+  "opensnitch": [
+    "src/48x48/opensnitch.png",
+    "src/64x64/opensnitch.png",
+    "src/128x128/opensnitch.png"
+  ],
+  "opnplug-standalone": [
+    "src/48x48/opnplug-standalone.png",
+    "src/64x64/opnplug-standalone.png"
+  ],
+  "owncloud-client": [
+    "src/48x48/owncloud-client.png",
+    "src/64x64/owncloud-client.png",
+    "src/128x128/owncloud-client.png"
+  ],
+  "pacmanlogviewer": [
+    "src/48x48/pacmanlogviewer.png",
+    "src/64x64/pacmanlogviewer.png",
+    "src/128x128/pacmanlogviewer.png"
+  ],
+  "pageedit": [
+    "src/48x48/pageedit.png",
+    "src/64x64/pageedit.png",
+    "src/128x128/pageedit.png"
+  ],
+  "palette": [
+    "src/48x48/palette.png",
+    "src/64x64/palette.png",
+    "src/128x128/palette.png"
+  ],
+  "pan": [
+    "src/48x48/pan.png",
+    "src/64x64/pan.png",
+    "src/128x128/pan.png"
+  ],
+  "pantheon-calculator": [
+    "src/48x48/pantheon-calculator.png",
+    "src/64x64/pantheon-calculator.png",
+    "src/128x128/pantheon-calculator.png"
+  ],
+  "pantheon-camera": [
+    "src/48x48/pantheon-camera.png",
+    "src/64x64/pantheon-camera.png",
+    "src/128x128/pantheon-camera.png"
+  ],
+  "pantheon-code": [
+    "src/48x48/pantheon-code.png",
+    "src/64x64/pantheon-code.png",
+    "src/128x128/pantheon-code.png"
+  ],
+  "pantheon-files": [
+    "src/48x48/pantheon-files.png",
+    "src/64x64/pantheon-files.png",
+    "src/128x128/pantheon-files.png"
+  ],
+  "pantheon-music": [
+    "src/48x48/pantheon-music.png",
+    "src/64x64/pantheon-music.png",
+    "src/128x128/pantheon-music.png"
+  ],
+  "pantheon-notifications": [
+    "src/48x48/pantheon-notifications.png",
+    "src/64x64/pantheon-notifications.png"
+  ],
+  "pantheon-onboarding": [
+    "src/48x48/pantheon-onboarding.png",
+    "src/64x64/pantheon-onboarding.png",
+    "src/128x128/pantheon-onboarding.png"
+  ],
+  "pantheon-photos": [
+    "src/48x48/pantheon-photos.png",
+    "src/64x64/pantheon-photos.png",
+    "src/128x128/pantheon-photos.png"
+  ],
+  "pantheon-screenshot": [
+    "src/48x48/pantheon-screenshot.png",
+    "src/64x64/pantheon-screenshot.png",
+    "src/128x128/pantheon-screenshot.png"
+  ],
+  "pantheon-shortcut-overlay": [
+    "src/48x48/pantheon-shortcut-overlay.png",
+    "src/64x64/pantheon-shortcut-overlay.png",
+    "src/128x128/pantheon-shortcut-overlay.png"
+  ],
+  "pantheon-sideload": [
+    "src/48x48/pantheon-sideload.png",
+    "src/64x64/pantheon-sideload.png",
+    "src/128x128/pantheon-sideload.png"
+  ],
+  "pantheon-terminal": [
+    "src/48x48/pantheon-terminal.png",
+    "src/64x64/pantheon-terminal.png",
+    "src/128x128/pantheon-terminal.png"
+  ],
+  "pantheon-videos": [
+    "src/48x48/pantheon-videos.png",
+    "src/64x64/pantheon-videos.png",
+    "src/128x128/pantheon-videos.png"
+  ],
+  "paper-clip": [
+    "src/48x48/paper-clip.png",
+    "src/64x64/paper-clip.png",
+    "src/128x128/paper-clip.png"
+  ],
+  "pasystray": [
+    "src/48x48/pasystray.png",
+    "src/64x64/pasystray.png",
+    "src/128x128/pasystray.png"
+  ],
+  "pcmanfm": [
+    "src/48x48/pcmanfm.png",
+    "src/64x64/pcmanfm.png",
+    "src/128x128/pcmanfm.png"
+  ],
+  "pcmanfm-qt": [
+    "src/48x48/pcmanfm-qt.png",
+    "src/64x64/pcmanfm-qt.png",
+    "src/128x128/pcmanfm-qt.png"
+  ],
+  "pdfmixtool": [
+    "src/48x48/pdfmixtool.png",
+    "src/64x64/pdfmixtool.png",
+    "src/128x128/pdfmixtool.png"
+  ],
+  "peek": [
+    "src/48x48/peek.png",
+    "src/64x64/peek.png",
+    "src/128x128/peek.png"
+  ],
+  "phosh-mobile-settings": [
+    "src/48x48/phosh-mobile-settings.png",
+    "src/64x64/phosh-mobile-settings.png",
+    "src/128x128/phosh-mobile-settings.png"
+  ],
+  "phosh-tour": [
+    "src/48x48/phosh-tour.png",
+    "src/64x64/phosh-tour.png",
+    "src/128x128/phosh-tour.png"
+  ],
+  "phototonic": [
+    "src/48x48/phototonic.png",
+    "src/64x64/phototonic.png"
+  ],
+  "picard": [
+    "src/48x48/picard.png",
+    "src/64x64/picard.png",
+    "src/128x128/picard.png"
+  ],
+  "picom": [
+    "src/48x48/picom.png",
+    "src/64x64/picom.png",
+    "src/128x128/picom.png"
+  ],
+  "pim-sieve-editor": [
+    "src/48x48/pim-sieve-editor.png",
+    "src/64x64/pim-sieve-editor.png",
+    "src/128x128/pim-sieve-editor.png"
+  ],
+  "plasma-disks": [
+    "src/48x48/plasma-disks.png",
+    "src/64x64/plasma-disks.png",
+    "src/128x128/plasma-disks.png"
+  ],
+  "plasma-firewall": [
+    "src/48x48/plasma-firewall.png",
+    "src/64x64/plasma-firewall.png",
+    "src/128x128/plasma-firewall.png"
+  ],
+  "plasma-sdk": [
+    "src/48x48/plasma-sdk.png",
+    "src/64x64/plasma-sdk.png",
+    "src/128x128/plasma-sdk.png"
+  ],
+  "print-manager": [
+    "src/48x48/print-manager.png",
+    "src/64x64/print-manager.png",
+    "src/128x128/print-manager.png"
+  ],
+  "projectm-pulseaudio": [
+    "src/48x48/projectm-pulseaudio.png",
+    "src/64x64/projectm-pulseaudio.png",
+    "src/128x128/projectm-pulseaudio.png"
+  ],
+  "pulseview": [
+    "src/48x48/pulseview.png",
+    "src/64x64/pulseview.png",
+    "src/128x128/pulseview.png"
+  ],
+  "qastools": [
+    "src/48x48/qastools.png",
+    "src/64x64/qastools.png",
+    "src/128x128/qastools.png"
+  ],
+  "qjournalctl": [
+    "src/48x48/qjournalctl.png",
+    "src/64x64/qjournalctl.png"
+  ],
+  "qmidiarp-standalone": [
+    "src/48x48/qmidiarp-standalone.png",
+    "src/64x64/qmidiarp-standalone.png",
+    "src/128x128/qmidiarp-standalone.png"
+  ],
+  "qmidiroute": [
+    "src/48x48/qmidiroute.png",
+    "src/64x64/qmidiroute.png",
+    "src/128x128/qmidiroute.png"
+  ],
+  "qps": [
+    "src/48x48/qps.png",
+    "src/64x64/qps.png"
+  ],
+  "qt6-tools": [
+    "src/48x48/qt6-tools.png",
+    "src/64x64/qt6-tools.png",
+    "src/128x128/qt6-tools.png"
+  ],
+  "qtcreator": [
+    "src/48x48/qtcreator.png",
+    "src/64x64/qtcreator.png",
+    "src/128x128/qtcreator.png"
+  ],
+  "qterminal": [
+    "src/48x48/qterminal.png",
+    "src/64x64/qterminal.png",
+    "src/128x128/qterminal.png"
+  ],
+  "qtikz": [
+    "src/48x48/qtikz.png",
+    "src/64x64/qtikz.png",
+    "src/128x128/qtikz.png"
+  ],
+  "raider": [
+    "src/48x48/raider.png",
+    "src/64x64/raider.png",
+    "src/128x128/raider.png"
+  ],
+  "read-it-later": [
+    "src/48x48/read-it-later.png",
+    "src/64x64/read-it-later.png",
+    "src/128x128/read-it-later.png"
+  ],
+  "renderdoc": [
+    "src/48x48/renderdoc.png",
+    "src/64x64/renderdoc.png",
+    "src/128x128/renderdoc.png"
+  ],
+  "rhythmbox": [
+    "src/48x48/rhythmbox.png",
+    "src/64x64/rhythmbox.png",
+    "src/128x128/rhythmbox.png"
+  ],
+  "rkward": [
+    "src/48x48/rkward.png",
+    "src/64x64/rkward.png",
+    "src/128x128/rkward.png"
+  ],
+  "rpi-imager": [
+    "src/48x48/rpi-imager.png",
+    "src/64x64/rpi-imager.png",
+    "src/128x128/rpi-imager.png"
+  ],
+  "rxvt-unicode": [
+    "src/48x48/rxvt-unicode.png",
+    "src/64x64/rxvt-unicode.png",
+    "src/128x128/rxvt-unicode.png"
+  ],
+  "rz-cutter": [
+    "src/48x48/rz-cutter.png",
+    "src/64x64/rz-cutter.png",
+    "src/128x128/rz-cutter.png"
+  ],
+  "scantailor-advanced": [
+    "src/48x48/scantailor-advanced.png",
+    "src/64x64/scantailor-advanced.png",
+    "src/128x128/scantailor-advanced.png"
+  ],
+  "screengrab": [
+    "src/48x48/screengrab.png",
+    "src/64x64/screengrab.png",
+    "src/128x128/screengrab.png"
+  ],
+  "showmethekey": [
+    "src/48x48/showmethekey.png",
+    "src/64x64/showmethekey.png",
+    "src/128x128/showmethekey.png"
+  ],
+  "smb4k": [
+    "src/48x48/smb4k.png",
+    "src/64x64/smb4k.png",
+    "src/128x128/smb4k.png"
+  ],
+  "spectacle": [
+    "src/48x48/spectacle.png",
+    "src/64x64/spectacle.png",
+    "src/128x128/spectacle.png"
+  ],
+  "steadyflow": [
+    "src/48x48/steadyflow.png",
+    "src/64x64/steadyflow.png",
+    "src/128x128/steadyflow.png"
+  ],
+  "stlink": [
+    "src/48x48/stlink.png",
+    "src/64x64/stlink.png",
+    "src/128x128/stlink.png"
+  ],
+  "strike": [
+    "src/48x48/strike.png",
+    "src/64x64/strike.png",
+    "src/128x128/strike.png"
+  ],
+  "swell-foop": [
+    "src/48x48/swell-foop.png",
+    "src/64x64/swell-foop.png",
+    "src/128x128/swell-foop.png"
+  ],
+  "switchboard": [
+    "src/48x48/switchboard.png",
+    "src/64x64/switchboard.png",
+    "src/128x128/switchboard.png"
+  ],
+  "switchboard-plug-about": [
+    "src/48x48/switchboard-plug-about.png",
+    "src/64x64/switchboard-plug-about.png",
+    "src/128x128/switchboard-plug-about.png"
+  ],
+  "switchboard-plug-applications": [
+    "src/48x48/switchboard-plug-applications.png",
+    "src/64x64/switchboard-plug-applications.png"
+  ],
+  "switchboard-plug-bluetooth": [
+    "src/48x48/switchboard-plug-bluetooth.png",
+    "src/64x64/switchboard-plug-bluetooth.png",
+    "src/128x128/switchboard-plug-bluetooth.png"
+  ],
+  "switchboard-plug-datetime": [
+    "src/48x48/switchboard-plug-datetime.png",
+    "src/64x64/switchboard-plug-datetime.png",
+    "src/128x128/switchboard-plug-datetime.png"
+  ],
+  "switchboard-plug-desktop": [
+    "src/48x48/switchboard-plug-desktop.png",
+    "src/64x64/switchboard-plug-desktop.png",
+    "src/128x128/switchboard-plug-desktop.png"
+  ],
+  "switchboard-plug-display": [
+    "src/48x48/switchboard-plug-display.png",
+    "src/64x64/switchboard-plug-display.png",
+    "src/128x128/switchboard-plug-display.png"
+  ],
+  "switchboard-plug-keyboard": [
+    "src/48x48/switchboard-plug-keyboard.png",
+    "src/64x64/switchboard-plug-keyboard.png",
+    "src/128x128/switchboard-plug-keyboard.png"
+  ],
+  "switchboard-plug-locale": [
+    "src/48x48/switchboard-plug-locale.png",
+    "src/64x64/switchboard-plug-locale.png",
+    "src/128x128/switchboard-plug-locale.png"
+  ],
+  "switchboard-plug-mouse-touchpad": [
+    "src/48x48/switchboard-plug-mouse-touchpad.png",
+    "src/64x64/switchboard-plug-mouse-touchpad.png",
+    "src/128x128/switchboard-plug-mouse-touchpad.png"
+  ],
+  "switchboard-plug-network": [
+    "src/48x48/switchboard-plug-network.png",
+    "src/64x64/switchboard-plug-network.png",
+    "src/128x128/switchboard-plug-network.png"
+  ],
+  "switchboard-plug-notifications": [
+    "src/48x48/switchboard-plug-notifications.png",
+    "src/64x64/switchboard-plug-notifications.png"
+  ],
+  "switchboard-plug-parental-controls": [
+    "src/48x48/switchboard-plug-parental-controls.png",
+    "src/64x64/switchboard-plug-parental-controls.png"
+  ],
+  "switchboard-plug-printers": [
+    "src/48x48/switchboard-plug-printers.png",
+    "src/64x64/switchboard-plug-printers.png",
+    "src/128x128/switchboard-plug-printers.png"
+  ],
+  "switchboard-plug-security-privacy": [
+    "src/48x48/switchboard-plug-security-privacy.png",
+    "src/64x64/switchboard-plug-security-privacy.png"
+  ],
+  "switchboard-plug-sharing": [
+    "src/48x48/switchboard-plug-sharing.png",
+    "src/64x64/switchboard-plug-sharing.png"
+  ],
+  "switchboard-plug-sound": [
+    "src/48x48/switchboard-plug-sound.png",
+    "src/64x64/switchboard-plug-sound.png",
+    "src/128x128/switchboard-plug-sound.png"
+  ],
+  "switchboard-plug-user-accounts": [
+    "src/48x48/switchboard-plug-user-accounts.png",
+    "src/64x64/switchboard-plug-user-accounts.png",
+    "src/128x128/switchboard-plug-user-accounts.png"
+  ],
+  "switchboard-plug-wacom": [
+    "src/48x48/switchboard-plug-wacom.png",
+    "src/64x64/switchboard-plug-wacom.png",
+    "src/128x128/switchboard-plug-wacom.png"
+  ],
+  "symbolic-preview": [
+    "src/48x48/symbolic-preview.png",
+    "src/64x64/symbolic-preview.png",
+    "src/128x128/symbolic-preview.png"
+  ],
+  "synapse": [
+    "src/48x48/synapse.png",
+    "src/64x64/synapse.png",
+    "src/128x128/synapse.png"
+  ],
+  "systemdgenie": [
+    "src/48x48/systemdgenie.png",
+    "src/64x64/systemdgenie.png",
+    "src/128x128/systemdgenie.png"
+  ],
+  "systemsettings": [
+    "src/48x48/systemsettings.png",
+    "src/64x64/systemsettings.png",
+    "src/128x128/systemsettings.png"
+  ],
+  "textpieces": [
+    "src/48x48/textpieces.png",
+    "src/64x64/textpieces.png",
+    "src/128x128/textpieces.png"
+  ],
+  "thunar": [
+    "src/48x48/thunar.png",
+    "src/64x64/thunar.png",
+    "src/128x128/thunar.png"
+  ],
+  "timeshift": [
+    "src/48x48/timeshift.png",
+    "src/64x64/timeshift.png",
+    "src/128x128/timeshift.png"
+  ],
+  "tint2": [
+    "src/48x48/tint2.png",
+    "src/64x64/tint2.png",
+    "src/128x128/tint2.png"
+  ],
+  "totem": [
+    "src/48x48/totem.png",
+    "src/64x64/totem.png",
+    "src/128x128/totem.png"
+  ],
+  "toxic": [
+    "src/48x48/toxic.png",
+    "src/64x64/toxic.png",
+    "src/128x128/toxic.png"
+  ],
+  "transmission-remote-gtk": [
+    "src/48x48/transmission-remote-gtk.png",
+    "src/64x64/transmission-remote-gtk.png",
+    "src/128x128/transmission-remote-gtk.png"
+  ],
+  "tvtime": [
+    "src/48x48/tvtime.png",
+    "src/64x64/tvtime.png"
+  ],
+  "usbview": [
+    "src/48x48/usbview.png",
+    "src/64x64/usbview.png",
+    "src/128x128/usbview.png"
+  ],
+  "utox": [
+    "src/48x48/utox.png",
+    "src/64x64/utox.png",
+    "src/128x128/utox.png"
+  ],
+  "v4l-utils": [
+    "src/48x48/v4l-utils.png",
+    "src/64x64/v4l-utils.png",
+    "src/128x128/v4l-utils.png"
+  ],
+  "vim": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vimiv": [
+    "src/48x48/vimiv.png",
+    "src/64x64/vimiv.png",
+    "src/128x128/vimiv.png"
+  ],
+  "virt-viewer": [
+    "src/48x48/virt-viewer.png",
+    "src/64x64/virt-viewer.png",
+    "src/128x128/virt-viewer.png"
+  ],
+  "volumeicon": [
+    "src/48x48/volumeicon.png",
+    "src/64x64/volumeicon.png",
+    "src/128x128/volumeicon.png"
+  ],
+  "vvave": [
+    "src/48x48/vvave.png",
+    "src/64x64/vvave.png",
+    "src/128x128/vvave.png"
+  ],
+  "wacomtablet": [
+    "src/48x48/wacomtablet.png",
+    "src/64x64/wacomtablet.png",
+    "src/128x128/wacomtablet.png"
+  ],
+  "wezterm": [
+    "src/48x48/wezterm.png",
+    "src/64x64/wezterm.png",
+    "src/128x128/wezterm.png"
+  ],
+  "winetricks": [
+    "src/48x48/winetricks.png",
+    "src/64x64/winetricks.png",
+    "src/128x128/winetricks.png"
+  ],
+  "wingpanel-indicator-a11y": [
+    "src/48x48/wingpanel-indicator-a11y.png",
+    "src/64x64/wingpanel-indicator-a11y.png",
+    "src/128x128/wingpanel-indicator-a11y.png"
+  ],
+  "wingpanel-indicator-datetime": [
+    "src/48x48/wingpanel-indicator-datetime.png",
+    "src/64x64/wingpanel-indicator-datetime.png",
+    "src/128x128/wingpanel-indicator-datetime.png"
+  ],
+  "wingpanel-indicator-keyboard": [
+    "src/48x48/wingpanel-indicator-keyboard.png",
+    "src/64x64/wingpanel-indicator-keyboard.png",
+    "src/128x128/wingpanel-indicator-keyboard.png"
+  ],
+  "wingpanel-indicator-network": [
+    "src/48x48/wingpanel-indicator-network.png",
+    "src/64x64/wingpanel-indicator-network.png",
+    "src/128x128/wingpanel-indicator-network.png"
+  ],
+  "wingpanel-indicator-notifications": [
+    "src/48x48/wingpanel-indicator-notifications.png",
+    "src/64x64/wingpanel-indicator-notifications.png"
+  ],
+  "wingpanel-indicator-sound": [
+    "src/48x48/wingpanel-indicator-sound.png",
+    "src/64x64/wingpanel-indicator-sound.png",
+    "src/128x128/wingpanel-indicator-sound.png"
+  ],
+  "x11vnc": [
+    "src/48x48/x11vnc.png",
+    "src/64x64/x11vnc.png",
+    "src/128x128/x11vnc.png"
+  ],
+  "xarchiver": [
+    "src/48x48/xarchiver.png",
+    "src/64x64/xarchiver.png",
+    "src/128x128/xarchiver.png"
+  ],
+  "xboard": [
+    "src/48x48/xboard.png",
+    "src/64x64/xboard.png",
+    "src/128x128/xboard.png"
+  ],
+  "xchm": [
+    "src/48x48/xchm.png",
+    "src/64x64/xchm.png",
+    "src/128x128/xchm.png"
+  ],
+  "xcolor": [
+    "src/48x48/xcolor.png",
+    "src/64x64/xcolor.png",
+    "src/128x128/xcolor.png"
+  ],
+  "xed": [
+    "src/48x48/xed.png",
+    "src/64x64/xed.png",
+    "src/128x128/xed.png"
+  ],
+  "xfburn": [
+    "src/48x48/xfburn.png",
+    "src/64x64/xfburn.png",
+    "src/128x128/xfburn.png"
+  ],
+  "xfce4-appfinder": [
+    "src/48x48/xfce4-appfinder.png",
+    "src/64x64/xfce4-appfinder.png",
+    "src/128x128/xfce4-appfinder.png"
+  ],
+  "xfce4-clipman-plugin": [
+    "src/48x48/xfce4-clipman-plugin.png",
+    "src/64x64/xfce4-clipman-plugin.png",
+    "src/128x128/xfce4-clipman-plugin.png"
+  ],
+  "xfce4-mixer": [
+    "src/48x48/xfce4-mixer.png",
+    "src/64x64/xfce4-mixer.png",
+    "src/128x128/xfce4-mixer.png"
+  ],
+  "xfce4-power-manager": [
+    "src/48x48/xfce4-power-manager.png",
+    "src/64x64/xfce4-power-manager.png",
+    "src/128x128/xfce4-power-manager.png"
+  ],
+  "xfce4-screenshooter": [
+    "src/48x48/xfce4-screenshooter.png",
+    "src/64x64/xfce4-screenshooter.png",
+    "src/128x128/xfce4-screenshooter.png"
+  ],
+  "xfce4-sensors-plugin": [
+    "src/48x48/xfce4-sensors-plugin.png",
+    "src/64x64/xfce4-sensors-plugin.png",
+    "src/128x128/xfce4-sensors-plugin.png"
+  ],
+  "xfce4-taskmanager": [
+    "src/48x48/xfce4-taskmanager.png",
+    "src/64x64/xfce4-taskmanager.png",
+    "src/128x128/xfce4-taskmanager.png"
+  ],
+  "xfce4-terminal": [
+    "src/48x48/xfce4-terminal.png",
+    "src/64x64/xfce4-terminal.png",
+    "src/128x128/xfce4-terminal.png"
+  ],
+  "xfmpc": [
+    "src/48x48/xfmpc.png",
+    "src/64x64/xfmpc.png",
+    "src/128x128/xfmpc.png"
+  ],
+  "xournalpp": [
+    "src/48x48/xournalpp.png",
+    "src/64x64/xournalpp.png",
+    "src/128x128/xournalpp.png"
+  ],
+  "xreader": [
+    "src/48x48/xreader.png",
+    "src/64x64/xreader.png",
+    "src/128x128/xreader.png"
+  ],
+  "xsensors": [
+    "src/48x48/xsensors.png",
+    "src/64x64/xsensors.png",
+    "src/128x128/xsensors.png"
+  ],
+  "yad": [
+    "src/48x48/yad.png",
+    "src/64x64/yad.png",
+    "src/128x128/yad.png"
+  ],
+  "yubikey-personalization-gui": [
+    "src/48x48/yubikey-personalization-gui.png",
+    "src/64x64/yubikey-personalization-gui.png",
+    "src/128x128/yubikey-personalization-gui.png"
+  ],
+  "zathura": [
+    "src/48x48/zathura.png",
+    "src/64x64/zathura.png",
+    "src/128x128/zathura.png"
+  ],
+  "zutty": [
+    "src/48x48/zutty.png",
+    "src/64x64/zutty.png",
+    "src/128x128/zutty.png"
+  ],
+  "jack": [
+    "src/48x48/jack.png",
+    "src/64x64/jack.png",
+    "src/128x128/jack.png"
+  ],
+  "alacarte": [
+    "src/48x48/alacarte.png",
+    "src/64x64/alacarte.png",
+    "src/128x128/alacarte.png"
+  ],
+  "avidemux-qt": [
+    "src/48x48/avidemux-qt.png",
+    "src/64x64/avidemux-qt.png",
+    "src/128x128/avidemux-qt.png"
+  ],
+  "baresip": [
+    "src/48x48/baresip.png",
+    "src/64x64/baresip.png",
+    "src/128x128/baresip.png"
+  ],
+  "bass": [
+    "src/48x48/bass.png",
+    "src/64x64/bass.png",
+    "src/128x128/bass.png"
+  ],
+  "bitcoin-qt": [
+    "src/48x48/bitcoin-qt.png",
+    "src/64x64/bitcoin-qt.png",
+    "src/128x128/bitcoin-qt.png"
+  ],
+  "bt747": [
+    "src/48x48/bt747.png",
+    "src/64x64/bt747.png",
+    "src/128x128/bt747.png"
+  ],
+  "cardinal-standalone": [
+    "src/48x48/cardinal-standalone.png",
+    "src/64x64/cardinal-standalone.png",
+    "src/128x128/cardinal-standalone.png"
+  ],
+  "cataclysm-dda-tiles": [
+    "src/48x48/cataclysm-dda-tiles.png",
+    "src/64x64/cataclysm-dda-tiles.png",
+    "src/128x128/cataclysm-dda-tiles.png"
+  ],
+  "chromium-bsu": [
+    "src/48x48/chromium-bsu.png",
+    "src/64x64/chromium-bsu.png"
+  ],
+  "code": [
+    "src/48x48/code.png",
+    "src/64x64/code.png",
+    "src/128x128/code.png"
+  ],
+  "colorhug-client": [
+    "src/48x48/colorhug-client.png",
+    "src/64x64/colorhug-client.png",
+    "src/128x128/colorhug-client.png"
+  ],
+  "crawl-ncurses": [
+    "src/48x48/crawl-ncurses.png",
+    "src/64x64/crawl-ncurses.png",
+    "src/128x128/crawl-ncurses.png"
+  ],
+  "crawl-tiles": [
+    "src/48x48/crawl-tiles.png",
+    "src/64x64/crawl-tiles.png",
+    "src/128x128/crawl-tiles.png"
+  ],
+  "dbeaver": [
+    "src/48x48/dbeaver.png",
+    "src/64x64/dbeaver.png",
+    "src/128x128/dbeaver.png"
+  ],
+  "decibels": [
+    "src/48x48/decibels.png",
+    "src/64x64/decibels.png",
+    "src/128x128/decibels.png"
+  ],
+  "deltachat-desktop": [
+    "src/48x48/deltachat-desktop.png",
+    "src/64x64/deltachat-desktop.png",
+    "src/128x128/deltachat-desktop.png"
+  ],
+  "deluge-gtk": [
+    "src/48x48/deluge-gtk.png",
+    "src/64x64/deluge-gtk.png",
+    "src/128x128/deluge-gtk.png"
+  ],
+  "devede": [
+    "src/48x48/devede.png",
+    "src/64x64/devede.png",
+    "src/128x128/devede.png"
+  ],
+  "doublecmd-qt5": [
+    "src/48x48/doublecmd-qt5.png",
+    "src/64x64/doublecmd-qt5.png",
+    "src/128x128/doublecmd-qt5.png"
+  ],
+  "drawio-desktop": [
+    "src/48x48/drawio-desktop.png",
+    "src/64x64/drawio-desktop.png",
+    "src/128x128/drawio-desktop.png"
+  ],
+  "eartag": [
+    "src/48x48/eartag.png",
+    "src/64x64/eartag.png",
+    "src/128x128/eartag.png"
+  ],
+  "element-desktop": [
+    "src/48x48/element-desktop.png",
+    "src/64x64/element-desktop.png",
+    "src/128x128/element-desktop.png"
+  ],
+  "elementary-icon-theme": [
+    "src/48x48/elementary-icon-theme.png",
+    "src/64x64/elementary-icon-theme.png",
+    "src/128x128/elementary-icon-theme.png"
+  ],
+  "elementary-wallpapers": [
+    "src/48x48/elementary-wallpapers.png",
+    "src/64x64/elementary-wallpapers.png",
+    "src/128x128/elementary-wallpapers.png"
+  ],
+  "emacs": [
+    "src/48x48/emacs.png",
+    "src/64x64/emacs.png",
+    "src/128x128/emacs.png"
+  ],
+  "emacs-nox": [
+    "src/48x48/emacs-nox.png",
+    "src/64x64/emacs-nox.png",
+    "src/128x128/emacs-nox.png"
+  ],
+  "emacs-wayland": [
+    "src/48x48/emacs-wayland.png",
+    "src/64x64/emacs-wayland.png",
+    "src/128x128/emacs-wayland.png"
+  ],
+  "eolie": [
+    "src/48x48/eolie.png",
+    "src/64x64/eolie.png",
+    "src/128x128/eolie.png"
+  ],
+  "firefox-developer-edition": [
+    "src/48x48/firefox-developer-edition.png",
+    "src/64x64/firefox-developer-edition.png",
+    "src/128x128/firefox-developer-edition.png"
+  ],
+  "firewalld": [
+    "src/48x48/firewalld.png",
+    "src/64x64/firewalld.png",
+    "src/128x128/firewalld.png"
+  ],
+  "font-manager": [
+    "src/48x48/font-manager.png",
+    "src/64x64/font-manager.png",
+    "src/128x128/font-manager.png"
+  ],
+  "forge-sparks": [
+    "src/48x48/forge-sparks.png",
+    "src/64x64/forge-sparks.png",
+    "src/128x128/forge-sparks.png"
+  ],
+  "fs-uae-launcher": [
+    "src/48x48/fs-uae-launcher.png",
+    "src/64x64/fs-uae-launcher.png",
+    "src/128x128/fs-uae-launcher.png"
+  ],
+  "gameconqueror": [
+    "src/48x48/gameconqueror.png",
+    "src/64x64/gameconqueror.png",
+    "src/128x128/gameconqueror.png"
+  ],
+  "gbrainy": [
+    "src/48x48/gbrainy.png",
+    "src/64x64/gbrainy.png",
+    "src/128x128/gbrainy.png"
+  ],
+  "gcolor3": [
+    "src/48x48/gcolor3.png",
+    "src/64x64/gcolor3.png",
+    "src/128x128/gcolor3.png"
+  ],
+  "geotag": [
+    "src/48x48/geotag.png",
+    "src/64x64/geotag.png",
+    "src/128x128/geotag.png"
+  ],
+  "gfeeds": [
+    "src/48x48/gfeeds.png",
+    "src/64x64/gfeeds.png",
+    "src/128x128/gfeeds.png"
+  ],
+  "gimagereader-gtk": [
+    "src/48x48/gimagereader-gtk.png",
+    "src/64x64/gimagereader-gtk.png",
+    "src/128x128/gimagereader-gtk.png"
+  ],
+  "gimagereader-qt": [
+    "src/48x48/gimagereader-qt.png",
+    "src/64x64/gimagereader-qt.png",
+    "src/128x128/gimagereader-qt.png"
+  ],
+  "gnome-appfolders-manager": [
+    "src/48x48/gnome-appfolders-manager.png",
+    "src/64x64/gnome-appfolders-manager.png",
+    "src/128x128/gnome-appfolders-manager.png"
+  ],
+  "gnome-keysign": [
+    "src/48x48/gnome-keysign.png",
+    "src/64x64/gnome-keysign.png",
+    "src/128x128/gnome-keysign.png"
+  ],
+  "gnome-music": [
+    "src/48x48/gnome-music.png",
+    "src/64x64/gnome-music.png",
+    "src/128x128/gnome-music.png"
+  ],
+  "gnome-recipes": [
+    "src/48x48/gnome-recipes.png",
+    "src/64x64/gnome-recipes.png",
+    "src/128x128/gnome-recipes.png"
+  ],
+  "gnome-sound-recorder": [
+    "src/48x48/gnome-sound-recorder.png",
+    "src/64x64/gnome-sound-recorder.png",
+    "src/128x128/gnome-sound-recorder.png"
+  ],
+  "gnome-subtitles": [
+    "src/48x48/gnome-subtitles.png",
+    "src/64x64/gnome-subtitles.png",
+    "src/128x128/gnome-subtitles.png"
+  ],
+  "gnuradio-companion": [
+    "src/48x48/gnuradio-companion.png",
+    "src/64x64/gnuradio-companion.png",
+    "src/128x128/gnuradio-companion.png"
+  ],
+  "gprename": [
+    "src/48x48/gprename.png",
+    "src/64x64/gprename.png"
+  ],
+  "gpsprune": [
+    "src/48x48/gpsprune.png",
+    "src/64x64/gpsprune.png"
+  ],
+  "griffith": [
+    "src/48x48/griffith.png",
+    "src/64x64/griffith.png",
+    "src/128x128/griffith.png"
+  ],
+  "gsfonts": [
+    "src/48x48/gsfonts.png",
+    "src/64x64/gsfonts.png",
+    "src/128x128/gsfonts.png"
+  ],
+  "gsmartcontrol": [
+    "src/48x48/gsmartcontrol.png",
+    "src/64x64/gsmartcontrol.png",
+    "src/128x128/gsmartcontrol.png"
+  ],
+  "hamster-time-tracker": [
+    "src/48x48/hamster-time-tracker.png",
+    "src/64x64/hamster-time-tracker.png",
+    "src/128x128/hamster-time-tracker.png"
+  ],
+  "jupyter-notebook": [
+    "src/48x48/jupyter-notebook.png",
+    "src/64x64/jupyter-notebook.png",
+    "src/128x128/jupyter-notebook.png"
+  ],
+  "jupyterlab": [
+    "src/48x48/jupyterlab.png",
+    "src/64x64/jupyterlab.png",
+    "src/128x128/jupyterlab.png"
+  ],
+  "keepass": [
+    "src/48x48/keepass.png",
+    "src/64x64/keepass.png",
+    "src/128x128/keepass.png"
+  ],
+  "kupfer": [
+    "src/48x48/kupfer.png",
+    "src/64x64/kupfer.png",
+    "src/128x128/kupfer.png"
+  ],
+  "letterpress": [
+    "src/48x48/letterpress.png",
+    "src/64x64/letterpress.png",
+    "src/128x128/letterpress.png"
+  ],
+  "mailnag": [
+    "src/48x48/mailnag.png",
+    "src/64x64/mailnag.png",
+    "src/128x128/mailnag.png"
+  ],
+  "marker": [
+    "src/48x48/marker.png",
+    "src/64x64/marker.png",
+    "src/128x128/marker.png"
+  ],
+  "mellite": [
+    "src/48x48/mellite.png",
+    "src/64x64/mellite.png",
+    "src/128x128/mellite.png"
+  ],
+  "metadata-cleaner": [
+    "src/48x48/metadata-cleaner.png",
+    "src/64x64/metadata-cleaner.png",
+    "src/128x128/metadata-cleaner.png"
+  ],
+  "mkvtoolnix-gui": [
+    "src/48x48/mkvtoolnix-gui.png",
+    "src/64x64/mkvtoolnix-gui.png",
+    "src/128x128/mkvtoolnix-gui.png"
+  ],
+  "mugshot": [
+    "src/48x48/mugshot.png",
+    "src/64x64/mugshot.png",
+    "src/128x128/mugshot.png"
+  ],
+  "nextcloud-client": [
+    "src/48x48/nextcloud-client.png",
+    "src/64x64/nextcloud-client.png",
+    "src/128x128/nextcloud-client.png"
+  ],
+  "nm-connection-editor": [
+    "src/48x48/nm-connection-editor.png",
+    "src/64x64/nm-connection-editor.png",
+    "src/128x128/nm-connection-editor.png"
+  ],
+  "openbve": [
+    "src/48x48/openbve.png",
+    "src/64x64/openbve.png",
+    "src/128x128/openbve.png"
+  ],
+  "pacman-offline": [
+    "src/48x48/pacman-offline.png",
+    "src/64x64/pacman-offline.png",
+    "src/128x128/pacman-offline.png"
+  ],
+  "pantheon-calendar": [
+    "src/48x48/pantheon-calendar.png",
+    "src/64x64/pantheon-calendar.png",
+    "src/128x128/pantheon-calendar.png"
+  ],
+  "pantheon-mail": [
+    "src/48x48/pantheon-mail.png",
+    "src/64x64/pantheon-mail.png",
+    "src/128x128/pantheon-mail.png"
+  ],
+  "pantheon-tasks": [
+    "src/48x48/pantheon-tasks.png",
+    "src/64x64/pantheon-tasks.png",
+    "src/128x128/pantheon-tasks.png"
+  ],
+  "parole": [
+    "src/48x48/parole.png",
+    "src/64x64/parole.png",
+    "src/128x128/parole.png"
+  ],
+  "pd": [
+    "src/48x48/pd.png",
+    "src/64x64/pd.png",
+    "src/128x128/pd.png"
+  ],
+  "pdfarranger": [
+    "src/48x48/pdfarranger.png",
+    "src/64x64/pdfarranger.png",
+    "src/128x128/pdfarranger.png"
+  ],
+  "pdfslicer": [
+    "src/48x48/pdfslicer.png",
+    "src/64x64/pdfslicer.png",
+    "src/128x128/pdfslicer.png"
+  ],
+  "pdftricks": [
+    "src/48x48/pdftricks.png",
+    "src/64x64/pdftricks.png",
+    "src/128x128/pdftricks.png"
+  ],
+  "penguin-subtitle-player": [
+    "src/48x48/penguin-subtitle-player.png",
+    "src/64x64/penguin-subtitle-player.png",
+    "src/128x128/penguin-subtitle-player.png"
+  ],
+  "plasma-applets-weather-widget-3": [
+    "src/48x48/plasma-applets-weather-widget-3.png",
+    "src/64x64/plasma-applets-weather-widget-3.png",
+    "src/128x128/plasma-applets-weather-widget-3.png"
+  ],
+  "playitslowly": [
+    "src/48x48/playitslowly.png",
+    "src/64x64/playitslowly.png",
+    "src/128x128/playitslowly.png"
+  ],
+  "proton-vpn-gtk-app": [
+    "src/48x48/proton-vpn-gtk-app.png",
+    "src/64x64/proton-vpn-gtk-app.png",
+    "src/128x128/proton-vpn-gtk-app.png"
+  ],
+  "protonmail-bridge": [
+    "src/48x48/protonmail-bridge.png",
+    "src/64x64/protonmail-bridge.png",
+    "src/128x128/protonmail-bridge.png"
+  ],
+  "psensor": [
+    "src/48x48/psensor.png",
+    "src/64x64/psensor.png",
+    "src/128x128/psensor.png"
+  ],
+  "pulseaudio-equalizer-ladspa": [
+    "src/48x48/pulseaudio-equalizer-ladspa.png",
+    "src/64x64/pulseaudio-equalizer-ladspa.png",
+    "src/128x128/pulseaudio-equalizer-ladspa.png"
+  ],
+  "quassel-client": [
+    "src/48x48/quassel-client.png",
+    "src/64x64/quassel-client.png",
+    "src/128x128/quassel-client.png"
+  ],
+  "quassel-monolithic": [
+    "src/48x48/quassel-monolithic.png",
+    "src/64x64/quassel-monolithic.png",
+    "src/128x128/quassel-monolithic.png"
+  ],
+  "quodlibet": [
+    "src/48x48/quodlibet.png",
+    "src/64x64/quodlibet.png",
+    "src/128x128/quodlibet.png"
+  ],
+  "screenkey": [
+    "src/48x48/screenkey.png",
+    "src/64x64/screenkey.png"
+  ],
+  "switchboard-plug-online-accounts": [
+    "src/48x48/switchboard-plug-online-accounts.png",
+    "src/64x64/switchboard-plug-online-accounts.png",
+    "src/128x128/switchboard-plug-online-accounts.png"
+  ],
+  "syncplay": [
+    "src/48x48/syncplay.png",
+    "src/64x64/syncplay.png",
+    "src/128x128/syncplay.png"
+  ],
+  "system-config-printer": [
+    "src/48x48/system-config-printer.png",
+    "src/64x64/system-config-printer.png",
+    "src/128x128/system-config-printer.png"
+  ],
+  "terminator": [
+    "src/48x48/terminator.png",
+    "src/64x64/terminator.png",
+    "src/128x128/terminator.png"
+  ],
+  "torbrowser-launcher": [
+    "src/48x48/torbrowser-launcher.png",
+    "src/64x64/torbrowser-launcher.png",
+    "src/128x128/torbrowser-launcher.png"
+  ],
+  "transmageddon": [
+    "src/48x48/transmageddon.png",
+    "src/64x64/transmageddon.png",
+    "src/128x128/transmageddon.png"
+  ],
+  "transmission-gtk": [
+    "src/48x48/transmission-gtk.png",
+    "src/64x64/transmission-gtk.png",
+    "src/128x128/transmission-gtk.png"
+  ],
+  "transmission-qt": [
+    "src/48x48/transmission-qt.png",
+    "src/64x64/transmission-qt.png",
+    "src/128x128/transmission-qt.png"
+  ],
+  "variety": [
+    "src/48x48/variety.png",
+    "src/64x64/variety.png",
+    "src/128x128/variety.png"
+  ],
+  "virtualbox": [
+    "src/48x48/virtualbox.png",
+    "src/64x64/virtualbox.png",
+    "src/128x128/virtualbox.png"
+  ],
+  "wesnoth": [
+    "src/48x48/wesnoth.png",
+    "src/64x64/wesnoth.png",
+    "src/128x128/wesnoth.png"
+  ],
+  "wireshark-qt": [
+    "src/48x48/wireshark-qt.png",
+    "src/64x64/wireshark-qt.png",
+    "src/128x128/wireshark-qt.png"
+  ],
+  "xfce4-dict": [
+    "src/48x48/xfce4-dict.png",
+    "src/64x64/xfce4-dict.png",
+    "src/128x128/xfce4-dict.png"
+  ],
+  "xfce4-panel-profiles": [
+    "src/48x48/xfce4-panel-profiles.png",
+    "src/64x64/xfce4-panel-profiles.png",
+    "src/128x128/xfce4-panel-profiles.png"
+  ],
+  "zeitgeist-explorer": [
+    "src/48x48/zeitgeist-explorer.png",
+    "src/64x64/zeitgeist-explorer.png",
+    "src/128x128/zeitgeist-explorer.png"
+  ],
+  "zynaddsubfx": [
+    "src/48x48/zynaddsubfx.png",
+    "src/64x64/zynaddsubfx.png",
+    "src/128x128/zynaddsubfx.png"
+  ],
+  "0ad": [
+    "src/64x64/0ad.png"
+  ],
+  "adljack": [
+    "src/64x64/adljack.png"
+  ],
+  "alacritty": [
+    "src/64x64/alacritty.png"
+  ],
+  "android-file-transfer": [
+    "src/64x64/android-file-transfer.png",
+    "src/128x128/android-file-transfer.png"
+  ],
+  "balsa": [
+    "src/64x64/balsa.png"
+  ],
+  "barrage": [
+    "src/64x64/barrage.png"
+  ],
+  "bonzomatic": [
+    "src/64x64/bonzomatic.png",
+    "src/128x128/bonzomatic.png"
+  ],
+  "cairo-dock": [
+    "src/64x64/cairo-dock.png"
+  ],
+  "conky-manager2": [
+    "src/64x64/conky-manager2.png"
+  ],
+  "distcc": [
+    "src/64x64/distcc.png"
+  ],
+  "ephoto": [
+    "src/64x64/ephoto.png"
+  ],
+  "etherape": [
+    "src/64x64/etherape.png"
+  ],
+  "ettercap-gtk": [
+    "src/64x64/ettercap-gtk.png"
+  ],
+  "fbida": [
+    "src/64x64/fbida.png"
+  ],
+  "fbreader": [
+    "src/64x64/fbreader.png"
+  ],
+  "firetools": [
+    "src/64x64/firetools.png"
+  ],
+  "fte": [
+    "src/64x64/fte.png"
+  ],
+  "gcdmaster": [
+    "src/64x64/gcdmaster.png"
+  ],
+  "gmtp": [
+    "src/64x64/gmtp.png"
+  ],
+  "gnujump": [
+    "src/64x64/gnujump.png"
+  ],
+  "godot": [
+    "src/64x64/godot.png"
+  ],
+  "godot-mono": [
+    "src/64x64/godot-mono.png"
+  ],
+  "hplip": [
+    "src/64x64/hplip.png"
+  ],
+  "indicator-china-weather": [
+    "src/64x64/indicator-china-weather.png"
+  ],
+  "kdegraphics-thumbnailers": [
+    "src/64x64/kdegraphics-thumbnailers.png",
+    "src/128x128/kdegraphics-thumbnailers.png"
+  ],
+  "lbreakout2": [
+    "src/64x64/lbreakout2.png"
+  ],
+  "limesuite": [
+    "src/64x64/limesuite.png"
+  ],
+  "linssid": [
+    "src/64x64/linssid.png"
+  ],
+  "liteide": [
+    "src/64x64/liteide.png"
+  ],
+  "lshw": [
+    "src/64x64/lshw.png"
+  ],
+  "luppp": [
+    "src/64x64/luppp.png"
+  ],
+  "mtpaint": [
+    "src/64x64/mtpaint.png"
+  ],
+  "orbiton-gtk3": [
+    "src/64x64/orbiton-gtk3.png"
+  ],
+  "patchmatrix": [
+    "src/64x64/patchmatrix.png",
+    "src/128x128/patchmatrix.png"
+  ],
+  "plasma-welcome": [
+    "src/64x64/plasma-welcome.png",
+    "src/128x128/plasma-welcome.png"
+  ],
+  "posterazor": [
+    "src/64x64/posterazor.png"
+  ],
+  "pt2-clone": [
+    "src/64x64/pt2-clone.png",
+    "src/128x128/pt2-clone.png"
+  ],
+  "qgo": [
+    "src/64x64/qgo.png"
+  ],
+  "roboden": [
+    "src/64x64/roboden.png"
+  ],
+  "rssguard": [
+    "src/64x64/rssguard.png",
+    "src/128x128/rssguard.png"
+  ],
+  "sakura": [
+    "src/64x64/sakura.png"
+  ],
+  "scrcpy": [
+    "src/64x64/scrcpy.png",
+    "src/128x128/scrcpy.png"
+  ],
+  "sigdigger": [
+    "src/64x64/sigdigger.png",
+    "src/128x128/sigdigger.png"
+  ],
+  "sniffnet": [
+    "src/64x64/sniffnet.png"
+  ],
+  "spectmorph-tools": [
+    "src/64x64/spectmorph-tools.png"
+  ],
+  "stoken": [
+    "src/64x64/stoken.png"
+  ],
+  "tilda": [
+    "src/64x64/tilda.png"
+  ],
+  "uqm": [
+    "src/64x64/uqm.png"
+  ],
+  "xjadeo": [
+    "src/64x64/xjadeo.png"
+  ],
+  "xscreensaver": [
+    "src/64x64/xscreensaver.png"
+  ],
+  "xterm": [
+    "src/64x64/xterm.png"
+  ],
+  "zenith": [
+    "src/64x64/zenith.png"
+  ],
+  "chinese-calendar": [
+    "src/64x64/chinese-calendar.png"
+  ],
+  "clamtk": [
+    "src/64x64/clamtk.png"
+  ],
+  "dexed-standalone": [
+    "src/64x64/dexed-standalone.png",
+    "src/128x128/dexed-standalone.png"
+  ],
+  "fceux": [
+    "src/64x64/fceux.png"
+  ],
+  "feeluown": [
+    "src/64x64/feeluown.png",
+    "src/128x128/feeluown.png"
+  ],
+  "gambas3-ide": [
+    "src/64x64/gambas3-ide.png"
+  ],
+  "gscan2pdf": [
+    "src/64x64/gscan2pdf.png"
+  ],
+  "guake": [
+    "src/64x64/guake.png"
+  ],
+  "highlight-gui": [
+    "src/64x64/highlight-gui.png",
+    "src/128x128/highlight-gui.png"
+  ],
+  "juce": [
+    "src/64x64/juce.png",
+    "src/128x128/juce.png"
+  ],
+  "klystrack-plus": [
+    "src/64x64/klystrack-plus.png",
+    "src/128x128/klystrack-plus.png"
+  ],
+  "mattermost-desktop": [
+    "src/64x64/mattermost-desktop.png"
+  ],
+  "maxima": [
+    "src/64x64/maxima.png"
+  ],
+  "nwg-clipman": [
+    "src/64x64/nwg-clipman.png"
+  ],
+  "nwg-icon-picker": [
+    "src/64x64/nwg-icon-picker.png"
+  ],
+  "nwg-readme-browser": [
+    "src/64x64/nwg-readme-browser.png"
+  ],
+  "odin2-synthesizer-standalone": [
+    "src/64x64/odin2-synthesizer-standalone.png",
+    "src/128x128/odin2-synthesizer-standalone.png"
+  ],
+  "offroad": [
+    "src/64x64/offroad.png",
+    "src/128x128/offroad.png"
+  ],
+  "pymol": [
+    "src/64x64/pymol.png"
+  ],
+  "python-qtconsole": [
+    "src/64x64/python-qtconsole.png"
+  ],
+  "qopenvpn": [
+    "src/64x64/qopenvpn.png"
+  ],
+  "qreator": [
+    "src/64x64/qreator.png"
+  ],
+  "qspectrumanalyzer": [
+    "src/64x64/qspectrumanalyzer.png"
+  ],
+  "stardict": [
+    "src/64x64/stardict.png"
+  ],
+  "stochas-standalone": [
+    "src/64x64/stochas-standalone.png",
+    "src/128x128/stochas-standalone.png"
+  ],
+  "teamspeak3": [
+    "src/64x64/teamspeak3.png"
+  ],
+  "typobuster": [
+    "src/64x64/typobuster.png"
+  ],
+  "urh": [
+    "src/64x64/urh.png"
+  ],
+  "wire-desktop": [
+    "src/64x64/wire-desktop.png",
+    "src/128x128/wire-desktop.png"
+  ],
+  "xpra": [
+    "src/64x64/xpra.png"
   ]
 }
