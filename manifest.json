@@ -40995,5 +40995,2365 @@
     "src/48x48/ot.png",
     "src/64x64/ot.png",
     "src/128x128/ot.png"
+  ],
+  "kvantum-qt5": [
+    "src/48x48/kvantum.png",
+    "src/64x64/kvantum.png",
+    "src/128x128/kvantum.png"
+  ],
+  "kvantum-theme-libadwaita-git": [
+    "src/48x48/kvantum.png",
+    "src/64x64/kvantum.png",
+    "src/128x128/kvantum.png"
+  ],
+  "kvantum-theme-nordic-git": [
+    "src/48x48/kvantum.png",
+    "src/64x64/kvantum.png",
+    "src/128x128/kvantum.png"
+  ],
+  "kvantum-theme-materia": [
+    "src/48x48/kvantum.png",
+    "src/64x64/kvantum.png",
+    "src/128x128/kvantum.png"
+  ],
+  "kvantum-git": [
+    "src/48x48/kvantum.png",
+    "src/64x64/kvantum.png",
+    "src/128x128/kvantum.png"
+  ],
+  "kvantum-qt5-git": [
+    "src/48x48/kvantum.png",
+    "src/64x64/kvantum.png",
+    "src/128x128/kvantum.png"
+  ],
+  "kvantum-theme-akava-git": [
+    "src/48x48/kvantum.png",
+    "src/64x64/kvantum.png",
+    "src/128x128/kvantum.png"
+  ],
+  "kvantum-theme-matcha-git": [
+    "src/48x48/kvantum.png",
+    "src/64x64/kvantum.png",
+    "src/128x128/kvantum.png"
+  ],
+  "kvantum-theme-orchis-git": [
+    "src/48x48/kvantum.png",
+    "src/64x64/kvantum.png",
+    "src/128x128/kvantum.png"
+  ],
+  "kvantum-theme-qogir-git": [
+    "src/48x48/kvantum.png",
+    "src/64x64/kvantum.png",
+    "src/128x128/kvantum.png"
+  ],
+  "niri": [
+    "src/48x48/niri.png",
+    "src/64x64/niri.png",
+    "src/128x128/niri.png"
+  ],
+  "noctalia-qs": [
+    "src/48x48/noctalia.png",
+    "src/64x64/noctalia.png",
+    "src/128x128/noctalia.png"
+  ],
+  "noctalia-shell": [
+    "src/48x48/noctalia.png",
+    "src/64x64/noctalia.png",
+    "src/128x128/noctalia.png"
+  ],
+  "noctalia-qs-debug": [
+    "src/48x48/noctalia.png",
+    "src/64x64/noctalia.png",
+    "src/128x128/noctalia.png"
+  ],
+  "prometheus-elasticsearch-exporter": [
+    "src/48x48/prometheus.png",
+    "src/64x64/prometheus.png",
+    "src/128x128/prometheus.png"
+  ],
+  "prometheus-fastly-exporter": [
+    "src/48x48/prometheus.png",
+    "src/64x64/prometheus.png",
+    "src/128x128/prometheus.png"
+  ],
+  "prometheus-ipmi-exporter": [
+    "src/48x48/prometheus.png",
+    "src/64x64/prometheus.png",
+    "src/128x128/prometheus.png"
+  ],
+  "prometheus-json-exporter": [
+    "src/48x48/prometheus.png",
+    "src/64x64/prometheus.png",
+    "src/128x128/prometheus.png"
+  ],
+  "prometheus-memcached-exporter": [
+    "src/48x48/prometheus.png",
+    "src/64x64/prometheus.png",
+    "src/128x128/prometheus.png"
+  ],
+  "prometheus-mysqld-exporter": [
+    "src/48x48/prometheus.png",
+    "src/64x64/prometheus.png",
+    "src/128x128/prometheus.png"
+  ],
+  "prometheus-node-exporter": [
+    "src/48x48/prometheus.png",
+    "src/64x64/prometheus.png",
+    "src/128x128/prometheus.png"
+  ],
+  "prometheus-nut-exporter": [
+    "src/48x48/prometheus.png",
+    "src/64x64/prometheus.png",
+    "src/128x128/prometheus.png"
+  ],
+  "prometheus-postgres-exporter": [
+    "src/48x48/prometheus.png",
+    "src/64x64/prometheus.png",
+    "src/128x128/prometheus.png"
+  ],
+  "prometheus-redis-exporter": [
+    "src/48x48/prometheus.png",
+    "src/64x64/prometheus.png",
+    "src/128x128/prometheus.png"
+  ],
+  "prometheus-smartctl-exporter": [
+    "src/48x48/prometheus.png",
+    "src/64x64/prometheus.png",
+    "src/128x128/prometheus.png"
+  ],
+  "prometheus-smokeping-prober": [
+    "src/48x48/prometheus.png",
+    "src/64x64/prometheus.png",
+    "src/128x128/prometheus.png"
+  ],
+  "prometheus-snmp-exporter": [
+    "src/48x48/prometheus.png",
+    "src/64x64/prometheus.png",
+    "src/128x128/prometheus.png"
+  ],
+  "prometheus-ssl-exporter": [
+    "src/48x48/prometheus.png",
+    "src/64x64/prometheus.png",
+    "src/128x128/prometheus.png"
+  ],
+  "prometheus-systemd-exporter": [
+    "src/48x48/prometheus.png",
+    "src/64x64/prometheus.png",
+    "src/128x128/prometheus.png"
+  ],
+  "prometheus-unbound-exporter": [
+    "src/48x48/prometheus.png",
+    "src/64x64/prometheus.png",
+    "src/128x128/prometheus.png"
+  ],
+  "prometheus-varnish-exporter": [
+    "src/48x48/prometheus.png",
+    "src/64x64/prometheus.png",
+    "src/128x128/prometheus.png"
+  ],
+  "prometheus-wireguard-exporter": [
+    "src/48x48/prometheus.png",
+    "src/64x64/prometheus.png",
+    "src/128x128/prometheus.png"
+  ],
+  "prometheus-bird-exporter": [
+    "src/48x48/prometheus.png",
+    "src/64x64/prometheus.png",
+    "src/128x128/prometheus.png"
+  ],
+  "prometheus-blackbox-exporter": [
+    "src/48x48/prometheus.png",
+    "src/64x64/prometheus.png",
+    "src/128x128/prometheus.png"
+  ],
+  "ruby-bcrypt_pbkdf": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-bigdecimal": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-byebug": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-character_set": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-erb": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-eventmachine": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-ffi": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-google-protobuf": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-gpgme": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-http_parser.rb": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-iconv": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-io-event": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-llhttp-ffi": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-marisa": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-markly": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-msgpack": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-network_interface": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-nio4r": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-nkf": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-patron": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-pcaprub": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-pg": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-pycall": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-racc": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rbtree": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-redcarpet": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-redcloth": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-regexp_property_values": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rugged": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-shadow": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-simpleitk": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-sqlite3": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-websocket-driver": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-abbrev": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-activesupport": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-addressable": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-ae": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-afm": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-ansi": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-ascii85": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-ast": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-async": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-async-container": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-async-container-supervisor": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-async-dns": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-async-http": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-async-http-cache": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-async-pool": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-async-process": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-async-rest": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-async-rspec": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-async-safe": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-async-service": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-async-websocket": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-attr_extras": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-awesome_print": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-bacon": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-bacon-colored_output": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-bake": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-bake-bundler": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-bake-test": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-bake-test-external": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-base64": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-benchmark-ips": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-bindata": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-brass": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-build": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-build-environment": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-build-files": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-builder": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-certificate_authority": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-chef-utils": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-childprocess": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-chronic": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-chunky_png": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-climate_control": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-coderay": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-colorator": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-colored2": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-colorize": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-concurrent": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-connection_pool": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-console": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-contracts": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-covered": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-crack": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-crass": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-cri": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-css_parser": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-csv": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-cucumber": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-cucumber-ci-environment": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-cucumber-core": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-cucumber-cucumber-expressions": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-cucumber-gherkin": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-cucumber-html-formatter": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-cucumber-messages": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-cucumber-tag-expressions": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-daemons": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-dbm": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-dbus": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-decode": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-deep_merge": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-diff-lcs": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-docile": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-domain_name": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-drb": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-ed25519": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-elftools": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-em-proxy": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-em-websocket": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-erubi": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-ethon": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-facets": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-fakefs": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-fakeweb": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-falcon": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-faraday": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-faraday-follow_redirects": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-faraday-httpclient": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-faraday-multipart": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-faraday-net_http": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-faraday-net_http_persistent": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-faraday-patron": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-faraday-rack": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-faraday-retry": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-fast_gettext": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-ffi-compiler": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-fiber-annotation": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-fiber-local": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-fiber-storage": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-filelock": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-forwardable-extended": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-fuubar": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-get_process_mem": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-getoptlong": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-gettext": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-gettext-setup": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-globalid": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-googleapis-common-protos-types": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-grpc": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-hashdiff": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-hashery": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-hocon": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-hoe": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-http": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-http-cookie": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-http-form_data": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-httpclient": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-i18n": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-ice_nine": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-immutable-struct": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-introspection": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-io-endpoint": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-io-stream": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-irb": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-jekyll-feed": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-jekyll-sass-converter": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-jekyll-seo-tag": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-jekyll-watch": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-json-schema": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-json_pure": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-jwt": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-kpeg": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-kramdown-parser-gfm": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-language_server-protocol": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-launchy": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-lemon": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-leto": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-lint_roller": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-liquid-c": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-listen": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-locale": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-localhost": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-log4r": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-loofah": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-lru_redux": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-lsp": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-lumberjack": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-m": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-mail": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-mail-gpg": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-manpages": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-mapping": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-marcel": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-maruku": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-matrix": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-maxitest": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-maxmind-db": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-memoist": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-memory": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-memory-leak": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-memory_profiler": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-mercenary": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-metaclass": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-metadata-json-lint": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-metadata_json_deps": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-method_source": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-metrics": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-mime-types": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-mime-types-data": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-mini_mime": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-mini_portile2": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-minima": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-minitar": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-minitest": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-minitest-global_expectations": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-minitest-hooks": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-minitest-parallel_fork": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-minitest-power_assert": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-minitest-proveit": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-minitest-reporters": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-minitest-retry": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-minitest-rg": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-minitest-sprint": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-minitest-stub-const": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-mixlib-cli": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-mixlib-config": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-mixlib-shellout": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-mize": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-mkmf-lite": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-mocha": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-molinillo": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-multi_json": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-multi_test": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-multipart-parser": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-multipart-post": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-mustache": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-mustermann": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-mutex_m": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-nanotest": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-nats-pure": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-nenv": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-net-dns": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-net-ftp": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-net-http-persistent": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-net-imap": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-net-ping": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-net-pop": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-net-scp": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-net-smtp": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-net-ssh": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-netrc": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-notiffany": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-observer": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-octokit": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-oedipus_lex": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-optimist": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-packetfu": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-paint": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-pandoc-ruby": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-parallel": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-parallel_tests": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-parser": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-path_expander": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-pathutil": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-patience_diff": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-pdf-core": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-pdf-inspector": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-pdf-reader": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-permessage_deflate": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-pkg-config": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-polyglot": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-power_assert": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-prawn": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-prawn-icon": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-prawn-svg": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-prawn-table": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-prawn-templates": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-prime": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-process-metrics": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-protocol-hpack": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-protocol-http": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-protocol-http1": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-protocol-http2": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-protocol-rack": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-protocol-url": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-protocol-websocket": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-pry-byebug": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-ptools": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-public_suffix": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-puppet-resource_api": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-puppet_forge": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-puppet_metadata": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-qed": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rack-session": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rack-test": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rackup": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rails-dom-testing": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rails-html-sanitizer": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rake": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rake-compiler": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rake-compiler-dock": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rake-contrib": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-range_compressor": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rb-fsevent": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rb-inotify": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rbnacl": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rbs": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rdoc": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-red-colors": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-regexp_parser": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-repl_type_completor": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-resolv-replace": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rexml": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rinda": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-ronn-ng": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rouge": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rr": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rspec": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rspec-core": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rspec-expectations": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rspec-files": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rspec-its": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rspec-memory": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rspec-mocks": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rspec-rerun": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rspec-support": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rss": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rubocop-ast": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rubocop-performance": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rubocop-rake": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rubocop-rspec": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-ruby-progressbar": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-ruby-rc4": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-ruby_memcheck": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rubydns": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rubygems-tasks": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rubytest": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rubytest-cli": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-rubyzip": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-safe_yaml": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-samovar": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-samus": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-sass-embedded": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-sass-listen": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-sawyer": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-scanf": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-sd_notify": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-semantic_puppet": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-sequel": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-shellany": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-shoulda-context": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-simplecov": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-simplecov-html": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-simplecov_json_formatter": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-slim": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-snowglobe": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-sorbet-runtime": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-sorted_set": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-spdx-licenses": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-stackprof": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-stomp": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-string-format": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-subprocess": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-super_diff": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-sus": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-sus-fixtures-async": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-sus-fixtures-async-http": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-sus-fixtures-benchmark": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-sus-fixtures-console": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-sus-fixtures-openssl": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-sus-fixtures-time": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-sync": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-syntax": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-sys-filesystem": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-sys-proctable": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-sys-uname": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-syslog": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-temple": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-term-ansicolor": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-terminal-table": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-test-queue": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-test-unit": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-test-unit-rr": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-test-unit-ruby-core": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-test_declarative": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-text": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-thin": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-thor": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-thread-local": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-thread_order": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-tilt": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-timecop": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-tins": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-titlecase": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-toml": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-tomlrb": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-tracer": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-traces": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-treetop": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-ttfunk": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-typeprof": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-typhoeus": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-tzinfo": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-unf": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-unicode-display_width": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-unicode-emoji": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-unicode-version": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-unindent": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-vimrunner": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-warning": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-warnings_logger": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-webmock": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-webrick": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-websocket-extensions": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-x25519": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-xpath": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-xrb": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-zeitwerk": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-fusuma": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-fusuma-plugin-appmatcher": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-fusuma-plugin-keypress": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-fusuma-plugin-remap": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-fusuma-plugin-sendkey": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-fusuma-plugin-tap": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-fusuma-plugin-thumbsense": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-fusuma-plugin-wmctrl": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-mdless": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-revdev": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-ruinput": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-tty-cursor": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-tty-screen": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-tty-spinner": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "ruby-tty-which": [
+    "src/48x48/ruby.png",
+    "src/64x64/ruby.png",
+    "src/128x128/ruby.png"
+  ],
+  "systemd-bootchart": [
+    "src/48x48/systemd.png",
+    "src/64x64/systemd.png",
+    "src/128x128/systemd.png"
+  ],
+  "systemd-lsp": [
+    "src/48x48/systemd.png",
+    "src/64x64/systemd.png",
+    "src/128x128/systemd.png"
+  ],
+  "systemd-boot-manager": [
+    "src/48x48/systemd.png",
+    "src/64x64/systemd.png",
+    "src/128x128/systemd.png"
+  ],
+  "systemd-libs": [
+    "src/48x48/systemd.png",
+    "src/64x64/systemd.png",
+    "src/128x128/systemd.png"
+  ],
+  "systemd-resolvconf": [
+    "src/48x48/systemd.png",
+    "src/64x64/systemd.png",
+    "src/128x128/systemd.png"
+  ],
+  "systemd-sysvcompat": [
+    "src/48x48/systemd.png",
+    "src/64x64/systemd.png",
+    "src/128x128/systemd.png"
+  ],
+  "systemd-tests": [
+    "src/48x48/systemd.png",
+    "src/64x64/systemd.png",
+    "src/128x128/systemd.png"
+  ],
+  "systemd-ukify": [
+    "src/48x48/systemd.png",
+    "src/64x64/systemd.png",
+    "src/128x128/systemd.png"
+  ],
+  "systemd-boot-pacman-hook": [
+    "src/48x48/systemd.png",
+    "src/64x64/systemd.png",
+    "src/128x128/systemd.png"
+  ],
+  "systemd-cron": [
+    "src/48x48/systemd.png",
+    "src/64x64/systemd.png",
+    "src/128x128/systemd.png"
+  ],
+  "systemd-cron-next-git": [
+    "src/48x48/systemd.png",
+    "src/64x64/systemd.png",
+    "src/128x128/systemd.png"
+  ],
+  "systemd-guest-user": [
+    "src/48x48/systemd.png",
+    "src/64x64/systemd.png",
+    "src/128x128/systemd.png"
+  ],
+  "systemd-oomd-defaults": [
+    "src/48x48/systemd.png",
+    "src/64x64/systemd.png",
+    "src/128x128/systemd.png"
   ]
 }
