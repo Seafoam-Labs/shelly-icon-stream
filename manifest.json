@@ -4889,6 +4889,16 @@
     "src/64x64/goplus.png",
     "src/48x48/goplus.png"
   ],
+  "fish": [
+    "src/128x128/fish.png",
+    "src/64x64/fish.png",
+    "src/48x48/fish.png"
+  ],
+  "fastfetch": [
+    "src/128x128/fastfetch.png",
+    "src/64x64/fastfetch.png",
+    "src/48x48/fastfetch.png"
+  ],
   "gotosocial": [
     "src/128x128/gotosocial.png",
     "src/64x64/gotosocial.png",
@@ -40902,7 +40912,9 @@
   "ot-bboi-clap": [
     "src/48x48/ot.png",
     "src/64x64/ot.png",
-    "src/128x128/ot.png"
+    "src/64x64/ot-bboi-clap.png",
+    "src/128x128/ot.png",
+    "src/128x128/ot-bboi-clap.png"
   ],
   "ot-bboi-docs": [
     "src/48x48/ot.png",
@@ -52527,5 +52539,863 @@
     "src/48x48/sway.png",
     "src/64x64/sway.png",
     "src/128x128/sway.png"
+  ],
+  "themix": [
+    "src/48x48/themix.png",
+    "src/64x64/themix.png",
+    "src/128x128/themix.png"
+  ],
+  "gambas": [
+    "src/128x128/gambas.png"
+  ],
+  "certbot-dns-dnsimple": [
+    "src/48x48/certbot.png",
+    "src/64x64/certbot.png",
+    "src/128x128/certbot.png"
+  ],
+  "certbot-dns-gehirn": [
+    "src/48x48/certbot.png",
+    "src/64x64/certbot.png",
+    "src/128x128/certbot.png"
+  ],
+  "certbot-dns-hetzner": [
+    "src/48x48/certbot.png",
+    "src/64x64/certbot.png",
+    "src/128x128/certbot.png"
+  ],
+  "certbot-dns-inwx": [
+    "src/48x48/certbot.png",
+    "src/64x64/certbot.png",
+    "src/128x128/certbot.png"
+  ],
+  "certbot-dns-linode": [
+    "src/48x48/certbot.png",
+    "src/64x64/certbot.png",
+    "src/128x128/certbot.png"
+  ],
+  "certbot-dns-luadns": [
+    "src/48x48/certbot.png",
+    "src/64x64/certbot.png",
+    "src/128x128/certbot.png"
+  ],
+  "certbot-dns-nsone": [
+    "src/48x48/certbot.png",
+    "src/64x64/certbot.png",
+    "src/128x128/certbot.png"
+  ],
+  "certbot-nginx": [
+    "src/48x48/certbot.png",
+    "src/64x64/certbot.png",
+    "src/128x128/certbot.png"
+  ],
+  "notmuch-mutt": [
+    "src/48x48/notmuch.png",
+    "src/64x64/notmuch.png",
+    "src/128x128/notmuch.png"
+  ],
+  "notmuch-runtime": [
+    "src/48x48/notmuch.png",
+    "src/64x64/notmuch.png",
+    "src/128x128/notmuch.png"
+  ],
+  "notmuch-vim": [
+    "src/48x48/notmuch.png",
+    "src/64x64/notmuch.png",
+    "src/128x128/notmuch.png"
+  ],
+  "libretro-beetle-pce": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-beetle-pce-fast": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-beetle-psx": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-beetle-psx-hw": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-beetle-supergrafx": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-blastem": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-bsnes": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-bsnes-hd": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-bsnes2014": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-desmume": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-dolphin": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-flycast": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-gambatte": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-genesis-plus-gx": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-kronos": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-mame": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-melonds": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-mesen": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-mesen-s": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-mgba": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-nestopia": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-parallel-n64": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-play": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-ppsspp": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-sameboy": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-snes9x": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-yabause": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-fbneo-git": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-core-info": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-mame2016": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-mupen64plus-next": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-overlays": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-picodrive": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-scummvm": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-shaders-slang": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-citra-git": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-lrps2-git": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-mesen-git": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-mupen64plus-next-git": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-opera-git": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "libretro-stella2014-git": [
+    "src/48x48/libretro.png",
+    "src/64x64/libretro.png",
+    "src/128x128/libretro.png"
+  ],
+  "egl-gbm": [
+    "src/48x48/lib32-nvidia-390xx-utils.png",
+    "src/64x64/lib32-nvidia-390xx-utils.png",
+    "src/128x128/nvidia-390xx-dkms.png"
+  ],
+  "egl-wayland": [
+    "src/48x48/lib32-nvidia-390xx-utils.png",
+    "src/64x64/lib32-nvidia-390xx-utils.png",
+    "src/128x128/nvidia-390xx-dkms.png"
+  ],
+  "egl-wayland2": [
+    "src/48x48/lib32-nvidia-390xx-utils.png",
+    "src/64x64/lib32-nvidia-390xx-utils.png",
+    "src/128x128/nvidia-390xx-dkms.png"
+  ],
+  "egl-x11": [
+    "src/48x48/lib32-nvidia-390xx-utils.png",
+    "src/64x64/lib32-nvidia-390xx-utils.png",
+    "src/128x128/nvidia-390xx-dkms.png"
+  ],
+  "eglexternalplatform": [
+    "src/48x48/lib32-nvidia-390xx-utils.png",
+    "src/64x64/lib32-nvidia-390xx-utils.png",
+    "src/128x128/nvidia-390xx-dkms.png"
+  ],
+  "egl-wayland-git": [
+    "src/48x48/lib32-nvidia-390xx-utils.png",
+    "src/64x64/lib32-nvidia-390xx-utils.png",
+    "src/128x128/nvidia-390xx-dkms.png"
+  ],
+  "zls": [
+    "src/48x48/zls.png",
+    "src/64x64/zls.png",
+    "src/128x128/zls.png"
+  ],
+  "zfs-meta": [
+    "src/48x48/zfs-dkms.png",
+    "src/64x64/zfs-dkms.png",
+    "src/128x128/zfs-dkms.png"
+  ],
+  "zfsbootmenu": [
+    "src/48x48/zfs-dkms.png",
+    "src/64x64/zfs-dkms.png",
+    "src/128x128/zfs-dkms.png"
+  ],
+  "zfsbootmenu-sb": [
+    "src/48x48/zfs-dkms.png",
+    "src/64x64/zfs-dkms.png",
+    "src/128x128/zfs-dkms.png"
+  ],
+  "zam-plugins": [
+    "src/48x48/zam.png",
+    "src/64x64/zam.png",
+    "src/128x128/zam.png"
+  ],
+  "zam-plugins-clap": [
+    "src/48x48/zam.png",
+    "src/64x64/zam.png",
+    "src/128x128/zam.png"
+  ],
+  "zam-plugins-ladspa": [
+    "src/48x48/zam.png",
+    "src/64x64/zam.png",
+    "src/128x128/zam.png"
+  ],
+  "zam-plugins-lv2": [
+    "src/48x48/zam.png",
+    "src/64x64/zam.png",
+    "src/128x128/zam.png"
+  ],
+  "zam-plugins-standalone": [
+    "src/48x48/zam.png",
+    "src/64x64/zam.png",
+    "src/128x128/zam.png"
+  ],
+  "zam-plugins-vst": [
+    "src/48x48/zam.png",
+    "src/64x64/zam.png",
+    "src/128x128/zam.png"
+  ],
+  "zam-plugins-vst3": [
+    "src/48x48/zam.png",
+    "src/64x64/zam.png",
+    "src/128x128/zam.png"
+  ],
+  "yelp-tools": [
+    "src/48x48/yelp.png",
+    "src/64x64/yelp.png",
+    "src/128x128/yelp.png"
+  ],
+  "yelp-xsl": [
+    "src/48x48/yelp.png",
+    "src/64x64/yelp.png",
+    "src/128x128/yelp.png"
+  ],
+  "yasm": [
+    "src/48x48/yasm.png",
+    "src/64x64/yasm.png",
+    "src/128x128/yasm.png"
+  ],
+  "xf86-input-elographics": [
+    "src/48x48/nouveau-fw.png",
+    "src/64x64/nouveau-fw.png",
+    "src/128x128/nouveau-fw.png"
+  ],
+  "xf86-input-evdev": [
+    "src/48x48/nouveau-fw.png",
+    "src/64x64/nouveau-fw.png",
+    "src/128x128/nouveau-fw.png"
+  ],
+  "xf86-input-libinput": [
+    "src/48x48/nouveau-fw.png",
+    "src/64x64/nouveau-fw.png",
+    "src/128x128/nouveau-fw.png"
+  ],
+  "xf86-input-synaptics": [
+    "src/48x48/nouveau-fw.png",
+    "src/64x64/nouveau-fw.png",
+    "src/128x128/nouveau-fw.png"
+  ],
+  "xf86-input-vmmouse": [
+    "src/48x48/nouveau-fw.png",
+    "src/64x64/nouveau-fw.png",
+    "src/128x128/nouveau-fw.png"
+  ],
+  "xf86-input-void": [
+    "src/48x48/nouveau-fw.png",
+    "src/64x64/nouveau-fw.png",
+    "src/128x128/nouveau-fw.png"
+  ],
+  "xf86-input-wacom": [
+    "src/48x48/nouveau-fw.png",
+    "src/64x64/nouveau-fw.png",
+    "src/128x128/nouveau-fw.png"
+  ],
+  "xf86-video-amdgpu": [
+    "src/48x48/nouveau-fw.png",
+    "src/64x64/nouveau-fw.png",
+    "src/128x128/nouveau-fw.png"
+  ],
+  "xf86-video-ati": [
+    "src/48x48/nouveau-fw.png",
+    "src/64x64/nouveau-fw.png",
+    "src/128x128/nouveau-fw.png"
+  ],
+  "xf86-video-dummy": [
+    "src/48x48/nouveau-fw.png",
+    "src/64x64/nouveau-fw.png",
+    "src/128x128/nouveau-fw.png"
+  ],
+  "xf86-video-fbdev": [
+    "src/48x48/nouveau-fw.png",
+    "src/64x64/nouveau-fw.png",
+    "src/128x128/nouveau-fw.png"
+  ],
+  "xf86-video-intel": [
+    "src/48x48/nouveau-fw.png",
+    "src/64x64/nouveau-fw.png",
+    "src/128x128/nouveau-fw.png"
+  ],
+  "xf86-video-qxl": [
+    "src/48x48/nouveau-fw.png",
+    "src/64x64/nouveau-fw.png",
+    "src/128x128/nouveau-fw.png"
+  ],
+  "xf86-video-sisusb": [
+    "src/48x48/nouveau-fw.png",
+    "src/64x64/nouveau-fw.png",
+    "src/128x128/nouveau-fw.png"
+  ],
+  "xf86-video-vesa": [
+    "src/48x48/nouveau-fw.png",
+    "src/64x64/nouveau-fw.png",
+    "src/128x128/nouveau-fw.png"
+  ],
+  "xf86-video-voodoo": [
+    "src/48x48/nouveau-fw.png",
+    "src/64x64/nouveau-fw.png",
+    "src/128x128/nouveau-fw.png"
+  ],
+  "xf86-video-vmware": [
+    "src/48x48/nouveau-fw.png",
+    "src/64x64/nouveau-fw.png",
+    "src/128x128/nouveau-fw.png"
+  ],
+  "wayland-utils": [
+    "src/48x48/wayland.png",
+    "src/64x64/wayland.png",
+    "src/128x128/wayland.png"
+  ],
+  "waylandpp": [
+    "src/48x48/wayland.png",
+    "src/64x64/wayland.png",
+    "src/128x128/wayland.png"
+  ],
+  "wayland-pipewire-idle-inhibit": [
+    "src/48x48/wayland.png",
+    "src/64x64/wayland.png",
+    "src/128x128/wayland.png"
+  ],
+  "google-glog": [
+    "src/48x48/google-breakpad.png",
+    "src/64x64/google-breakpad.png",
+    "src/128x128/google-breakpad.png"
+  ],
+  "googleworkspace-cli": [
+    "src/48x48/google-breakpad.png",
+    "src/64x64/google-breakpad.png",
+    "src/128x128/google-breakpad.png"
+  ],
+  "go-licenses": [
+    "src/48x48/go.png",
+    "src/64x64/go.png",
+    "src/128x128/go.png"
+  ],
+  "go-md2man": [
+    "src/48x48/go.png",
+    "src/64x64/go.png",
+    "src/128x128/go.png"
+  ],
+  "go-swagger": [
+    "src/48x48/go.png",
+    "src/64x64/go.png",
+    "src/128x128/go.png"
+  ],
+  "go-yq": [
+    "src/48x48/go.png",
+    "src/64x64/go.png",
+    "src/128x128/go.png"
+  ],
+  "ghostty-shell-integration": [
+    "src/48x48/ghostty.png",
+    "src/64x64/ghostty.png",
+    "src/128x128/ghostty.png"
+  ],
+  "ghostty-terminfo": [
+    "src/48x48/ghostty.png",
+    "src/64x64/ghostty.png",
+    "src/128x128/ghostty.png"
+  ],
+  "foomatic-db-engine": [
+    "src/48x48/foomatic.png",
+    "src/64x64/foomatic.png",
+    "src/128x128/foomatic.png"
+  ],
+  "foomatic-db-gutenprint-ppds": [
+    "src/48x48/foomatic.png",
+    "src/64x64/foomatic.png",
+    "src/128x128/foomatic.png"
+  ],
+  "foomatic-db": [
+    "src/48x48/foomatic.png",
+    "src/64x64/foomatic.png",
+    "src/128x128/foomatic.png"
+  ],
+  "foomatic-db-nonfree": [
+    "src/48x48/foomatic.png",
+    "src/64x64/foomatic.png",
+    "src/128x128/foomatic.png"
+  ],
+  "foomatic-db-nonfree-ppds": [
+    "src/48x48/foomatic.png",
+    "src/64x64/foomatic.png",
+    "src/128x128/foomatic.png"
+  ],
+  "foomatic-db-ppds": [
+    "src/48x48/foomatic.png",
+    "src/64x64/foomatic.png",
+    "src/128x128/foomatic.png"
+  ],
+  "flatpak-kcm": [
+    "src/48x48/flatpak.png",
+    "src/64x64/flatpak.png",
+    "src/128x128/flatpak.png"
+  ],
+  "flatpak-xdg-utils": [
+    "src/48x48/flatpak.png",
+    "src/64x64/flatpak.png",
+    "src/128x128/flatpak.png"
+  ],
+  "fish-autopair": [
+    "src/48x48/fish.png",
+    "src/64x64/fish.png",
+    "src/128x128/fish.png"
+  ],
+  "fish-git": [
+    "src/48x48/fish.png",
+    "src/64x64/fish.png",
+    "src/128x128/fish.png"
+  ],
+  "fish-pure-prompt": [
+    "src/48x48/fish.png",
+    "src/64x64/fish.png",
+    "src/128x128/fish.png"
+  ],
+  "fish-pure-prompt-git": [
+    "src/48x48/fish.png",
+    "src/64x64/fish.png",
+    "src/128x128/fish.png"
+  ],
+  "fisher-git": [
+    "src/48x48/fish.png",
+    "src/64x64/fish.png",
+    "src/128x128/fish.png"
+  ],
+  "fisher": [
+    "src/48x48/fish.png",
+    "src/64x64/fish.png",
+    "src/128x128/fish.png"
+  ],
+  "feeluown-bilibili": [
+    "src/64x64/feeluown.png",
+    "src/128x128/feeluown.png"
+  ],
+  "feeluown-kuwo": [
+    "src/64x64/feeluown.png",
+    "src/128x128/feeluown.png"
+  ],
+  "feeluown-netease": [
+    "src/64x64/feeluown.png",
+    "src/128x128/feeluown.png"
+  ],
+  "feeluown-qqmusic": [
+    "src/64x64/feeluown.png",
+    "src/128x128/feeluown.png"
+  ],
+  "feeluown-ytmusic": [
+    "src/64x64/feeluown.png",
+    "src/128x128/feeluown.png"
+  ],
+  "docker-buildx": [
+    "src/48x48/docker.png",
+    "src/64x64/docker.png",
+    "src/128x128/docker.png"
+  ],
+  "docker-machine": [
+    "src/48x48/docker.png",
+    "src/64x64/docker.png",
+    "src/128x128/docker.png"
+  ],
+  "coin-or-asl": [
+    "src/48x48/coin-or.png",
+    "src/64x64/coin-or.png",
+    "src/128x128/coin-or.png"
+  ],
+  "coin-or-cbc": [
+    "src/48x48/coin-or.png",
+    "src/64x64/coin-or.png",
+    "src/128x128/coin-or.png"
+  ],
+  "coin-or-cgl": [
+    "src/48x48/coin-or.png",
+    "src/64x64/coin-or.png",
+    "src/128x128/coin-or.png"
+  ],
+  "coin-or-clp": [
+    "src/48x48/coin-or.png",
+    "src/64x64/coin-or.png",
+    "src/128x128/coin-or.png"
+  ],
+  "coin-or-coinutils": [
+    "src/48x48/coin-or.png",
+    "src/64x64/coin-or.png",
+    "src/128x128/coin-or.png"
+  ],
+  "coin-or-csdp": [
+    "src/48x48/coin-or.png",
+    "src/64x64/coin-or.png",
+    "src/128x128/coin-or.png"
+  ],
+  "coin-or-lemon": [
+    "src/48x48/coin-or.png",
+    "src/64x64/coin-or.png",
+    "src/128x128/coin-or.png"
+  ],
+  "coin-or-osi": [
+    "src/48x48/coin-or.png",
+    "src/64x64/coin-or.png",
+    "src/128x128/coin-or.png"
+  ],
+  "coin-or-data-sample": [
+    "src/48x48/coin-or.png",
+    "src/64x64/coin-or.png",
+    "src/128x128/coin-or.png"
+  ],
+  "coin-or-mp": [
+    "src/48x48/coin-or.png",
+    "src/64x64/coin-or.png",
+    "src/128x128/coin-or.png"
+  ],
+  "bash": [
+    "src/48x48/bash.png",
+    "src/64x64/bash.png",
+    "src/128x128/bash.png"
+  ],
+  "bashbrew": [
+    "src/48x48/bash.png",
+    "src/64x64/bash.png",
+    "src/128x128/bash.png"
+  ],
+  "bash-completion": [
+    "src/48x48/bash.png",
+    "src/64x64/bash.png",
+    "src/128x128/bash.png"
+  ],
+  "bash-language-server": [
+    "src/48x48/bash.png",
+    "src/64x64/bash.png",
+    "src/128x128/bash.png"
+  ],
+  "bash-preexec": [
+    "src/48x48/bash.png",
+    "src/64x64/bash.png",
+    "src/128x128/bash.png"
+  ],
+  "bashburn": [
+    "src/48x48/bash.png",
+    "src/64x64/bash.png",
+    "src/128x128/bash.png"
+  ],
+  "bashrun": [
+    "src/48x48/bash.png",
+    "src/64x64/bash.png",
+    "src/128x128/bash.png"
+  ],
+  "bashtop": [
+    "src/48x48/bash.png",
+    "src/64x64/bash.png",
+    "src/128x128/bash.png"
+  ],
+  "arch-audit": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "arch-pkg-repo-updater": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "arch-repro-status": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "buildbtw-poc": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "gitlab-exporter": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "goaurrpc": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "pyalpm": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "signstar-configure-build": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "wkd-exporter": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "mkinitcpio": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "voa-verifiers-arch": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "arch-install-scripts": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "arch-release-promotion": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "arch-signoff": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "archiso": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "archivetools": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "devtools": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "ex-vi-compat": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "keycloak-archlinux-theme": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "mkinitcpio-archiso": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "netctl": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "rebuilderd-website": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "networkmanager-l2tp": [
+    "src/48x48/libnm.png",
+    "src/64x64/libnm.png",
+    "src/128x128/libnm.png"
+  ],
+  "networkmanager-qt": [
+    "src/48x48/libnm.png",
+    "src/64x64/libnm.png",
+    "src/128x128/libnm.png"
+  ],
+  "networkmanager-qt5": [
+    "src/48x48/libnm.png",
+    "src/64x64/libnm.png",
+    "src/128x128/libnm.png"
+  ],
+  "networkmanager-strongswan": [
+    "src/48x48/libnm.png",
+    "src/64x64/libnm.png",
+    "src/128x128/libnm.png"
+  ],
+  "networkmanager-vpn-plugin-l2tp": [
+    "src/48x48/libnm.png",
+    "src/64x64/libnm.png",
+    "src/128x128/libnm.png"
+  ],
+  "networkmanager-dmenu": [
+    "src/48x48/libnm.png",
+    "src/64x64/libnm.png",
+    "src/128x128/libnm.png"
+  ],
+  "odin2-synthesizer": [
+    "src/64x64/odin2-synthesizer-standalone.png",
+    "src/128x128/odin2-synthesizer-standalone.png"
+  ],
+  "odin2-synthesizer-clap": [
+    "src/64x64/odin2-synthesizer-standalone.png",
+    "src/128x128/odin2-synthesizer-standalone.png"
+  ],
+  "odin2-synthesizer-common": [
+    "src/64x64/odin2-synthesizer-standalone.png",
+    "src/128x128/odin2-synthesizer-standalone.png"
+  ],
+  "odin2-synthesizer-lv2": [
+    "src/64x64/odin2-synthesizer-standalone.png",
+    "src/128x128/odin2-synthesizer-standalone.png"
+  ],
+  "odin2-synthesizer-vst3": [
+    "src/64x64/odin2-synthesizer-standalone.png",
+    "src/128x128/odin2-synthesizer-standalone.png"
   ]
 }
