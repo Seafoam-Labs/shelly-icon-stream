@@ -3659,6 +3659,26 @@
     "src/64x64/amsynth.png",
     "src/48x48/amsynth.png"
   ],
+  "amsynth-vst": [
+    "src/128x128/amsynth.png",
+    "src/64x64/amsynth.png",
+    "src/48x48/amsynth.png"
+  ],
+  "amsynth-lv2": [
+    "src/128x128/amsynth.png",
+    "src/64x64/amsynth.png",
+    "src/48x48/amsynth.png"
+  ],
+  "amsynth-dssi": [
+    "src/128x128/amsynth.png",
+    "src/64x64/amsynth.png",
+    "src/48x48/amsynth.png"
+  ],
+  "amsynth-common": [
+    "src/128x128/amsynth.png",
+    "src/64x64/amsynth.png",
+    "src/48x48/amsynth.png"
+  ],
   "amule": [
     "src/128x128/amule.png",
     "src/64x64/amule.png",
@@ -20248,6 +20268,9 @@
     "src/128x128/zynaddsubfx.png"
   ],
   "0ad": [
+    "src/64x64/0ad.png"
+  ],
+  "0ad-data": [
     "src/64x64/0ad.png"
   ],
   "adljack": [
@@ -43355,5 +43378,625 @@
     "src/48x48/systemd.png",
     "src/64x64/systemd.png",
     "src/128x128/systemd.png"
+  ],
+  "obs-studio-browser": [
+    "src/48x48/obs-studio.png",
+    "src/64x64/obs-studio.png",
+    "src/128x128/obs-studio.png"
+  ],
+  "obs-studio-browser-debug": [
+    "src/48x48/obs-studio.png",
+    "src/64x64/obs-studio.png",
+    "src/128x128/obs-studio.png"
+  ],
+  "obs-vaapi": [
+    "src/48x48/obs-studio.png",
+    "src/64x64/obs-studio.png",
+    "src/128x128/obs-studio.png"
+  ],
+  "obs-vkcapture": [
+    "src/48x48/obs-studio.png",
+    "src/64x64/obs-studio.png",
+    "src/128x128/obs-studio.png"
+  ],
+  "obs-backgroundremoval": [
+    "src/48x48/obs-studio.png",
+    "src/64x64/obs-studio.png",
+    "src/128x128/obs-studio.png"
+  ],
+  "obs-plugin-looking-glass-git": [
+    "src/48x48/obs-studio.png",
+    "src/64x64/obs-studio.png",
+    "src/128x128/obs-studio.png"
+  ],
+  "obs-rtspserver": [
+    "src/48x48/obs-studio.png",
+    "src/64x64/obs-studio.png",
+    "src/128x128/obs-studio.png"
+  ],
+  "obs-streamfx-unstable": [
+    "src/48x48/obs-studio.png",
+    "src/64x64/obs-studio.png",
+    "src/128x128/obs-studio.png"
+  ],
+  "obs-studio-git": [
+    "src/48x48/obs-studio.png",
+    "src/64x64/obs-studio.png",
+    "src/128x128/obs-studio.png"
+  ],
+  "obs-studio-stable": [
+    "src/48x48/obs-studio.png",
+    "src/64x64/obs-studio.png",
+    "src/128x128/obs-studio.png"
+  ],
+  "obs-studio-tytan652": [
+    "src/48x48/obs-studio.png",
+    "src/64x64/obs-studio.png",
+    "src/128x128/obs-studio.png"
+  ],
+  "obs-vkcapture-git": [
+    "src/48x48/obs-studio.png",
+    "src/64x64/obs-studio.png",
+    "src/128x128/obs-studio.png"
+  ],
+  "kodi-addon-audioencoder-flac": [
+    "src/48x48/kodi.png",
+    "src/64x64/kodi.png",
+    "src/128x128/kodi.png"
+  ],
+  "kodi-addon-audioencoder-lame": [
+    "src/48x48/kodi.png",
+    "src/64x64/kodi.png",
+    "src/128x128/kodi.png"
+  ],
+  "kodi-addon-audioencoder-vorbis": [
+    "src/48x48/kodi.png",
+    "src/64x64/kodi.png",
+    "src/128x128/kodi.png"
+  ],
+  "kodi-addon-audioencoder-wav": [
+    "src/48x48/kodi.png",
+    "src/64x64/kodi.png",
+    "src/128x128/kodi.png"
+  ],
+  "kodi-addon-imagedecoder-heif": [
+    "src/48x48/kodi.png",
+    "src/64x64/kodi.png",
+    "src/128x128/kodi.png"
+  ],
+  "kodi-addon-imagedecoder-raw": [
+    "src/48x48/kodi.png",
+    "src/64x64/kodi.png",
+    "src/128x128/kodi.png"
+  ],
+  "kodi-addon-inputstream-adaptive": [
+    "src/48x48/kodi.png",
+    "src/64x64/kodi.png",
+    "src/128x128/kodi.png"
+  ],
+  "kodi-addon-inputstream-rtmp": [
+    "src/48x48/kodi.png",
+    "src/64x64/kodi.png",
+    "src/128x128/kodi.png"
+  ],
+  "kodi-addon-peripheral-joystick": [
+    "src/48x48/kodi.png",
+    "src/64x64/kodi.png",
+    "src/128x128/kodi.png"
+  ],
+  "kodi-addon-screensaver-asteroids": [
+    "src/48x48/kodi.png",
+    "src/64x64/kodi.png",
+    "src/128x128/kodi.png"
+  ],
+  "kodi-addon-screensaver-biogenesis": [
+    "src/48x48/kodi.png",
+    "src/64x64/kodi.png",
+    "src/128x128/kodi.png"
+  ],
+  "kodi-addon-screensaver-greynetic": [
+    "src/48x48/kodi.png",
+    "src/64x64/kodi.png",
+    "src/128x128/kodi.png"
+  ],
+  "kodi-addon-screensaver-matrixtrails": [
+    "src/48x48/kodi.png",
+    "src/64x64/kodi.png",
+    "src/128x128/kodi.png"
+  ],
+  "kodi-addon-screensaver-pingpong": [
+    "src/48x48/kodi.png",
+    "src/64x64/kodi.png",
+    "src/128x128/kodi.png"
+  ],
+  "kodi-addon-screensaver-pyro": [
+    "src/48x48/kodi.png",
+    "src/64x64/kodi.png",
+    "src/128x128/kodi.png"
+  ],
+  "kodi-addon-screensaver-stars": [
+    "src/48x48/kodi.png",
+    "src/64x64/kodi.png",
+    "src/128x128/kodi.png"
+  ],
+  "kodi-addon-visualization-projectm": [
+    "src/48x48/kodi.png",
+    "src/64x64/kodi.png",
+    "src/128x128/kodi.png"
+  ],
+  "kodi-addon-visualization-shadertoy": [
+    "src/48x48/kodi.png",
+    "src/64x64/kodi.png",
+    "src/128x128/kodi.png"
+  ],
+  "kodi-addon-visualization-spectrum": [
+    "src/48x48/kodi.png",
+    "src/64x64/kodi.png",
+    "src/128x128/kodi.png"
+  ],
+  "kodi-addon-visualization-waveform": [
+    "src/48x48/kodi.png",
+    "src/64x64/kodi.png",
+    "src/128x128/kodi.png"
+  ],
+  "kodi-platform": [
+    "src/48x48/kodi.png",
+    "src/64x64/kodi.png",
+    "src/128x128/kodi.png"
+  ],
+  "kodi-stable-git": [
+    "src/48x48/kodi.png",
+    "src/64x64/kodi.png",
+    "src/128x128/kodi.png"
+  ],
+  "kodi-stable-git-dev": [
+    "src/48x48/kodi.png",
+    "src/64x64/kodi.png",
+    "src/128x128/kodi.png"
+  ],
+  "kodi-stable-git-eventclients": [
+    "src/48x48/kodi.png",
+    "src/64x64/kodi.png",
+    "src/128x128/kodi.png"
+  ],
+  "kodi-stable-git-tools-texturepacker": [
+    "src/48x48/kodi.png",
+    "src/64x64/kodi.png",
+    "src/128x128/kodi.png"
+  ],
+  "kodi-standalone-service": [
+    "src/48x48/kodi.png",
+    "src/64x64/kodi.png",
+    "src/128x128/kodi.png"
+  ],
+  "cargo": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-about": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-all-features": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-asm": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-audit": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-auditable": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-binstall": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-binutils": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-bloat": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-bundle-licenses": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-c": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-cache": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-clone": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-crev": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-cyclonedx": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-deb": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-debstatus": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-deny": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-depgraph": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-dist": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-docs-rs": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-edit": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-expand": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-feature": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-flamegraph": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-fuzz": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-geiger": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-generate": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-generate-rpm": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-hack": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-insta": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-license": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-llvm-cov": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-machete": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-make": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-modules": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-msrv": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-ndk": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-nextest": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-outdated": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-pgrx": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-psp": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-public-api": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-rdme": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-release": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-run-bin": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-semver-checks": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-show-asm": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-shuttle": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-sonar": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-sort": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-sort-derives": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-spellcheck": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-supply-chain": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-sweep": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-tarpaulin": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-tauri": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-udeps": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-watch": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-wizard": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-zigbuild": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-pgo": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cargo-maelstrom": [
+    "src/48x48/cargo.png",
+    "src/64x64/cargo.png",
+    "src/128x128/cargo.png"
+  ],
+  "cinnamon-control-center": [
+    "src/48x48/cinnamon.png",
+    "src/64x64/cinnamon.png",
+    "src/128x128/cinnamon.png"
+  ],
+  "cinnamon-desktop": [
+    "src/48x48/cinnamon.png",
+    "src/64x64/cinnamon.png",
+    "src/128x128/cinnamon.png"
+  ],
+  "cinnamon-menus": [
+    "src/48x48/cinnamon.png",
+    "src/64x64/cinnamon.png",
+    "src/128x128/cinnamon.png"
+  ],
+  "cinnamon-screensaver": [
+    "src/48x48/cinnamon.png",
+    "src/64x64/cinnamon.png",
+    "src/128x128/cinnamon.png"
+  ],
+  "cinnamon-session": [
+    "src/48x48/cinnamon.png",
+    "src/64x64/cinnamon.png",
+    "src/128x128/cinnamon.png"
+  ],
+  "cinnamon-settings-daemon": [
+    "src/48x48/cinnamon.png",
+    "src/64x64/cinnamon.png",
+    "src/128x128/cinnamon.png"
+  ],
+  "cinnamon-translations": [
+    "src/48x48/cinnamon.png",
+    "src/64x64/cinnamon.png",
+    "src/128x128/cinnamon.png"
+  ],
+  "clang": [
+    "src/48x48/lib32-llvm.png",
+    "src/64x64/lib32-llvm.png",
+    "src/128x128/llvm.png"
+  ],
+  "clang-debug": [
+    "src/48x48/lib32-llvm.png",
+    "src/64x64/lib32-llvm.png",
+    "src/128x128/llvm.png"
+  ],
+  "clang19": [
+    "src/48x48/lib32-llvm.png",
+    "src/64x64/lib32-llvm.png",
+    "src/128x128/llvm.png"
+  ],
+  "clang20": [
+    "src/48x48/lib32-llvm.png",
+    "src/64x64/lib32-llvm.png",
+    "src/128x128/llvm.png"
+  ],
+  "clang21": [
+    "src/48x48/lib32-llvm.png",
+    "src/64x64/lib32-llvm.png",
+    "src/128x128/llvm.png"
+  ],
+  "clang18": [
+    "src/48x48/lib32-llvm.png",
+    "src/64x64/lib32-llvm.png",
+    "src/128x128/llvm.png"
+  ],
+  "clap": [
+    "src/48x48/clap.png",
+    "src/64x64/clap.png",
+    "src/128x128/clap.png"
+  ],
+  "clash-verge-rev": [
+    "src/48x48/clash-verge-rev.png",
+    "src/64x64/clash-verge-rev.png",
+    "src/128x128/clash-verge-rev.png"
+  ],
+  "zsh-theme-powerlevel10k": [
+    "src/48x48/zsh.png",
+    "src/64x64/zsh.png",
+    "src/128x128/zsh.png"
+  ],
+  "zsh-autocomplete": [
+    "src/48x48/zsh.png",
+    "src/64x64/zsh.png",
+    "src/128x128/zsh.png"
+  ],
+  "zsh-autosuggestions": [
+    "src/48x48/zsh.png",
+    "src/64x64/zsh.png",
+    "src/128x128/zsh.png"
+  ],
+  "zsh-completions": [
+    "src/48x48/zsh.png",
+    "src/64x64/zsh.png",
+    "src/128x128/zsh.png"
+  ],
+  "zsh-history-substring-search": [
+    "src/48x48/zsh.png",
+    "src/64x64/zsh.png",
+    "src/128x128/zsh.png"
+  ],
+  "zsh-syntax-highlighting": [
+    "src/48x48/zsh.png",
+    "src/64x64/zsh.png",
+    "src/128x128/zsh.png"
+  ],
+  "zlib-ng": [
+    "src/48x48/lib32-zlib.png",
+    "src/64x64/lib32-zlib.png",
+    "src/128x128/minizip.png"
+  ],
+  "zlib-ng-compat": [
+    "src/48x48/lib32-zlib.png",
+    "src/64x64/lib32-zlib.png",
+    "src/128x128/minizip.png"
   ]
 }
