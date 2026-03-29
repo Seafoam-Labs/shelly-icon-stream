@@ -2343,6 +2343,11 @@
     "src/64x64/mpc-qt.png",
     "src/128x128/mpc-qt.png"
   ],
+  "qt": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
   "normcap": [
     "src/64x64/normcap.png",
     "src/128x128/normcap.png"
@@ -34299,6 +34304,11 @@
     "src/64x64/linux.png",
     "src/128x128/linux.png"
   ],
+  "linux": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
   "linux-firmware-amdgpu": [
     "src/48x48/linux.png",
     "src/64x64/linux.png",
@@ -53397,5 +53407,1405 @@
   "odin2-synthesizer-vst3": [
     "src/64x64/odin2-synthesizer-standalone.png",
     "src/128x128/odin2-synthesizer-standalone.png"
+  ],
+  "brave-bin": [
+    "src/output/128x128/brave-bin.png",
+    "src/output/64x64/brave-bin.png",
+    "src/output/48x48/brave-bin.png"
+  ],
+  "containerd": [
+    "src/output/128x128/containerd.png",
+    "src/output/64x64/containerd.png",
+    "src/output/48x48/containerd.png"
+  ],
+  "crow-translate": [
+    "src/output/128x128/crow-translate.png",
+    "src/output/64x64/crow-translate.png",
+    "src/output/48x48/crow-translate.png"
+  ],
+  "difftastic": [
+    "src/output/128x128/difftastic.png",
+    "src/output/64x64/difftastic.png",
+    "src/output/48x48/difftastic.png"
+  ],
+  "exo": [
+    "src/output/128x128/exo.png",
+    "src/output/64x64/exo.png",
+    "src/output/48x48/exo.png"
+  ],
+  "galera": [
+    "src/output/128x128/galera.png",
+    "src/output/64x64/galera.png",
+    "src/output/48x48/galera.png"
+  ],
+  "ipxe": [
+    "src/output/128x128/ipxe.png",
+    "src/output/64x64/ipxe.png",
+    "src/output/48x48/ipxe.png"
+  ],
+  "languagetool": [
+    "src/output/128x128/languagetool.png",
+    "src/output/64x64/languagetool.png",
+    "src/output/48x48/languagetool.png"
+  ],
+  "libktorrent": [
+    "src/output/128x128/libktorrent.png",
+    "src/output/64x64/libktorrent.png",
+    "src/output/48x48/libktorrent.png"
+  ],
+  "libre-graph-api": [
+    "src/output/128x128/libre-graph-api.png",
+    "src/output/64x64/libre-graph-api.png",
+    "src/output/48x48/libre-graph-api.png"
+  ],
+  "lprint": [
+    "src/output/128x128/lprint.png",
+    "src/output/64x64/lprint.png",
+    "src/output/48x48/lprint.png"
+  ],
+  "marble-common": [
+    "src/output/128x128/marble-common.png",
+    "src/output/64x64/marble-common.png",
+    "src/output/48x48/marble-common.png"
+  ],
+  "mariadb-clients": [
+    "src/output/128x128/mariadb-clients.png",
+    "src/output/64x64/mariadb-clients.png",
+    "src/output/48x48/mariadb-clients.png"
+  ],
+  "mariadb-libs": [
+    "src/output/128x128/mariadb-clients.png",
+    "src/output/64x64/mariadb-clients.png",
+    "src/output/48x48/mariadb-clients.png"
+  ],
+  "mariadb-lts": [
+    "src/output/128x128/mariadb-clients.png",
+    "src/output/64x64/mariadb-clients.png",
+    "src/output/48x48/mariadb-clients.png"
+  ],
+  "mariadb-lts-clients": [
+    "src/output/128x128/mariadb-clients.png",
+    "src/output/64x64/mariadb-clients.png",
+    "src/output/48x48/mariadb-clients.png"
+  ],
+  "mariadb-lts-libs": [
+    "src/output/128x128/mariadb-clients.png",
+    "src/output/64x64/mariadb-clients.png",
+    "src/output/48x48/mariadb-clients.png"
+  ],
+  "mkvtoolnix-cli": [
+    "src/output/128x128/mkvtoolnix-cli.png",
+    "src/output/64x64/mkvtoolnix-cli.png",
+    "src/output/48x48/mkvtoolnix-cli.png"
+  ],
+  "mosquitto": [
+    "src/output/128x128/mosquitto.png",
+    "src/output/64x64/mosquitto.png",
+    "src/output/48x48/mosquitto.png"
+  ],
+  "nextcloud": [
+    "src/output/128x128/nextcloud.png",
+    "src/output/64x64/nextcloud.png",
+    "src/output/48x48/nextcloud.png"
+  ],
+  "nut": [
+    "src/output/128x128/nut.png",
+    "src/output/64x64/nut.png",
+    "src/output/48x48/nut.png"
+  ],
+  "nzbget": [
+    "src/output/128x128/nzbget.png",
+    "src/output/64x64/nzbget.png",
+    "src/output/48x48/nzbget.png"
+  ],
+  "okularpart5": [
+    "src/output/128x128/okularpart5.png",
+    "src/output/64x64/okularpart5.png",
+    "src/output/48x48/okularpart5.png"
+  ],
+  "pappl": [
+    "src/output/128x128/pappl.png",
+    "src/output/64x64/pappl.png",
+    "src/output/48x48/pappl.png"
+  ],
+  "pax": [
+    "src/output/128x128/pax.png",
+    "src/output/64x64/pax.png",
+    "src/output/48x48/pax.png"
+  ],
+  "sqlc": [
+    "src/output/128x128/sqlc.png",
+    "src/output/64x64/sqlc.png",
+    "src/output/48x48/sqlc.png"
+  ],
+  "srslte": [
+    "src/output/128x128/srslte.png",
+    "src/output/64x64/srslte.png",
+    "src/output/48x48/srslte.png"
+  ],
+  "srslte-avx2": [
+    "src/output/128x128/srslte.png",
+    "src/output/64x64/srslte.png",
+    "src/output/48x48/srslte.png"
+  ],
+  "stfl": [
+    "src/output/128x128/stfl.png",
+    "src/output/64x64/stfl.png",
+    "src/output/48x48/stfl.png"
+  ],
+  "thunar-volman": [
+    "src/output/128x128/thunar-volman.png",
+    "src/output/64x64/thunar-volman.png",
+    "src/output/48x48/thunar-volman.png"
+  ],
+  "xfce4-battery-plugin": [
+    "src/output/128x128/xfce4-battery-plugin.png",
+    "src/output/64x64/xfce4-battery-plugin.png",
+    "src/output/48x48/xfce4-battery-plugin.png"
+  ],
+  "xfce4-calculator-plugin": [
+    "src/output/128x128/xfce4-calculator-plugin.png",
+    "src/output/64x64/xfce4-calculator-plugin.png",
+    "src/output/48x48/xfce4-calculator-plugin.png"
+  ],
+  "xfce4-cpufreq-plugin": [
+    "src/output/128x128/xfce4-cpufreq-plugin.png",
+    "src/output/64x64/xfce4-cpufreq-plugin.png",
+    "src/output/48x48/xfce4-cpufreq-plugin.png"
+  ],
+  "xfce4-panel": [
+    "src/output/128x128/xfce4-panel.png",
+    "src/output/64x64/xfce4-panel.png",
+    "src/output/48x48/xfce4-panel.png"
+  ],
+  "xfce4-session": [
+    "src/output/128x128/xfce4-session.png",
+    "src/output/64x64/xfce4-session.png",
+    "src/output/48x48/xfce4-session.png"
+  ],
+  "xfdesktop": [
+    "src/output/128x128/xfdesktop.png",
+    "src/output/64x64/xfdesktop.png",
+    "src/output/48x48/xfdesktop.png"
+  ],
+  "yoshimi": [
+    "src/output/128x128/yoshimi.png",
+    "src/output/64x64/yoshimi.png",
+    "src/output/48x48/yoshimi.png"
+  ],
+  "yoshimi-data": [
+    "src/output/128x128/yoshimi.png",
+    "src/output/64x64/yoshimi.png",
+    "src/output/48x48/yoshimi.png"
+  ],
+  "yoshimi-docs": [
+    "src/output/128x128/yoshimi.png",
+    "src/output/64x64/yoshimi.png",
+    "src/output/48x48/yoshimi.png"
+  ],
+  "yoshimi-lv2": [
+    "src/output/128x128/yoshimi.png",
+    "src/output/64x64/yoshimi.png",
+    "src/output/48x48/yoshimi.png"
+  ],
+  "yoshimi-standalone": [
+    "src/output/128x128/yoshimi.png",
+    "src/output/64x64/yoshimi.png",
+    "src/output/48x48/yoshimi.png"
+  ],
+  "boost-libs": [
+    "src/output/128x128/boost-libs.png",
+    "src/output/64x64/boost-libs.png",
+    "src/output/48x48/boost-libs.png"
+  ],
+  "db": [
+    "src/output/128x128/db.png",
+    "src/output/64x64/db.png",
+    "src/output/48x48/db.png"
+  ],
+  "elephantdsp-roomreverb-clap": [
+    "src/output/128x128/elephantdsp-roomreverb-clap.png",
+    "src/output/64x64/elephantdsp-roomreverb-clap.png",
+    "src/output/48x48/elephantdsp-roomreverb-clap.png"
+  ],
+  "elephantdsp-roomreverb-lv2": [
+    "src/output/128x128/elephantdsp-roomreverb-clap.png",
+    "src/output/64x64/elephantdsp-roomreverb-clap.png",
+    "src/output/48x48/elephantdsp-roomreverb-clap.png"
+  ],
+  "elephantdsp-roomreverb-vst3": [
+    "src/output/128x128/elephantdsp-roomreverb-clap.png",
+    "src/output/64x64/elephantdsp-roomreverb-clap.png",
+    "src/output/48x48/elephantdsp-roomreverb-clap.png"
+  ],
+  "fastflowlm": [
+    "src/output/128x128/fastflowlm.png",
+    "src/output/64x64/fastflowlm.png",
+    "src/output/48x48/fastflowlm.png"
+  ],
+  "firecracker-docs": [
+    "src/output/128x128/firecracker-docs.png",
+    "src/output/64x64/firecracker-docs.png",
+    "src/output/48x48/firecracker-docs.png"
+  ],
+  "firefox-dark-reader": [
+    "src/output/128x128/firefox-dark-reader.png",
+    "src/output/64x64/firefox-dark-reader.png",
+    "src/output/48x48/firefox-dark-reader.png"
+  ],
+  "firefox-spell-ru": [
+    "src/output/128x128/firefox-spell-ru.png",
+    "src/output/64x64/firefox-spell-ru.png",
+    "src/output/48x48/firefox-spell-ru.png"
+  ],
+  "fltk-docs": [
+    "src/output/128x128/fltk-docs.png",
+    "src/output/64x64/fltk-docs.png",
+    "src/output/48x48/fltk-docs.png"
+  ],
+  "garcon": [
+    "src/output/128x128/garcon.png",
+    "src/output/64x64/garcon.png",
+    "src/output/48x48/garcon.png"
+  ],
+  "gmt-doc": [
+    "src/output/128x128/gmt-doc.png",
+    "src/output/64x64/gmt-doc.png",
+    "src/output/48x48/gmt-doc.png"
+  ],
+  "gtk2": [
+    "src/output/128x128/gtk2.png",
+    "src/output/64x64/gtk2.png",
+    "src/output/48x48/gtk2.png"
+  ],
+  "gtk3": [
+    "src/output/128x128/gtk2.png",
+    "src/output/64x64/gtk2.png",
+    "src/output/48x48/gtk2.png"
+  ],
+  "gtk3-demos": [
+    "src/output/128x128/gtk2.png",
+    "src/output/64x64/gtk2.png",
+    "src/output/48x48/gtk2.png"
+  ],
+  "gtk3-docs": [
+    "src/output/128x128/gtk2.png",
+    "src/output/64x64/gtk2.png",
+    "src/output/48x48/gtk2.png"
+  ],
+  "gtk4": [
+    "src/output/128x128/gtk2.png",
+    "src/output/64x64/gtk2.png",
+    "src/output/48x48/gtk2.png"
+  ],
+  "gtk4-docs": [
+    "src/output/128x128/gtk2.png",
+    "src/output/64x64/gtk2.png",
+    "src/output/48x48/gtk2.png"
+  ],
+  "jami-daemon": [
+    "src/output/128x128/jami-daemon.png",
+    "src/output/64x64/jami-daemon.png",
+    "src/output/48x48/jami-daemon.png"
+  ],
+  "lapce-git": [
+    "src/output/128x128/lapce-git.png",
+    "src/output/64x64/lapce-git.png",
+    "src/output/48x48/lapce-git.png"
+  ],
+  "lib32-gtk3": [
+    "src/output/128x128/gtk2.png",
+    "src/output/64x64/gtk2.png",
+    "src/output/48x48/gtk2.png"
+  ],
+  "lib32-pango": [
+    "src/output/128x128/gtk2.png",
+    "src/output/64x64/gtk2.png",
+    "src/output/48x48/gtk2.png"
+  ],
+  "libkeyfinder": [
+    "src/output/128x128/libkeyfinder.png",
+    "src/output/64x64/libkeyfinder.png",
+    "src/output/48x48/libkeyfinder.png"
+  ],
+  "libzip": [
+    "src/output/128x128/libzip.png",
+    "src/output/64x64/libzip.png",
+    "src/output/48x48/libzip.png"
+  ],
+  "liquid-dsp": [
+    "src/output/128x128/liquid-dsp.png",
+    "src/output/64x64/liquid-dsp.png",
+    "src/output/48x48/liquid-dsp.png"
+  ],
+  "liquid-dsp-sse4.1": [
+    "src/output/128x128/liquid-dsp.png",
+    "src/output/64x64/liquid-dsp.png",
+    "src/output/48x48/liquid-dsp.png"
+  ],
+  "lsp-plugins": [
+    "src/output/128x128/lsp-plugins.png",
+    "src/output/64x64/lsp-plugins.png",
+    "src/output/48x48/lsp-plugins.png"
+  ],
+  "mongodb-compass": [
+    "src/output/128x128/mongodb-compass.png",
+    "src/output/64x64/mongodb-compass.png",
+    "src/output/48x48/mongodb-compass.png"
+  ],
+  "ndiff": [
+    "src/output/128x128/ndiff.png",
+    "src/output/64x64/ndiff.png",
+    "src/output/48x48/ndiff.png"
+  ],
+  "nickel-docs": [
+    "src/output/128x128/nickel-docs.png",
+    "src/output/64x64/nickel-docs.png",
+    "src/output/48x48/nickel-docs.png"
+  ],
+  "nickel-language-server": [
+    "src/output/128x128/nickel-docs.png",
+    "src/output/64x64/nickel-docs.png",
+    "src/output/48x48/nickel-docs.png"
+  ],
+  "opentimelineio": [
+    "src/output/128x128/opentimelineio.png",
+    "src/output/64x64/opentimelineio.png",
+    "src/output/48x48/opentimelineio.png"
+  ],
+  "otf-font-awesome": [
+    "src/output/128x128/otf-font-awesome.png",
+    "src/output/64x64/otf-font-awesome.png",
+    "src/output/48x48/otf-font-awesome.png"
+  ],
+  "phonon-qt6": [
+    "src/output/128x128/phonon-qt6.png",
+    "src/output/64x64/phonon-qt6.png",
+    "src/output/48x48/phonon-qt6.png"
+  ],
+  "phonon-qt6-vlc": [
+    "src/output/128x128/phonon-qt6.png",
+    "src/output/64x64/phonon-qt6.png",
+    "src/output/48x48/phonon-qt6.png"
+  ],
+  "phosh": [
+    "src/output/128x128/phosh.png",
+    "src/output/64x64/phosh.png",
+    "src/output/48x48/phosh.png"
+  ],
+  "poppler": [
+    "src/output/128x128/poppler.png",
+    "src/output/64x64/poppler.png",
+    "src/output/48x48/poppler.png"
+  ],
+  "poppler-data": [
+    "src/output/128x128/poppler.png",
+    "src/output/64x64/poppler.png",
+    "src/output/48x48/poppler.png"
+  ],
+  "poppler-glib": [
+    "src/output/128x128/poppler.png",
+    "src/output/64x64/poppler.png",
+    "src/output/48x48/poppler.png"
+  ],
+  "poppler-qt5": [
+    "src/output/128x128/poppler.png",
+    "src/output/64x64/poppler.png",
+    "src/output/48x48/poppler.png"
+  ],
+  "poppler-qt6": [
+    "src/output/128x128/poppler.png",
+    "src/output/64x64/poppler.png",
+    "src/output/48x48/poppler.png"
+  ],
+  "scons": [
+    "src/output/128x128/scons.png",
+    "src/output/64x64/scons.png",
+    "src/output/48x48/scons.png"
+  ],
+  "serd": [
+    "src/output/128x128/serd.png",
+    "src/output/64x64/serd.png",
+    "src/output/48x48/serd.png"
+  ],
+  "telepathy-gabble": [
+    "src/output/128x128/telepathy-gabble.png",
+    "src/output/64x64/telepathy-gabble.png",
+    "src/output/48x48/telepathy-gabble.png"
+  ],
+  "telepathy-glib": [
+    "src/output/128x128/telepathy-gabble.png",
+    "src/output/64x64/telepathy-gabble.png",
+    "src/output/48x48/telepathy-gabble.png"
+  ],
+  "telepathy-idle": [
+    "src/output/128x128/telepathy-gabble.png",
+    "src/output/64x64/telepathy-gabble.png",
+    "src/output/48x48/telepathy-gabble.png"
+  ],
+  "telepathy-mission-control": [
+    "src/output/128x128/telepathy-gabble.png",
+    "src/output/64x64/telepathy-gabble.png",
+    "src/output/48x48/telepathy-gabble.png"
+  ],
+  "telepathy-salut": [
+    "src/output/128x128/telepathy-gabble.png",
+    "src/output/64x64/telepathy-gabble.png",
+    "src/output/48x48/telepathy-gabble.png"
+  ],
+  "tensorflow-cuda": [
+    "src/output/128x128/tensorflow-cuda.png",
+    "src/output/64x64/tensorflow-cuda.png",
+    "src/output/48x48/tensorflow-cuda.png"
+  ],
+  "tensorflow-opt": [
+    "src/output/128x128/tensorflow-cuda.png",
+    "src/output/64x64/tensorflow-cuda.png",
+    "src/output/48x48/tensorflow-cuda.png"
+  ],
+  "tensorflow-opt-cuda": [
+    "src/output/128x128/tensorflow-cuda.png",
+    "src/output/64x64/tensorflow-cuda.png",
+    "src/output/48x48/tensorflow-cuda.png"
+  ],
+  "translate-shell": [
+    "src/output/128x128/translate-shell.png",
+    "src/output/64x64/translate-shell.png",
+    "src/output/48x48/translate-shell.png"
+  ],
+  "transmission-cli": [
+    "src/output/128x128/transmission-cli.png",
+    "src/output/64x64/transmission-cli.png",
+    "src/output/48x48/transmission-cli.png"
+  ],
+  "ttf-droid": [
+    "src/output/128x128/ttf-droid.png",
+    "src/output/64x64/ttf-droid.png",
+    "src/output/48x48/ttf-droid.png"
+  ],
+  "umoci": [
+    "src/output/128x128/umoci.png",
+    "src/output/64x64/umoci.png",
+    "src/output/48x48/umoci.png"
+  ],
+  "xfce4-settings": [
+    "src/output/128x128/xfce4-settings.png",
+    "src/output/64x64/xfce4-settings.png",
+    "src/output/48x48/xfce4-settings.png"
+  ],
+  "zfp": [
+    "src/output/128x128/zfp.png",
+    "src/output/64x64/zfp.png",
+    "src/output/48x48/zfp.png"
+  ],
+  "pyside6": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "pyside6-tools": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qbs": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-canvaspainter": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-openapi": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-tasktree": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qtcreator-devel": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "shiboken6": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "b43-fwcutter": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "iproute2": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "iw": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "keyutils": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "usbutils": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "xfsprogs": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "efitools": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "ell": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "erofs-utils": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "erofsfuse": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "ethtool": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "f2fs-tools": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "fsverity-utils": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "iwd": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kexec-tools": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "libgpiod": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "libiec61883": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "libraw1394": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "libtraceevent": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "libtraceevent-docs": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "libtracefs": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "libtracefs-docs": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "lm_sensors": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "ostra-cg": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "pacrunner": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "pahole": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "rt-tests": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "sbc": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "sbsigntools": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "tftp-hpa": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "trace-cmd": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kmod": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "man-pages": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "man-pages-utils": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "mdadm": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "wireless-regdb": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "amd-debug-tools": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "b4": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "bootconfig": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "bpf": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "connman": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "cpupower": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kcpuid": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "patatt": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "tmon": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "tuna": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "turbostat": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "ubuntu-keyring": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "lib32-libiec61883": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "lib32-libraw1394": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kdeframework": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "attica5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "budgie": [
+    "src/48x48/budgie.png",
+    "src/64x64/budgie.png",
+    "src/128x128/budgie.png"
+  ],
+  "baloo": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "bluez-qt": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "bluez-qt5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "breeze-icons": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "frameworkintegration": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "frameworkintegration5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kactivities5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "karchive": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "karchive5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kauth": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kauth5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kbookmarks": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kbookmarks5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kcalendarcore": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kcmutils": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kcmutils5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kcodecs": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kcodecs5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kcolorscheme": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kcompletion": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kcompletion5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kconfig": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kconfig5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kconfigwidgets": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kconfigwidgets5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kcontacts": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kcoreaddons": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kcoreaddons5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kcrash": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kcrash5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kdav": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kdbusaddons": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kdbusaddons5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kdeclarative": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kdeclarative5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kded": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kded5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kdesu": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kdnssd": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kdoctools": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kfilemetadata": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kglobalaccel": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kglobalaccel5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kguiaddons": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kguiaddons5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kholidays": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "ki18n": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "ki18n5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kiconthemes": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kiconthemes5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kidletime": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kidletime5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kimageformats": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kimageformats5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kio": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kio5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kirigami": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kirigami2": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kitemmodels": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kitemviews": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kitemviews5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kjobwidgets": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kjobwidgets5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "knewstuff": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "knewstuff5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "knotifications": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "knotifications5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "knotifyconfig": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "knotifyconfig5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kpackage": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kpackage5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kparts": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kparts5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kpeople": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kplotting": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kpty": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kpty5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kquickcharts": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "krunner": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kservice": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kservice5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kstatusnotifieritem": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "ksvg": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "ktexteditor": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "ktexteditor5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "ktexttemplate": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "ktextwidgets": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "ktextwidgets5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kunitconversion": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kuserfeedback": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kwallet": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kwallet5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kwidgetsaddons": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kwidgetsaddons5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kwindowsystem": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kwindowsystem5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kxmlgui": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kxmlgui5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "modemmanager-qt": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "prison": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "pulseaudio-qt": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "purpose": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "qqc2-desktop-style": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "solid": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "solid5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "sonnet": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "sonnet5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "syndication": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "syndication5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "syntax-highlighting": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "syntax-highlighting5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "threadweaver": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "threadweaver5": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "extra-cmake-modules": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "kapidox": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "oxygen-icons": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "oxygen-icons-svg": [
+    "src/48x48/linux.png",
+    "src/64x64/linux.png",
+    "src/128x128/linux.png"
+  ],
+  "budgie-desktop": [
+    "src/48x48/budgie.png",
+    "src/64x64/budgie.png",
+    "src/128x128/budgie.png"
+  ],
+  "budgie-desktop-view": [
+    "src/48x48/budgie.png",
+    "src/64x64/budgie.png",
+    "src/128x128/budgie.png"
+  ],
+  "budgie-session": [
+    "src/48x48/budgie.png",
+    "src/64x64/budgie.png",
+    "src/128x128/budgie.png"
+  ],
+  "budgie-backgrounds": [
+    "src/48x48/budgie.png",
+    "src/64x64/budgie.png",
+    "src/128x128/budgie.png"
   ]
 }
