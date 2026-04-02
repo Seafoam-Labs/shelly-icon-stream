@@ -74,6 +74,11 @@
     "src/64x64/accessibility-inspector.png",
     "src/128x128/accessibility-inspector.png"
   ],
+  "acorn": [
+    "src/48x48/acorn.png",
+    "src/64x64/acorn.png",
+    "src/128x128/acorn.png"
+  ],
   "act_runner": [
     "src/128x128/act_runner.png",
     "src/64x64/act_runner.png",
@@ -82,6 +87,11 @@
   "activity-log-manager": [
     "src/48x48/activity-log-manager.png",
     "src/64x64/activity-log-manager.png"
+  ],
+  "adguardhome": [
+    "src/48x48/adguardhome.png",
+    "src/64x64/adguardhome.png",
+    "src/128x128/adguardhome.png"
   ],
   "adljack": [
     "src/64x64/adljack.png"
@@ -93,6 +103,11 @@
   "adriconf": [
     "src/64x64/adriconf.png",
     "src/128x128/adriconf.png"
+  ],
+  "adsb_deku": [
+    "src/48x48/adsb_deku.png",
+    "src/64x64/adsb_deku.png",
+    "src/128x128/adsb_deku.png"
   ],
   "adwaita": [
     "src/48x48/adwaita.png",
@@ -167,6 +182,16 @@
     "src/128x128/agda.png",
     "src/64x64/agda.png",
     "src/48x48/agda.png"
+  ],
+  "agda-stdlib": [
+    "src/48x48/agda-stdlib.png",
+    "src/64x64/agda-stdlib.png",
+    "src/128x128/agda-stdlib.png"
+  ],
+  "age": [
+    "src/48x48/age.png",
+    "src/64x64/age.png",
+    "src/128x128/age.png"
   ],
   "agenda": [
     "src/64x64/agenda.png",
@@ -392,6 +417,16 @@
     "src/64x64/amdsmi.png",
     "src/48x48/amdsmi.png"
   ],
+  "amfora": [
+    "src/48x48/amfora.png",
+    "src/64x64/amfora.png",
+    "src/128x128/amfora.png"
+  ],
+  "ammonite": [
+    "src/48x48/ammonite.png",
+    "src/64x64/ammonite.png",
+    "src/128x128/ammonite.png"
+  ],
   "amsynth": [
     "src/128x128/amsynth.png",
     "src/64x64/amsynth.png",
@@ -471,6 +506,21 @@
     "src/64x64/ant-doc.png",
     "src/48x48/ant-doc.png"
   ],
+  "ant-dracula-kde-theme-git": [
+    "src/48x48/ant-dracula-kde-theme-git.png",
+    "src/64x64/ant-dracula-kde-theme-git.png",
+    "src/128x128/ant-dracula-kde-theme-git.png"
+  ],
+  "ant-dracula-kvantum-theme-git": [
+    "src/48x48/ant-dracula-kde-theme-git.png",
+    "src/64x64/ant-dracula-kde-theme-git.png",
+    "src/128x128/ant-dracula-kde-theme-git.png"
+  ],
+  "ant-dracula-theme-git": [
+    "src/48x48/ant-dracula-kde-theme-git.png",
+    "src/64x64/ant-dracula-kde-theme-git.png",
+    "src/128x128/ant-dracula-kde-theme-git.png"
+  ],
   "antimicrox": [
     "src/48x48/antimicrox.png",
     "src/64x64/antimicrox.png",
@@ -521,10 +571,25 @@
     "src/64x64/apparmor.png",
     "src/128x128/apparmor.png"
   ],
+  "apparmor.d": [
+    "src/48x48/apparmor.d.png",
+    "src/64x64/apparmor.d.png",
+    "src/128x128/apparmor.d.png"
+  ],
+  "apprise": [
+    "src/48x48/apprise.png",
+    "src/64x64/apprise.png",
+    "src/128x128/apprise.png"
+  ],
   "appstream": [
     "src/128x128/appstream.png",
     "src/64x64/appstream.png",
     "src/48x48/appstream.png"
+  ],
+  "appstream-generator": [
+    "src/48x48/appstream-generator.png",
+    "src/64x64/appstream-generator.png",
+    "src/128x128/appstream-generator.png"
   ],
   "appstream-qt": [
     "src/128x128/appstream-qt.png",
@@ -591,6 +656,11 @@
     "src/64x64/arch-wiki-lite.png",
     "src/48x48/arch-wiki-lite.png"
   ],
+  "archinstall": [
+    "src/48x48/archinstall.png",
+    "src/64x64/archinstall.png",
+    "src/128x128/archinstall.png"
+  ],
   "archiso": [
     "src/48x48/alpm-pkgbuild-bridge.png",
     "src/64x64/alpm-pkgbuild-bridge.png",
@@ -631,10 +701,20 @@
     "src/64x64/ardour.png",
     "src/128x128/ardour.png"
   ],
+  "arduino-cli": [
+    "src/48x48/arduino-cli.png",
+    "src/64x64/arduino-cli.png",
+    "src/128x128/arduino-cli.png"
+  ],
   "argbash": [
     "src/128x128/argbash.png",
     "src/64x64/argbash.png",
     "src/48x48/argbash.png"
+  ],
+  "argo-workflows": [
+    "src/48x48/argo-workflows.png",
+    "src/64x64/argo-workflows.png",
+    "src/128x128/argo-workflows.png"
   ],
   "argocd": [
     "src/128x128/argocd.png",
@@ -699,6 +779,11 @@
     "src/128x128/asciidoctor.png",
     "src/64x64/asciidoctor.png",
     "src/48x48/asciidoctor.png"
+  ],
+  "asciidoctor-pdf": [
+    "src/48x48/asciidoctor-pdf.png",
+    "src/64x64/asciidoctor-pdf.png",
+    "src/128x128/asciidoctor-pdf.png"
   ],
   "asciinema": [
     "src/128x128/asciinema.png",
@@ -873,6 +958,11 @@
     "src/64x64/augustus.png",
     "src/128x128/augustus.png"
   ],
+  "aura": [
+    "src/48x48/aura.png",
+    "src/64x64/aura.png",
+    "src/128x128/aura.png"
+  ],
   "ausweisapp": [
     "src/64x64/ausweisapp.png",
     "src/128x128/ausweisapp.png"
@@ -881,6 +971,11 @@
     "src/48x48/authenticator.png",
     "src/64x64/authenticator.png",
     "src/128x128/authenticator.png"
+  ],
+  "auto-cpufreq": [
+    "src/48x48/auto-cpufreq.png",
+    "src/64x64/auto-cpufreq.png",
+    "src/128x128/auto-cpufreq.png"
   ],
   "auto-multiple-choice": [
     "src/48x48/auto-multiple-choice.png",
@@ -920,6 +1015,11 @@
     "src/128x128/arm-none-eabi-gcc.png",
     "src/64x64/arm-none-eabi-gcc.png",
     "src/48x48/arm-none-eabi-gcc.png"
+  ],
+  "avr-libc": [
+    "src/48x48/avr-libc.png",
+    "src/64x64/avr-libc.png",
+    "src/128x128/avr-libc.png"
   ],
   "awesome": [
     "src/128x128/awesome.png",
@@ -1036,6 +1136,21 @@
     "src/64x64/aws.png",
     "src/128x128/aws.png"
   ],
+  "awxkit": [
+    "src/48x48/awxkit.png",
+    "src/64x64/awxkit.png",
+    "src/128x128/awxkit.png"
+  ],
+  "ayugram-desktop": [
+    "src/48x48/ayugram-desktop.png",
+    "src/64x64/ayugram-desktop.png",
+    "src/128x128/ayugram-desktop.png"
+  ],
+  "azote": [
+    "src/48x48/azote.png",
+    "src/64x64/azote.png",
+    "src/128x128/azote.png"
+  ],
   "b4": [
     "src/48x48/linux.png",
     "src/64x64/linux.png",
@@ -1083,6 +1198,16 @@
   ],
   "balsa": [
     "src/64x64/balsa.png"
+  ],
+  "bam": [
+    "src/48x48/bam.png",
+    "src/64x64/bam.png",
+    "src/128x128/bam.png"
+  ],
+  "bandit": [
+    "src/48x48/bandit.png",
+    "src/64x64/bandit.png",
+    "src/128x128/bandit.png"
   ],
   "baobab": [
     "src/48x48/baobab.png",
@@ -1167,6 +1292,11 @@
     "src/64x64/beebeep.png",
     "src/128x128/beebeep.png"
   ],
+  "benchmark": [
+    "src/48x48/benchmark.png",
+    "src/64x64/benchmark.png",
+    "src/128x128/benchmark.png"
+  ],
   "benzene": [
     "src/128x128/benzene.png",
     "src/64x64/benzene.png",
@@ -1185,6 +1315,11 @@
     "src/128x128/betterbird-de-bin.png",
     "src/64x64/betterbird-de-bin.png",
     "src/48x48/betterbird-de-bin.png"
+  ],
+  "bettercap": [
+    "src/48x48/bettercap.png",
+    "src/64x64/bettercap.png",
+    "src/128x128/bettercap.png"
   ],
   "bfs": [
     "src/128x128/bfs.png",
@@ -1220,10 +1355,25 @@
     "src/64x64/binary.png",
     "src/128x128/binary.png"
   ],
+  "binaryen": [
+    "src/48x48/binaryen.png",
+    "src/64x64/binaryen.png",
+    "src/128x128/binaryen.png"
+  ],
   "bind": [
     "src/128x128/bind.png",
     "src/64x64/bind.png",
     "src/48x48/bind.png"
+  ],
+  "binocle": [
+    "src/48x48/binocle.png",
+    "src/64x64/binocle.png",
+    "src/128x128/binocle.png"
+  ],
+  "binsider": [
+    "src/48x48/binsider.png",
+    "src/64x64/binsider.png",
+    "src/128x128/binsider.png"
   ],
   "biome": [
     "src/128x128/biome.png",
@@ -1264,10 +1414,20 @@
     "src/64x64/bitwarden.png",
     "src/128x128/bitwarden.png"
   ],
+  "bitwarden-cli": [
+    "src/48x48/bitwarden-cli.png",
+    "src/64x64/bitwarden-cli.png",
+    "src/128x128/bitwarden-cli.png"
+  ],
   "black-hole-solver": [
     "src/128x128/black-hole-solver.png",
     "src/64x64/black-hole-solver.png",
     "src/48x48/black-hole-solver.png"
+  ],
+  "bladerf": [
+    "src/48x48/bladerf.png",
+    "src/64x64/bladerf.png",
+    "src/128x128/bladerf.png"
   ],
   "blanket": [
     "src/48x48/blanket.png",
@@ -1422,10 +1582,20 @@
     "src/64x64/linux.png",
     "src/128x128/linux.png"
   ],
+  "bpftop": [
+    "src/48x48/bpftop.png",
+    "src/64x64/bpftop.png",
+    "src/128x128/bpftop.png"
+  ],
   "bpython": [
     "src/48x48/bpython.png",
     "src/64x64/bpython.png",
     "src/128x128/bpython.png"
+  ],
+  "bpytop": [
+    "src/48x48/bpytop.png",
+    "src/64x64/bpytop.png",
+    "src/128x128/bpytop.png"
   ],
   "brasero": [
     "src/48x48/brasero.png",
@@ -1460,19 +1630,49 @@
     "src/64x64/browserify.png",
     "src/48x48/browserify.png"
   ],
+  "browserpass-chromium": [
+    "src/48x48/browserpass-firefox.png",
+    "src/64x64/browserpass-firefox.png",
+    "src/128x128/browserpass-firefox.png"
+  ],
+  "browserpass-firefox": [
+    "src/48x48/browserpass-firefox.png",
+    "src/64x64/browserpass-firefox.png",
+    "src/128x128/browserpass-firefox.png"
+  ],
   "bruno": [
     "src/64x64/bruno.png",
     "src/128x128/bruno.png"
+  ],
+  "bspwm": [
+    "src/48x48/bspwm-git.png",
+    "src/64x64/bspwm-git.png",
+    "src/128x128/bspwm-git.png"
+  ],
+  "bspwm-git": [
+    "src/48x48/bspwm-git.png",
+    "src/64x64/bspwm-git.png",
+    "src/128x128/bspwm-git.png"
   ],
   "bt747": [
     "src/48x48/bt747.png",
     "src/64x64/bt747.png",
     "src/128x128/bt747.png"
   ],
+  "btop": [
+    "src/48x48/btop.png",
+    "src/64x64/btop.png",
+    "src/128x128/btop.png"
+  ],
   "btrfs-assistant": [
     "src/48x48/btrfs-assistant.png",
     "src/64x64/btrfs-assistant.png",
     "src/128x128/btrfs-assistant.png"
+  ],
+  "bucklespring": [
+    "src/48x48/bucklespring.png",
+    "src/64x64/bucklespring.png",
+    "src/128x128/bucklespring.png"
   ],
   "budgie": [
     "src/48x48/budgie.png",
@@ -1519,6 +1719,11 @@
     "src/64x64/buf.png",
     "src/48x48/buf.png"
   ],
+  "bugstalker": [
+    "src/48x48/bugstalker.png",
+    "src/64x64/bugstalker.png",
+    "src/128x128/bugstalker.png"
+  ],
   "bugzilla": [
     "src/128x128/bugzilla.png",
     "src/64x64/bugzilla.png",
@@ -1529,10 +1734,20 @@
     "src/64x64/buho.png",
     "src/128x128/buho.png"
   ],
+  "buildah": [
+    "src/48x48/buildah.png",
+    "src/64x64/buildah.png",
+    "src/128x128/buildah.png"
+  ],
   "buildbtw-poc": [
     "src/48x48/alpm-pkgbuild-bridge.png",
     "src/64x64/alpm-pkgbuild-bridge.png",
     "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "buildkit": [
+    "src/48x48/buildkit.png",
+    "src/64x64/buildkit.png",
+    "src/128x128/buildkit.png"
   ],
   "bullet": [
     "src/128x128/bullet.png",
@@ -1548,6 +1763,11 @@
     "src/128x128/bullet-docs.png",
     "src/64x64/bullet-docs.png",
     "src/48x48/bullet-docs.png"
+  ],
+  "bun": [
+    "src/48x48/bun.png",
+    "src/64x64/bun.png",
+    "src/128x128/bun.png"
   ],
   "bustle": [
     "src/48x48/bustle.png",
@@ -2062,6 +2282,11 @@
     "src/64x64/caja-actions.png",
     "src/48x48/caja-actions.png"
   ],
+  "calcmysky": [
+    "src/48x48/calcmysky.png",
+    "src/64x64/calcmysky.png",
+    "src/128x128/calcmysky.png"
+  ],
   "calcurse": [
     "src/128x128/calcurse.png",
     "src/64x64/calcurse.png",
@@ -2134,10 +2359,40 @@
     "src/64x64/carburetor.png",
     "src/128x128/carburetor.png"
   ],
+  "cardinal": [
+    "src/48x48/cardinal-clap.png",
+    "src/64x64/cardinal-clap.png",
+    "src/128x128/cardinal-clap.png"
+  ],
+  "cardinal-clap": [
+    "src/48x48/cardinal-clap.png",
+    "src/64x64/cardinal-clap.png",
+    "src/128x128/cardinal-clap.png"
+  ],
+  "cardinal-data": [
+    "src/48x48/cardinal-clap.png",
+    "src/64x64/cardinal-clap.png",
+    "src/128x128/cardinal-clap.png"
+  ],
+  "cardinal-lv2": [
+    "src/48x48/cardinal-clap.png",
+    "src/64x64/cardinal-clap.png",
+    "src/128x128/cardinal-clap.png"
+  ],
   "cardinal-standalone": [
     "src/48x48/cardinal-standalone.png",
     "src/64x64/cardinal-standalone.png",
     "src/128x128/cardinal-standalone.png"
+  ],
+  "cardinal-vst": [
+    "src/48x48/cardinal-clap.png",
+    "src/64x64/cardinal-clap.png",
+    "src/128x128/cardinal-clap.png"
+  ],
+  "cardinal-vst3": [
+    "src/48x48/cardinal-clap.png",
+    "src/64x64/cardinal-clap.png",
+    "src/128x128/cardinal-clap.png"
   ],
   "cargo": [
     "src/48x48/cargo.png",
@@ -2478,6 +2733,11 @@
     "src/64x64/cataclysm-dda-tiles.png",
     "src/128x128/cataclysm-dda-tiles.png"
   ],
+  "catch2-v2": [
+    "src/48x48/catch2-v2.png",
+    "src/64x64/catch2-v2.png",
+    "src/128x128/catch2-v2.png"
+  ],
   "catfish": [
     "src/48x48/catfish.png",
     "src/64x64/catfish.png",
@@ -2487,6 +2747,11 @@
     "src/48x48/catppuccin.png",
     "src/64x64/catppuccin.png",
     "src/128x128/catppuccin.png"
+  ],
+  "cccl": [
+    "src/48x48/cccl.png",
+    "src/64x64/cccl.png",
+    "src/128x128/cccl.png"
   ],
   "ccfits": [
     "src/128x128/ccfits.png",
@@ -2502,6 +2767,11 @@
     "src/128x128/cdparanoia.png",
     "src/64x64/cdparanoia.png",
     "src/48x48/cdparanoia.png"
+  ],
+  "cef-minimal-obs-bin": [
+    "src/48x48/cef-minimal-obs-bin.png",
+    "src/64x64/cef-minimal-obs-bin.png",
+    "src/128x128/cef-minimal-obs-bin.png"
   ],
   "celluloid": [
     "src/48x48/celluloid.png",
@@ -2618,6 +2888,11 @@
     "src/64x64/chafa.png",
     "src/48x48/chafa.png"
   ],
+  "charls": [
+    "src/48x48/charls.png",
+    "src/64x64/charls.png",
+    "src/128x128/charls.png"
+  ],
   "chatty": [
     "src/48x48/chatty.png",
     "src/64x64/chatty.png",
@@ -2637,6 +2912,11 @@
     "src/48x48/chess-clock.png",
     "src/64x64/chess-clock.png",
     "src/128x128/chess-clock.png"
+  ],
+  "chess-tui": [
+    "src/48x48/chess-tui.png",
+    "src/64x64/chess-tui.png",
+    "src/128x128/chess-tui.png"
   ],
   "chewing-editor": [
     "src/48x48/chewing-editor.png",
@@ -2678,6 +2958,11 @@
     "src/48x48/ciano.png",
     "src/64x64/ciano.png",
     "src/128x128/ciano.png"
+  ],
+  "cinnamon": [
+    "src/48x48/cinnamon.png",
+    "src/64x64/cinnamon.png",
+    "src/128x128/cinnamon.png"
   ],
   "cinnamon-control-center": [
     "src/48x48/cinnamon.png",
@@ -2767,6 +3052,11 @@
     "src/64x64/lib32-llvm.png",
     "src/128x128/llvm.png"
   ],
+  "clanlib": [
+    "src/48x48/clanlib.png",
+    "src/64x64/clanlib.png",
+    "src/128x128/clanlib.png"
+  ],
   "clap": [
     "src/48x48/clap.png",
     "src/64x64/clap.png",
@@ -2801,10 +3091,20 @@
     "src/64x64/clazy.png",
     "src/128x128/clazy.png"
   ],
+  "clementine": [
+    "src/48x48/clementine.png",
+    "src/64x64/clementine.png",
+    "src/128x128/clementine.png"
+  ],
   "clisp": [
     "src/128x128/clisp.png",
     "src/64x64/clisp.png",
     "src/48x48/clisp.png"
+  ],
+  "cloc": [
+    "src/48x48/cloc.png",
+    "src/64x64/cloc.png",
+    "src/128x128/cloc.png"
   ],
   "clojure": [
     "src/128x128/clojure.png",
@@ -2875,6 +3175,11 @@
     "src/64x64/cockpit-packagekit.png",
     "src/48x48/cockpit-packagekit.png"
   ],
+  "cocogitto": [
+    "src/48x48/cocogitto.png",
+    "src/64x64/cocogitto.png",
+    "src/128x128/cocogitto.png"
+  ],
   "code": [
     "src/48x48/code.png",
     "src/64x64/code.png",
@@ -2883,6 +3188,11 @@
   "codeblocks": [
     "src/48x48/codeblocks.png",
     "src/64x64/codeblocks.png"
+  ],
+  "codesnap": [
+    "src/48x48/codesnap.png",
+    "src/64x64/codesnap.png",
+    "src/128x128/codesnap.png"
   ],
   "coeurl": [
     "src/128x128/coeurl.png",
@@ -2893,6 +3203,11 @@
     "src/128x128/coffeescript.png",
     "src/64x64/coffeescript.png",
     "src/48x48/coffeescript.png"
+  ],
+  "coin": [
+    "src/48x48/coin.png",
+    "src/64x64/coin.png",
+    "src/128x128/coin.png"
   ],
   "coin-or-asl": [
     "src/48x48/coin-or.png",
@@ -3035,6 +3350,11 @@
     "src/64x64/contour.png",
     "src/128x128/contour.png"
   ],
+  "contour-git": [
+    "src/48x48/contour-git.png",
+    "src/64x64/contour-git.png",
+    "src/128x128/contour-git.png"
+  ],
   "contrast": [
     "src/48x48/contrast.png",
     "src/64x64/contrast.png",
@@ -3059,6 +3379,16 @@
     "src/48x48/coolreader.png",
     "src/64x64/coolreader.png"
   ],
+  "copr-cli": [
+    "src/48x48/copr-cli.png",
+    "src/64x64/copr-cli.png",
+    "src/128x128/copr-cli.png"
+  ],
+  "copyparty": [
+    "src/48x48/copyparty.png",
+    "src/64x64/copyparty.png",
+    "src/128x128/copyparty.png"
+  ],
   "copyq": [
     "src/48x48/copyq.png",
     "src/64x64/copyq.png",
@@ -3081,6 +3411,11 @@
   "corekeyboard": [
     "src/64x64/corekeyboard.png",
     "src/128x128/corekeyboard.png"
+  ],
+  "corepack": [
+    "src/48x48/corepack.png",
+    "src/64x64/corepack.png",
+    "src/128x128/corepack.png"
   ],
   "corepad": [
     "src/64x64/corepad.png",
@@ -3333,6 +3668,11 @@
     "src/64x64/coulr.png",
     "src/128x128/coulr.png"
   ],
+  "cowsql": [
+    "src/48x48/cowsql.png",
+    "src/64x64/cowsql.png",
+    "src/128x128/cowsql.png"
+  ],
   "cozy-desktop": [
     "src/48x48/cozy-desktop.png",
     "src/64x64/cozy-desktop.png",
@@ -3382,6 +3722,11 @@
     "src/48x48/crawl-tiles.png",
     "src/64x64/crawl-tiles.png",
     "src/128x128/crawl-tiles.png"
+  ],
+  "cri-o": [
+    "src/48x48/cri-o.png",
+    "src/64x64/cri-o.png",
+    "src/128x128/cri-o.png"
   ],
   "crow-translate": [
     "src/output/48x48/crow-translate.png",
@@ -3479,6 +3824,16 @@
     "src/64x64/cutefish-filemanager.png",
     "src/128x128/cutefish-filemanager.png"
   ],
+  "cutefish-settings": [
+    "src/48x48/cutefish-settings.png",
+    "src/64x64/cutefish-settings.png",
+    "src/128x128/cutefish-settings.png"
+  ],
+  "cutefish-statusbar": [
+    "src/48x48/cutefish-statusbar.png",
+    "src/64x64/cutefish-statusbar.png",
+    "src/128x128/cutefish-statusbar.png"
+  ],
   "cutensor": [
     "src/128x128/cutensor.png",
     "src/64x64/cutensor.png",
@@ -3497,6 +3852,16 @@
     "src/64x64/cvc4.png",
     "src/48x48/cvc4.png"
   ],
+  "czkawka-cli": [
+    "src/48x48/krokiet.png",
+    "src/64x64/krokiet.png",
+    "src/128x128/krokiet.png"
+  ],
+  "czkawka-gui": [
+    "src/48x48/krokiet.png",
+    "src/64x64/krokiet.png",
+    "src/128x128/krokiet.png"
+  ],
   "d-spy": [
     "src/48x48/d-spy.png",
     "src/64x64/d-spy.png",
@@ -3511,6 +3876,11 @@
     "src/128x128/dagger.png",
     "src/64x64/dagger.png",
     "src/48x48/dagger.png"
+  ],
+  "daktilo": [
+    "src/48x48/daktilo.png",
+    "src/64x64/daktilo.png",
+    "src/128x128/daktilo.png"
   ],
   "danmaq": [
     "src/48x48/danmaq.png",
@@ -3556,6 +3926,11 @@
     "src/48x48/datovka.png",
     "src/64x64/datovka.png",
     "src/128x128/datovka.png"
+  ],
+  "datree": [
+    "src/48x48/datree.png",
+    "src/64x64/datree.png",
+    "src/128x128/datree.png"
   ],
   "db": [
     "src/output/48x48/db.png",
@@ -3659,6 +4034,11 @@
     "src/64x64/deepin-control-center.png",
     "src/128x128/deepin-control-center.png"
   ],
+  "deepin-desktop-base": [
+    "src/48x48/deepin-desktop-base.png",
+    "src/64x64/deepin-desktop-base.png",
+    "src/128x128/deepin-desktop-base.png"
+  ],
   "deepin-draw": [
     "src/48x48/deepin-draw.png",
     "src/64x64/deepin-draw.png",
@@ -3669,20 +4049,55 @@
     "src/64x64/deepin-editor.png",
     "src/128x128/deepin-editor.png"
   ],
+  "deepin-file-manager": [
+    "src/48x48/deepin-file-manager.png",
+    "src/64x64/deepin-file-manager.png",
+    "src/128x128/deepin-file-manager.png"
+  ],
+  "deepin-font-manager": [
+    "src/48x48/deepin-font-manager.png",
+    "src/64x64/deepin-font-manager.png",
+    "src/128x128/deepin-font-manager.png"
+  ],
+  "deepin-icon-theme": [
+    "src/48x48/deepin-icon-theme.png",
+    "src/64x64/deepin-icon-theme.png",
+    "src/128x128/deepin-icon-theme.png"
+  ],
+  "deepin-image-editor": [
+    "src/48x48/deepin-image-editor.png",
+    "src/64x64/deepin-image-editor.png",
+    "src/128x128/deepin-image-editor.png"
+  ],
   "deepin-image-viewer": [
     "src/48x48/deepin-image-viewer.png",
     "src/64x64/deepin-image-viewer.png",
     "src/128x128/deepin-image-viewer.png"
+  ],
+  "deepin-kwin": [
+    "src/48x48/deepin-kwin.png",
+    "src/64x64/deepin-kwin.png",
+    "src/128x128/deepin-kwin.png"
   ],
   "deepin-movie": [
     "src/48x48/deepin-movie.png",
     "src/64x64/deepin-movie.png",
     "src/128x128/deepin-movie.png"
   ],
+  "deepin-picker": [
+    "src/48x48/deepin-picker.png",
+    "src/64x64/deepin-picker.png",
+    "src/128x128/deepin-picker.png"
+  ],
   "deepin-screen-recorder": [
     "src/48x48/deepin-screen-recorder.png",
     "src/64x64/deepin-screen-recorder.png",
     "src/128x128/deepin-screen-recorder.png"
+  ],
+  "deepin-session-shell": [
+    "src/48x48/deepin-session-shell.png",
+    "src/64x64/deepin-session-shell.png",
+    "src/128x128/deepin-session-shell.png"
   ],
   "deepin-terminal": [
     "src/48x48/deepin-terminal.png",
@@ -3699,6 +4114,11 @@
     "src/64x64/deepin-voice-note.png",
     "src/128x128/deepin-voice-note.png"
   ],
+  "deepin-wallpapers": [
+    "src/48x48/deepin-wallpapers.png",
+    "src/64x64/deepin-wallpapers.png",
+    "src/128x128/deepin-wallpapers.png"
+  ],
   "deja-dup": [
     "src/48x48/deja-dup.png",
     "src/64x64/deja-dup.png",
@@ -3713,6 +4133,11 @@
     "src/48x48/deltachat-desktop.png",
     "src/64x64/deltachat-desktop.png",
     "src/128x128/deltachat-desktop.png"
+  ],
+  "deltachat-rpc-server": [
+    "src/48x48/deltachat-rpc-server.png",
+    "src/64x64/deltachat-rpc-server.png",
+    "src/128x128/deltachat-rpc-server.png"
   ],
   "deluge": [
     "src/64x64/deluge.png",
@@ -3870,6 +4295,26 @@
   "distcc": [
     "src/64x64/distcc.png"
   ],
+  "distrho-ports": [
+    "src/48x48/distrho-ports-lv2.png",
+    "src/64x64/distrho-ports-lv2.png",
+    "src/128x128/distrho-ports-lv2.png"
+  ],
+  "distrho-ports-lv2": [
+    "src/48x48/distrho-ports-lv2.png",
+    "src/64x64/distrho-ports-lv2.png",
+    "src/128x128/distrho-ports-lv2.png"
+  ],
+  "distrho-ports-vst": [
+    "src/48x48/distrho-ports-lv2.png",
+    "src/64x64/distrho-ports-lv2.png",
+    "src/128x128/distrho-ports-lv2.png"
+  ],
+  "distrho-ports-vst3": [
+    "src/48x48/distrho-ports-lv2.png",
+    "src/64x64/distrho-ports-lv2.png",
+    "src/128x128/distrho-ports-lv2.png"
+  ],
   "distrobuilder": [
     "src/128x128/distrobuilder.png",
     "src/64x64/distrobuilder.png",
@@ -3879,10 +4324,20 @@
     "src/64x64/distroshelf.png",
     "src/128x128/distroshelf.png"
   ],
+  "ditaa": [
+    "src/48x48/ditaa.png",
+    "src/64x64/ditaa.png",
+    "src/128x128/ditaa.png"
+  ],
   "djview": [
     "src/48x48/djview.png",
     "src/64x64/djview.png",
     "src/128x128/djview.png"
+  ],
+  "dkms": [
+    "src/48x48/dkms.png",
+    "src/64x64/dkms.png",
+    "src/128x128/dkms.png"
   ],
   "dlib": [
     "src/128x128/dlib.png",
@@ -3903,6 +4358,16 @@
     "src/128x128/dmtcp.png",
     "src/64x64/dmtcp.png",
     "src/48x48/dmtcp.png"
+  ],
+  "dns-lexicon": [
+    "src/48x48/dns-lexicon.png",
+    "src/64x64/dns-lexicon.png",
+    "src/128x128/dns-lexicon.png"
+  ],
+  "dnscrypt-proxy": [
+    "src/48x48/dnscrypt-proxy.png",
+    "src/64x64/dnscrypt-proxy.png",
+    "src/128x128/dnscrypt-proxy.png"
   ],
   "dnscrypt-wrapper": [
     "src/128x128/dnscrypt-wrapper.png",
@@ -3958,6 +4423,16 @@
     "src/48x48/docker.png",
     "src/64x64/docker.png",
     "src/128x128/docker.png"
+  ],
+  "doctest": [
+    "src/48x48/doctest.png",
+    "src/64x64/doctest.png",
+    "src/128x128/doctest.png"
+  ],
+  "doggo": [
+    "src/48x48/doggo.png",
+    "src/64x64/doggo.png",
+    "src/128x128/doggo.png"
   ],
   "dolphin": [
     "src/48x48/dolphin.png",
@@ -4102,6 +4577,11 @@
     "src/64x64/dotnet.png",
     "src/128x128/dotnet.png"
   ],
+  "dotslash": [
+    "src/48x48/dotslash.png",
+    "src/64x64/dotslash.png",
+    "src/128x128/dotslash.png"
+  ],
   "doublecmd-qt5": [
     "src/48x48/doublecmd-qt5.png",
     "src/64x64/doublecmd-qt5.png",
@@ -4132,10 +4612,60 @@
     "src/64x64/dpdk.png",
     "src/48x48/dpdk.png"
   ],
+  "dpf-plugins": [
+    "src/48x48/dpf-plugins-clap.png",
+    "src/64x64/dpf-plugins-clap.png",
+    "src/128x128/dpf-plugins-clap.png"
+  ],
+  "dpf-plugins-clap": [
+    "src/48x48/dpf-plugins-clap.png",
+    "src/64x64/dpf-plugins-clap.png",
+    "src/128x128/dpf-plugins-clap.png"
+  ],
+  "dpf-plugins-dssi": [
+    "src/48x48/dpf-plugins-clap.png",
+    "src/64x64/dpf-plugins-clap.png",
+    "src/128x128/dpf-plugins-clap.png"
+  ],
+  "dpf-plugins-ladspa": [
+    "src/48x48/dpf-plugins-clap.png",
+    "src/64x64/dpf-plugins-clap.png",
+    "src/128x128/dpf-plugins-clap.png"
+  ],
+  "dpf-plugins-lv2": [
+    "src/48x48/dpf-plugins-clap.png",
+    "src/64x64/dpf-plugins-clap.png",
+    "src/128x128/dpf-plugins-clap.png"
+  ],
+  "dpf-plugins-standalone": [
+    "src/48x48/dpf-plugins-clap.png",
+    "src/64x64/dpf-plugins-clap.png",
+    "src/128x128/dpf-plugins-clap.png"
+  ],
+  "dpf-plugins-vst": [
+    "src/48x48/dpf-plugins-clap.png",
+    "src/64x64/dpf-plugins-clap.png",
+    "src/128x128/dpf-plugins-clap.png"
+  ],
+  "dpf-plugins-vst3": [
+    "src/48x48/dpf-plugins-clap.png",
+    "src/64x64/dpf-plugins-clap.png",
+    "src/128x128/dpf-plugins-clap.png"
+  ],
   "dpkg": [
     "src/128x128/debootstrap.png",
     "src/64x64/debootstrap.png",
     "src/48x48/debootstrap.png"
+  ],
+  "dracula-cursors-git": [
+    "src/48x48/ant-dracula-kde-theme-git.png",
+    "src/64x64/ant-dracula-kde-theme-git.png",
+    "src/128x128/ant-dracula-kde-theme-git.png"
+  ],
+  "dracula-grub-theme-git": [
+    "src/48x48/dracula-grub-theme-git.png",
+    "src/64x64/dracula-grub-theme-git.png",
+    "src/128x128/dracula-grub-theme-git.png"
   ],
   "dracula-xresources-git": [
     "src/128x128/dracula-xresources-git.png",
@@ -4191,6 +4721,11 @@
     "src/64x64/drawpile.png",
     "src/128x128/drawpile.png"
   ],
+  "drgn": [
+    "src/48x48/drgn.png",
+    "src/64x64/drgn.png",
+    "src/128x128/drgn.png"
+  ],
   "drone": [
     "src/128x128/drone.png",
     "src/64x64/drone.png",
@@ -4236,10 +4771,35 @@
     "src/64x64/dtc.png",
     "src/48x48/dtc.png"
   ],
+  "dtk6gui": [
+    "src/48x48/dtk6widget.png",
+    "src/64x64/dtk6widget.png",
+    "src/128x128/dtk6widget.png"
+  ],
+  "dtk6widget": [
+    "src/48x48/dtk6widget.png",
+    "src/64x64/dtk6widget.png",
+    "src/128x128/dtk6widget.png"
+  ],
+  "dtkgui": [
+    "src/48x48/dtk6widget.png",
+    "src/64x64/dtk6widget.png",
+    "src/128x128/dtk6widget.png"
+  ],
+  "dtkwidget": [
+    "src/48x48/dtk6widget.png",
+    "src/64x64/dtk6widget.png",
+    "src/128x128/dtk6widget.png"
+  ],
   "duckdb": [
     "src/128x128/duckdb.png",
     "src/64x64/duckdb.png",
     "src/48x48/duckdb.png"
+  ],
+  "ducker": [
+    "src/48x48/ducker.png",
+    "src/64x64/ducker.png",
+    "src/128x128/ducker.png"
   ],
   "duktape": [
     "src/128x128/duktape.png",
@@ -4264,6 +4824,16 @@
     "src/48x48/dwarffortress.png",
     "src/64x64/dwarffortress.png",
     "src/128x128/dwarffortress.png"
+  ],
+  "dysk": [
+    "src/48x48/dysk.png",
+    "src/64x64/dysk.png",
+    "src/128x128/dysk.png"
+  ],
+  "e-antic": [
+    "src/48x48/e-antic.png",
+    "src/64x64/e-antic.png",
+    "src/128x128/e-antic.png"
   ],
   "e16": [
     "src/128x128/e16.png",
@@ -4295,6 +4865,11 @@
     "src/64x64/aliki.png",
     "src/48x48/aliki.png"
   ],
+  "ecb": [
+    "src/48x48/ecb.png",
+    "src/64x64/ecb.png",
+    "src/128x128/ecb.png"
+  ],
   "ecl": [
     "src/128x128/ecl.png",
     "src/64x64/ecl.png",
@@ -4309,6 +4884,16 @@
     "src/48x48/ecrire.png",
     "src/64x64/ecrire.png",
     "src/128x128/ecrire.png"
+  ],
+  "editorconfig-checker": [
+    "src/48x48/editorconfig-checker.png",
+    "src/64x64/editorconfig-checker.png",
+    "src/128x128/editorconfig-checker.png"
+  ],
+  "editorconfig-core-c": [
+    "src/48x48/editorconfig-core-c.png",
+    "src/64x64/editorconfig-core-c.png",
+    "src/128x128/editorconfig-core-c.png"
   ],
   "efifs": [
     "src/128x128/efifs.png",
@@ -4374,6 +4959,11 @@
     "src/128x128/ejabberd.png",
     "src/64x64/ejabberd.png",
     "src/48x48/ejabberd.png"
+  ],
+  "eksctl": [
+    "src/48x48/eksctl.png",
+    "src/64x64/eksctl.png",
+    "src/128x128/eksctl.png"
   ],
   "elastic": [
     "src/48x48/elastic.png",
@@ -4594,6 +5184,11 @@
     "src/48x48/endless-sky.png",
     "src/64x64/endless-sky.png",
     "src/128x128/endless-sky.png"
+  ],
+  "endless-sky-high-dpi": [
+    "src/48x48/endless-sky-high-dpi.png",
+    "src/64x64/endless-sky-high-dpi.png",
+    "src/128x128/endless-sky-high-dpi.png"
   ],
   "engrampa": [
     "src/48x48/engrampa.png",
@@ -4841,6 +5436,16 @@
     "src/64x64/eslint.png",
     "src/48x48/eslint.png"
   ],
+  "espeak-ng": [
+    "src/48x48/espeak-ng.png",
+    "src/64x64/espeak-ng.png",
+    "src/128x128/espeak-ng.png"
+  ],
+  "esphome": [
+    "src/48x48/esphome.png",
+    "src/64x64/esphome.png",
+    "src/128x128/esphome.png"
+  ],
   "etc-update": [
     "src/128x128/etc-update.png",
     "src/64x64/etc-update.png",
@@ -4853,6 +5458,11 @@
   ],
   "etherape": [
     "src/64x64/etherape.png"
+  ],
+  "ethersync": [
+    "src/48x48/ethersync.png",
+    "src/64x64/ethersync.png",
+    "src/128x128/ethersync.png"
   ],
   "ethtool": [
     "src/48x48/linux.png",
@@ -4974,6 +5584,11 @@
     "src/64x64/fastfetch.png",
     "src/48x48/fastfetch.png"
   ],
+  "fastfetch-git": [
+    "src/48x48/fastfetch-git.png",
+    "src/64x64/fastfetch-git.png",
+    "src/128x128/fastfetch-git.png"
+  ],
   "fastflowlm": [
     "src/48x48/fastflowlm.png",
     "src/64x64/fastflowlm.png",
@@ -4993,6 +5608,11 @@
   "fceux": [
     "src/64x64/fceux.png"
   ],
+  "fcgi": [
+    "src/48x48/fcgi.png",
+    "src/64x64/fcgi.png",
+    "src/128x128/fcgi.png"
+  ],
   "fcgiwrap": [
     "src/128x128/fcgiwrap.png",
     "src/64x64/fcgiwrap.png",
@@ -5008,10 +5628,20 @@
     "src/64x64/fcitx5-configtool.png",
     "src/128x128/fcitx5-configtool.png"
   ],
+  "fcitx5-mozc": [
+    "src/48x48/fcitx5-mozc.png",
+    "src/64x64/fcitx5-mozc.png",
+    "src/128x128/fcitx5-mozc.png"
+  ],
   "fcron": [
     "src/128x128/fcron.png",
     "src/64x64/fcron.png",
     "src/48x48/fcron.png"
+  ],
+  "fd": [
+    "src/48x48/fd.png",
+    "src/64x64/fd.png",
+    "src/128x128/fd.png"
   ],
   "feathernotes": [
     "src/48x48/feathernotes.png",
@@ -5684,6 +6314,11 @@
     "src/64x64/firefox-extension-mailvelope.png",
     "src/48x48/firefox-extension-mailvelope.png"
   ],
+  "firefox-extension-passff": [
+    "src/48x48/firefox-extension-passff.png",
+    "src/64x64/firefox-extension-passff.png",
+    "src/128x128/firefox-extension-passff.png"
+  ],
   "firefox-i18n-ach": [
     "src/128x128/firefox-esr-bin.png",
     "src/64x64/firefox-esr-bin.png",
@@ -6349,6 +6984,11 @@
     "src/64x64/flatseal.png",
     "src/128x128/flatseal.png"
   ],
+  "flawz": [
+    "src/48x48/flawz.png",
+    "src/64x64/flawz.png",
+    "src/128x128/flawz.png"
+  ],
   "fldigi": [
     "src/64x64/fldigi.png",
     "src/128x128/fldigi.png"
@@ -6385,6 +7025,11 @@
   "fluffychat": [
     "src/64x64/fluffychat.png",
     "src/128x128/fluffychat.png"
+  ],
+  "flutter-engine": [
+    "src/48x48/flutter-engine.png",
+    "src/64x64/flutter-engine.png",
+    "src/128x128/flutter-engine.png"
   ],
   "fluxbox": [
     "src/128x128/fluxbox.png",
@@ -6661,6 +7306,11 @@
   ],
   "fte": [
     "src/64x64/fte.png"
+  ],
+  "ftgl": [
+    "src/48x48/ftgl.png",
+    "src/64x64/ftgl.png",
+    "src/128x128/ftgl.png"
   ],
   "furnace": [
     "src/48x48/furnace.png",
@@ -7326,6 +7976,21 @@
     "src/64x64/arm-none-eabi-gcc.png",
     "src/48x48/arm-none-eabi-gcc.png"
   ],
+  "gccrs-git": [
+    "src/48x48/lib32-gccrs-libs-git.png",
+    "src/64x64/lib32-gccrs-libs-git.png",
+    "src/128x128/lib32-gccrs-libs-git.png"
+  ],
+  "gccrs-libs-git": [
+    "src/48x48/lib32-gccrs-libs-git.png",
+    "src/64x64/lib32-gccrs-libs-git.png",
+    "src/128x128/lib32-gccrs-libs-git.png"
+  ],
+  "gccrs-rust-git": [
+    "src/48x48/lib32-gccrs-libs-git.png",
+    "src/64x64/lib32-gccrs-libs-git.png",
+    "src/128x128/lib32-gccrs-libs-git.png"
+  ],
   "gcdmaster": [
     "src/64x64/gcdmaster.png"
   ],
@@ -7384,10 +8049,20 @@
     "src/64x64/geeqie.png",
     "src/128x128/geeqie.png"
   ],
+  "gef": [
+    "src/48x48/gef.png",
+    "src/64x64/gef.png",
+    "src/128x128/gef.png"
+  ],
   "gegl": [
     "src/128x128/gegl.png",
     "src/64x64/gegl.png",
     "src/48x48/gegl.png"
+  ],
+  "gemini-cli": [
+    "src/48x48/gemini-cli.png",
+    "src/64x64/gemini-cli.png",
+    "src/128x128/gemini-cli.png"
   ],
   "genius": [
     "src/48x48/genius.png",
@@ -7438,6 +8113,11 @@
     "src/128x128/gephi.png",
     "src/64x64/gephi.png",
     "src/48x48/gephi.png"
+  ],
+  "gerbera": [
+    "src/48x48/gerbera.png",
+    "src/64x64/gerbera.png",
+    "src/128x128/gerbera.png"
   ],
   "getdns": [
     "src/128x128/getdns.png",
@@ -7719,10 +8399,20 @@
     "src/64x64/git-annex.png",
     "src/128x128/git-annex.png"
   ],
+  "git-bug": [
+    "src/48x48/git-bug.png",
+    "src/64x64/git-bug.png",
+    "src/128x128/git-bug.png"
+  ],
   "git-crypt": [
     "src/128x128/git-crypt.png",
     "src/64x64/git-crypt.png",
     "src/48x48/git-crypt.png"
+  ],
+  "git-town": [
+    "src/48x48/git-town.png",
+    "src/64x64/git-town.png",
+    "src/128x128/git-town.png"
   ],
   "git-zsh-completion": [
     "src/128x128/git-zsh-completion.png",
@@ -7739,6 +8429,11 @@
     "src/64x64/gitg.png",
     "src/128x128/gitg.png"
   ],
+  "gitit": [
+    "src/48x48/gitit.png",
+    "src/64x64/gitit.png",
+    "src/128x128/gitit.png"
+  ],
   "gitkraken": [
     "src/64x64/gitkraken.png",
     "src/128x128/gitkraken.png"
@@ -7751,6 +8446,11 @@
   "gittyup": [
     "src/64x64/gittyup.png",
     "src/128x128/gittyup.png"
+  ],
+  "gitui": [
+    "src/48x48/gitui.png",
+    "src/64x64/gitui.png",
+    "src/128x128/gitui.png"
   ],
   "gl2ps": [
     "src/128x128/gl2ps.png",
@@ -7796,6 +8496,11 @@
     "src/48x48/glide.png",
     "src/64x64/glide.png",
     "src/128x128/glide.png"
+  ],
+  "glmark2": [
+    "src/48x48/glmark2.png",
+    "src/64x64/glmark2.png",
+    "src/128x128/glmark2.png"
   ],
   "glob2": [
     "src/48x48/glob2.png",
@@ -8272,6 +8977,11 @@
     "src/64x64/gobby.png",
     "src/128x128/gobby.png"
   ],
+  "gocryptfs": [
+    "src/48x48/gocryptfs.png",
+    "src/64x64/gocryptfs.png",
+    "src/128x128/gocryptfs.png"
+  ],
   "godot": [
     "src/64x64/godot.png"
   ],
@@ -8311,6 +9021,11 @@
     "src/64x64/google-breakpad.png",
     "src/128x128/google-breakpad.png"
   ],
+  "gopass": [
+    "src/48x48/gopass.png",
+    "src/64x64/gopass.png",
+    "src/128x128/gopass.png"
+  ],
   "gopher64": [
     "src/64x64/gopher64.png",
     "src/128x128/gopher64.png"
@@ -8320,10 +9035,20 @@
     "src/64x64/goplus.png",
     "src/48x48/goplus.png"
   ],
+  "goreleaser": [
+    "src/48x48/goreleaser.png",
+    "src/64x64/goreleaser.png",
+    "src/128x128/goreleaser.png"
+  ],
   "gotosocial": [
     "src/128x128/gotosocial.png",
     "src/64x64/gotosocial.png",
     "src/48x48/gotosocial.png"
+  ],
+  "gotraceui": [
+    "src/48x48/gotraceui.png",
+    "src/64x64/gotraceui.png",
+    "src/128x128/gotraceui.png"
   ],
   "gource": [
     "src/128x128/gource.png",
@@ -8334,6 +9059,11 @@
     "src/48x48/goverlay.png",
     "src/64x64/goverlay.png",
     "src/128x128/goverlay.png"
+  ],
+  "goverlay-git": [
+    "src/48x48/goverlay-git.png",
+    "src/64x64/goverlay-git.png",
+    "src/128x128/goverlay-git.png"
   ],
   "goxel": [
     "src/48x48/goxel.png",
@@ -8492,6 +9222,11 @@
     "src/128x128/graphviz.png",
     "src/64x64/graphviz.png",
     "src/48x48/graphviz.png"
+  ],
+  "grex": [
+    "src/48x48/grex.png",
+    "src/64x64/grex.png",
+    "src/128x128/grex.png"
   ],
   "griffith": [
     "src/48x48/griffith.png",
@@ -9267,6 +10002,11 @@
     "src/48x48/halloy.png",
     "src/64x64/halloy.png",
     "src/128x128/halloy.png"
+  ],
+  "halp": [
+    "src/48x48/halp.png",
+    "src/64x64/halp.png",
+    "src/128x128/halp.png"
   ],
   "hamster-time-tracker": [
     "src/48x48/hamster-time-tracker.png",
