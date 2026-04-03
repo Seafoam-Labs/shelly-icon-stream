@@ -1,0 +1,37 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Get version from tag
+        id: get_version
+        run: echo "VERSION=${GITHUB_REF#refs/tags/v}" >> $GITHUB_OUTPUT
+
+      - name: Create tarball
+        run: |
+          VERSION=${{ steps.get_version.outputs.VERSION }}
+          tar -czf "shelly-icon-stream-${VERSION}.tar.gz" \
+            --exclude=".git" \
+            --exclude=".github" \
+            --exclude="pkg" \
+            --exclude="shelly-icon-stream-*.tar.gz" \
+            --exclude="*.pkg.tar.zst" \
+            manifest.json LICENSE PKGBUILD README.md src/
+
+      - name: Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: shelly-icon-stream-${{ steps.get_version.outputs.VERSION }}.tar.gz
+          name: Release ${{ steps.get_version.outputs.VERSION }}
+          generate_release_notes: true
