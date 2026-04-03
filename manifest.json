@@ -8184,6 +8184,11 @@
     "src/64x64/gif2png.png",
     "src/48x48/gif2png.png"
   ],
+  "gifsicle": [
+    "src/48x48/gifsicle.png",
+    "src/64x64/gifsicle.png",
+    "src/128x128/gifsicle.png"
+  ],
   "gifski": [
     "src/128x128/gifski.png",
     "src/64x64/gifski.png",
@@ -8389,6 +8394,11 @@
     "src/64x64/ginkgo-hpc-cuda.png",
     "src/48x48/ginkgo-hpc-cuda.png"
   ],
+  "gio-qt": [
+    "src/48x48/gio-qt.png",
+    "src/64x64/gio-qt.png",
+    "src/128x128/gio-qt.png"
+  ],
   "girara": [
     "src/128x128/girara.png",
     "src/64x64/girara.png",
@@ -8404,15 +8414,35 @@
     "src/64x64/git-annex.png",
     "src/128x128/git-annex.png"
   ],
+  "git-branchless": [
+    "src/48x48/git-branchless.png",
+    "src/64x64/git-branchless.png",
+    "src/128x128/git-branchless.png"
+  ],
   "git-bug": [
     "src/48x48/git-bug.png",
     "src/64x64/git-bug.png",
     "src/128x128/git-bug.png"
   ],
+  "git-cliff": [
+    "src/48x48/git-cliff.png",
+    "src/64x64/git-cliff.png",
+    "src/128x128/git-cliff.png"
+  ],
+  "git-credential-gopass": [
+    "src/48x48/git-credential-gopass.png",
+    "src/64x64/git-credential-gopass.png",
+    "src/128x128/git-credential-gopass.png"
+  ],
   "git-crypt": [
     "src/128x128/git-crypt.png",
     "src/64x64/git-crypt.png",
     "src/48x48/git-crypt.png"
+  ],
+  "git-grab": [
+    "src/48x48/git-grab.png",
+    "src/64x64/git-grab.png",
+    "src/128x128/git-grab.png"
   ],
   "git-town": [
     "src/48x48/git-town.png",
@@ -8434,6 +8464,11 @@
     "src/64x64/gitg.png",
     "src/128x128/gitg.png"
   ],
+  "github-cli": [
+    "src/48x48/github-cli.png",
+    "src/64x64/github-cli.png",
+    "src/128x128/github-cli.png"
+  ],
   "gitit": [
     "src/48x48/gitit.png",
     "src/64x64/gitit.png",
@@ -8448,6 +8483,16 @@
     "src/64x64/alpm-pkgbuild-bridge.png",
     "src/128x128/alpm-pkgbuild-bridge.png"
   ],
+  "gitoxide": [
+    "src/48x48/gitoxide.png",
+    "src/64x64/gitoxide.png",
+    "src/128x128/gitoxide.png"
+  ],
+  "gitsign": [
+    "src/48x48/gitsign.png",
+    "src/64x64/gitsign.png",
+    "src/128x128/gitsign.png"
+  ],
   "gittyup": [
     "src/64x64/gittyup.png",
     "src/128x128/gittyup.png"
@@ -8456,6 +8501,16 @@
     "src/48x48/gitui.png",
     "src/64x64/gitui.png",
     "src/128x128/gitui.png"
+  ],
+  "givaro": [
+    "src/48x48/givaro.png",
+    "src/64x64/givaro.png",
+    "src/128x128/givaro.png"
+  ],
+  "gjs": [
+    "src/48x48/gjs.png",
+    "src/64x64/gjs.png",
+    "src/128x128/gjs.png"
   ],
   "gl2ps": [
     "src/128x128/gl2ps.png",
@@ -8471,6 +8526,11 @@
     "src/48x48/glabels.png",
     "src/64x64/glabels.png",
     "src/128x128/glabels.png"
+  ],
+  "glacier-calc": [
+    "src/48x48/glacier-calc.png",
+    "src/64x64/glacier-calc.png",
+    "src/128x128/glacier-calc.png"
   ],
   "glade": [
     "src/48x48/glade.png",
@@ -8492,6 +8552,16 @@
     "src/64x64/glbinding.png",
     "src/48x48/glbinding.png"
   ],
+  "gleam": [
+    "src/48x48/gleam.png",
+    "src/64x64/gleam.png",
+    "src/128x128/gleam.png"
+  ],
+  "glew": [
+    "src/48x48/glew.png",
+    "src/64x64/glew.png",
+    "src/128x128/glew.png"
+  ],
   "glfw": [
     "src/128x128/glfw.png",
     "src/64x64/glfw.png",
@@ -8501,6 +8571,11 @@
     "src/48x48/glide.png",
     "src/64x64/glide.png",
     "src/128x128/glide.png"
+  ],
+  "glm": [
+    "src/48x48/glm.png",
+    "src/64x64/glm.png",
+    "src/128x128/glm.png"
   ],
   "glmark2": [
     "src/48x48/glmark2.png",
@@ -8517,10 +8592,45 @@
     "src/64x64/globalprotect-openconnect.png",
     "src/128x128/globalprotect-openconnect.png"
   ],
+  "gloobus-preview": [
+    "src/48x48/gloobus-preview.png",
+    "src/64x64/gloobus-preview.png",
+    "src/128x128/gloobus-preview.png"
+  ],
+  "glow": [
+    "src/48x48/glow.png",
+    "src/64x64/glow.png",
+    "src/128x128/glow.png"
+  ],
+  "glpk": [
+    "src/48x48/glpk.png",
+    "src/64x64/glpk.png",
+    "src/128x128/glpk.png"
+  ],
+  "glsland": [
+    "src/48x48/glsland.png",
+    "src/64x64/glsland.png",
+    "src/128x128/glsland.png"
+  ],
+  "glulxe-term": [
+    "src/48x48/glulxe-term.png",
+    "src/64x64/glulxe-term.png",
+    "src/128x128/glulxe-term.png"
+  ],
   "glusterfs": [
     "src/128x128/glusterfs.png",
     "src/64x64/glusterfs.png",
     "src/48x48/glusterfs.png"
+  ],
+  "glycin": [
+    "src/48x48/glycin.png",
+    "src/64x64/glycin.png",
+    "src/128x128/glycin.png"
+  ],
+  "glycin-gtk4": [
+    "src/48x48/glycin.png",
+    "src/64x64/glycin.png",
+    "src/128x128/glycin.png"
   ],
   "gmic": [
     "src/48x48/gmic.png",
@@ -9070,10 +9180,20 @@
     "src/64x64/goverlay-git.png",
     "src/128x128/goverlay-git.png"
   ],
+  "govulncheck": [
+    "src/48x48/govulncheck.png",
+    "src/64x64/govulncheck.png",
+    "src/128x128/govulncheck.png"
+  ],
   "goxel": [
     "src/48x48/goxel.png",
     "src/64x64/goxel.png",
     "src/128x128/goxel.png"
+  ],
+  "goxlr-utility": [
+    "src/48x48/goxlr-utility.png",
+    "src/64x64/goxlr-utility.png",
+    "src/128x128/goxlr-utility.png"
   ],
   "gpac": [
     "src/48x48/gpac.png",
@@ -9088,6 +9208,11 @@
   "gpaste": [
     "src/48x48/gpaste.png",
     "src/64x64/gpaste.png"
+  ],
+  "gperf": [
+    "src/48x48/glpk.png",
+    "src/64x64/glpk.png",
+    "src/128x128/glpk.png"
   ],
   "gpgme": [
     "src/128x128/gpgme.png",
@@ -9149,6 +9274,11 @@
     "src/128x128/gpu-screen-recorder.png",
     "src/64x64/gpu-screen-recorder.png",
     "src/48x48/gpu-screen-recorder.png"
+  ],
+  "gpu-screen-recorder-notification": [
+    "src/48x48/gpu-screen-recorder-notification.png",
+    "src/64x64/gpu-screen-recorder-notification.png",
+    "src/128x128/gpu-screen-recorder-notification.png"
   ],
   "gpxsee": [
     "src/48x48/gpxsee.png",
@@ -9295,20 +9425,50 @@
     "src/64x64/gsimplecal.png",
     "src/48x48/gsimplecal.png"
   ],
+  "gsm": [
+    "src/48x48/gsm.png",
+    "src/64x64/gsm.png",
+    "src/128x128/gsm.png"
+  ],
   "gsmartcontrol": [
     "src/48x48/gsmartcontrol.png",
     "src/64x64/gsmartcontrol.png",
     "src/128x128/gsmartcontrol.png"
+  ],
+  "gsoap": [
+    "src/48x48/gsoap.png",
+    "src/64x64/gsoap.png",
+    "src/128x128/gsoap.png"
   ],
   "gsocket": [
     "src/128x128/gsocket.png",
     "src/64x64/gsocket.png",
     "src/48x48/gsocket.png"
   ],
+  "gsound": [
+    "src/48x48/gjs.png",
+    "src/64x64/gjs.png",
+    "src/128x128/gjs.png"
+  ],
+  "gspell": [
+    "src/48x48/gspell.png",
+    "src/64x64/gspell.png",
+    "src/128x128/gspell.png"
+  ],
+  "gspell-docs": [
+    "src/48x48/gspell.png",
+    "src/64x64/gspell.png",
+    "src/128x128/gspell.png"
+  ],
   "gssdp": [
     "src/128x128/gssdp.png",
     "src/64x64/gssdp.png",
     "src/48x48/gssdp.png"
+  ],
+  "gssdp-docs": [
+    "src/48x48/gssdp-docs.png",
+    "src/64x64/gssdp-docs.png",
+    "src/128x128/gssdp-docs.png"
   ],
   "gst-devtools": [
     "src/48x48/gst-devtools.png",
@@ -9975,6 +10135,21 @@
     "src/64x64/gupnp-tools.png",
     "src/128x128/gupnp-tools.png"
   ],
+  "guvcview": [
+    "src/48x48/guvcview.png",
+    "src/64x64/guvcview.png",
+    "src/128x128/guvcview.png"
+  ],
+  "guvcview-common": [
+    "src/48x48/guvcview.png",
+    "src/64x64/guvcview.png",
+    "src/128x128/guvcview.png"
+  ],
+  "guvcview-qt": [
+    "src/48x48/guvcview.png",
+    "src/64x64/guvcview.png",
+    "src/128x128/guvcview.png"
+  ],
   "gvim": [
     "src/48x48/gvim.png",
     "src/64x64/gvim.png",
@@ -9998,6 +10173,16 @@
   "gxmessage": [
     "src/48x48/gxmessage.png",
     "src/64x64/gxmessage.png"
+  ],
+  "hackrf": [
+    "src/48x48/hackrf.png",
+    "src/64x64/hackrf.png",
+    "src/128x128/hackrf.png"
+  ],
+  "hacksaw": [
+    "src/48x48/hacksaw.png",
+    "src/64x64/hacksaw.png",
+    "src/128x128/hacksaw.png"
   ],
   "haguichi": [
     "src/64x64/haguichi.png",
@@ -10076,6 +10261,16 @@
     "src/48x48/haruna.png",
     "src/64x64/haruna.png",
     "src/128x128/haruna.png"
+  ],
+  "hashcat": [
+    "src/48x48/hashcat.png",
+    "src/64x64/hashcat.png",
+    "src/128x128/hashcat.png"
+  ],
+  "hashcat-utils": [
+    "src/48x48/hashcat.png",
+    "src/64x64/hashcat.png",
+    "src/128x128/hashcat.png"
   ],
   "haskell-abstract-deque": [
     "src/48x48/haskell.png",
@@ -17221,6 +17416,11 @@
     "src/64x64/jaaa.png",
     "src/48x48/jaaa.png"
   ],
+  "jnv": [
+    "src/48x48/jnv.png",
+    "src/64x64/jnv.png",
+    "src/128x128/jnv.png"
+  ],
   "jo": [
     "src/48x48/jo.png",
     "src/64x64/jo.png",
@@ -17349,6 +17549,11 @@
     "src/64x64/js8call.png",
     "src/128x128/js8call.png"
   ],
+  "jsoncpp": [
+    "src/48x48/jsoncpp.png",
+    "src/64x64/jsoncpp.png",
+    "src/128x128/jsoncpp.png"
+  ],
   "juce": [
     "src/64x64/juce.png",
     "src/128x128/juce.png"
@@ -17357,6 +17562,11 @@
     "src/48x48/juce-docs.png",
     "src/64x64/juce-docs.png",
     "src/128x128/juce-docs.png"
+  ],
+  "judy": [
+    "src/48x48/judy.png",
+    "src/64x64/judy.png",
+    "src/128x128/judy.png"
   ],
   "jujutsu": [
     "src/48x48/jujutsu.png",
@@ -17415,6 +17625,11 @@
     "src/48x48/jupyter-nbclassic.png",
     "src/64x64/jupyter-nbclassic.png",
     "src/128x128/jupyter-nbclassic.png"
+  ],
+  "jupyter-nbclient": [
+    "src/48x48/jupyter-nbclient.png",
+    "src/64x64/jupyter-nbclient.png",
+    "src/128x128/jupyter-nbclient.png"
   ],
   "jupyter-nbconvert": [
     "src/128x128/libvirt-python.png",
@@ -22382,6 +22597,11 @@
     "src/64x64/lib32-gdk-pixbuf2.png",
     "src/48x48/lib32-gdk-pixbuf2.png"
   ],
+  "librustls": [
+    "src/48x48/librustls.png",
+    "src/64x64/librustls.png",
+    "src/128x128/librustls.png"
+  ],
   "libsamplerate": [
     "src/128x128/libsamplerate.png",
     "src/64x64/lib32-libsamplerate.png",
@@ -22392,10 +22612,35 @@
     "src/64x64/libsass.png",
     "src/48x48/libsass.png"
   ],
+  "libscanmem": [
+    "src/48x48/libscanmem.png",
+    "src/64x64/libscanmem.png",
+    "src/128x128/libscanmem.png"
+  ],
+  "libseccomp": [
+    "src/48x48/libseccomp.png",
+    "src/64x64/libseccomp.png",
+    "src/128x128/libseccomp.png"
+  ],
+  "libsecp256k1": [
+    "src/48x48/libsecp256k1.png",
+    "src/64x64/libsecp256k1.png",
+    "src/128x128/libsecp256k1.png"
+  ],
+  "libselinux": [
+    "src/48x48/libselinux.png",
+    "src/64x64/libselinux.png",
+    "src/128x128/libselinux.png"
+  ],
   "libsemigroups": [
     "src/128x128/libsemigroups.png",
     "src/64x64/libsemigroups.png",
     "src/48x48/libsemigroups.png"
+  ],
+  "libsepol": [
+    "src/48x48/libselinux.png",
+    "src/64x64/libselinux.png",
+    "src/128x128/libselinux.png"
   ],
   "libserialport": [
     "src/128x128/libserialport.png",
@@ -22416,6 +22661,11 @@
     "src/128x128/libgdata.png",
     "src/64x64/lib32-gdk-pixbuf2.png",
     "src/48x48/lib32-gdk-pixbuf2.png"
+  ],
+  "libsidplayfp": [
+    "src/48x48/libsidplayfp.png",
+    "src/64x64/libsidplayfp.png",
+    "src/128x128/libsidplayfp.png"
   ],
   "libsigrok": [
     "src/128x128/libserialport.png",
@@ -25919,6 +26169,11 @@
     "src/64x64/mailspring.png",
     "src/128x128/mailspring.png"
   ],
+  "mailutils": [
+    "src/48x48/mailutils.png",
+    "src/64x64/mailutils.png",
+    "src/128x128/mailutils.png"
+  ],
   "makemkv": [
     "src/64x64/makemkv.png",
     "src/128x128/makemkv.png"
@@ -25952,6 +26207,11 @@
     "src/48x48/mangohud.png",
     "src/64x64/mangohud.png",
     "src/128x128/mangohud.png"
+  ],
+  "mangowc": [
+    "src/48x48/mangowc.png",
+    "src/64x64/mangowc.png",
+    "src/128x128/mangowc.png"
   ],
   "manifold": [
     "src/48x48/manifold.png",
@@ -26017,32 +26277,39 @@
     "src/48x48/mariadb.png"
   ],
   "mariadb-clients": [
-    "src/output/48x48/mariadb-clients.png",
-    "src/48x48/mariadb-clients.png",
-    "src/output/64x64/mariadb-clients.png",
-    "src/64x64/mariadb-clients.png",
-    "src/output/128x128/mariadb-clients.png",
-    "src/128x128/mariadb-clients.png"
+    "src/128x128/mariadb.png",
+    "src/64x64/mariadb.png",
+    "src/48x48/mariadb.png"
   ],
   "mariadb-libs": [
-    "src/output/128x128/mariadb-clients.png",
-    "src/output/64x64/mariadb-clients.png",
-    "src/output/48x48/mariadb-clients.png"
+    "src/128x128/mariadb.png",
+    "src/64x64/mariadb.png",
+    "src/48x48/mariadb.png"
   ],
   "mariadb-lts": [
-    "src/output/128x128/mariadb-clients.png",
-    "src/output/64x64/mariadb-clients.png",
-    "src/output/48x48/mariadb-clients.png"
+    "src/128x128/mariadb.png",
+    "src/64x64/mariadb.png",
+    "src/48x48/mariadb.png"
   ],
   "mariadb-lts-clients": [
-    "src/output/128x128/mariadb-clients.png",
-    "src/output/64x64/mariadb-clients.png",
-    "src/output/48x48/mariadb-clients.png"
+    "src/128x128/mariadb.png",
+    "src/64x64/mariadb.png",
+    "src/48x48/mariadb.png"
   ],
   "mariadb-lts-libs": [
-    "src/output/128x128/mariadb-clients.png",
-    "src/output/64x64/mariadb-clients.png",
-    "src/output/48x48/mariadb-clients.png"
+    "src/128x128/mariadb.png",
+    "src/64x64/mariadb.png",
+    "src/48x48/mariadb.png"
+  ],
+  "markdownlint": [
+    "src/48x48/markdownlint.png",
+    "src/64x64/markdownlint.png",
+    "src/128x128/markdownlint.png"
+  ],
+  "marked": [
+    "src/48x48/marked.png",
+    "src/64x64/marked.png",
+    "src/128x128/marked.png"
   ],
   "marker": [
     "src/48x48/marker.png",
@@ -26460,6 +26727,11 @@
     "src/64x64/memtester.png",
     "src/48x48/memtester.png"
   ],
+  "mencoder": [
+    "src/48x48/mencoder.png",
+    "src/64x64/mencoder.png",
+    "src/128x128/mencoder.png"
+  ],
   "mercurial": [
     "src/128x128/mercurial.png",
     "src/64x64/mercurial.png",
@@ -26505,6 +26777,11 @@
     "src/64x64/lib32-mesa.png",
     "src/48x48/lib32-mesa.png"
   ],
+  "meshbird": [
+    "src/48x48/meshbird.png",
+    "src/64x64/meshbird.png",
+    "src/128x128/meshbird.png"
+  ],
   "meson": [
     "src/128x128/meson.png",
     "src/64x64/meson.png",
@@ -26524,6 +26801,11 @@
     "src/48x48/metadata-cleaner.png",
     "src/64x64/metadata-cleaner.png",
     "src/128x128/metadata-cleaner.png"
+  ],
+  "metalog": [
+    "src/48x48/metalog.png",
+    "src/64x64/metalog.png",
+    "src/128x128/metalog.png"
   ],
   "metasploit": [
     "src/128x128/metasploit.png",
@@ -26552,6 +26834,11 @@
     "src/48x48/micro.png",
     "src/64x64/micro.png",
     "src/128x128/micro.png"
+  ],
+  "micronucleus": [
+    "src/48x48/micronucleus.png",
+    "src/64x64/micronucleus.png",
+    "src/128x128/micronucleus.png"
   ],
   "migraphx": [
     "src/128x128/migraphx.png",
@@ -26709,6 +26996,11 @@
     "src/64x64/alpm-pkgbuild-bridge.png",
     "src/128x128/alpm-pkgbuild-bridge.png"
   ],
+  "mkinitcpio-busybox": [
+    "src/48x48/mkinitcpio-busybox.png",
+    "src/64x64/mkinitcpio-busybox.png",
+    "src/128x128/mkinitcpio-busybox.png"
+  ],
   "mkosi": [
     "src/48x48/mkosi.png",
     "src/64x64/mkosi.png",
@@ -26741,6 +27033,11 @@
     "src/128x128/mod_passenger.png",
     "src/64x64/mod_passenger.png",
     "src/48x48/mod_passenger.png"
+  ],
+  "modclean": [
+    "src/48x48/modclean.png",
+    "src/64x64/modclean.png",
+    "src/128x128/modclean.png"
   ],
   "modem-manager-gui": [
     "src/48x48/modem-manager-gui.png",
@@ -26822,6 +27119,11 @@
     "src/64x64/mono-msbuild.png",
     "src/128x128/mono-msbuild.png"
   ],
+  "mono-simpleitk": [
+    "src/48x48/mono-simpleitk.png",
+    "src/64x64/mono-simpleitk.png",
+    "src/128x128/mono-simpleitk.png"
+  ],
   "monolith": [
     "src/48x48/monolith.png",
     "src/64x64/monolith.png",
@@ -26859,6 +27161,11 @@
     "src/64x64/mosquitto.png",
     "src/output/128x128/mosquitto.png",
     "src/128x128/mosquitto.png"
+  ],
+  "motion": [
+    "src/48x48/motion.png",
+    "src/64x64/motion.png",
+    "src/128x128/motion.png"
   ],
   "mousai": [
     "src/48x48/mousai.png",
@@ -26967,6 +27274,11 @@
     "src/64x64/mtr.png",
     "src/48x48/mtr.png"
   ],
+  "muffin": [
+    "src/48x48/muffin.png",
+    "src/64x64/muffin.png",
+    "src/128x128/muffin.png"
+  ],
   "mugshot": [
     "src/48x48/mugshot.png",
     "src/64x64/mugshot.png",
@@ -27001,6 +27313,11 @@
     "src/48x48/mullvad-browser-bin.png",
     "src/64x64/mullvad-browser-bin.png",
     "src/128x128/mullvad-browser-bin.png"
+  ],
+  "multipath-tools": [
+    "src/48x48/multipath-tools.png",
+    "src/64x64/multipath-tools.png",
+    "src/128x128/multipath-tools.png"
   ],
   "mumble": [
     "src/48x48/mumble.png",
@@ -27092,6 +27409,11 @@
     "src/64x64/mutter.png",
     "src/128x128/mutter.png"
   ],
+  "mvt": [
+    "src/48x48/mvt.png",
+    "src/64x64/mvt.png",
+    "src/128x128/mvt.png"
+  ],
   "mxml": [
     "src/48x48/mxml.png",
     "src/64x64/mxml.png",
@@ -27131,6 +27453,11 @@
     "src/128x128/mytop.png",
     "src/64x64/mytop.png",
     "src/48x48/mytop.png"
+  ],
+  "n2n": [
+    "src/48x48/n2n.png",
+    "src/64x64/n2n.png",
+    "src/128x128/n2n.png"
   ],
   "naev": [
     "src/48x48/naev.png",
@@ -27221,6 +27548,11 @@
     "src/64x64/lm32-elf-newlib.png",
     "src/48x48/lm32-elf-newlib.png"
   ],
+  "nebula": [
+    "src/48x48/nebula.png",
+    "src/64x64/nebula.png",
+    "src/128x128/nebula.png"
+  ],
   "neko": [
     "src/128x128/neko.png",
     "src/64x64/neko.png",
@@ -27306,6 +27638,16 @@
     "src/64x64/neochat.png",
     "src/128x128/neochat.png"
   ],
+  "neofetch": [
+    "src/48x48/neofetch.png",
+    "src/64x64/neofetch.png",
+    "src/128x128/neofetch.png"
+  ],
+  "neomutt": [
+    "src/48x48/neomutt.png",
+    "src/64x64/neomutt.png",
+    "src/128x128/neomutt.png"
+  ],
   "neon": [
     "src/128x128/neon.png",
     "src/64x64/neon.png",
@@ -27371,6 +27713,11 @@
     "src/64x64/memtester.png",
     "src/48x48/memtester.png"
   ],
+  "netavark": [
+    "src/48x48/netavark.png",
+    "src/64x64/netavark.png",
+    "src/128x128/netavark.png"
+  ],
   "netbeans": [
     "src/48x48/netbeans.png",
     "src/64x64/netbeans.png",
@@ -27380,6 +27727,21 @@
     "src/128x128/netcdf.png",
     "src/64x64/netcdf.png",
     "src/48x48/netcdf.png"
+  ],
+  "netcdf-cxx": [
+    "src/48x48/netcdf-cxx.png",
+    "src/64x64/netcdf-cxx.png",
+    "src/128x128/netcdf-cxx.png"
+  ],
+  "netcdf-fortran": [
+    "src/48x48/netcdf-cxx.png",
+    "src/64x64/netcdf-cxx.png",
+    "src/128x128/netcdf-cxx.png"
+  ],
+  "netcdf-fortran-openmpi": [
+    "src/48x48/netcdf-cxx.png",
+    "src/64x64/netcdf-cxx.png",
+    "src/128x128/netcdf-cxx.png"
   ],
   "netcdf-openmpi": [
     "src/128x128/netcdf.png",
@@ -27395,6 +27757,21 @@
     "src/48x48/netdata.png",
     "src/64x64/netdata.png",
     "src/128x128/netdata.png"
+  ],
+  "nethack": [
+    "src/48x48/nethack.png",
+    "src/64x64/nethack.png",
+    "src/128x128/nethack.png"
+  ],
+  "netperf": [
+    "src/48x48/netperf.png",
+    "src/64x64/netperf.png",
+    "src/128x128/netperf.png"
+  ],
+  "netplan": [
+    "src/48x48/netplan.png",
+    "src/64x64/netplan.png",
+    "src/128x128/netplan.png"
   ],
   "netsniff-ng": [
     "src/128x128/netsniff-ng.png",
@@ -27588,6 +27965,11 @@
     "src/48x48/nextcloud-client.png",
     "src/64x64/nextcloud-client.png",
     "src/128x128/nextcloud-client.png"
+  ],
+  "nextdns": [
+    "src/48x48/nextdns.png",
+    "src/64x64/nextdns.png",
+    "src/128x128/nextdns.png"
   ],
   "nfacct": [
     "src/128x128/libmnl.png",
