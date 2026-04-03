@@ -3185,6 +3185,11 @@
     "src/64x64/code.png",
     "src/128x128/code.png"
   ],
+  "codeberg-cli": [
+    "src/48x48/codeberg-cli.png",
+    "src/64x64/codeberg-cli.png",
+    "src/128x128/codeberg-cli.png"
+  ],
   "codeblocks": [
     "src/48x48/codeblocks.png",
     "src/64x64/codeblocks.png"
@@ -17982,6 +17987,11 @@
     "src/128x128/kernelshark.png",
     "src/64x64/kernelshark.png",
     "src/48x48/kernelshark.png"
+  ],
+  "kew": [
+    "src/48x48/kew.png",
+    "src/64x64/kew.png",
+    "src/128x128/kew.png"
   ],
   "kexec-tools": [
     "src/48x48/linux.png",
@@ -48015,6 +48025,11 @@
     "src/128x128/river.png",
     "src/64x64/river.png",
     "src/48x48/river.png"
+  ],
+  "river-classic": [
+    "src/48x48/river-classic.png",
+    "src/64x64/river-classic.png",
+    "src/128x128/river-classic.png"
   ],
   "rizin": [
     "src/128x128/rizin.png",
