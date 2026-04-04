@@ -855,6 +855,11 @@
     "src/64x64/aspnet-runtime-6.0.png",
     "src/48x48/aspnet-runtime-6.0.png"
   ],
+  "assimp": [
+    "src/48x48/assimp.png",
+    "src/64x64/assimp.png",
+    "src/128x128/assimp.png"
+  ],
   "ast-grep": [
     "src/128x128/ast-grep.png",
     "src/64x64/ast-grep.png",
@@ -893,6 +898,16 @@
     "src/48x48/linux.png",
     "src/64x64/linux.png",
     "src/128x128/linux.png"
+  ],
+  "atuin": [
+    "src/48x48/atuin.png",
+    "src/64x64/atuin.png",
+    "src/128x128/atuin.png"
+  ],
+  "atuin-server": [
+    "src/48x48/atuin.png",
+    "src/64x64/atuin.png",
+    "src/128x128/atuin.png"
   ],
   "audacious": [
     "src/48x48/audacious.png",
@@ -1277,6 +1292,16 @@
     "src/64x64/bazel.png",
     "src/48x48/bazel.png"
   ],
+  "bcc": [
+    "src/48x48/bcc.png",
+    "src/64x64/bcc.png",
+    "src/128x128/bcc.png"
+  ],
+  "bcc-examples": [
+    "src/48x48/bcc.png",
+    "src/64x64/bcc.png",
+    "src/128x128/bcc.png"
+  ],
   "bcprov": [
     "src/128x128/bcprov.png",
     "src/64x64/bcprov.png",
@@ -1452,6 +1477,16 @@
     "src/48x48/blinken.png",
     "src/64x64/blinken.png",
     "src/128x128/blinken.png"
+  ],
+  "blinksocks": [
+    "src/48x48/blinksocks.png",
+    "src/64x64/blinksocks.png",
+    "src/128x128/blinksocks.png"
+  ],
+  "blisp": [
+    "src/48x48/blisp.png",
+    "src/64x64/blisp.png",
+    "src/128x128/blisp.png"
   ],
   "blobby2": [
     "src/48x48/blobby2.png",
@@ -2733,6 +2768,11 @@
     "src/64x64/cataclysm-dda-tiles.png",
     "src/128x128/cataclysm-dda-tiles.png"
   ],
+  "catch2": [
+    "src/48x48/catch2.png",
+    "src/64x64/catch2.png",
+    "src/128x128/catch2.png"
+  ],
   "catch2-v2": [
     "src/48x48/catch2-v2.png",
     "src/64x64/catch2-v2.png",
@@ -2747,6 +2787,16 @@
     "src/48x48/catppuccin.png",
     "src/64x64/catppuccin.png",
     "src/128x128/catppuccin.png"
+  ],
+  "cbindgen": [
+    "src/48x48/cbindgen.png",
+    "src/64x64/cbindgen.png",
+    "src/128x128/cbindgen.png"
+  ],
+  "cbor-tool": [
+    "src/48x48/cbor-tool.png",
+    "src/64x64/cbor-tool.png",
+    "src/128x128/cbor-tool.png"
   ],
   "cccl": [
     "src/48x48/cccl.png",
@@ -2867,6 +2917,11 @@
     "src/48x48/certbot.png",
     "src/64x64/certbot.png",
     "src/128x128/certbot.png"
+  ],
+  "cfitsio": [
+    "src/48x48/cfitsio.png",
+    "src/64x64/cfitsio.png",
+    "src/128x128/cfitsio.png"
   ],
   "cgit": [
     "src/128x128/cgit.png",
@@ -3141,6 +3196,11 @@
     "src/64x64/cmake.png",
     "src/128x128/cmake.png"
   ],
+  "cmark": [
+    "src/48x48/cmark.png",
+    "src/64x64/cmark.png",
+    "src/128x128/cmark.png"
+  ],
   "cmocka": [
     "src/128x128/cmocka.png",
     "src/64x64/cmocka.png",
@@ -3314,6 +3374,11 @@
     "src/64x64/commit.png",
     "src/128x128/commit.png"
   ],
+  "common": [
+    "src/48x48/netavark.png",
+    "src/64x64/netavark.png",
+    "src/128x128/netavark.png"
+  ],
   "communicator": [
     "src/48x48/communicator.png",
     "src/64x64/communicator.png",
@@ -3342,6 +3407,16 @@
     "src/64x64/consul.png",
     "src/48x48/consul.png"
   ],
+  "consul-template": [
+    "src/48x48/consul-template.png",
+    "src/64x64/consul-template.png",
+    "src/128x128/consul-template.png"
+  ],
+  "container-diff": [
+    "src/48x48/container-diff.png",
+    "src/64x64/container-diff.png",
+    "src/128x128/container-diff.png"
+  ],
   "containerd": [
     "src/output/48x48/containerd.png",
     "src/48x48/containerd.png",
@@ -3349,6 +3424,11 @@
     "src/64x64/containerd.png",
     "src/output/128x128/containerd.png",
     "src/128x128/containerd.png"
+  ],
+  "containers-common": [
+    "src/48x48/netavark.png",
+    "src/64x64/netavark.png",
+    "src/128x128/netavark.png"
   ],
   "contour": [
     "src/48x48/contour.png",
@@ -3733,6 +3813,11 @@
     "src/64x64/cri-o.png",
     "src/128x128/cri-o.png"
   ],
+  "cross": [
+    "src/48x48/cross.png",
+    "src/64x64/cross.png",
+    "src/128x128/cross.png"
+  ],
   "crow-translate": [
     "src/output/48x48/crow-translate.png",
     "src/48x48/crow-translate.png",
@@ -3774,6 +3859,11 @@
     "src/64x64/csoundqt.png",
     "src/128x128/csoundqt.png"
   ],
+  "ct": [
+    "src/48x48/ct.png",
+    "src/64x64/ct.png",
+    "src/128x128/ct.png"
+  ],
   "ctags": [
     "src/128x128/ctags.png",
     "src/64x64/ctags.png",
@@ -3798,6 +3888,11 @@
     "src/128x128/cudss.png",
     "src/64x64/cudss.png",
     "src/48x48/cudss.png"
+  ],
+  "cue": [
+    "src/48x48/cue.png",
+    "src/64x64/cue.png",
+    "src/128x128/cue.png"
   ],
   "cups": [
     "src/128x128/cups.png",
@@ -4153,6 +4248,11 @@
     "src/64x64/deluge-gtk.png",
     "src/128x128/deluge-gtk.png"
   ],
+  "delve": [
+    "src/48x48/delve.png",
+    "src/64x64/delve.png",
+    "src/128x128/delve.png"
+  ],
   "deno": [
     "src/128x128/deno.png",
     "src/64x64/deno.png",
@@ -4194,6 +4294,16 @@
   "dexed-standalone": [
     "src/64x64/dexed-standalone.png",
     "src/128x128/dexed-standalone.png"
+  ],
+  "dgedit": [
+    "src/48x48/dgedit.png",
+    "src/64x64/dgedit.png",
+    "src/128x128/dgedit.png"
+  ],
+  "dgen-sdl": [
+    "src/48x48/dgen-sdl.png",
+    "src/64x64/dgen-sdl.png",
+    "src/128x128/dgen-sdl.png"
   ],
   "dhall": [
     "src/128x128/dhall.png",
@@ -4349,6 +4459,11 @@
     "src/64x64/dlib.png",
     "src/48x48/dlib.png"
   ],
+  "dlib-cuda": [
+    "src/48x48/dlib-cuda.png",
+    "src/64x64/dlib-cuda.png",
+    "src/128x128/dlib-cuda.png"
+  ],
   "dmd": [
     "src/128x128/dmd.png",
     "src/64x64/dmd.png",
@@ -4429,10 +4544,20 @@
     "src/64x64/docker.png",
     "src/128x128/docker.png"
   ],
+  "docopt": [
+    "src/48x48/docopt.png",
+    "src/64x64/docopt.png",
+    "src/128x128/docopt.png"
+  ],
   "doctest": [
     "src/48x48/doctest.png",
     "src/64x64/doctest.png",
     "src/128x128/doctest.png"
+  ],
+  "doctl": [
+    "src/48x48/doctl.png",
+    "src/64x64/doctl.png",
+    "src/128x128/doctl.png"
   ],
   "doggo": [
     "src/48x48/doggo.png",
@@ -4463,6 +4588,11 @@
     "src/128x128/dolt.png",
     "src/64x64/dolt.png",
     "src/48x48/dolt.png"
+  ],
+  "doomretro": [
+    "src/48x48/doomretro.png",
+    "src/64x64/doomretro.png",
+    "src/128x128/doomretro.png"
   ],
   "dos2unix": [
     "src/128x128/dos2unix.png",
@@ -4816,6 +4946,11 @@
     "src/64x64/dumb.png",
     "src/48x48/dumb.png"
   ],
+  "dump_syms": [
+    "src/48x48/cbindgen.png",
+    "src/64x64/cbindgen.png",
+    "src/128x128/cbindgen.png"
+  ],
   "dvdstyler": [
     "src/48x48/dvdstyler.png",
     "src/64x64/dvdstyler.png"
@@ -4885,6 +5020,11 @@
     "src/64x64/eclipse-ecj.png",
     "src/48x48/eclipse-ecj.png"
   ],
+  "ecos": [
+    "src/48x48/ecos.png",
+    "src/64x64/ecos.png",
+    "src/128x128/ecos.png"
+  ],
   "ecrire": [
     "src/48x48/ecrire.png",
     "src/64x64/ecrire.png",
@@ -4899,6 +5039,11 @@
     "src/48x48/editorconfig-core-c.png",
     "src/64x64/editorconfig-core-c.png",
     "src/128x128/editorconfig-core-c.png"
+  ],
+  "efibootmgr": [
+    "src/48x48/efibootmgr.png",
+    "src/64x64/efibootmgr.png",
+    "src/128x128/efibootmgr.png"
   ],
   "efifs": [
     "src/128x128/efifs.png",
@@ -5161,6 +5306,11 @@
   "emote": [
     "src/64x64/emote.png",
     "src/128x128/emote.png"
+  ],
+  "emovix": [
+    "src/48x48/emovix.png",
+    "src/64x64/emovix.png",
+    "src/128x128/emovix.png"
   ],
   "emptyepsilon": [
     "src/64x64/emptyepsilon.png",
@@ -5431,6 +5581,11 @@
     "src/64x64/errands.png",
     "src/128x128/errands.png"
   ],
+  "eruption": [
+    "src/48x48/eruption.png",
+    "src/64x64/eruption.png",
+    "src/128x128/eruption.png"
+  ],
   "esbuild": [
     "src/128x128/esbuild.png",
     "src/64x64/esbuild.png",
@@ -5445,6 +5600,11 @@
     "src/48x48/espeak-ng.png",
     "src/64x64/espeak-ng.png",
     "src/128x128/espeak-ng.png"
+  ],
+  "espflash": [
+    "src/48x48/espflash.png",
+    "src/64x64/espflash.png",
+    "src/128x128/espflash.png"
   ],
   "esphome": [
     "src/48x48/esphome.png",
@@ -5705,6 +5865,16 @@
     "src/48x48/ffmpegthumbs.png",
     "src/64x64/ffmpegthumbs.png",
     "src/128x128/ffmpegthumbs.png"
+  ],
+  "ffms": [
+    "src/48x48/ffms.png",
+    "src/64x64/ffms.png",
+    "src/128x128/ffms.png"
+  ],
+  "ffms2": [
+    "src/48x48/ffms.png",
+    "src/64x64/ffms.png",
+    "src/128x128/ffms.png"
   ],
   "fftw": [
     "src/128x128/fftw.png",
@@ -6859,6 +7029,16 @@
     "src/64x64/firefox-spell-ru.png",
     "src/128x128/firefox-spell-ru.png"
   ],
+  "firefox-tridactyl": [
+    "src/48x48/firefox-tridactyl.png",
+    "src/64x64/firefox-tridactyl.png",
+    "src/128x128/firefox-tridactyl.png"
+  ],
+  "firefox-ublock-origin": [
+    "src/48x48/ublock-origin.png",
+    "src/64x64/ublock-origin.png",
+    "src/128x128/ublock-origin.png"
+  ],
   "firefox-wayland-cachy-hg": [
     "src/128x128/firefox-esr-bin.png",
     "src/64x64/firefox-esr-bin.png",
@@ -7119,6 +7299,11 @@
     "src/64x64/fop.png",
     "src/48x48/fop.png"
   ],
+  "forge": [
+    "src/48x48/forge.png",
+    "src/64x64/forge.png",
+    "src/128x128/forge.png"
+  ],
   "forge-sparks": [
     "src/48x48/forge-sparks.png",
     "src/64x64/forge-sparks.png",
@@ -7223,6 +7408,11 @@
     "src/64x64/freefilesync.png",
     "src/48x48/freefilesync.png"
   ],
+  "freeglut": [
+    "src/48x48/freeglut.png",
+    "src/64x64/freeglut.png",
+    "src/128x128/freeglut.png"
+  ],
   "freeorion": [
     "src/48x48/freeorion.png",
     "src/64x64/freeorion.png",
@@ -7316,6 +7506,11 @@
     "src/48x48/ftgl.png",
     "src/64x64/ftgl.png",
     "src/128x128/ftgl.png"
+  ],
+  "fulcio": [
+    "src/48x48/fulcio.png",
+    "src/64x64/fulcio.png",
+    "src/128x128/fulcio.png"
   ],
   "furnace": [
     "src/48x48/furnace.png",
@@ -7840,6 +8035,31 @@
     "src/48x48/gameconqueror.png",
     "src/64x64/gameconqueror.png",
     "src/128x128/gameconqueror.png"
+  ],
+  "gamemode": [
+    "src/48x48/gamemode.png",
+    "src/64x64/gamemode.png",
+    "src/128x128/gamemode.png"
+  ],
+  "gamescope": [
+    "src/48x48/gamescope.png",
+    "src/64x64/gamescope.png",
+    "src/128x128/gamescope.png"
+  ],
+  "gamescope-debug": [
+    "src/48x48/gamescope.png",
+    "src/64x64/gamescope.png",
+    "src/128x128/gamescope.png"
+  ],
+  "gamescope-git": [
+    "src/48x48/gamescope.png",
+    "src/64x64/gamescope.png",
+    "src/128x128/gamescope.png"
+  ],
+  "gamescope-plus": [
+    "src/48x48/gamescope-plus.png",
+    "src/64x64/gamescope-plus.png",
+    "src/128x128/gamescope-plus.png"
   ],
   "gamescope-session-cachyos": [
     "src/48x48/cachyos.png",
@@ -16142,6 +16362,11 @@
     "src/64x64/hazelnut.png",
     "src/128x128/hazelnut.png"
   ],
+  "hblock": [
+    "src/48x48/hblock.png",
+    "src/64x64/hblock.png",
+    "src/128x128/hblock.png"
+  ],
   "hdf5": [
     "src/128x128/hdf5-openmpi.png",
     "src/64x64/hdf5.png",
@@ -16181,6 +16406,11 @@
     "src/48x48/heimdall.png",
     "src/64x64/heimdall.png",
     "src/128x128/heimdall.png"
+  ],
+  "helium-browser-bin": [
+    "src/48x48/helium-browser-bin.png",
+    "src/64x64/helium-browser-bin.png",
+    "src/128x128/helium-browser-bin.png"
   ],
   "helix": [
     "src/64x64/helix.png",
@@ -16471,6 +16701,11 @@
     "src/48x48/hyphen.png",
     "src/64x64/hyphen.png",
     "src/128x128/xine-lib.png"
+  ],
+  "hypnotix": [
+    "src/48x48/muffin.png",
+    "src/64x64/muffin.png",
+    "src/128x128/muffin.png"
   ],
   "hyprcursor": [
     "src/48x48/hyprland.png",
@@ -17296,6 +17531,11 @@
     "src/128x128/serf.png",
     "src/64x64/java-batik.png",
     "src/48x48/java-batik.png"
+  ],
+  "jbig2dec": [
+    "src/48x48/jbig2dec.png",
+    "src/64x64/jbig2dec.png",
+    "src/128x128/jbig2dec.png"
   ],
   "jc303-clap": [
     "src/128x128/jc303-vst3.png",
@@ -22677,10 +22917,25 @@
     "src/64x64/keychain.png",
     "src/48x48/keychain.png"
   ],
+  "libsixel": [
+    "src/48x48/libsixel.png",
+    "src/64x64/libsixel.png",
+    "src/128x128/libsixel.png"
+  ],
+  "libsmbios": [
+    "src/48x48/libsmbios.png",
+    "src/64x64/libsmbios.png",
+    "src/128x128/libsmbios.png"
+  ],
   "libsodium": [
     "src/48x48/lib32-libsodium.png",
     "src/64x64/lib32-libsodium.png",
     "src/128x128/lib32-libsodium.png"
+  ],
+  "libsolv": [
+    "src/48x48/libsolv.png",
+    "src/64x64/libsolv.png",
+    "src/128x128/libsolv.png"
   ],
   "libsoup": [
     "src/128x128/libgdata.png",
@@ -22717,6 +22972,26 @@
     "src/64x64/lib32-colord.png",
     "src/48x48/lib32-colord.png"
   ],
+  "libspiro": [
+    "src/48x48/libspiro.png",
+    "src/64x64/libspiro.png",
+    "src/128x128/libspiro.png"
+  ],
+  "libsrm": [
+    "src/48x48/libsrm.png",
+    "src/64x64/libsrm.png",
+    "src/128x128/libsrm.png"
+  ],
+  "libsrtp": [
+    "src/48x48/libsrtp.png",
+    "src/64x64/libsrtp.png",
+    "src/128x128/libsrtp.png"
+  ],
+  "libsrtp-docs": [
+    "src/48x48/libsrtp.png",
+    "src/64x64/libsrtp.png",
+    "src/128x128/libsrtp.png"
+  ],
   "libssh": [
     "src/128x128/libssh.png",
     "src/64x64/libssh.png",
@@ -22742,6 +23017,11 @@
     "src/64x64/lib32-gcc-libs.png",
     "src/48x48/lib32-gcc-libs.png"
   ],
+  "libstemmer": [
+    "src/48x48/libstemmer.png",
+    "src/64x64/libstemmer.png",
+    "src/128x128/libstemmer.png"
+  ],
   "libsvm": [
     "src/128x128/libsvm.png",
     "src/64x64/libsvm.png",
@@ -22751,6 +23031,11 @@
     "src/128x128/libsysprof-capture.png",
     "src/64x64/libsysprof-capture.png",
     "src/48x48/libsysprof-capture.png"
+  ],
+  "libsysstat": [
+    "src/48x48/libsysstat.png",
+    "src/64x64/libsysstat.png",
+    "src/128x128/libsysstat.png"
   ],
   "libtar": [
     "src/128x128/libtar.png",
@@ -22772,15 +23057,30 @@
     "src/64x64/lib32-libteam.png",
     "src/48x48/lib32-libteam.png"
   ],
+  "libtg_owt": [
+    "src/48x48/libtg_owt.png",
+    "src/64x64/libtg_owt.png",
+    "src/128x128/libtg_owt.png"
+  ],
   "libthai": [
     "src/128x128/libthai.png",
     "src/64x64/lib32-libdatrie.png",
     "src/48x48/lib32-libdatrie.png"
   ],
+  "libtheora": [
+    "src/48x48/libtheora.png",
+    "src/64x64/libtheora.png",
+    "src/128x128/libtheora.png"
+  ],
   "libtirpc": [
     "src/128x128/libtar.png",
     "src/64x64/libtar.png",
     "src/48x48/libtar.png"
+  ],
+  "libtlsrpt": [
+    "src/48x48/libtlsrpt.png",
+    "src/64x64/libtlsrpt.png",
+    "src/128x128/libtlsrpt.png"
   ],
   "libtomcrypt": [
     "src/128x128/libtomcrypt.png",
@@ -22817,6 +23117,11 @@
     "src/64x64/lib32-gcc-libs.png",
     "src/48x48/lib32-gcc-libs.png"
   ],
+  "libu2f-server": [
+    "src/48x48/libu2f-server.png",
+    "src/64x64/libu2f-server.png",
+    "src/128x128/libu2f-server.png"
+  ],
   "libubsan": [
     "src/128x128/libgfortran.png",
     "src/64x64/lib32-gcc-libs.png",
@@ -22837,15 +23142,50 @@
     "src/64x64/libuhd.png",
     "src/128x128/libuhd.png"
   ],
+  "libultrahdr": [
+    "src/48x48/libultrahdr.png",
+    "src/64x64/libultrahdr.png",
+    "src/128x128/libultrahdr.png"
+  ],
+  "libunicode": [
+    "src/48x48/libunicode.png",
+    "src/64x64/libunicode.png",
+    "src/128x128/libunicode.png"
+  ],
+  "libuninameslist": [
+    "src/48x48/libspiro.png",
+    "src/64x64/libspiro.png",
+    "src/128x128/libspiro.png"
+  ],
+  "libunistring": [
+    "src/48x48/glpk.png",
+    "src/64x64/glpk.png",
+    "src/128x128/glpk.png"
+  ],
   "libusb": [
     "src/128x128/libusb.png",
     "src/64x64/lib32-libusb.png",
     "src/48x48/lib32-libusb.png"
   ],
+  "libusb-compat": [
+    "src/48x48/libusb-compat.png",
+    "src/64x64/libusb-compat.png",
+    "src/128x128/libusb-compat.png"
+  ],
   "libusbmuxd": [
     "src/128x128/libimobiledevice.png",
     "src/64x64/ifuse.png",
     "src/48x48/ifuse.png"
+  ],
+  "libutempter": [
+    "src/48x48/libutempter.png",
+    "src/64x64/libutempter.png",
+    "src/128x128/libutempter.png"
+  ],
+  "libutf8proc": [
+    "src/48x48/libutf8proc.png",
+    "src/64x64/libutf8proc.png",
+    "src/128x128/libutf8proc.png"
   ],
   "libuv": [
     "src/48x48/libuv.png",
@@ -22862,10 +23202,25 @@
     "src/64x64/lib32-libva.png",
     "src/48x48/lib32-libva.png"
   ],
+  "libva-utils": [
+    "src/48x48/libva-utils.png",
+    "src/64x64/libva-utils.png",
+    "src/128x128/libva-utils.png"
+  ],
+  "libvarlink": [
+    "src/48x48/libvarlink.png",
+    "src/64x64/libvarlink.png",
+    "src/128x128/libvarlink.png"
+  ],
   "libvdpau": [
     "src/128x128/libmbim.png",
     "src/64x64/lib32-colord.png",
     "src/48x48/lib32-colord.png"
+  ],
+  "libverto": [
+    "src/48x48/libverto.png",
+    "src/64x64/libverto.png",
+    "src/128x128/libverto.png"
   ],
   "libvirt": [
     "src/128x128/libvirt.png",
@@ -22907,15 +23262,40 @@
     "src/64x64/libvlc.png",
     "src/48x48/libvlc.png"
   ],
+  "libvoikko": [
+    "src/48x48/libvoikko.png",
+    "src/64x64/libvoikko.png",
+    "src/128x128/libvoikko.png"
+  ],
   "libvolk": [
     "src/128x128/libvolk.png",
     "src/64x64/libvolk.png",
     "src/48x48/libvolk.png"
   ],
+  "libvorbis": [
+    "src/48x48/libvorbis.png",
+    "src/64x64/libvorbis.png",
+    "src/128x128/libvorbis.png"
+  ],
+  "libvorbis-docs": [
+    "src/48x48/libvorbis.png",
+    "src/64x64/libvorbis.png",
+    "src/128x128/libvorbis.png"
+  ],
+  "libvpl-tools": [
+    "src/48x48/libva-utils.png",
+    "src/64x64/libva-utils.png",
+    "src/128x128/libva-utils.png"
+  ],
   "libvpx": [
     "src/128x128/libvpx.png",
     "src/64x64/libvpx.png",
     "src/48x48/libvpx.png"
+  ],
+  "libwacom": [
+    "src/48x48/libwacom.png",
+    "src/64x64/libwacom.png",
+    "src/128x128/libwacom.png"
   ],
   "libwbclient": [
     "src/128x128/libwbclient.png",
@@ -22932,6 +23312,16 @@
     "src/64x64/libwebp.png",
     "src/48x48/libwebp.png"
   ],
+  "libwebsockets": [
+    "src/48x48/libwebsockets.png",
+    "src/64x64/libwebsockets.png",
+    "src/128x128/libwebsockets.png"
+  ],
+  "libwhereami": [
+    "src/48x48/libwhereami.png",
+    "src/64x64/libwhereami.png",
+    "src/128x128/libwhereami.png"
+  ],
   "libwpe": [
     "src/128x128/libwpe.png",
     "src/64x64/libwpe.png",
@@ -22941,6 +23331,21 @@
     "src/128x128/libwpe.png",
     "src/64x64/libwpe.png",
     "src/48x48/libwpe.png"
+  ],
+  "libwps": [
+    "src/48x48/libwps.png",
+    "src/64x64/libwps.png",
+    "src/128x128/libwps.png"
+  ],
+  "libwps-doc": [
+    "src/48x48/libwps.png",
+    "src/64x64/libwps.png",
+    "src/128x128/libwps.png"
+  ],
+  "libxdp": [
+    "src/48x48/libxdp.png",
+    "src/64x64/libxdp.png",
+    "src/128x128/libxdp.png"
   ],
   "libxisf": [
     "src/128x128/libisoburn.png",
@@ -22957,15 +23362,65 @@
     "src/64x64/libxmlbird.png",
     "src/48x48/libxmlbird.png"
   ],
+  "libxnvctrl": [
+    "src/48x48/libxnvctrl.png",
+    "src/64x64/libxnvctrl.png",
+    "src/128x128/libxnvctrl.png"
+  ],
+  "libxnvctrl-390xx": [
+    "src/48x48/libxnvctrl.png",
+    "src/64x64/libxnvctrl.png",
+    "src/128x128/libxnvctrl.png"
+  ],
+  "libxnvctrl-470xx": [
+    "src/48x48/libxnvctrl.png",
+    "src/64x64/libxnvctrl.png",
+    "src/128x128/libxnvctrl.png"
+  ],
+  "libxnvctrl-535xx": [
+    "src/48x48/libxnvctrl.png",
+    "src/64x64/libxnvctrl.png",
+    "src/128x128/libxnvctrl.png"
+  ],
+  "libxnvctrl-580xx": [
+    "src/48x48/libxnvctrl.png",
+    "src/64x64/libxnvctrl.png",
+    "src/128x128/libxnvctrl.png"
+  ],
+  "libxsd": [
+    "src/48x48/libxsd.png",
+    "src/64x64/libxsd.png",
+    "src/128x128/libxsd.png"
+  ],
+  "libxsd-frontend": [
+    "src/48x48/libxsd.png",
+    "src/64x64/libxsd.png",
+    "src/128x128/libxsd.png"
+  ],
   "libzdb": [
     "src/128x128/libzdb.png",
     "src/64x64/libzdb.png",
     "src/48x48/libzdb.png"
   ],
+  "libzim": [
+    "src/48x48/libzim.png",
+    "src/64x64/libzim.png",
+    "src/128x128/libzim.png"
+  ],
   "libzip": [
     "src/48x48/libzip.png",
     "src/64x64/libzip.png",
     "src/128x128/libzip.png"
+  ],
+  "libzypp": [
+    "src/48x48/libsolv.png",
+    "src/64x64/libsolv.png",
+    "src/128x128/libsolv.png"
+  ],
+  "libzypp-docs": [
+    "src/48x48/libsolv.png",
+    "src/64x64/libsolv.png",
+    "src/128x128/libsolv.png"
   ],
   "lidia": [
     "src/128x128/lidia.png",
@@ -22982,10 +23437,40 @@
     "src/64x64/liferea.png",
     "src/128x128/liferea.png"
   ],
+  "lightdm": [
+    "src/48x48/netplan.png",
+    "src/64x64/netplan.png",
+    "src/128x128/netplan.png"
+  ],
+  "lightdm-gtk-greeter": [
+    "src/48x48/lightdm-gtk-greeter.png",
+    "src/64x64/lightdm-gtk-greeter.png",
+    "src/128x128/lightdm-gtk-greeter.png"
+  ],
+  "lightdm-gtk-greeter-settings": [
+    "src/48x48/lightdm-gtk-greeter.png",
+    "src/64x64/lightdm-gtk-greeter.png",
+    "src/128x128/lightdm-gtk-greeter.png"
+  ],
+  "lightdm-pantheon-greeter": [
+    "src/48x48/lightdm-pantheon-greeter.png",
+    "src/64x64/lightdm-pantheon-greeter.png",
+    "src/128x128/lightdm-pantheon-greeter.png"
+  ],
+  "lightdm-slick-greeter": [
+    "src/48x48/muffin.png",
+    "src/64x64/muffin.png",
+    "src/128x128/muffin.png"
+  ],
   "lightdm-webkit-theme-litarvan": [
     "src/48x48/lightdm-webkit-theme-litarvan.png",
     "src/64x64/lightdm-webkit-theme-litarvan.png",
     "src/128x128/lightdm-webkit-theme-litarvan.png"
+  ],
+  "lightdm-webkit2-greeter": [
+    "src/48x48/lightdm-webkit2-greeter.png",
+    "src/64x64/lightdm-webkit2-greeter.png",
+    "src/128x128/lightdm-webkit2-greeter.png"
   ],
   "lightsoff": [
     "src/48x48/lightsoff.png",
@@ -23040,6 +23525,11 @@
     "src/64x64/lincity-ng.png",
     "src/128x128/lincity-ng.png"
   ],
+  "linenoise-ng": [
+    "src/48x48/linenoise-ng.png",
+    "src/64x64/linenoise-ng.png",
+    "src/128x128/linenoise-ng.png"
+  ],
   "links": [
     "src/128x128/links.png",
     "src/64x64/links.png",
@@ -23047,6 +23537,11 @@
   ],
   "linssid": [
     "src/64x64/linssid.png"
+  ],
+  "linunrar": [
+    "src/48x48/linunrar.png",
+    "src/64x64/linunrar.png",
+    "src/128x128/linunrar.png"
   ],
   "linux": [
     "src/48x48/linux.png",
@@ -24133,6 +24628,11 @@
     "src/64x64/liquid-dsp.png",
     "src/48x48/liquid-dsp.png"
   ],
+  "liquidctl": [
+    "src/48x48/liquidctl.png",
+    "src/64x64/liquidctl.png",
+    "src/128x128/liquidctl.png"
+  ],
   "lite-xl": [
     "src/48x48/lite-xl.png",
     "src/64x64/lite-xl.png",
@@ -24255,6 +24755,11 @@
     "src/64x64/jetring.png",
     "src/48x48/jetring.png"
   ],
+  "log4cplus": [
+    "src/48x48/log4cplus.png",
+    "src/64x64/log4cplus.png",
+    "src/128x128/log4cplus.png"
+  ],
   "log4cxx": [
     "src/128x128/log4cxx.png",
     "src/64x64/log4cxx.png",
@@ -24317,6 +24822,11 @@
     "src/48x48/lqxt.png",
     "src/64x64/lqxt.png",
     "src/128x128/lqxt.png"
+  ],
+  "lsd": [
+    "src/48x48/lsd.png",
+    "src/64x64/lsd.png",
+    "src/128x128/lsd.png"
   ],
   "lshw": [
     "src/64x64/lshw.png"
@@ -25891,9 +26401,19 @@
     "src/64x64/luarocks.png",
     "src/48x48/luarocks.png"
   ],
+  "luau": [
+    "src/48x48/luau.png",
+    "src/64x64/luau.png",
+    "src/128x128/luau.png"
+  ],
   "ludusavi": [
     "src/64x64/ludusavi.png",
     "src/128x128/ludusavi.png"
+  ],
+  "luksmeta": [
+    "src/48x48/libverto.png",
+    "src/64x64/libverto.png",
+    "src/128x128/libverto.png"
   ],
   "luminancehdr": [
     "src/48x48/luminancehdr.png",
@@ -25937,6 +26457,16 @@
     "src/64x64/lv2.png",
     "src/48x48/lv2.png"
   ],
+  "lxappearance": [
+    "src/48x48/lxappearance.png",
+    "src/64x64/lxappearance.png",
+    "src/128x128/lxappearance.png"
+  ],
+  "lxappearance-obconf": [
+    "src/48x48/lxappearance.png",
+    "src/64x64/lxappearance.png",
+    "src/128x128/lxappearance.png"
+  ],
   "lxc": [
     "src/128x128/lxc.png",
     "src/64x64/incus.png",
@@ -25952,14 +26482,49 @@
     "src/64x64/lxd.png",
     "src/48x48/lxd.png"
   ],
+  "lxde-common": [
+    "src/48x48/lxappearance.png",
+    "src/64x64/lxappearance.png",
+    "src/128x128/lxappearance.png"
+  ],
+  "lxde-icon-theme": [
+    "src/48x48/lxappearance.png",
+    "src/64x64/lxappearance.png",
+    "src/128x128/lxappearance.png"
+  ],
+  "lxhotkey": [
+    "src/48x48/lxappearance.png",
+    "src/64x64/lxappearance.png",
+    "src/128x128/lxappearance.png"
+  ],
   "lximage-qt": [
     "src/48x48/lximage-qt.png",
     "src/64x64/lximage-qt.png"
+  ],
+  "lxinput": [
+    "src/48x48/lxappearance.png",
+    "src/64x64/lxappearance.png",
+    "src/128x128/lxappearance.png"
+  ],
+  "lxlauncher": [
+    "src/48x48/lxappearance.png",
+    "src/64x64/lxappearance.png",
+    "src/128x128/lxappearance.png"
+  ],
+  "lxmenu-data": [
+    "src/48x48/lxappearance.png",
+    "src/64x64/lxappearance.png",
+    "src/128x128/lxappearance.png"
   ],
   "lxmusic": [
     "src/48x48/lxmusic.png",
     "src/64x64/lxmusic.png",
     "src/128x128/lxmusic.png"
+  ],
+  "lxpanel": [
+    "src/48x48/lxappearance.png",
+    "src/64x64/lxappearance.png",
+    "src/128x128/lxappearance.png"
   ],
   "lxqt": [
     "src/48x48/lxqt.png",
@@ -25990,6 +26555,11 @@
     "src/48x48/lxqt.png",
     "src/64x64/lxqt.png",
     "src/128x128/lxqt.png"
+  ],
+  "lxqt-builds-tools-qt5": [
+    "src/48x48/libsysstat.png",
+    "src/64x64/libsysstat.png",
+    "src/128x128/libsysstat.png"
   ],
   "lxqt-config": [
     "src/48x48/lxqt.png",
@@ -26090,10 +26660,30 @@
     "src/64x64/lyx.png",
     "src/128x128/lyx.png"
   ],
+  "lzip": [
+    "src/48x48/lzip.png",
+    "src/64x64/lzip.png",
+    "src/128x128/lzip.png"
+  ],
+  "lzlib": [
+    "src/48x48/lzlib.png",
+    "src/64x64/lzlib.png",
+    "src/128x128/lzlib.png"
+  ],
   "lzop": [
     "src/128x128/lzop.png",
     "src/64x64/lzop.png",
     "src/48x48/lzop.png"
+  ],
+  "m17n-db": [
+    "src/48x48/m17n-db.png",
+    "src/64x64/m17n-db.png",
+    "src/128x128/m17n-db.png"
+  ],
+  "m17n-lib": [
+    "src/48x48/m17n-db.png",
+    "src/64x64/m17n-db.png",
+    "src/128x128/m17n-db.png"
   ],
   "m4ri": [
     "src/128x128/libnu.png",
@@ -26109,6 +26699,11 @@
     "src/128x128/mac.png",
     "src/64x64/mac.png",
     "src/48x48/mac.png"
+  ],
+  "macchina": [
+    "src/48x48/macchina.png",
+    "src/64x64/macchina.png",
+    "src/128x128/macchina.png"
   ],
   "maelstrom-broker": [
     "src/128x128/maelstrom-broker.png",
@@ -26139,6 +26734,16 @@
     "src/128x128/maelstrom-broker.png",
     "src/64x64/maelstrom-broker.png",
     "src/48x48/maelstrom-broker.png"
+  ],
+  "maeparser": [
+    "src/48x48/maeparser.png",
+    "src/64x64/maeparser.png",
+    "src/128x128/maeparser.png"
+  ],
+  "maeparser.png": [
+    "src/48x48/maeparser.png",
+    "src/64x64/maeparser.png",
+    "src/128x128/maeparser.png"
   ],
   "mage": [
     "src/128x128/mage.png",
@@ -26496,6 +27101,11 @@
     "src/64x64/materia-kde.png",
     "src/128x128/materia-kde.png"
   ],
+  "materialx": [
+    "src/48x48/materialx.png",
+    "src/64x64/materialx.png",
+    "src/128x128/materialx.png"
+  ],
   "mathjax": [
     "src/128x128/mathjax.png",
     "src/64x64/mathjax.png",
@@ -26621,6 +27231,21 @@
   "maxima": [
     "src/64x64/maxima.png"
   ],
+  "maxima-ecl": [
+    "src/48x48/maxima-sbcl.png",
+    "src/64x64/maxima-sbcl.png",
+    "src/128x128/maxima-sbcl.png"
+  ],
+  "maxima-fas": [
+    "src/48x48/maxima-sbcl.png",
+    "src/64x64/maxima-sbcl.png",
+    "src/128x128/maxima-sbcl.png"
+  ],
+  "maxima-sbcl": [
+    "src/48x48/maxima-sbcl.png",
+    "src/64x64/maxima-sbcl.png",
+    "src/128x128/maxima-sbcl.png"
+  ],
   "mc": [
     "src/128x128/mc.png",
     "src/64x64/mc.png",
@@ -26668,6 +27293,11 @@
     "src/48x48/mediathekview.png",
     "src/64x64/mediathekview.png",
     "src/128x128/mediathekview.png"
+  ],
+  "mediawiki": [
+    "src/48x48/mediawiki.png",
+    "src/64x64/mediawiki.png",
+    "src/128x128/mediawiki.png"
   ],
   "mednafen": [
     "src/128x128/mednafen.png",
@@ -26786,6 +27416,11 @@
     "src/128x128/meson.png",
     "src/64x64/meson.png",
     "src/48x48/meson.png"
+  ],
+  "meson-python": [
+    "src/48x48/meson-python.png",
+    "src/64x64/meson-python.png",
+    "src/128x128/meson-python.png"
   ],
   "messagelib": [
     "src/128x128/libgravatar.png",
@@ -27088,6 +27723,11 @@
     "src/48x48/monero-gui.png",
     "src/64x64/monero-gui.png",
     "src/128x128/monero-gui.png"
+  ],
+  "mongo-c-driver": [
+    "src/48x48/mongo-c-driver.png",
+    "src/64x64/mongo-c-driver.png",
+    "src/128x128/mongo-c-driver.png"
   ],
   "mongodb-compass": [
     "src/48x48/mongodb-compass.png",
@@ -27762,6 +28402,11 @@
     "src/48x48/nethack.png",
     "src/64x64/nethack.png",
     "src/128x128/nethack.png"
+  ],
+  "nethsm-pkcs11": [
+    "src/48x48/nethsm-pkcs11.png",
+    "src/64x64/nethsm-pkcs11.png",
+    "src/128x128/nethsm-pkcs11.png"
   ],
   "netperf": [
     "src/48x48/netperf.png",
@@ -34812,6 +35457,11 @@
     "src/64x64/poco.png",
     "src/48x48/poco.png"
   ],
+  "podlet": [
+    "src/48x48/netavark.png",
+    "src/64x64/netavark.png",
+    "src/128x128/netavark.png"
+  ],
   "podman": [
     "src/48x48/podman.png",
     "src/64x64/podman.png",
@@ -34863,6 +35513,36 @@
     "src/48x48/pop-gtk-theme.png",
     "src/64x64/pop-gtk-theme.png",
     "src/128x128/pop-gtk-theme.png"
+  ],
+  "pop-icon-theme": [
+    "src/48x48/pop-launcher-git.png",
+    "src/64x64/pop-launcher-git.png",
+    "src/128x128/pop-launcher-git.png"
+  ],
+  "pop-icon-theme-git": [
+    "src/48x48/pop-launcher-git.png",
+    "src/64x64/pop-launcher-git.png",
+    "src/128x128/pop-launcher-git.png"
+  ],
+  "pop-launcher": [
+    "src/48x48/pop-launcher-git.png",
+    "src/64x64/pop-launcher-git.png",
+    "src/128x128/pop-launcher-git.png"
+  ],
+  "pop-launcher-git": [
+    "src/48x48/pop-launcher-git.png",
+    "src/64x64/pop-launcher-git.png",
+    "src/128x128/pop-launcher-git.png"
+  ],
+  "pop-shell-plugin-system76-power-git": [
+    "src/48x48/pop-launcher-git.png",
+    "src/64x64/pop-launcher-git.png",
+    "src/128x128/pop-launcher-git.png"
+  ],
+  "pop-shell-shortcuts-git": [
+    "src/48x48/pop-launcher-git.png",
+    "src/64x64/pop-launcher-git.png",
+    "src/128x128/pop-launcher-git.png"
   ],
   "pop-sound-theme": [
     "src/48x48/pop-gtk-theme.png",
@@ -34986,6 +35666,11 @@
     "src/64x64/premake.png",
     "src/48x48/premake.png"
   ],
+  "premake3": [
+    "src/48x48/premake3.png",
+    "src/64x64/premake3.png",
+    "src/128x128/premake3.png"
+  ],
   "print-manager": [
     "src/48x48/print-manager.png",
     "src/64x64/print-manager.png",
@@ -35010,6 +35695,16 @@
     "src/48x48/opencc.png",
     "src/64x64/opencc.png",
     "src/128x128/opencc.png"
+  ],
+  "prjtrellis-db": [
+    "src/48x48/prjtrellis-db.png",
+    "src/64x64/prjtrellis-db.png",
+    "src/128x128/prjtrellis-db.png"
+  ],
+  "prjxray-db": [
+    "src/48x48/prjxray-db.png",
+    "src/64x64/prjxray-db.png",
+    "src/128x128/prjxray-db.png"
   ],
   "probe-rs": [
     "src/128x128/probe-rs.png",
@@ -35215,6 +35910,16 @@
   "protonup-qt": [
     "src/64x64/protonup-qt.png",
     "src/128x128/protonup-qt.png"
+  ],
+  "protozero": [
+    "src/48x48/protozero.png",
+    "src/64x64/protozero.png",
+    "src/128x128/protozero.png"
+  ],
+  "protozero-docs": [
+    "src/48x48/protozero.png",
+    "src/64x64/protozero.png",
+    "src/128x128/protozero.png"
   ],
   "psensor": [
     "src/48x48/psensor.png",
@@ -51075,6 +51780,11 @@
     "src/64x64/s-tui.png",
     "src/128x128/s-tui.png"
   ],
+  "s2n-tls": [
+    "src/48x48/s2n-tls.png",
+    "src/64x64/s2n-tls.png",
+    "src/128x128/s2n-tls.png"
+  ],
   "sabnzbd": [
     "src/64x64/sabnzbd.png",
     "src/128x128/sabnzbd.png"
@@ -51224,6 +51934,11 @@
     "src/64x64/scons.png",
     "src/128x128/scons.png"
   ],
+  "scour": [
+    "src/48x48/scour.png",
+    "src/64x64/scour.png",
+    "src/128x128/scour.png"
+  ],
   "scrapy": [
     "src/128x128/python-queuelib.png",
     "src/64x64/python-queuelib.png",
@@ -51281,6 +51996,11 @@
     "src/48x48/sddm-nordic-theme-git.png",
     "src/64x64/sddm-nordic-theme-git.png",
     "src/128x128/sddm-nordic-theme-git.png"
+  ],
+  "sdl_mixer": [
+    "src/48x48/sdl_mixer.png",
+    "src/64x64/sdl_mixer.png",
+    "src/128x128/sdl_mixer.png"
   ],
   "sdl3": [
     "src/128x128/sdl3.png",
@@ -51394,6 +52114,16 @@
     "src/64x64/sfml.png",
     "src/48x48/sfml.png"
   ],
+  "shader-slang": [
+    "src/48x48/shader-slang.png",
+    "src/64x64/shader-slang.png",
+    "src/128x128/shader-slang.png"
+  ],
+  "shaderc": [
+    "src/48x48/libultrahdr.png",
+    "src/64x64/libultrahdr.png",
+    "src/128x128/libultrahdr.png"
+  ],
   "shadowsocks": [
     "src/128x128/libvirt-python.png",
     "src/64x64/jupyter-jsmol.png",
@@ -51444,9 +52174,9 @@
     "src/128x128/shellharden.png"
   ],
   "shelly": [
-    "src/48x48/shelly.png",
-    "src/64x64/shelly.png",
-    "src/128x128/shelly.png"
+    "src/48x48/shellylogo.png",
+    "src/64x64/shellylogo.png",
+    "src/128x128/shellylogo.png"
   ],
   "shellylogo": [
     "src/48x48/shellylogo.png",
@@ -51562,6 +52292,21 @@
     "src/64x64/skanpage.png",
     "src/128x128/skanpage.png"
   ],
+  "skate": [
+    "src/48x48/glow.png",
+    "src/64x64/glow.png",
+    "src/128x128/glow.png"
+  ],
+  "skia-sharp": [
+    "src/48x48/skia-sharp.png",
+    "src/64x64/skia-sharp.png",
+    "src/128x128/skia-sharp.png"
+  ],
+  "skim": [
+    "src/48x48/skim.png",
+    "src/64x64/skim.png",
+    "src/128x128/skim.png"
+  ],
   "skladnik": [
     "src/48x48/skladnik.png",
     "src/64x64/skladnik.png",
@@ -51661,6 +52406,26 @@
   "snowball": [
     "src/64x64/snowball.png",
     "src/128x128/snowball.png"
+  ],
+  "soapynetdsr": [
+    "src/48x48/soapyosmo.png",
+    "src/64x64/soapyosmo.png",
+    "src/128x128/soapyosmo.png"
+  ],
+  "soapyosmo": [
+    "src/48x48/soapyosmo.png",
+    "src/64x64/soapyosmo.png",
+    "src/128x128/soapyosmo.png"
+  ],
+  "soapyremote": [
+    "src/48x48/soapyosmo.png",
+    "src/64x64/soapyosmo.png",
+    "src/128x128/soapyosmo.png"
+  ],
+  "soapyrtlsdr": [
+    "src/48x48/soapyosmo.png",
+    "src/64x64/soapyosmo.png",
+    "src/128x128/soapyosmo.png"
   ],
   "soapysdr": [
     "src/48x48/soapysdr.png",
@@ -54493,6 +55258,16 @@
     "src/64x64/tradingview.png",
     "src/128x128/tradingview.png"
   ],
+  "traefik": [
+    "src/48x48/traefik.png",
+    "src/64x64/traefik.png",
+    "src/128x128/traefik.png"
+  ],
+  "transifex-cli": [
+    "src/48x48/transifex-cli.png",
+    "src/64x64/transifex-cli.png",
+    "src/128x128/transifex-cli.png"
+  ],
   "translate-shell": [
     "src/48x48/translate-shell.png",
     "src/64x64/translate-shell.png",
@@ -54592,6 +55367,16 @@
     "src/64x64/treeland.png",
     "src/128x128/treeland.png"
   ],
+  "treeland-protocols": [
+    "src/48x48/gio-qt.png",
+    "src/64x64/gio-qt.png",
+    "src/128x128/gio-qt.png"
+  ],
+  "treemd": [
+    "src/48x48/treemd.png",
+    "src/64x64/treemd.png",
+    "src/128x128/treemd.png"
+  ],
   "tribler": [
     "src/64x64/tribler.png",
     "src/128x128/tribler.png"
@@ -54606,10 +55391,25 @@
     "src/64x64/trivy.png",
     "src/128x128/trivy.png"
   ],
+  "trojan": [
+    "src/48x48/trojan.png",
+    "src/64x64/trojan.png",
+    "src/128x128/trojan.png"
+  ],
   "trompeloeil": [
     "src/48x48/trompeloeil.png",
     "src/64x64/trompeloeil.png",
     "src/128x128/trompeloeil.png"
+  ],
+  "trunk": [
+    "src/48x48/trunk.png",
+    "src/64x64/trunk.png",
+    "src/128x128/trunk.png"
+  ],
+  "trurl": [
+    "src/48x48/trurl.png",
+    "src/64x64/trurl.png",
+    "src/128x128/trurl.png"
   ],
   "trustedqsl": [
     "src/64x64/trustedqsl.png",
@@ -55065,6 +55865,11 @@
     "src/64x64/linux.png",
     "src/128x128/linux.png"
   ],
+  "tuning-library": [
+    "src/48x48/tuning-library.png",
+    "src/64x64/tuning-library.png",
+    "src/128x128/tuning-library.png"
+  ],
   "tup": [
     "src/128x128/tup.png",
     "src/64x64/tup.png",
@@ -55108,6 +55913,11 @@
     "src/64x64/typescript.png",
     "src/48x48/typescript.png"
   ],
+  "typescript-language-server": [
+    "src/48x48/typescript-language-server.png",
+    "src/64x64/typescript-language-server.png",
+    "src/128x128/typescript-language-server.png"
+  ],
   "typescript-svelte-plugin": [
     "src/48x48/typescript-svelte-plugin.png",
     "src/64x64/typescript-svelte-plugin.png",
@@ -55125,6 +55935,21 @@
     "src/128x128/typst.png",
     "src/64x64/typst.png",
     "src/48x48/typst.png"
+  ],
+  "tzdata": [
+    "src/48x48/tzdata.png",
+    "src/64x64/tzdata.png",
+    "src/128x128/tzdata.png"
+  ],
+  "ublock-origin": [
+    "src/48x48/ublock-origin.png",
+    "src/64x64/ublock-origin.png",
+    "src/128x128/ublock-origin.png"
+  ],
+  "uboot-tools": [
+    "src/48x48/uboot-tools.png",
+    "src/64x64/uboot-tools.png",
+    "src/128x128/uboot-tools.png"
   ],
   "ubuntu-keyring": [
     "src/48x48/linux.png",
@@ -55166,6 +55991,11 @@
     "src/64x64/lib32-colord.png",
     "src/48x48/lib32-colord.png"
   ],
+  "ufmt": [
+    "src/48x48/ufmt.png",
+    "src/64x64/ufmt.png",
+    "src/128x128/ufmt.png"
+  ],
   "ufw": [
     "src/128x128/libnih.png",
     "src/64x64/libnih.png",
@@ -55180,6 +56010,16 @@
     "src/128x128/uglify-js.png",
     "src/64x64/uglify-js.png",
     "src/48x48/uglify-js.png"
+  ],
+  "ugrep": [
+    "src/48x48/ugrep.png",
+    "src/64x64/ugrep.png",
+    "src/128x128/ugrep.png"
+  ],
+  "ukui-notebook": [
+    "src/48x48/ukui-notebook.png",
+    "src/64x64/ukui-notebook.png",
+    "src/128x128/ukui-notebook.png"
   ],
   "ulogd": [
     "src/128x128/libmnl.png",
@@ -55196,10 +56036,25 @@
     "src/64x64/umoci.png",
     "src/128x128/umoci.png"
   ],
+  "umu-launcher": [
+    "src/48x48/umu-launcher.png",
+    "src/64x64/umu-launcher.png",
+    "src/128x128/umu-launcher.png"
+  ],
   "unace": [
     "src/128x128/unace.png",
     "src/64x64/unace.png",
     "src/48x48/unace.png"
+  ],
+  "unarchiver": [
+    "src/48x48/unarchiver.png",
+    "src/64x64/unarchiver.png",
+    "src/128x128/unarchiver.png"
+  ],
+  "unarj": [
+    "src/48x48/unarj.png",
+    "src/64x64/unarj.png",
+    "src/128x128/unarj.png"
   ],
   "unbound": [
     "src/128x128/unbound.png",
@@ -55210,6 +56065,11 @@
     "src/48x48/unciv-bin.png",
     "src/64x64/unciv-bin.png",
     "src/128x128/unciv-bin.png"
+  ],
+  "unibilium": [
+    "src/48x48/unibilium.png",
+    "src/64x64/unibilium.png",
+    "src/128x128/unibilium.png"
   ],
   "unicorn": [
     "src/128x128/python-unicorn.png",
@@ -55226,10 +56086,25 @@
     "src/64x64/unison.png",
     "src/128x128/unison.png"
   ],
+  "unittestpp": [
+    "src/48x48/unittestpp.png",
+    "src/64x64/unittestpp.png",
+    "src/128x128/unittestpp.png"
+  ],
+  "unoconv": [
+    "src/48x48/unoconv.png",
+    "src/64x64/unoconv.png",
+    "src/128x128/unoconv.png"
+  ],
   "unp": [
     "src/128x128/soundfont-fluid.png",
     "src/64x64/lib32-fakeroot.png",
     "src/48x48/lib32-fakeroot.png"
+  ],
+  "unrar": [
+    "src/48x48/linunrar.png",
+    "src/64x64/linunrar.png",
+    "src/128x128/linunrar.png"
   ],
   "unuran": [
     "src/128x128/unuran.png",
@@ -55261,6 +56136,11 @@
     "src/48x48/usage.png",
     "src/64x64/usage.png",
     "src/128x128/usage.png"
+  ],
+  "usbguard": [
+    "src/48x48/usbguard.png",
+    "src/64x64/usbguard.png",
+    "src/128x128/usbguard.png"
   ],
   "usbip": [
     "src/128x128/perf.png",
@@ -55311,6 +56191,11 @@
     "src/48x48/v4l-utils.png",
     "src/64x64/v4l-utils.png",
     "src/128x128/v4l-utils.png"
+  ],
+  "v4l2loppback-dkms": [
+    "src/48x48/v4l2loppback-dkms.png",
+    "src/64x64/v4l2loppback-dkms.png",
+    "src/128x128/v4l2loppback-dkms.png"
   ],
   "vala": [
     "src/128x128/libgdata.png",
@@ -55366,6 +56251,11 @@
     "src/64x64/vc.png",
     "src/128x128/vc.png"
   ],
+  "vc-intrinsics": [
+    "src/48x48/libva-utils.png",
+    "src/64x64/libva-utils.png",
+    "src/128x128/libva-utils.png"
+  ],
   "vcmi": [
     "src/64x64/vcmi.png",
     "src/128x128/vcmi.png"
@@ -55380,6 +56270,21 @@
     "src/64x64/vcspull.png",
     "src/48x48/vcspull.png"
   ],
+  "vde2": [
+    "src/48x48/vde2.png",
+    "src/64x64/vde2.png",
+    "src/128x128/vde2.png"
+  ],
+  "vector-blf": [
+    "src/48x48/vector-blf.png",
+    "src/64x64/vector-blf.png",
+    "src/128x128/vector-blf.png"
+  ],
+  "vehicle-command": [
+    "src/48x48/vehicle-command.png",
+    "src/64x64/vehicle-command.png",
+    "src/128x128/vehicle-command.png"
+  ],
   "ventoy-bin": [
     "src/128x128/ventoy-bin.png",
     "src/64x64/ventoy-bin.png",
@@ -55390,6 +56295,11 @@
     "src/64x64/veracrypt.png",
     "src/128x128/veracrypt.png"
   ],
+  "verdict": [
+    "src/48x48/verdict.png",
+    "src/64x64/verdict.png",
+    "src/128x128/verdict.png"
+  ],
   "verilator": [
     "src/128x128/verilator.png",
     "src/64x64/verilator.png",
@@ -55398,6 +56308,11 @@
   "vesktop": [
     "src/64x64/vesktop.png",
     "src/128x128/vesktop.png"
+  ],
+  "vhs": [
+    "src/48x48/glow.png",
+    "src/64x64/glow.png",
+    "src/128x128/glow.png"
   ],
   "vibrantlinux": [
     "src/64x64/vibrantlinux.png",
@@ -55426,6 +56341,11 @@
     "src/128x128/vifm.png",
     "src/64x64/vifm.png",
     "src/48x48/vifm.png"
+  ],
+  "vigra": [
+    "src/48x48/vigra.png",
+    "src/64x64/vigra.png",
+    "src/128x128/vigra.png"
   ],
   "viking": [
     "src/48x48/viking.png",
@@ -55818,15 +56738,30 @@
     "src/64x64/visitors.png",
     "src/48x48/visitors.png"
   ],
+  "viskores": [
+    "src/48x48/viskores.png",
+    "src/64x64/viskores.png",
+    "src/128x128/viskores.png"
+  ],
   "visualvm": [
     "src/128x128/visualvm.png",
     "src/64x64/visualvm.png",
     "src/48x48/visualvm.png"
   ],
+  "vit": [
+    "src/48x48/vit.png",
+    "src/64x64/vit.png",
+    "src/128x128/vit.png"
+  ],
   "vivaldi": [
     "src/48x48/vivaldi.png",
     "src/64x64/vivaldi.png",
     "src/128x128/vivaldi.png"
+  ],
+  "vl-convert": [
+    "src/48x48/vl-convert.png",
+    "src/64x64/vl-convert.png",
+    "src/128x128/vl-convert.png"
   ],
   "vlc": [
     "src/48x48/vlc.png",
@@ -56282,6 +57217,11 @@
     "src/64x64/vokoscreen.png",
     "src/128x128/vokoscreen.png"
   ],
+  "volatility3": [
+    "src/48x48/volatility3.png",
+    "src/64x64/volatility3.png",
+    "src/128x128/volatility3.png"
+  ],
   "volumeicon": [
     "src/48x48/volumeicon.png",
     "src/64x64/volumeicon.png",
@@ -56306,6 +57246,16 @@
     "src/128x128/python-vosk.png",
     "src/64x64/python-vosk.png",
     "src/48x48/python-vosk.png"
+  ],
+  "vpl-gpu-rt": [
+    "src/48x48/libva-utils.png",
+    "src/64x64/libva-utils.png",
+    "src/128x128/libva-utils.png"
+  ],
+  "vpnc": [
+    "src/48x48/vpnc.png",
+    "src/64x64/vpnc.png",
+    "src/128x128/vpnc.png"
   ],
   "vscodium": [
     "src/64x64/vscodium.png",
@@ -56520,10 +57470,35 @@
     "src/64x64/warzone2100.png",
     "src/128x128/warzone2100.png"
   ],
+  "wasi-libc": [
+    "src/48x48/wasi-libc.png",
+    "src/64x64/wasi-libc.png",
+    "src/128x128/wasi-libc.png"
+  ],
+  "wasm-component-Id": [
+    "src/48x48/wasm-component-Id.png",
+    "src/64x64/wasm-component-Id.png",
+    "src/128x128/wasm-component-Id.png"
+  ],
+  "wasm-pkg-tools": [
+    "src/48x48/wasm-component-Id.png",
+    "src/64x64/wasm-component-Id.png",
+    "src/128x128/wasm-component-Id.png"
+  ],
+  "wasm-tools": [
+    "src/48x48/wasm-component-Id.png",
+    "src/64x64/wasm-component-Id.png",
+    "src/128x128/wasm-component-Id.png"
+  ],
   "wasmer": [
     "src/48x48/wasmer.png",
     "src/64x64/wasmer.png",
     "src/128x128/wasmer.png"
+  ],
+  "wasmtime": [
+    "src/48x48/wasm-component-Id.png",
+    "src/64x64/wasm-component-Id.png",
+    "src/128x128/wasm-component-Id.png"
   ],
   "watchexec": [
     "src/48x48/watchexec.png",
@@ -56701,6 +57676,11 @@
     "src/64x64/wayfire.png",
     "src/48x48/wayfire.png"
   ],
+  "wf-osk-git": [
+    "src/48x48/wf-osk-git.png",
+    "src/64x64/wf-osk-git.png",
+    "src/128x128/wf-osk-git.png"
+  ],
   "wf-shell": [
     "src/128x128/wayfire.png",
     "src/64x64/wayfire.png",
@@ -56833,6 +57813,11 @@
     "src/64x64/wireshark-qt.png",
     "src/128x128/wireshark-qt.png"
   ],
+  "wishlist": [
+    "src/48x48/glow.png",
+    "src/64x64/glow.png",
+    "src/128x128/glow.png"
+  ],
   "wit": [
     "src/128x128/wit.png",
     "src/64x64/wit.png",
@@ -56857,6 +57842,16 @@
     "src/128x128/lsw.png",
     "src/64x64/lsw.png",
     "src/48x48/lsw.png"
+  ],
+  "woff2": [
+    "src/48x48/libultrahdr.png",
+    "src/64x64/libultrahdr.png",
+    "src/128x128/libultrahdr.png"
+  ],
+  "woff2-cascadia-code": [
+    "src/48x48/woff2-cascadia-code.png",
+    "src/64x64/woff2-cascadia-code.png",
+    "src/128x128/woff2-cascadia-code.png"
   ],
   "wolf-shaper": [
     "src/48x48/wolf-shaper.png",
@@ -56967,6 +57962,11 @@
     "src/64x64/libwpe.png",
     "src/48x48/libwpe.png"
   ],
+  "wpmeta": [
+    "src/48x48/wpmeta.png",
+    "src/64x64/wpmeta.png",
+    "src/128x128/wpmeta.png"
+  ],
   "wpscan": [
     "src/128x128/wpscan.png",
     "src/64x64/wpscan.png",
@@ -56977,6 +57977,16 @@
     "src/64x64/wt.png",
     "src/48x48/wt.png"
   ],
+  "wv": [
+    "src/48x48/wv.png",
+    "src/64x64/wv.png",
+    "src/128x128/wv.png"
+  ],
+  "wvdial": [
+    "src/48x48/wvdial.png",
+    "src/64x64/wvdial.png",
+    "src/128x128/wvdial.png"
+  ],
   "wxmaxima": [
     "src/64x64/wxmaxima.png",
     "src/128x128/wxmaxima.png"
@@ -56985,6 +57995,11 @@
     "src/128x128/wxsqlite3.png",
     "src/64x64/wxsqlite3.png",
     "src/48x48/wxsqlite3.png"
+  ],
+  "wxsvg": [
+    "src/48x48/wxsvg.png",
+    "src/64x64/wxsvg.png",
+    "src/128x128/wxsvg.png"
   ],
   "wxwidgets-common": [
     "src/128x128/wxwidgets-common.png",
@@ -57046,6 +58061,11 @@
     "src/64x64/xalan-c.png",
     "src/48x48/xalan-c.png"
   ],
+  "xan": [
+    "src/48x48/xan.png",
+    "src/64x64/xan.png",
+    "src/128x128/xan.png"
+  ],
   "xaos": [
     "src/64x64/xaos.png",
     "src/128x128/xaos.png"
@@ -57059,6 +58079,16 @@
     "src/128x128/xapian-core.png",
     "src/64x64/xapian-core.png",
     "src/48x48/xapian-core.png"
+  ],
+  "xapp": [
+    "src/48x48/muffin.png",
+    "src/64x64/muffin.png",
+    "src/128x128/muffin.png"
+  ],
+  "xapp-symbolic-icons": [
+    "src/48x48/xapp-symbolic-icons.png",
+    "src/64x64/xapp-symbolic-icons.png",
+    "src/128x128/xapp-symbolic-icons.png"
   ],
   "xarchiver": [
     "src/48x48/xarchiver.png",
