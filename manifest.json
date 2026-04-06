@@ -79,6 +79,21 @@
     "src/64x64/acorn.png",
     "src/128x128/acorn.png"
   ],
+  "acpi_call": [
+    "src/48x48/acpi_call-dkms.png",
+    "src/64x64/acpi_call-dkms.png",
+    "src/128x128/acpi_call-dkms.png"
+  ],
+  "acpi_call-dkms": [
+    "src/48x48/acpi_call-dkms.png",
+    "src/64x64/acpi_call-dkms.png",
+    "src/128x128/acpi_call-dkms.png"
+  ],
+  "acpica": [
+    "src/48x48/acpica.png",
+    "src/64x64/acpica.png",
+    "src/128x128/acpica.png"
+  ],
   "act_runner": [
     "src/128x128/act_runner.png",
     "src/64x64/act_runner.png",
@@ -87,6 +102,16 @@
   "activity-log-manager": [
     "src/48x48/activity-log-manager.png",
     "src/64x64/activity-log-manager.png"
+  ],
+  "ada": [
+    "src/48x48/ada.png",
+    "src/64x64/ada.png",
+    "src/128x128/ada.png"
+  ],
+  "adapta-gtk-theme": [
+    "src/48x48/adapta-gtk-theme.png",
+    "src/64x64/adapta-gtk-theme.png",
+    "src/128x128/adapta-gtk-theme.png"
   ],
   "adguardhome": [
     "src/48x48/adguardhome.png",
@@ -197,6 +222,11 @@
     "src/64x64/agenda.png",
     "src/128x128/agenda.png"
   ],
+  "aida-x-clap": [
+    "src/48x48/aida-x-clap.png",
+    "src/64x64/aida-x-clap.png",
+    "src/128x128/aida-x-clap.png"
+  ],
   "aircrack-ng": [
     "src/128x128/aircrack-ng.png",
     "src/64x64/aircrack-ng.png",
@@ -278,6 +308,11 @@
     "src/128x128/aliki.png",
     "src/64x64/aliki.png",
     "src/48x48/aliki.png"
+  ],
+  "aliyun-cli": [
+    "src/48x48/aliyun-cli.png",
+    "src/64x64/aliyun-cli.png",
+    "src/128x128/aliyun-cli.png"
   ],
   "allegro": [
     "src/128x128/allegro.png",
@@ -1833,6 +1868,11 @@
     "src/48x48/buildkit.png",
     "src/64x64/buildkit.png",
     "src/128x128/buildkit.png"
+  ],
+  "bulky": [
+    "src/48x48/muffin.png",
+    "src/64x64/muffin.png",
+    "src/128x128/muffin.png"
   ],
   "bullet": [
     "src/128x128/bullet.png",
@@ -3442,6 +3482,11 @@
   "conky-manager2": [
     "src/64x64/conky-manager2.png"
   ],
+  "conmon": [
+    "src/48x48/netavark.png",
+    "src/64x64/netavark.png",
+    "src/128x128/netavark.png"
+  ],
   "connman": [
     "src/48x48/linux.png",
     "src/64x64/linux.png",
@@ -3563,6 +3608,16 @@
   "corepdf": [
     "src/64x64/corepdf.png",
     "src/128x128/corepdf.png"
+  ],
+  "corrosion": [
+    "src/48x48/corrosion.png",
+    "src/64x64/corrosion.png",
+    "src/128x128/corrosion.png"
+  ],
+  "cosign": [
+    "src/48x48/fulcio.png",
+    "src/64x64/fulcio.png",
+    "src/128x128/fulcio.png"
   ],
   "cosmic-app-library": [
     "src/48x48/cosmic-app-library.png",
@@ -3862,6 +3917,11 @@
     "src/48x48/cri-o.png",
     "src/64x64/cri-o.png",
     "src/128x128/cri-o.png"
+  ],
+  "cromite-bin": [
+    "src/48x48/cromite-bin.png",
+    "src/64x64/cromite-bin.png",
+    "src/128x128/cromite-bin.png"
   ],
   "cross": [
     "src/48x48/cross.png",
@@ -7166,6 +7226,11 @@
     "src/64x64/five-or-more.png",
     "src/128x128/five-or-more.png"
   ],
+  "flac": [
+    "src/48x48/flac.png",
+    "src/64x64/flac.png",
+    "src/128x128/flac.png"
+  ],
   "flacon": [
     "src/64x64/flacon.png",
     "src/128x128/flacon.png"
@@ -8289,6 +8354,16 @@
     "src/64x64/gdal.png",
     "src/48x48/gdal.png"
   ],
+  "gdb": [
+    "src/48x48/gdb.png",
+    "src/64x64/gdb.png",
+    "src/128x128/gdb.png"
+  ],
+  "gdbm": [
+    "src/48x48/glpk.png",
+    "src/64x64/glpk.png",
+    "src/128x128/glpk.png"
+  ],
   "gdm-settings": [
     "src/128x128/gdm-settings.png",
     "src/64x64/gdm-settings.png",
@@ -8348,6 +8423,16 @@
     "src/48x48/geogebra.png",
     "src/64x64/geogebra.png",
     "src/128x128/geogebra.png"
+  ],
+  "geoip": [
+    "src/48x48/geoipupdate.png",
+    "src/64x64/geoipupdate.png",
+    "src/128x128/geoipupdate.png"
+  ],
+  "geoipupdate": [
+    "src/48x48/geoipupdate.png",
+    "src/64x64/geoipupdate.png",
+    "src/128x128/geoipupdate.png"
   ],
   "geonkick": [
     "src/128x128/geonkick.png",
@@ -19752,6 +19837,11 @@
     "src/64x64/lagrange.png",
     "src/128x128/lagrange.png"
   ],
+  "lame": [
+    "src/48x48/lame.png",
+    "src/64x64/lame.png",
+    "src/128x128/lame.png"
+  ],
   "lan-mouse": [
     "src/48x48/lan-mouse.png",
     "src/64x64/lan-mouse.png",
@@ -19839,6 +19929,11 @@
     "src/128x128/lbzip2.png",
     "src/64x64/lbzip2.png",
     "src/48x48/lbzip2.png"
+  ],
+  "lcms2": [
+    "src/48x48/lcms2.png",
+    "src/64x64/lcms2.png",
+    "src/128x128/lcms2.png"
   ],
   "ld-lsb": [
     "src/128x128/ld-lsb.png",
@@ -21213,6 +21308,11 @@
     "src/64x64/libnautilus-extension.png",
     "src/48x48/libnautilus-extension.png"
   ],
+  "libnet": [
+    "src/48x48/libnet.png",
+    "src/64x64/libnet.png",
+    "src/128x128/libnet.png"
+  ],
   "libnetfilter_acct": [
     "src/128x128/libmnl.png",
     "src/64x64/ipset.png",
@@ -21268,6 +21368,11 @@
     "src/64x64/libnm.png",
     "src/48x48/libnm.png"
   ],
+  "libnoise": [
+    "src/48x48/libnoise.png",
+    "src/64x64/libnoise.png",
+    "src/128x128/libnoise.png"
+  ],
   "libnsbmp": [
     "src/128x128/libhubbub.png",
     "src/64x64/libcss.png",
@@ -21312,11 +21417,6 @@
     "src/128x128/libosmium.png",
     "src/64x64/libosmium.png",
     "src/48x48/libosmium.png"
-  ],
-  "libotr": [
-    "src/128x128/libotr.png",
-    "src/64x64/libotr.png",
-    "src/48x48/libotr.png"
   ],
   "libp11": [
     "src/48x48/libp11.png",
@@ -29235,6 +29335,11 @@
     "src/64x64/nuget.png",
     "src/48x48/nuget.png"
   ],
+  "numactl": [
+    "src/48x48/numactl.png",
+    "src/64x64/numactl.png",
+    "src/128x128/numactl.png"
+  ],
   "numbat": [
     "src/48x48/numbat.png",
     "src/64x64/numbat.png",
@@ -29443,6 +29548,11 @@
     "src/64x64/lib32-nvidia-390xx-utils.png",
     "src/48x48/lib32-nvidia-390xx-utils.png"
   ],
+  "nvm": [
+    "src/48x48/nvm.png",
+    "src/64x64/nvm.png",
+    "src/128x128/nvm.png"
+  ],
   "nvshmem": [
     "src/128x128/nvshmem.png",
     "src/64x64/nvshmem.png",
@@ -29498,6 +29608,11 @@
     "src/128x128/libnatpmp.png",
     "src/64x64/libnatpmp.png",
     "src/48x48/libnatpmp.png"
+  ],
+  "ob-xf-clap": [
+    "src/48x48/tuning-library.png",
+    "src/64x64/tuning-library.png",
+    "src/128x128/tuning-library.png"
   ],
   "obfuscate": [
     "src/48x48/obfuscate.png",
@@ -29763,6 +29878,11 @@
     "src/64x64/occt.png",
     "src/128x128/occt.png"
   ],
+  "ocicl": [
+    "src/48x48/ocicl.png",
+    "src/64x64/ocicl.png",
+    "src/128x128/ocicl.png"
+  ],
   "ocrfeeder": [
     "src/48x48/ocrfeeder.png",
     "src/64x64/ocrfeeder.png",
@@ -29905,6 +30025,11 @@
   "oneko": [
     "src/64x64/oneko.png",
     "src/128x128/oneko.png"
+  ],
+  "onetbb": [
+    "src/48x48/onetbb.png",
+    "src/64x64/onetbb.png",
+    "src/128x128/onetbb.png"
   ],
   "onionshare": [
     "src/48x48/onionshare.png",
@@ -30110,6 +30235,11 @@
     "src/64x64/opencsg.png",
     "src/48x48/opencsg.png"
   ],
+  "opencv": [
+    "src/48x48/opencv.png",
+    "src/64x64/opencv.png",
+    "src/128x128/opencv.png"
+  ],
   "opendbx": [
     "src/128x128/opendbx.png",
     "src/64x64/opendbx.png",
@@ -30208,6 +30338,11 @@
     "src/128x128/libldap.png",
     "src/64x64/libldap.png",
     "src/48x48/libldap.png"
+  ],
+  "openmix": [
+    "src/48x48/openmix.png",
+    "src/64x64/openmix.png",
+    "src/128x128/openmix.png"
   ],
   "openmotif": [
     "src/128x128/openmotif.png",
@@ -30595,10 +30730,30 @@
     "src/64x64/openvdb.png",
     "src/128x128/openvdb.png"
   ],
+  "openvkl": [
+    "src/48x48/openvkl.png",
+    "src/64x64/openvkl.png",
+    "src/128x128/openvkl.png"
+  ],
+  "openvpn": [
+    "src/48x48/openvpn.png",
+    "src/64x64/openvpn.png",
+    "src/128x128/openvpn.png"
+  ],
+  "openvr": [
+    "src/48x48/gamescope.png",
+    "src/64x64/gamescope.png",
+    "src/128x128/gamescope.png"
+  ],
   "openvswitch": [
     "src/128x128/openvswitch.png",
     "src/64x64/openvswitch.png",
     "src/48x48/openvswitch.png"
+  ],
+  "openxr": [
+    "src/48x48/openxr.png",
+    "src/64x64/openxr.png",
+    "src/128x128/openxr.png"
   ],
   "operator-sdk": [
     "src/48x48/operator-sdk.png",
@@ -30681,6 +30836,11 @@
     "src/128x128/osquery.png",
     "src/64x64/osquery.png",
     "src/48x48/osquery.png"
+  ],
+  "ossp": [
+    "src/48x48/ossp.png",
+    "src/64x64/ossp.png",
+    "src/128x128/ossp.png"
   ],
   "ostra-cg": [
     "src/48x48/linux.png",
@@ -30913,6 +31073,11 @@
     "src/64x64/owncloud-client.png",
     "src/128x128/owncloud-client.png"
   ],
+  "ox-xf-standalone": [
+    "src/48x48/tuning-library.png",
+    "src/64x64/tuning-library.png",
+    "src/128x128/tuning-library.png"
+  ],
   "oxygen-icons": [
     "src/48x48/kdeframework.png",
     "src/64x64/kdeframework.png",
@@ -31041,6 +31206,16 @@
     "src/128x128/pango.png",
     "src/64x64/pango.png",
     "src/48x48/pango.png"
+  ],
+  "pangomm": [
+    "src/48x48/pangomm.png",
+    "src/64x64/pangomm.png",
+    "src/128x128/pangomm.png"
+  ],
+  "pangomm-2.48": [
+    "src/48x48/pangomm.png",
+    "src/64x64/pangomm.png",
+    "src/128x128/pangomm.png"
   ],
   "pantheon-calculator": [
     "src/48x48/pantheon-calculator.png",
@@ -31354,6 +31529,11 @@
     "src/128x128/pcp.png",
     "src/64x64/pcp.png",
     "src/48x48/pcp.png"
+  ],
+  "pcre2": [
+    "src/48x48/pcre2.png",
+    "src/64x64/pcre2.png",
+    "src/128x128/pcre2.png"
   ],
   "pcsc-tools": [
     "src/64x64/pcsc-tools.png"
@@ -35449,6 +35629,11 @@
     "src/64x64/plasmatube.png",
     "src/128x128/plasmatube.png"
   ],
+  "plasmazones": [
+    "src/48x48/plasmazones.png",
+    "src/64x64/plasmazones.png",
+    "src/128x128/plasmazones.png"
+  ],
   "plastic": [
     "src/48x48/plastic_tui.png",
     "src/64x64/plastic_tui.png",
@@ -35468,6 +35653,11 @@
     "src/128x128/platformio-core.png",
     "src/64x64/platformio-core.png",
     "src/48x48/platformio-core.png"
+  ],
+  "playerctl": [
+    "src/48x48/playerctl.png",
+    "src/64x64/playerctl.png",
+    "src/128x128/playerctl.png"
   ],
   "playitslowly": [
     "src/48x48/playitslowly.png",
@@ -35650,6 +35840,16 @@
     "src/64x64/popsicle.png",
     "src/128x128/popsicle.png"
   ],
+  "popt": [
+    "src/48x48/popt.png",
+    "src/64x64/popt.png",
+    "src/128x128/popt.png"
+  ],
+  "portaudio": [
+    "src/48x48/portaudio.png",
+    "src/64x64/portaudio.png",
+    "src/128x128/portaudio.png"
+  ],
   "posterazor": [
     "src/64x64/posterazor.png"
   ],
@@ -35688,6 +35888,11 @@
     "src/64x64/postorius.png",
     "src/128x128/postorius.png"
   ],
+  "potrace": [
+    "src/48x48/potrace.png",
+    "src/64x64/potrace.png",
+    "src/128x128/potrace.png"
+  ],
   "powerdns": [
     "src/128x128/powerdns.png",
     "src/64x64/powerdns.png",
@@ -35702,6 +35907,11 @@
     "src/128x128/ppl.png",
     "src/64x64/ppl.png",
     "src/48x48/ppl.png"
+  ],
+  "pps-tools": [
+    "src/48x48/pps-tools.png",
+    "src/64x64/pps-tools.png",
+    "src/128x128/pps-tools.png"
   ],
   "ppsspp": [
     "src/48x48/ppsspp.png",
@@ -35983,6 +36193,11 @@
     "src/64x64/protozero.png",
     "src/128x128/protozero.png"
   ],
+  "prrte": [
+    "src/48x48/openmix.png",
+    "src/64x64/openmix.png",
+    "src/128x128/openmix.png"
+  ],
   "psensor": [
     "src/48x48/psensor.png",
     "src/64x64/psensor.png",
@@ -36149,6 +36364,11 @@
     "src/48x48/pysolfc.png",
     "src/64x64/pysolfc.png",
     "src/128x128/pysolfc.png"
+  ],
+  "pystring": [
+    "src/48x48/pystring.png",
+    "src/64x64/pystring.png",
+    "src/128x128/pystring.png"
   ],
   "pythia8": [
     "src/128x128/pythia8.png",
@@ -52374,6 +52594,11 @@
     "src/64x64/alpm-pkgbuild-bridge.png",
     "src/128x128/alpm-pkgbuild-bridge.png"
   ],
+  "sigrok-cli-git": [
+    "src/48x48/sigrok-cli-git.png",
+    "src/64x64/sigrok-cli-git.png",
+    "src/128x128/sigrok-cli-git.png"
+  ],
   "sigrok-firmware-fx2lafw": [
     "src/128x128/libsigrokdecode.png",
     "src/64x64/keychain.png",
@@ -52729,6 +52954,11 @@
     "src/64x64/spire-server.png",
     "src/128x128/spire-server.png"
   ],
+  "spirv-tools": [
+    "src/48x48/spirv-tools.png",
+    "src/64x64/spirv-tools.png",
+    "src/128x128/spirv-tools.png"
+  ],
   "splint": [
     "src/128x128/libtar.png",
     "src/64x64/libtar.png",
@@ -52938,6 +53168,11 @@
     "src/64x64/stfl.png",
     "src/output/128x128/stfl.png",
     "src/128x128/stfl.png"
+  ],
+  "sticky": [
+    "src/48x48/muffin.png",
+    "src/64x64/muffin.png",
+    "src/128x128/muffin.png"
   ],
   "stlink": [
     "src/48x48/stlink.png",
@@ -53861,6 +54096,11 @@
     "src/64x64/teamtype.png",
     "src/128x128/teamtype.png"
   ],
+  "tecla": [
+    "src/48x48/tecla.png",
+    "src/64x64/tecla.png",
+    "src/128x128/tecla.png"
+  ],
   "teeworlds": [
     "src/64x64/teeworlds.png",
     "src/128x128/teeworlds.png"
@@ -54530,6 +54770,11 @@
     "src/48x48/themix.png",
     "src/64x64/themix.png",
     "src/128x128/themix.png"
+  ],
+  "thingy": [
+    "src/48x48/muffin.png",
+    "src/64x64/muffin.png",
+    "src/128x128/muffin.png"
   ],
   "threadweaver": [
     "src/48x48/kdeframework.png",
@@ -56314,6 +56559,16 @@
     "src/64x64/usd.png",
     "src/48x48/usd.png"
   ],
+  "usort": [
+    "src/48x48/usort.png",
+    "src/64x64/usort.png",
+    "src/128x128/usort.png"
+  ],
+  "uthash": [
+    "src/48x48/uthash.png",
+    "src/64x64/uthash.png",
+    "src/128x128/uthash.png"
+  ],
   "utox": [
     "src/48x48/utox.png",
     "src/64x64/utox.png",
@@ -56328,6 +56583,11 @@
     "src/48x48/uv.png",
     "src/64x64/uv.png",
     "src/128x128/uv.png"
+  ],
+  "uvicorn": [
+    "src/48x48/uvicorn.png",
+    "src/64x64/uvicorn.png",
+    "src/128x128/uvicorn.png"
   ],
   "v4l-utils": [
     "src/48x48/v4l-utils.png",
@@ -57744,6 +58004,11 @@
     "src/128x128/wcslib.png",
     "src/64x64/wcslib.png",
     "src/48x48/wcslib.png"
+  ],
+  "webapp-manager": [
+    "src/48x48/muffin.png",
+    "src/64x64/muffin.png",
+    "src/128x128/muffin.png"
   ],
   "webcamoid": [
     "src/64x64/webcamoid.png",
@@ -59302,6 +59567,11 @@
     "src/64x64/jetring.png",
     "src/48x48/jetring.png"
   ],
+  "xviewer": [
+    "src/48x48/muffin.png",
+    "src/64x64/muffin.png",
+    "src/128x128/muffin.png"
+  ],
   "xwax": [
     "src/128x128/xwax.png",
     "src/64x64/xwax.png",
@@ -59407,6 +59677,16 @@
     "src/output/128x128/yoshimi.png",
     "src/output/64x64/yoshimi.png",
     "src/output/48x48/yoshimi.png"
+  ],
+  "yt-dlp": [
+    "src/48x48/yt-dlp.png",
+    "src/64x64/yt-dlp.png",
+    "src/128x128/yt-dlp.png"
+  ],
+  "yt-dlp-ejs": [
+    "src/48x48/yt-dlp.png",
+    "src/64x64/yt-dlp.png",
+    "src/128x128/yt-dlp.png"
   ],
   "ytfzf": [
     "src/48x48/ytfzf.png",
