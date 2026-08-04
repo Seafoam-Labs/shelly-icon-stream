@@ -3560,6 +3560,11 @@
     "src/64x64/cool-retro-term.png",
     "src/128x128/cool-retro-term.png"
   ],
+  "coolercontrol": [
+    "src/48x48/coolercontrol.png",
+    "src/64x64/coolercontrol.png",
+    "src/128x128/coolercontrol.png"
+  ],
   "coolercontrold": [
     "src/48x48/coolercontrold.png",
     "src/64x64/coolercontrold.png",
@@ -5844,6 +5849,11 @@
     "src/64x64/kdeframework.png",
     "src/128x128/kdeframework.png"
   ],
+  "extremetuxracer": [
+    "src/48x48/extremetuxracer.png",
+    "src/64x64/extremetuxracer.png",
+    "src/128x128/extremetuxracer.png"
+  ],
   "eyedropper": [
     "src/48x48/eyedropper.png",
     "src/64x64/eyedropper.png",
@@ -7322,8 +7332,13 @@
     "src/64x64/floorp.png",
     "src/128x128/floorp.png"
   ],
+  "floorp-bin": [
+    "src/48x48/floorp-bin.png",
+    "src/64x64/floorp-bin.png",
+    "src/128x128/floorp-bin.png"
+  ],
   "flowblade": [
-    "src/48x48/flowblade.png",
+    "src/48x48/flowblade.png",me
     "src/64x64/flowblade.png",
     "src/128x128/flowblade.png"
   ],
@@ -7537,6 +7552,11 @@
     "src/48x48/freedesktoporg.png",
     "src/64x64/freedesktoporg.png",
     "src/128x128/freedesktoporg.png"
+  ],
+  "freedownloadmanager": [
+    "src/48x48/freedownloadmanager.png",
+    "src/64x64/freedownloadmanager.png",
+    "src/128x128/freedownloadmanager.png"
   ],
   "freedroidrpg": [
     "src/48x48/freedroidrpg.png",
@@ -30644,6 +30664,11 @@
     "src/64x64/libldap.png",
     "src/48x48/libldap.png"
   ],
+  "openlinkhub": [
+    "src/128x128/openlinkhub.png",
+    "src/64x64/openlinkhub.png",
+    "src/48x48/openlinkhub.png"
+  ],
   "openmix": [
     "src/48x48/openmix.png",
     "src/64x64/openmix.png",
@@ -31897,6 +31922,11 @@
     "src/48x48/pdftricks.png",
     "src/64x64/pdftricks.png",
     "src/128x128/pdftricks.png"
+  ],
+  "pear-desktop": [
+    "src/48x48/pear-desktop.png",
+    "src/64x64/pear-desktop.png",
+    "src/128x128/pear-desktop.png"
   ],
   "peazip": [
     "src/64x64/peazip.png",
@@ -58698,6 +58728,11 @@
     "src/48x48/wpmeta.png",
     "src/64x64/wpmeta.png",
     "src/128x128/wpmeta.png"
+  ],
+  "wps-office": [
+    "src/128x128/wps-office.png",
+    "src/64x64/wps-office.png",
+    "src/48x48/wps-office.png"
   ],
   "wpscan": [
     "src/128x128/wpscan.png",
